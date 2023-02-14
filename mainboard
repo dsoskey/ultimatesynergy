@@ -524,6 +524,8 @@ Scalding Tarn	mh2	254	Not Owned	core,gold_land	Non-foil	0	U,R	~~	~~	Land
 Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
 Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
+Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Emergent Sequence	stx	129	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Skemfar Elderhall	khm	268	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Inniaz, the Gale Force	jmp	12	Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
 Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
@@ -665,6 +667,7 @@ Wilderness Reclamation	c20	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Howling Mine	c16	257	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Benalish Marshal	gnt	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Forgotten Ancient	cm2	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Aether Hub	kld	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inexorable Blob	soi	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fateful Absence	mid	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -883,6 +886,7 @@ Bleeding Edge	war	78	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 One With the Wind	j22	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhox Veteran	mh1	24	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kiku, Night's Flower	chk	121	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Mammoth	znr	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guided Strike	ima	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gempalm Incinerator	dmr	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Night of Souls' Betrayal	chk	133	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -907,7 +911,3 @@ Memorial to Unity	dom	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grind // Dust	hou	155	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lord of Shatterskull Pass	roe	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banewhip Punisher	hou	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Westvale Abbey	soi	281	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Primeval Titan	mm2	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mesmeric Orb	mrd	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mechanized Production	aer	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
