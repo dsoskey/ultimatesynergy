@@ -1783,3 +1783,11 @@ Timestamp	Board	ChangeType	Name
 2023-02-17T13:50:42.061+00:00	mainboard	add	Fireblade Artist
 2023-02-17T13:50:42.061+00:00	mainboard	add	Regisaur Alpha
 2023-02-17T15:06:27.415+00:00	mainboard	add	Blessed Respite
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Necromancy
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Jade Mage
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Kavu Primarch
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Become Immense
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Might of Oaks
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Carnage Tyrant
+2023-02-18T11:43:13.813+00:00	mainboard	remove	Scatter the Seeds
+2023-02-18T11:43:13.813+00:00	mainboard	add	Vengevine
