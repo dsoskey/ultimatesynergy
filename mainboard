@@ -682,6 +682,14 @@ Fireblade Artist	rna	172	Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human Shaman
 Regisaur Alpha	xln	227	Owned	~~	Non-foil	5	G,R	~~	~~	Creature — Dinosaur
 Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Blessed Respite	mh2	150	Owned	~~	Non-foil	2	G	~~	~~	Instant
+Kalitas, Traitor of Ghet	ogw	86	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Vampire Warrior
+Shatter the Sky	thb	37	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
+Storm's Wrath	thb	157	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
+Valakut Awakening	znr	174	Owned	~~	Non-foil	3	R	~~	~~	Instant
+Paradise Druid	afc	165	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
+Angel of Invention	kld	4	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel
+Cleansing Nova	c21	86	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
+Faerie Seer	j22	295	Owned	~~	Non-foil	1	U	~~	~~	Creature — Faerie Wizard
 Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -759,6 +767,7 @@ Read the Bones	ths	101	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Night's Whisper	5dn	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Village Rites	khm	117	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Specter	10e	151	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gonti, Lord of Luxury	jmp	240	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yahenni, Undying Partisan	aer	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	grn	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Forgotten Gods	rna	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -830,6 +839,7 @@ Stalking Stones	ddf	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Aether Hub	kld	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inexorable Blob	soi	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Fumigate	onc	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fateful Absence	mid	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wild Nacatl	ddh	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Runechanter's Pike	isd	231	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -907,14 +917,3 @@ Rising Miasma	bfz	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kiln Fiend	roe	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inga Rune-Eyes	khm	64	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unholy Strength	7ed	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Akroma, Angel of Wrath	c20	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sephara, Sky's Blade	m20	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mulldrifter	c20	117	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Warhorn Blast	khm	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Second Thoughts	ema	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kodama's Reach	chk	225	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sram's Expertise	aer	24	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wrath of God	ema	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Abyssal Persecutor	ima	78	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Demonic Pact	ori	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Decree of Pain	c13	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
