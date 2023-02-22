@@ -694,6 +694,16 @@ Mardu Woe-Reaper	frf	18	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Warrior
 Dungeon Geists	cma	39	Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
 Dread Wanderer	akh	88	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie Jackal
 Gutterbones	rna	76	Owned	~~	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
+Brazen Borrower	sld	234	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
+Arc Lightning	ktk	97	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
+Knight of Autumn	grn	183	Owned	~~	Non-foil	3	G,W	~~	~~	Creature — Dryad Knight
+Supreme Will	hou	49	Owned	~~	Non-foil	3	U	~~	~~	Instant
+Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
+Exhume	jmp	230	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Dance of the Dead	ice	118	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
+Soul Exchange	me2	111	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
+Rhizome Lurcher	grn	196	Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
 Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -751,6 +761,8 @@ Congregation at Dawn	rav	198	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deadly Dispute	afr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Warlock Class	afr	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Majestic Myriarch	c20	182	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Trygon Predator	c20	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Edric, Spymaster of Trest	cns	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Obelisk of Urd	m15	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Well of Lost Dreams	dst	159	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Varragoth, Bloodsky Sire	khm	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -764,6 +776,7 @@ Zurgo Helmsmasher	ktk	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Charm	gk1	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prime Speaker Vannifar	rna	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selesnya Guildmage	rav	252	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fauna Shaman	uma	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cabal Interrogator	scg	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	c20	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -823,6 +836,7 @@ Silvos, Rogue Elemental	ema	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruin Raider	xln	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydra's Growth	thb	172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sandwurm Convergence	akh	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Searing Spear	m13	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Wizardry	m21	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fires of Invention	eld	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Manabarbs	m12	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -907,11 +921,3 @@ Thawing Glaciers	all	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lair of the Hydra	afr	259	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk's Packleader	c19	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Champion	xln	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shrine of Burning Rage	nph	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fireblast	vis	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Searing Blaze	ddi	67	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Entomb	pd3	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vengevine	uma	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sneak Attack	ema	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Elves of Deep Shadow	ddj	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rally the Peasants	uma	28	~~	~~	~~	"""~~"""	~~	~~	~~	~~
