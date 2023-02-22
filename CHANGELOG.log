@@ -1852,3 +1852,76 @@ Timestamp	Board	ChangeType	Name
 2023-02-22T09:06:06.646+00:00	mainboard	add	Soul Exchange
 2023-02-22T09:06:06.646+00:00	mainboard	add	Ravenous Chupacabra
 2023-02-22T09:06:06.646+00:00	mainboard	add	Rhizome Lurcher
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Feldon of the Third Path
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Twilight Shepherd
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Arcanis the Omnipotent
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Magda, Brazen Outlaw
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Poison the Cup
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Temple Garden
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Stomping Ground
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Blood Crypt
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Watery Grave
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Hallowed Fountain
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Godless Shrine
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Steam Vents
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Overgrown Tomb
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Sacred Foundry
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Breeding Pool
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Thawing Glaciers
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Lair of the Hydra
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Garruk's Packleader
+2023-02-22T10:59:36.473+00:00	mainboard	remove	Deeproot Champion
+2023-02-22T10:59:36.473+00:00	mainboard	add	Celestial Colonnade
+2023-02-22T10:59:36.473+00:00	mainboard	add	Arclight Phoenix
+2023-02-22T10:59:36.473+00:00	mainboard	add	Third Path Iconoclast
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ranger of Eos
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ajani's Pridemate
+2023-02-22T10:59:36.473+00:00	mainboard	add	Lava Coil
+2023-02-22T10:59:36.473+00:00	mainboard	add	Planar Disruption
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blazing Crescendo
+2023-02-22T10:59:36.473+00:00	mainboard	add	Firebrand Archer
+2023-02-22T10:59:36.473+00:00	mainboard	add	Clay Champion
+2023-02-22T10:59:36.473+00:00	mainboard	add	Surge Engine
+2023-02-22T10:59:36.473+00:00	mainboard	add	Haughty Djinn
+2023-02-22T10:59:36.473+00:00	mainboard	add	Lurrus of the Dream-Den
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ulcerate
+2023-02-22T10:59:36.473+00:00	mainboard	add	Glacial Fortress
+2023-02-22T10:59:36.473+00:00	mainboard	add	Sunpetal Grove
+2023-02-22T10:59:36.473+00:00	mainboard	add	Drowned Catacomb
+2023-02-22T10:59:36.473+00:00	mainboard	add	Dragonskull Summit
+2023-02-22T10:59:36.473+00:00	mainboard	add	Rootbound Crag
+2023-02-22T10:59:36.473+00:00	mainboard	add	Isolated Chapel
+2023-02-22T10:59:36.473+00:00	mainboard	add	Clifftop Retreat
+2023-02-22T10:59:36.473+00:00	mainboard	add	Sulfur Falls
+2023-02-22T10:59:36.473+00:00	mainboard	add	Hinterland Harbor
+2023-02-22T10:59:36.473+00:00	mainboard	add	Woodland Cemetery
+2023-02-22T10:59:36.473+00:00	mainboard	add	Warped Landscape
+2023-02-22T10:59:36.473+00:00	mainboard	add	Terminal Moraine
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ash Barrens
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blighted Woodland
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blighted Steppe
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blighted Gorge
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blighted Cataract
+2023-02-22T10:59:36.473+00:00	mainboard	add	Blighted Fen
+2023-02-22T10:59:36.473+00:00	mainboard	add	Kjeldoran Outpost
+2023-02-22T10:59:36.473+00:00	mainboard	add	Heart of Yavimaya
+2023-02-22T10:59:36.473+00:00	mainboard	add	Oran-Rief, the Vastwood
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ghost Quarter
+2023-02-22T10:59:36.473+00:00	mainboard	add	Haunted Fengraf
+2023-02-22T10:59:36.473+00:00	mainboard	add	High Market
+2023-02-22T10:59:36.473+00:00	mainboard	add	Jungle Basin
+2023-02-22T10:59:36.473+00:00	mainboard	add	Mistmeadow Witch
+2023-02-22T10:59:36.473+00:00	mainboard	add	Desert of the True
+2023-02-22T10:59:36.473+00:00	mainboard	add	Desert of the Mindful
+2023-02-22T10:59:36.473+00:00	mainboard	add	Desert of the Glorified
+2023-02-22T10:59:36.473+00:00	mainboard	add	Desert of the Fervent
+2023-02-22T10:59:36.473+00:00	mainboard	add	Desert of the Indomitable
+2023-02-22T10:59:36.473+00:00	mainboard	add	Ifnir Deadlands
+2023-02-22T10:59:36.473+00:00	mainboard	add	Grasping Dunes
+2023-02-22T10:59:36.473+00:00	mainboard	add	Branchloft Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Brightclimb Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Clearwater Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Cragcrown Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Needleverge Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Riverglide Pathway
+2023-02-22T10:59:36.473+00:00	mainboard	add	Fearless Fledgling

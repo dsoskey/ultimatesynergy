@@ -704,6 +704,47 @@ Dance of the Dead	ice	118	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
 Soul Exchange	me2	111	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Rhizome Lurcher	grn	196	Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
+Celestial Colonnade	uma	238	Owned	~~	Non-foil	0	W,U	~~	~~	Land
+Third Path Iconoclast	bro	223	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
+Ajani's Pridemate	c13	3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Soldier
+Lava Coil	2x2	116	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
+Planar Disruption	one	28	Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura
+Blazing Crescendo	one	123	Owned	~~	Non-foil	2	R	~~	~~	Instant
+Firebrand Archer	hou	92	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Archer
+Clay Champion	bro	230	Owned	~~	Non-foil	4	G,W	~~	~~	Artifact Creature — Construct
+Surge Engine	bro	81	Owned	~~	Non-foil	2	U	~~	~~	Artifact Creature — Construct
+Haughty Djinn	dmu	52	Owned	~~	Non-foil	3	U	~~	~~	Creature — Djinn
+Ulcerate	m15	119	Owned	~~	Non-foil	1	B	~~	~~	Instant
+Glacial Fortress	xln	255	Owned	~~	Non-foil	0	W,U	~~	~~	Land
+Sunpetal Grove	xln	257	Owned	~~	Non-foil	0	W,G	~~	~~	Land
+Drowned Catacomb	e01	94	Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Dragonskull Summit	dmc	207	Owned	~~	Non-foil	0	B,R	~~	~~	Land
+Rootbound Crag	xln	256	Owned	~~	Non-foil	0	R,G	~~	~~	Land
+Isolated Chapel	dmr	249	Owned	~~	Non-foil	0	W,B	~~	~~	Land
+Clifftop Retreat	dmr	241	Owned	~~	Non-foil	0	W,R	~~	~~	Land
+Sulfur Falls	dmr	258	Owned	~~	Non-foil	0	U,R	~~	~~	Land
+Hinterland Harbor	dmr	248	Owned	~~	Non-foil	0	U,G	~~	~~	Land
+Woodland Cemetery	dmr	261	Owned	~~	Non-foil	0	B,G	~~	~~	Land
+Blighted Woodland	cmr	476	Owned	~~	Non-foil	0	G	~~	~~	Land
+Blighted Steppe	bfz	232	Owned	~~	Non-foil	0	W	~~	~~	Land
+Blighted Gorge	bfz	231	Owned	~~	Non-foil	0	R	~~	~~	Land
+Blighted Cataract	ddt	26	Owned	~~	Non-foil	0	U	~~	~~	Land
+Blighted Fen	j22	810	Owned	~~	Non-foil	0	B	~~	~~	Land
+Kjeldoran Outpost	vma	301	Owned	~~	Non-foil	0	W	~~	~~	Land
+Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	~~	~~	Land
+Ghost Quarter	cm2	253	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Haunted Fengraf	a25	240	Owned	~~	Non-foil	0	~~	~~	~~	Land
+High Market	2xm	321	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Jungle Basin	cma	258	Owned	~~	Non-foil	0	G	~~	~~	Land
+Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
+Grasping Dunes	akh	244	Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
+Branchloft Pathway	znr	258	Owned	~~	Non-foil	0	G,W	~~	~~	Land
+Brightclimb Pathway	slu	14	Owned	~~	Non-foil	0	W,B	~~	~~	Land
+Clearwater Pathway	slu	15	Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Cragcrown Pathway	znr	287	Owned	~~	Non-foil	0	G,R	~~	~~	Land
+Needleverge Pathway	znr	263	Owned	~~	Non-foil	0	R,W	~~	~~	Land
+Riverglide Pathway	slu	20	Owned	~~	Non-foil	0	R,U	~~	~~	Land
+Fearless Fledgling	znr	15	Owned	~~	Non-foil	2	W	~~	~~	Creature — Griffin
 Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -747,6 +788,7 @@ Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ryusei, the Falling Star	clb	806	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Avalanche Riders	tsb	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arclight Phoenix	grn	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jaya Ballard, Task Mage	tsp	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Living Death	cm2	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Slice and Dice	c20	159	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -796,6 +838,7 @@ Crypt Ghast	c14	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Standstill	ody	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Magus of the Scroll	tsp	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Myth Realized	dtk	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurrus of the Dream-Den	iko	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Constrictor	aer	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Angler Turtle	scd	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Willbreaker	ori	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -852,8 +895,16 @@ Wilderness Reclamation	c20	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Howling Mine	c16	257	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Benalish Marshal	gnt	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ifnir Deadlands	hou	179	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert of the Fervent	c20	266	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert of the Glorified	hou	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert of the Indomitable	hou	172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert of the Mindful	c20	267	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert of the True	c20	268	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Warped Landscape	soi	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Terminal Moraine	pls	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Forgotten Ancient	cm2	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stalking Stones	ddf	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Heart of Yavimaya	all	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Aether Hub	kld	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inexorable Blob	soi	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -877,12 +928,15 @@ Throat Slitter	bok	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hell Mongrel	mh2	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Noxious Ghoul	hop	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Approach of the Second Sun	akh	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger of Eos	ala	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhox Veteran	mh1	24	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search Party Captain	mid	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blind Hunter	gpt	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Force of Virtue	mh1	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Toolcraft Exemplar	kld	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legacy's Allure	tmp	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ifnir Deadlands	hou	179	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ash Barrens	40k	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Construct	neo	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Juggernaut	bbd	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	mm2	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -902,22 +956,3 @@ Sands of Delirium	m13	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Charbelcher	ddt	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Panharmonicon	kld	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Smokestack	v14	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Feldon of the Third Path	c14	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Twilight Shepherd	shm	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Arcanis the Omnipotent	ons	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Magda, Brazen Outlaw	khm	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Poison the Cup	khm	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Temple Garden	rtr	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Stomping Ground	gtc	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blood Crypt	rtr	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Watery Grave	gtc	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hallowed Fountain	rtr	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Godless Shrine	gtc	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Steam Vents	rtr	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Overgrown Tomb	rtr	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sacred Foundry	gtc	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Breeding Pool	gtc	240	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thawing Glaciers	all	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lair of the Hydra	afr	259	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Garruk's Packleader	c19	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Deeproot Champion	xln	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
