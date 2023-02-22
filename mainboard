@@ -745,6 +745,7 @@ Cragcrown Pathway	znr	287	Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Needleverge Pathway	znr	263	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Riverglide Pathway	slu	20	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Fearless Fledgling	znr	15	Owned	~~	Non-foil	2	W	~~	~~	Creature — Griffin
+Thieving Skydiver	znr	85	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -840,6 +841,7 @@ Magus of the Scroll	tsp	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Myth Realized	dtk	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurrus of the Dream-Den	iko	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Constrictor	aer	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Grakmaw, Skyclave Ravager	znr	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Angler Turtle	scd	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Willbreaker	ori	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Spring	c20	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -927,6 +929,31 @@ Pawn of Ulamog	roe	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Throat Slitter	bok	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hell Mongrel	mh2	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Noxious Ghoul	hop	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Coastal Tower	scd	296	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Meandering River	scd	308	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dimir Guildgate	znc	127	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Salt Marsh	8ed	325	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Azorius Guildgate	c13	275	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Submerged Boneyard	aer	194	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Cinder Barrens	c19	235	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rakdos Guildgate	dgm	154	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Urborg Volcano	scd	331	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gruul Guildgate	dgm	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Shivan Oasis	dde	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Timber Gorge	m19	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Elfhame Palace	c17	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Selesnya Guildgate	c13	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tranquil Expanse	c18	289	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Forsaken Sanctuary	soi	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Orzhov Guildgate	gtc	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Highland Lake	rix	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Izzet Guildgate	dgm	151	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Foul Orchard	khc	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Golgari Guildgate	dgm	149	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Boros Guildgate	c17	240	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Stone Quarry	xln	289	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Simic Guildgate	c15	306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Woodland Stream	hou	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Approach of the Second Sun	akh	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger of Eos	ala	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhox Veteran	mh1	24	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -934,25 +961,3 @@ Search Party Captain	mid	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blind Hunter	gpt	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Force of Virtue	mh1	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Toolcraft Exemplar	kld	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Legacy's Allure	tmp	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ifnir Deadlands	hou	179	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ash Barrens	40k	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Containment Construct	neo	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Juggernaut	bbd	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lodestone Golem	mm2	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Silent Arbiter	c20	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hollow One	hou	163	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Platinum Angel	cn2	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ancient Stone Idol	c18	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sigil of Distinction	ala	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Altar of Dementia	mh1	218	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dolmen Gate	lrw	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jinxed Idol	m11	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Strionic Resonator	c19	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of the Animist	ori	240	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ashnod's Altar	ema	218	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Crystal Ball	c18	201	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sands of Delirium	m13	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Goblin Charbelcher	ddt	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Panharmonicon	kld	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Smokestack	v14	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
