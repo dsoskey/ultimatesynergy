@@ -1986,3 +1986,111 @@ Timestamp	Board	ChangeType	Name
 2023-02-23T04:12:50.438+00:00	mainboard	add	Venerable Warsinger
 2023-02-23T04:12:50.438+00:00	mainboard	add	Duskfang Mentor
 2023-02-23T04:12:50.438+00:00	mainboard	add	Vizier of Deferment
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Coastal Tower
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Meandering River
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Dimir Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Salt Marsh
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Azorius Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Submerged Boneyard
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Cinder Barrens
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Rakdos Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Urborg Volcano
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Gruul Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Shivan Oasis
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Timber Gorge
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Elfhame Palace
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Selesnya Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Tranquil Expanse
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Forsaken Sanctuary
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Orzhov Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Highland Lake
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Izzet Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Foul Orchard
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Golgari Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Boros Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Stone Quarry
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Simic Guildgate
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Woodland Stream
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Approach of the Second Sun
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Ranger of Eos
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Rhox Veteran
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Search Party Captain
+2023-02-23T04:20:48.845+00:00	mainboard	remove	Blind Hunter
+2023-02-23T04:20:48.845+00:00	mainboard	add	Stirring Wildwood
+2023-02-23T04:20:48.845+00:00	mainboard	add	Tolaria West
+2023-02-23T04:20:48.845+00:00	mainboard	add	Dakmor Salvage
+2023-02-23T04:20:48.845+00:00	mainboard	add	Keldon Megaliths
+2023-02-23T04:20:48.845+00:00	mainboard	add	New Benalia
+2023-02-23T04:20:48.845+00:00	mainboard	add	Lavaclaw Reaches
+2023-02-23T04:20:48.845+00:00	mainboard	add	Creeping Tar Pit
+2023-02-23T04:20:48.845+00:00	mainboard	add	Raging Ravine
+2023-02-23T04:20:48.845+00:00	mainboard	add	Shambling Vent
+2023-02-23T04:20:48.845+00:00	mainboard	add	Needle Spires
+2023-02-23T04:20:48.845+00:00	mainboard	add	Wandering Fumarole
+2023-02-23T04:20:48.845+00:00	mainboard	add	Lumbering Falls
+2023-02-23T04:20:48.845+00:00	mainboard	add	Hissing Quagmire
+2023-02-23T04:20:48.845+00:00	mainboard	add	Tomb of the Spirit Dragon
+2023-02-23T04:20:48.845+00:00	mainboard	add	Ruins of Oran-Rief
+2023-02-23T04:20:48.845+00:00	mainboard	add	Shrine of the Forsaken Gods
+2023-02-23T04:20:48.845+00:00	mainboard	add	Spawning Bed
+2023-02-23T04:20:48.845+00:00	mainboard	add	Grixis Panorama
+2023-02-23T04:20:48.845+00:00	mainboard	add	Bant Panorama
+2023-02-23T04:20:48.845+00:00	mainboard	add	Esper Panorama
+2023-02-23T04:20:48.845+00:00	mainboard	add	Jund Panorama
+2023-02-23T04:20:48.845+00:00	mainboard	add	Naya Panorama
+2023-02-23T04:20:48.845+00:00	mainboard	add	Moorland Haunt
+2023-02-23T04:20:48.845+00:00	mainboard	add	Gavony Township
+2023-02-23T04:20:48.845+00:00	mainboard	add	Stensia Bloodhall
+2023-02-23T04:20:48.845+00:00	mainboard	add	Desolate Lighthouse
+2023-02-23T04:20:48.845+00:00	mainboard	add	Grim Backwoods
+2023-02-23T04:20:48.845+00:00	mainboard	add	Secluded Steppe
+2023-02-23T04:20:48.845+00:00	mainboard	add	Lonely Sandbar
+2023-02-23T04:20:48.845+00:00	mainboard	add	Barren Moor
+2023-02-23T04:20:48.845+00:00	mainboard	add	Forgotten Cave
+2023-02-23T04:20:48.845+00:00	mainboard	add	Tranquil Thicket
+2023-02-23T04:20:48.845+00:00	mainboard	add	Vesuva
+2023-02-23T04:20:48.845+00:00	mainboard	add	Soulherder
+2023-02-23T04:20:48.845+00:00	mainboard	add	Persist
+2023-02-23T04:20:48.845+00:00	mainboard	add	Fatal Push
+2023-02-23T04:20:48.845+00:00	mainboard	add	Seachrome Coast
+2023-02-23T04:20:48.845+00:00	mainboard	add	Razorverge Thicket
+2023-02-23T04:20:48.845+00:00	mainboard	add	Darkslick Shores
+2023-02-23T04:20:48.845+00:00	mainboard	add	Blackcleave Cliffs
+2023-02-23T04:20:48.845+00:00	mainboard	add	Copperline Gorge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Concealed Courtyard
+2023-02-23T04:20:48.845+00:00	mainboard	add	Inspiring Vantage
+2023-02-23T04:20:48.845+00:00	mainboard	add	Spirebluff Canal
+2023-02-23T04:20:48.845+00:00	mainboard	add	Botanical Sanctum
+2023-02-23T04:20:48.845+00:00	mainboard	add	Blooming Marsh
+2023-02-23T04:20:48.845+00:00	mainboard	add	Skycloud Expanse
+2023-02-23T04:20:48.845+00:00	mainboard	add	Sungrass Prairie
+2023-02-23T04:20:48.845+00:00	mainboard	add	Darkwater Catacombs
+2023-02-23T04:20:48.845+00:00	mainboard	add	Shadowblood Ridge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Mossfire Valley
+2023-02-23T04:20:48.845+00:00	mainboard	add	Mystic Gate
+2023-02-23T04:20:48.845+00:00	mainboard	add	Wooded Bastion
+2023-02-23T04:20:48.845+00:00	mainboard	add	Sunken Ruins
+2023-02-23T04:20:48.845+00:00	mainboard	add	Graven Cairns
+2023-02-23T04:20:48.845+00:00	mainboard	add	Fire-Lit Thicket
+2023-02-23T04:20:48.845+00:00	mainboard	add	Fetid Heath
+2023-02-23T04:20:48.845+00:00	mainboard	add	Rugged Prairie
+2023-02-23T04:20:48.845+00:00	mainboard	add	Cascade Bluffs
+2023-02-23T04:20:48.845+00:00	mainboard	add	Flooded Grove
+2023-02-23T04:20:48.845+00:00	mainboard	add	Twilight Mire
+2023-02-23T04:20:48.845+00:00	mainboard	add	Shivan Gorge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Blinkmoth Well
+2023-02-23T04:20:48.845+00:00	mainboard	add	Sejiri Refuge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Tranquil Cove
+2023-02-23T04:20:48.845+00:00	mainboard	add	Blossoming Sands
+2023-02-23T04:20:48.845+00:00	mainboard	add	Graypelt Refuge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Dismal Backwater
+2023-02-23T04:20:48.845+00:00	mainboard	add	Jwar Isle Refuge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Akoum Refuge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Bloodfell Caves
+2023-02-23T04:20:48.845+00:00	mainboard	add	Rugged Highlands
+2023-02-23T04:20:48.845+00:00	mainboard	add	Kazandu Refuge
+2023-02-23T04:20:48.845+00:00	mainboard	add	Scoured Barrens
+2023-02-23T04:20:48.845+00:00	mainboard	add	Wind-Scarred Crag
+2023-02-23T04:20:48.845+00:00	mainboard	add	Swiftwater Cliffs
+2023-02-23T04:20:48.845+00:00	mainboard	add	Thornwood Falls
+2023-02-23T04:20:48.845+00:00	mainboard	add	Jungle Hollow
