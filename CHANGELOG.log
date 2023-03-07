@@ -2189,3 +2189,6 @@ Timestamp	Board	ChangeType	Name
 2023-03-07T10:27:14.446+00:00	mainboard	remove	Hydra's Growth
 2023-03-07T10:27:14.446+00:00	mainboard	remove	Sandwurm Convergence
 2023-03-07T10:27:14.446+00:00	mainboard	add	Luminarch Aspirant
+2023-03-07T10:46:51.216+00:00	mainboard	remove	Master of Waves
+2023-03-07T10:46:51.216+00:00	mainboard	remove	Counterspell
+2023-03-07T10:46:51.216+00:00	mainboard	add	Titan's Strength
