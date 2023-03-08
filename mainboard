@@ -859,6 +859,20 @@ Containment Priest	m21	314	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Dryad Arbor	tsr	277	Owned	~~	Non-foil	0	G	~~	~~	Land Creature — Forest Dryad
 Luminarch Aspirant	ncc	205	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	ori	166	Owned	~~	Non-foil	1	R	~~	~~	Instant
+Anguished Unmaking	2x2	170	Owned	~~	Non-foil	3	B,W	~~	~~	Instant
+Assassin's Trophy	2x2	372	Owned	~~	Non-foil	2	B,G	~~	~~	Instant
+Despark	war	190	Owned	~~	Non-foil	2	B,W	~~	~~	Instant
+Terminate	dmc	172	Owned	~~	Non-foil	2	B,R	~~	~~	Instant
+Plaguecrafter	afc	107	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Shaman
+Shrapnel Slinger	one	148	Owned	~~	Non-foil	2	R	~~	~~	Artifact Creature — Phyrexian Beast
+Unnatural Restoration	one	191	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
+Leyline Prowler	war	202	Owned	~~	Non-foil	3	B,G	~~	~~	Creature — Nightmare Beast
+Security Bypass	snc	59	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
+Defabricate	bro	45	Owned	~~	Non-foil	2	U	~~	~~	Instant
+Gix's Command	bro	97	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
+Intrepid Hero	m13	20	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Soldier
+Coffin Queen	tpr	87	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Wizard
+Stormfist Crusader	eld	203	Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human Knight
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Gala Greeters	snc	148	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -997,7 +1011,3 @@ Mystic Archaeologist	m19	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gerrard's Verdict	apc	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zombie Apocalypse	scd	121	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Odric, Lunarch Marshal	c20	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vindicate	a25	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Pestilence	brb	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Buried Alive	uma	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Torment of Hailfire	hou	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
