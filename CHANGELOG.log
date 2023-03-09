@@ -2254,3 +2254,13 @@ Timestamp	Board	ChangeType	Name
 2023-03-09T10:06:29.800+00:00	mainboard	add	Fourth Bridge Prowler
 2023-03-09T10:06:29.800+00:00	mainboard	add	Drainpipe Vermin
 2023-03-09T10:06:29.800+00:00	mainboard	add	Dread Wanderer
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Angler Turtle
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Willbreaker
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Mind Spring
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Compulsion
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Witching Well
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Medomai's Prophecy
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Arcane Denial
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Circular Logic
+2023-03-09T12:23:53.821+00:00	mainboard	remove	Reflections of Littjara
+2023-03-09T12:23:53.821+00:00	mainboard	add	Frogify
