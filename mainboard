@@ -893,6 +893,9 @@ Hypnotic Siren	jou	42	Owned	~~	Non-foil	1	U	~~	~~	Enchantment Creature — Siren
 Tide Shaper	mh2	72	Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard
 Benthic Biomancer	rna	32	Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard Mutant
 Lantern Bearer	vow	66	Owned	~~	Non-foil	1	U	~~	~~	Creature — Spirit
+Festering Mummy	akh	91	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie
+Fourth Bridge Prowler	aer	60	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Rogue
+Drainpipe Vermin	rtr	66	Owned	~~	Non-foil	1	B	~~	~~	Creature — Rat
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Gala Greeters	snc	148	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -1004,6 +1007,7 @@ Standstill	ody	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Magus of the Scroll	tsp	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Myth Realized	dtk	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurrus of the Dream-Den	iko	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Constrictor	aer	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grakmaw, Skyclave Ravager	znr	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Angler Turtle	scd	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1015,5 +1019,3 @@ Medomai's Prophecy	thb	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Denial	a25	41	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Circular Logic	tor	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflections of Littjara	clb	733	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Enclave Cryptologist	roe	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dark Confidant	rav	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
