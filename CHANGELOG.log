@@ -2384,3 +2384,6 @@ Timestamp	Board	ChangeType	Name
 2023-03-12T16:34:46.437+00:00	mainboard	add	Cleansing Wildfire
 2023-03-12T17:32:15.610+00:00	mainboard	remove	Varragoth, Bloodsky Sire
 2023-03-12T18:23:12.901+00:00	mainboard	remove	Well of Lost Dreams
+2023-03-12T18:27:49.997+00:00	mainboard	remove	Obelisk of Urd
+2023-03-12T18:27:49.997+00:00	mainboard	add	Shardless Agent
+2023-03-12T18:27:49.997+00:00	mainboard	add	Beast Within
