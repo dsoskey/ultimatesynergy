@@ -926,6 +926,7 @@ Opt	sld	111	Owned	~~	Non-foil	1	U	~~	~~	Instant
 Malicious Affliction	ema	96	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Murderous Rider	eld	97	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
+Hydroid Krasis	2x2	228	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Jellyfish Hydra Beast
 Gala Greeters	snc	148	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -1023,8 +1024,3 @@ Profane Command	c20	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ths	101	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Night's Whisper	5dn	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Village Rites	khm	117	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hypnotic Specter	10e	151	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gonti, Lord of Luxury	jmp	240	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Yahenni, Undying Partisan	aer	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Midnight Reaper	grn	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Priest of Forgotten Gods	rna	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~

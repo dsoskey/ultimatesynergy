@@ -2305,3 +2305,9 @@ Timestamp	Board	ChangeType	Name
 2023-03-10T11:36:27.572+00:00	mainboard	add	Malicious Affliction
 2023-03-10T16:37:00.335+00:00	mainboard	add	Murderous Rider
 2023-03-12T10:32:17.335+00:00	mainboard	add	Ignoble Hierarch
+2023-03-12T10:40:08.734+00:00	mainboard	remove	Hypnotic Specter
+2023-03-12T10:40:08.734+00:00	mainboard	remove	Gonti, Lord of Luxury
+2023-03-12T10:40:08.734+00:00	mainboard	remove	Yahenni, Undying Partisan
+2023-03-12T10:40:08.734+00:00	mainboard	remove	Midnight Reaper
+2023-03-12T10:40:08.734+00:00	mainboard	remove	Priest of Forgotten Gods
+2023-03-12T10:40:08.734+00:00	mainboard	add	Hydroid Krasis
