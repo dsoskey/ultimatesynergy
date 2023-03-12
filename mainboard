@@ -960,6 +960,12 @@ Mortuary Mire	clb	900	Owned	~~	Non-foil	0	B	~~	~~	Land
 Temple of Epiphany	m20	253	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Temple of Enlightenment	scd	325	Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Soldevi Excavations	me2	236	Owned	~~	Non-foil	0	U	~~	~~	Land
+Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Geier Reach Sanitarium	dmc	213	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
+Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Demolition Field	bro	260	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Acidic Slime	sld	134	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
+Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1022,4 +1028,3 @@ Stensia Bloodhall	scd	320	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Obelisk of Urd	m15	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Well of Lost Dreams	dst	159	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Varragoth, Bloodsky Sire	khm	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fire-Lit Thicket	shm	271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
