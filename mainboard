@@ -76,7 +76,6 @@ Kessig Prowler	emn	163	Not Owned	flash,manasink,wide,aggrocontrol,u2.86,core,agg
 Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	m11	184	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
-Vinelasher Kudzu	rav	189	Not Owned	counters,ramp,aggrocontrol,u2.0,occasional	Non-foil	2	G	~~	~~	Creature — Plant
 Woodland Champion	m20	205	Not Owned	tokens,elves,u4.7.7,core,aggro	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,elves,counters_payoff,u4.7,core,aggro	Non-foil	3	G	~~	~~	Creature — Elf Druid
 Ohran Viper	csp	115	Not Owned	tappers,tappers_payoff,aggrocontrol,u2.84,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
@@ -973,7 +972,31 @@ Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Huma
 Morophon, the Boundless	mh1	1	Owned	~~	Non-foil	7	B,G,R,U,W	~~	~~	Legendary Creature — Shapeshifter
 Taurean Mauler	arc	49	Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
 Call to the Netherworld	c19	108	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
+Rotting Rats	con	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismari Command	stx	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Embereth Shieldbreaker	eld	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mindshrieker	isd	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mizzium Tank	war	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Unholy Heat	mh2	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Solitude	mh2	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Incinerate	ice	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Firebolt	ody	193	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reckless Rage	rix	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gurmag Angler	frf	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancient Stirrings	roe	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Preordain	m11	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Opt	inv	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hollow One	hou	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Slippery Bogle	eve	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sure Strike	bfz	157	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Snakeskin Veil	khm	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skullcrack	gtc	106	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Firespout	shm	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vraska, Golgari Queen	grn	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dryad Militant	rtr	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
