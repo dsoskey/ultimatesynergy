@@ -72,7 +72,6 @@ Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,remo
 Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
 Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
 Birds of Paradise	plst	CN2-176	Not Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
-Kessig Prowler	emn	163	Not Owned	flash,manasink,wide,aggrocontrol,u2.86,core,aggro	Non-foil	1	G	~~	~~	Creature — Werewolf Horror 
 Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	m11	184	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
@@ -179,11 +178,9 @@ Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foi
 Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Fact or Fiction	cmr	634	Owned	flash,spells,graveyard,core,aggro,control	Non-foil	4	U	~~	~~	Instant
-Force Spike	ddj	14	Owned	flash,aggrocontrol,spells,occasional	Non-foil	1	U	~~	~~	Instant
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Memory Lapse	ema	60	Owned	occasional	Non-foil	2	U	~~	~~	Instant
 Misdirection	ddt	15	Owned	occasional	Non-foil	5	U	~~	~~	Instant
-Ninja of the Deep Hours	bok	44	Owned	core,tappers,aggrocontrol,fliers,humans,aggro	Non-foil	4	U	~~	~~	Creature — Human Ninja
 Pendrell Flux	usg	87	Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
 Psionic Blast	tsb	30	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
@@ -265,7 +262,6 @@ Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Cr
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Steel Leaf Champion	dom	182	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Elf Knight
 Moment's Peace	ody	251	Owned	occasional	Non-foil	2	G	~~	~~	Instant
-Sylvan Safekeeper	cma	152	Owned	occasional	Non-foil	1	G	~~	~~	Creature — Human Wizard
 Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
 Verdant Force	dom	187	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
@@ -635,7 +631,6 @@ Grind // Dust	hou	155	Owned	~~	Non-foil	6	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
 Fumigate	onc	69	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Sram's Expertise	aer	24	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
-Exclusion Mage	jmp	153	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Looter il-Kor	tsr	74	Owned	~~	Non-foil	2	U	~~	~~	Creature — Kor Rogue
 One With the Wind	j22	330	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Nadir Kraken	thb	55	Owned	~~	Non-foil	3	U	~~	~~	Creature — Kraken
@@ -649,7 +644,6 @@ Ransack the Lab	mh1	103	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Shriekmaw	c20	136	Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental
 Ultimate Price	gk2	36	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Village Messenger	soi	190	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Werewolf
-Zurgo Bellstriker	dtk	169	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
 Flametongue Kavu	dmr	120	Owned	~~	Non-foil	4	R	~~	~~	Creature — Kavu
 Incendiary Flow	emn	133	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Chain Lightning	dmr	113	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
@@ -665,7 +659,7 @@ Boneyard Wurm	uma	159	Owned	~~	Non-foil	2	G	~~	~~	Creature — Wurm
 Fertile Ground	plst	C18-147	Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Lovestruck Beast	eld	165	Owned	~~	Non-foil	3	G	~~	~~	Creature — Beast Noble
 Return to Nature	war	175	Owned	~~	Non-foil	2	G	~~	~~	Instant
-Reclamation Sage	c18	159	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
+Reclamation Sage	scd	205	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
 Wolfir Avenger	avr	205	Owned	~~	Non-foil	3	G	~~	~~	Creature — Wolf Warrior
 Deep Forest Hermit	mh1	161	Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
 Wicked Wolf	eld	181	Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
@@ -985,7 +979,6 @@ Reckless Rage	rix	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	frf	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Stirrings	roe	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Preordain	m11	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Opt	inv	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hollow One	hou	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slippery Bogle	eve	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -998,7 +991,44 @@ Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraska, Golgari Queen	grn	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad Militant	rtr	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Courser of Kruphix	a25	164	Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Centaur
+Aether Channeler	dmu	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Barrin, Tolarian Archmage	m21	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Experiment One	gtc	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bala Ged Recovery	znr	180	Owned	~~	Non-foil	3	G	~~	~~	Sorcery
+Brokers Ascendancy	snc	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Conclave Mentor	2x2	195	Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Centaur Cleric
+Skyship Plunderer	aer	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ledger Shredder	snc	46	Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
+Good-Fortune Unicorn	mh1	201	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Renata, Called to the Hunt	thb	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ascendant Packleader	vow	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lion Sash	neo	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dancing Sword	afr	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ephemerate	mh1	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restoration Angel	avr	32	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blade of the Oni	neo	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cult Conscript	dmu	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goldhound	snc	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thundering Raiju	neo	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hellrider	dka	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Burning Inquiry	m10	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fervent Champion	eld	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reinforced Ronin	neo	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Biophagus	40k	87	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chaos Defiler	40k	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mawloc	40k	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cindervines	rna	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Insolent Neonate	soi	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jinnie Fay, Jetmir's Second	snc	195	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kykar, Wind's Fury	m20	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hinata, Dawn-Crowned	neo	222	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Urborg Lhurgoyf	dmu	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcbound Shikari	mh2	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Talisman of Dominance	mrd	253	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Karn's Sylex	dmu	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
