@@ -221,11 +221,9 @@ Bedlam Reveler	emn	118	Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Ho
 Browbeat	a25	123	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Brute Force	mm2	108	Owned	occasional	Non-foil	1	R	~~	~~	Instant
 Chandra's Phoenix	e01	44	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Phoenix
-Char	gk1	28	Owned	occasional	Non-foil	3	R	~~	~~	Instant
 Eidolon of the Great Revel	a25	128	Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
 Genju of the Spires	a25	132	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
-Goblin Wardriver	ddt	50	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Guttersnipe	c19	145	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
 Krenko, Mob Boss	ddt	52	Owned	goblins,tokens,wide,occasional	Non-foil	4	R	~~	~~	Legendary Creature — Goblin Warrior
@@ -356,7 +354,6 @@ Hurricane	30a	196	Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
 Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Icon of Ancestry	m20	229	Owned	core,tribal_payoff,tribal,manasink	Non-foil	3	~~	~~	~~	Artifact
 Rielle, the Everwise	iko	203	Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
-Sulfurous Blast	cma	88	Owned	control,wrath,spells,flash,core,removal,control	Non-foil	4	R	~~	~~	Instant
 Dauntless Bodyguard	dom	14	Owned	core,aggrocontrol,humans,wide,aggro	Non-foil	1	W	~~	~~	Creature — Human Knight
 Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
 Treasure Map	xln	250	Owned	core,artifacts,smoothing,control	Non-foil	2	~~	~~	~~	Artifact
@@ -587,7 +584,6 @@ Vulshok Battlegear	mrd	272	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Incremental Blight	arc	17	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
 Pulse of the Fields	dst	11	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Oona's Gatewarden	shm	173	Owned	~~	Non-foil	1	U,B	Hybrid	~~	Creature — Faerie Soldier
-Fire Servant	m11	137	Owned	~~	Non-foil	5	R	~~	~~	Creature — Elemental
 Behold the Multiverse	khm	46	Owned	~~	Non-foil	4	U	~~	~~	Instant
 Evincar's Justice	cmd	80	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
 Quicksilver Gargantuan	som	39	Owned	~~	Non-foil	7	U	~~	~~	Creature — Shapeshifter
@@ -968,9 +964,8 @@ Embereth Shieldbreaker	eld	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindshrieker	isd	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Tank	war	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unholy Heat	mh2	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Solitude	mh2	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Incinerate	ice	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Firebolt	ody	193	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Solitude	mh2	32	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Incinerate	jvc	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Rage	rix	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	frf	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Stirrings	roe	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

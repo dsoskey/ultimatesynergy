@@ -2647,3 +2647,15 @@ Timestamp	Board	ChangeType	Name
 2023-03-21T07:07:42.971+00:00	mainboard	edit	Rishadan Port
 2023-03-21T07:07:42.971+00:00	mainboard	remove	Prismatic Strands
 2023-03-21T07:07:42.971+00:00	maybeboard	add	Prismatic Strands
+2023-03-21T07:15:36.222+00:00	mainboard	edit	Solitude
+2023-03-21T07:15:36.222+00:00	mainboard	edit	Incinerate
+2023-03-21T07:15:36.222+00:00	mainboard	edit	Sparksmith
+2023-03-21T07:15:36.222+00:00	mainboard	remove	Firebolt
+2023-03-21T07:15:36.222+00:00	mainboard	remove	Sulfurous Blast
+2023-03-21T07:15:36.222+00:00	mainboard	remove	Char
+2023-03-21T07:15:36.222+00:00	mainboard	remove	Goblin Wardriver
+2023-03-21T07:15:36.222+00:00	mainboard	remove	Fire Servant
+2023-03-21T07:15:36.222+00:00	maybeboard	add	Sulfurous Blast
+2023-03-21T07:15:36.222+00:00	maybeboard	add	Char
+2023-03-21T07:15:36.222+00:00	maybeboard	add	Goblin Wardriver
+2023-03-21T07:15:36.222+00:00	maybeboard	add	Fire Servant
