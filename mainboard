@@ -157,7 +157,6 @@ Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creat
 Legion's Landing	xln	22	Owned	occasional	Non-foil	1	W	~~	~~	Legendary Enchantment
 Magus of the Disk	tsp	27	Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
 Mentor of the Meek	m19	27	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
-Prismatic Strands	c19	69	Owned	occasional	Non-foil	3	W	~~	~~	Instant
 Prison Term	shm	18	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Promise of Bunrei	a25	30	Owned	core,sacrifice,tokens,aggro	Non-foil	3	W	~~	~~	Enchantment
 Safe Passage	m13	30	Owned	occasional	Non-foil	3	W	~~	~~	Instant
@@ -959,7 +958,7 @@ Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Beast Within	clb	820	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
-Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
+Shardless Agent	mh2	292	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Morophon, the Boundless	mh1	1	Owned	~~	Non-foil	7	B,G,R,U,W	~~	~~	Legendary Creature — Shapeshifter
 Taurean Mauler	arc	49	Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
 Call to the Netherworld	c19	108	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
@@ -987,7 +986,7 @@ Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraska, Golgari Queen	grn	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad Militant	rtr	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rishadan Port	mmq	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rishadan Port	a25	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	a25	164	Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Centaur
 Aether Channeler	dmu	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
