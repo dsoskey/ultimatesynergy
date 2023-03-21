@@ -55,7 +55,6 @@ Archivist of Oghma	clb	4	Owned	~~	Non-foil	2	W	~~	~~	Creature — Halfling Cleri
 Auriok Champion	ima	9	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Ayli, Eternal Pilgrim	ogw	151	Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Kor Cleric
 True Believer	ons	57	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
-Westvale Cult Leader	soi	21	Owned	~~	Non-foil	0	W	~~	~~	Creature — Human Cleric
 Dream Devourer	khm	90	Owned	~~	Non-foil	2	B	~~	~~	Creature — Demon Cleric
 Emmara, Soul of the Accord	grn	168	Owned	~~	Non-foil	2	G,W	~~	~~	Legendary Creature — Elf Cleric
 Strict Proctor	stx	33	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
@@ -603,6 +602,7 @@ Two-Handed Axe	clb	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Lantern	clb	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omniclown Colossus	unf	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realm-Cloaked Giant	eld	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hanweir Militia Captain	soi	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

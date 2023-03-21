@@ -430,7 +430,6 @@ Abrade	scd	122	Owned	core,artifact_removal,removal,spells,flash,aggro,control	No
 Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
 Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
 Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
-Wild Mongrel	plst	DDD-5	Owned	core,graveyard,aggro	Non-foil	2	G	~~	~~	Creature — Dog
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Arrogant Wurm	vma	195	Owned	core,graveyard,aggro	Non-foil	5	G	~~	~~	Creature — Wurm
 Krosan Tusker	plst	DDU-14	Owned	reanimator,ramp,smoothing,occasional	Non-foil	7	G	~~	~~	Creature — Boar Beast
@@ -462,7 +461,6 @@ Shambling Ghast	afr	119	Owned	artifacts,removal,sacrifice,zombies,core,ramp,cont
 You See a Pair of Goblins	afr	170	Owned	core,goblins,tokens,wide,spells,flash,aggro	Non-foil	3	R	~~	~~	Instant
 Battle Cry Goblin	afr	132	Owned	core,goblins,tokens,aggro,manasink,tribal_payoff	Non-foil	2	R	~~	~~	Creature — Goblin
 Plundering Barbarian	afr	158	Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
-Thornweald Archer	ema	189	Owned	core,elves,aggro,control	Non-foil	2	G	~~	~~	Creature — Elf Archer
 Burning-Fist Minotaur	hou	85	Owned	core,graveyard,aggrocontrol,aggro,control,wizards	Non-foil	2	R	~~	~~	Creature — Minotaur Wizard
 Abiding Grace	mh2	1	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
 Cleric Class	afr	6	Owned	core,lifegain,lifegain_payoff,manasink	Non-foil	1	W	~~	~~	Enchantment — Class
