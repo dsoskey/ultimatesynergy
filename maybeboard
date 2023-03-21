@@ -46,11 +46,10 @@ Fireblade Charger	znr	139	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrio
 Kargan Intimidator	znr	145	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Warrior
 Sneaking Guide	znr	164	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Rogue
 Broken Wings	gn3	90	Owned	~~	Non-foil	3	G	~~	~~	Instant
-Lunarch Veteran	dbl	27	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
+Lunarch Veteran	mid	27	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Soulmender	m20	37	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Speaker of the Heavens	m21	38	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Traveling Minister	dbl	306	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Grand Abolisher	m12	19	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Archivist of Oghma	clb	4	Owned	~~	Non-foil	2	W	~~	~~	Creature — Halfling Cleric
 Auriok Champion	ima	9	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Ayli, Eternal Pilgrim	ogw	151	Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Kor Cleric
@@ -67,7 +66,6 @@ Augusta, Dean of Order  Art Card	astx	54	Owned	~~	Non-foil	0	~~	~~	~~	Card
 Temmet, Vizier of Naktamun	akh	207	Owned	~~	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
 Withered Wretch	hop	45	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie Cleric
 Syndic of Tithes	gtc	26	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
-High Priest of Penance	gtc	171	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Human Cleric
 Anointer Priest	plst	AKH-3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Nearheath Pilgrim	avr	31	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Shadowstorm Vizier	akh	206	Owned	~~	Non-foil	2	B,U	~~	~~	Creature — Human Cleric
@@ -75,7 +73,7 @@ Geist of the Lonely Vigil	emn	27	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit
 Arcus Acolyte	mh2	185	Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Human Cleric Archer
 Stonework Packbeast	znr	255	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
 Hallowed Priest	anb	9	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
-Tourach, Dread Cantor	plst	MH2-402	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — Human Cleric
+Tourach, Dread Cantor	mh2	102	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Righteous Valkyrie	khm	24	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Vito, Thorn of the Dusk Rose	m21	127	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Cleric
 Mavren Fein, Dusk Apostle	xln	24	Owned	~~	Non-foil	3	W	~~	~~	Legendary Creature — Vampire Cleric
@@ -95,9 +93,9 @@ Order of Whiteclay	shm	16	Owned	~~	Non-foil	3	W	~~	~~	Creature — Kithkin Cleri
 Bygone Bishop	voc	80	Owned	~~	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
 Viconia, Drow Apostate	clb	156	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Elf Cleric
 Emissary of Sunrise	xln	10	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
-Tainted Adversary	dbl	124	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
+Tainted Adversary	pmid	124p	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Sower of Temptation	bbd	131	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
-Bloodthirsty Adversary	dbl	129	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
+Bloodthirsty Adversary	mid	351	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Strip Mine	v09	13	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Mana Confluence	jou	163	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Warped Landscape	soi	280	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -116,7 +114,6 @@ Fateful Absence	mid	328	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Inexorable Blob	soi	212	Owned	~~	Non-foil	3	G	~~	~~	Creature — Ooze
 Blight Mound	c21	36	Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Fateful Absence	mid	328	Owned	~~	Non-foil	2	W	~~	~~	Instant
-Retreat to Hagra	bfz	121	Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Scavenging Ooze	m21	318	Owned	~~	Non-foil	2	G	~~	~~	Creature — Ooze
 Marauding Blight-Priest	j22	439	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Cleric
 Suture Priest	nph	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
@@ -124,7 +121,6 @@ Body Launderer	snc	68	Owned	~~	Non-foil	4	B	~~	~~	Creature — Ogre Rogue
 Clone Shell	2xm	241	Owned	~~	Non-foil	5	~~	~~	~~	Artifact Creature — Shapeshifter
 The Cauldron of Eternity	eld	82	Owned	~~	Non-foil	12	B	~~	~~	Legendary Artifact
 Zhalfirin Void	afc	273	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Grenzo, Dungeon Warden	plst	A25-205	Owned	~~	Non-foil	2	B,R	~~	~~	Legendary Creature — Goblin Rogue
 Grenzo, Havoc Raiser	cn2	54	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Goblin Rogue
 Alesha, Who Smiles at Death	c20	143	Owned	~~	Non-foil	3	B,R,W	~~	~~	Legendary Creature — Human Warrior
 Twilight Prophet	plst	RIX-88	Owned	~~	Non-foil	4	B	~~	~~	Creature — Vampire Cleric
@@ -206,7 +202,6 @@ Woe Strider	thb	123	Owned	~~	Non-foil	3	B	~~	~~	Creature — Horror
 Wight of Precinct Six	jmp	287	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Elite Guardmage	war	195	Owned	~~	Non-foil	4	U,W	~~	~~	Creature — Human Wizard
 Banisher Priest	m14	7	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
-Reveillark	mma	26	Owned	~~	Non-foil	5	W	~~	~~	Creature — Elemental
 Pledge of Unity	war	210	Owned	~~	Non-foil	3	G,W	~~	~~	Instant
 Dromoka's Command	2x2	206	Owned	~~	Non-foil	2	G,W	~~	~~	Instant
 Huatli's Raptor	war	200	Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Dinosaur
@@ -229,7 +224,6 @@ Nyx Weaver	jou	153	Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
 Sprite Dragon	iko	211	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Faerie Dragon
 Adeliz, the Cinder Wind	dom	190	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Firemind's Research	grn	171	Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
-Lutri, the Spellchaser	iko	227	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
 Vapor Snag	mm2	66	Owned	~~	Non-foil	1	U	~~	~~	Instant
 Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Chemister's Insight	c20	108	Owned	~~	Non-foil	4	U	~~	~~	Instant
@@ -306,7 +300,7 @@ Council's Judgment	cns	16	Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Elspeth Conquers Death	plst	THB-13	Owned	~~	Non-foil	5	W	~~	~~	Enchantment — Saga
 Sleight of Hand	uma	70	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Serum Visions	mm3	49	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
-Fblthp, the Lost	sld	583	Owned	~~	Non-foil	2	U	~~	~~	Legendary Creature — Homunculus
+Fblthp, the Lost	plst	WAR-50	Owned	~~	Non-foil	2	U	~~	~~	Legendary Creature — Homunculus
 Crystal Shard	mrd	159	Owned	~~	Non-foil	3	U	~~	~~	Artifact
 Familiar's Ruse	lrw	64	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Midnight Clock	eld	54	Owned	~~	Non-foil	3	U	~~	~~	Artifact
@@ -329,7 +323,7 @@ Sphinx of Magosi	c14	127	Owned	~~	Non-foil	6	U	~~	~~	Creature — Sphinx
 Give // Take	dgm	129	Owned	~~	Non-foil	6	G,U	~~	~~	Sorcery
 Chandra, Flamecaller	ogw	104	Owned	~~	Non-foil	6	R	~~	~~	Legendary Planeswalker — Chandra
 Chandra, Torch of Defiance	ss3	1	Owned	~~	Non-foil	4	R	~~	~~	Legendary Planeswalker — Chandra
-Soldevi Adnate	all	60b	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
+Soldevi Adnate	all	60a	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Unexpected Results	gtc	203	Owned	~~	Non-foil	4	G,U	~~	~~	Sorcery
 Wayfarer's Bauble	40k	262	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
@@ -393,7 +387,6 @@ Graveshifter	mh1	94	Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
 Universal Automaton	mh1	235	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Shapeshifter
 Bloodline Pretender	j22	757	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Shapeshifter
 Moritte of the Frost	khm	223	Owned	~~	Non-foil	5	G,U	~~	~~	Legendary Snow Creature — Shapeshifter
-Guardian Gladewalker	khm	174	Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
 Changeling Titan	lrw	200	Owned	~~	Non-foil	5	G	~~	~~	Creature — Shapeshifter
 Shapesharer	lrw	85	Owned	~~	Non-foil	2	U	~~	~~	Creature — Shapeshifter
 Amoeboid Changeling	lrw	51	Owned	~~	Non-foil	2	U	~~	~~	Creature — Shapeshifter
@@ -427,7 +420,6 @@ Loran of the Third Path	bro	12	Owned	~~	Non-foil	3	W	~~	~~	Legendary Creature �
 Tireless Tracker	sld	711	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Tireless Tracker	sld	711	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Gale, Waterdeep Prodigy	clb	72	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Human Wizard
-Amethyst Dragon	clb	160	Owned	~~	Non-foil	6	R	~~	~~	Creature — Dragon
 Monster Manual	clb	242	Owned	~~	Non-foil	4	G	~~	~~	Artifact
 Bedevil	brc	121	Owned	~~	Non-foil	3	B,R	~~	~~	Instant
 Gingerbrute	jmp	466	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Food Golem
@@ -461,7 +453,6 @@ Intrepid Adversary	dbl	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Declaration in Stone	ncc	196	Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Nissa, Who Shakes the World	sld	1042	Owned	~~	Non-foil	5	G	~~	~~	Legendary Planeswalker — Nissa
-Fateful Absence	dbl	18	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Tibalt, Rakish Instigator	plst	WAR-146	Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswalker — Tibalt
 Vinelasher Kudzu	rav	189	Not Owned	counters,ramp,aggrocontrol,u2.0,occasional	Non-foil	2	G	~~	~~	Creature — Plant
 Kogla, the Titan Ape	iko	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -470,7 +461,6 @@ Ilharg, the Raze-Boar	war	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tezzeret, Artifice Master	m19	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ob Nixilis's Cruelty	war	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	dka	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kogla, the Titan Ape	iko	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tolarian Terror	dmu	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manamorphose	shm	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faithless Looting	dka	87	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -590,7 +580,6 @@ Wild Mongrel	plst	DDD-5	Owned	core,graveyard,aggro	Non-foil	2	G	~~	~~	Creature �
 Thornweald Archer	ema	189	Owned	core,elves,aggro,control	Non-foil	2	G	~~	~~	Creature — Elf Archer
 Amethyst Dragon	clb	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emerald Dragon	clb	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Animating Faerie	eld	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Naga	clb	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fae of Wishes	eld	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	eld	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -615,7 +604,6 @@ Resilient Khenra	hou	131	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Jackal
 Verdant Force	dom	187	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
 Guardian Gladewalker	khm	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsettled Mariner	mh1	216	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Moritte of the Frost	khm	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orvar, the All-Form	khm	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
