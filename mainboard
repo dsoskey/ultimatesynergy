@@ -253,14 +253,12 @@ Joraga Treespeaker	roe	190	Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf 
 Moldervine Cloak	mma	155	Owned	occasional	Non-foil	3	G	~~	~~	Enchantment — Aura
 Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
-Resilient Khenra	hou	131	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Jackal Wizard
 Rhox	10e	291	Owned	occasional	Non-foil	6	G	~~	~~	Creature — Rhino Beast
 Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Steel Leaf Champion	dom	182	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Elf Knight
 Moment's Peace	ody	251	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
-Verdant Force	dom	187	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
 Angel of Despair	gk2	37	Owned	occasional	Non-foil	7	B,W	~~	~~	Creature — Angel
@@ -949,7 +947,7 @@ Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Demolition Field	bro	260	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Acidic Slime	sld	134	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
+Acidic Slime	nec	112	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
 Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Beast Within	clb	820	Owned	~~	Non-foil	3	G	~~	~~	Instant
@@ -1021,6 +1019,9 @@ Talisman of Dominance	mrd	253	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karn's Sylex	dmu	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Universal Automaton	mh1	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodline Pretender	khm	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crib Swap	cm2	22	Owned	~~	Non-foil	3	W	~~	~~	Tribal Instant — Shapeshifter
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~

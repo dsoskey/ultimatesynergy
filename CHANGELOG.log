@@ -2659,3 +2659,12 @@ Timestamp	Board	ChangeType	Name
 2023-03-21T07:15:36.222+00:00	maybeboard	add	Char
 2023-03-21T07:15:36.222+00:00	maybeboard	add	Goblin Wardriver
 2023-03-21T07:15:36.222+00:00	maybeboard	add	Fire Servant
+2023-03-21T07:28:45.861+00:00	mainboard	edit	Acidic Slime
+2023-03-21T07:28:45.861+00:00	mainboard	remove	Resilient Khenra
+2023-03-21T07:28:45.861+00:00	mainboard	remove	Verdant Force
+2023-03-21T07:28:45.861+00:00	mainboard	add	Universal Automaton
+2023-03-21T07:28:45.861+00:00	mainboard	add	Bloodline Pretender
+2023-03-21T07:28:45.861+00:00	mainboard	add	Crib Swap
+2023-03-21T07:28:45.861+00:00	maybeboard	remove	Crib Swap
+2023-03-21T07:28:45.861+00:00	maybeboard	add	Resilient Khenra
+2023-03-21T07:28:45.861+00:00	maybeboard	add	Verdant Force
