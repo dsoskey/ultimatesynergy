@@ -2702,3 +2702,9 @@ Timestamp	Board	ChangeType	Name
 2023-03-21T07:42:29.515+00:00	mainboard	remove	Naya Panorama
 2023-03-21T07:56:06.410+00:00	mainboard	add	Kari Zev, Skyship Raider
 2023-03-21T07:56:06.410+00:00	maybeboard	remove	Kari Zev, Skyship Raider
+2023-03-22T01:58:49.722+00:00	mainboard	remove	Charging Monstrosaur
+2023-03-22T01:58:49.722+00:00	mainboard	add	Fae of Wishes
+2023-03-22T01:58:49.722+00:00	mainboard	add	Thrummingbird
+2023-03-22T01:58:49.722+00:00	maybeboard	remove	Fae of Wishes
+2023-03-22T01:58:49.722+00:00	maybeboard	remove	Amoeboid Changeling
+2023-03-22T01:58:49.722+00:00	maybeboard	remove	Thrummingbird

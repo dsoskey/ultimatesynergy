@@ -63,7 +63,6 @@ Goblin Sharpshooter	c13	111	Not Owned	pingers,goblins,sacrifice,u2.63,u2.89,occa
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Beetleback Chief	c14	171	Not Owned	goblins,blink,tokens,sacrifice,wide,stax,u2.63,u2.80,aggro,control,occasional	Non-foil	4	R	~~	~~	Creature — Goblin Warrior
 Captivating Crew	xln	137	Not Owned	sacrifice,humans,manasink,u4.7,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
-Charging Monstrosaur	xln	138	Not Owned	dinosaurs,ramp,reanimator,enrage,burn,u3.3,core,aggro,control	Non-foil	5	R	~~	~~	Creature — Dinosaur
 Zealous Conscripts	avr	166	Not Owned	humans,twin,blink,sacrifice,burn,u2.0,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	som	91	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
 Brimstone Volley	isd	132	Not Owned	flash,sacrifice,spells,burn,u2.0,u2.92,removal,core,aggro,control	Non-foil	3	R	~~	~~	Instant
@@ -1019,6 +1018,8 @@ Crib Swap	cm2	22	Owned	~~	Non-foil	3	W	~~	~~	Tribal Instant — Shapeshifter
 Reveillark	mma	26	Owned	~~	Non-foil	5	W	~~	~~	Creature — Elemental
 Animating Faerie	eld	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kari Zev, Skyship Raider	plst	AER-87	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Human Pirate
+Fae of Wishes	eld	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thrummingbird	ncc	236	Owned	~~	Non-foil	2	U	~~	~~	Creature — Phyrexian Bird Horror
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
