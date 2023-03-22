@@ -43,7 +43,6 @@ Kitesail Freebooter	xln	110	Not Owned	humans,fliers,evasion,aggrocontrol,u3.4,co
 Oona's Prowler	lrw	133	Not Owned	fliers,graveyard,evasion,aggrocontrol,u2.0,core,rogues,aggro	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
-Royal Assassin	m12	105	Not Owned	tappers,control,humans,tappers_payoff,u2.80,occasional	Non-foil	3	B	~~	~~	Creature — Human Assassin
 Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Bird
 Braids, Cabal Minion	ody	117	Not Owned	stax,tokens,sacrifice,humans,u4.7,core,artifacts	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
 Skinrender	som	78	Not Owned	zombies,counters,blink,aggrocontrol,u2.0,u4.5,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
@@ -101,7 +100,6 @@ Contagion Clasp	som	144	Not Owned	counters,artifacts,counters_payoff,u2.60,u3.9,
 Cranial Plating	mm2	206	Not Owned	artifacts,artifacts_payoff,aggrocontrol,heroic,u2.63,core,aggro	Non-foil	2	B	Black	~~	Artifact — Equipment
 Oblivion Stone	mrd	222	Not Owned	manasink,control,artifacts,artifact_removal,enchantment_removal,u2.0,removal,core,wrath	Non-foil	3	~~	~~	~~	Artifact
 Pristine Talisman	c13	255	Not Owned	artifacts,lifegain,u2.0,u2.74,u3.2,core,control	Non-foil	3	~~	~~	~~	Artifact
-Serrated Arrows	gvl	20	Not Owned	artifacts,counters,pingers,u2.0,removal,core,control	Non-foil	4	~~	~~	~~	Artifact
 Bomat Courier	kld	199	Not Owned	artifacts,burn,aggrocontrol,u4.7.6,core,manasink,graveyard,aggro	Non-foil	1	~~	Red	~~	Artifact Creature — Construct
 Metallic Mimic	aer	164	Not Owned	artifacts,tribal,tokens,counters,blink,tribal_payoff,core,aggro,wide,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Shapeshifter
 Scrapheap Scrounger	kld	231	Not Owned	artifacts,graveyard,aggrocontrol,u2.89,occasional	Non-foil	2	~~	Black	~~	Artifact Creature — Construct
@@ -374,9 +372,7 @@ Windswept Heath	ktk	248	Owned	core,gold_land	Non-foil	0	W,G	~~	~~	Land
 Clever Impersonator	ktk	34	Owned	core,aggro,control	Non-foil	4	U	~~	~~	Creature — Shapeshifter
 Goblin Guide	2xm	127	Owned	core,goblins,aggrocontrol,burn,wide,aggro	Non-foil	1	R	~~	~~	Creature — Goblin Scout
 Dreadhorde Arcanist	war	125	Owned	core,spells,graveyard,zombies,wizards,heroic,burn,aggro	Non-foil	2	R	~~	~~	Creature — Zombie Wizard
-Maraleaf Pixie	eld	196	Owned	occasional	Non-foil	2	G,U	~~	~~	Creature — Faerie
 Primal Empathy	iko	200	Owned	occasional	Non-foil	3	G,U	~~	~~	Enchantment
-Overbeing of Myth	eve	157	Owned	occasional	Non-foil	5	U,G	Hybrid	~~	Creature — Spirit Avatar
 Elder of Laurels	isd	177	Owned	wide,tokens,manasink,flash,humans,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
 All That Glitters	eld	2	Owned	core,artifacts,heroic,aggro	Non-foil	2	W	~~	~~	Enchantment — Aura
 Cage of Hands	pca	4	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
@@ -433,7 +429,6 @@ Dimir Guildmage	rav	245	Owned	core,humans,wizards,manasink,aggro,aggrocontrol,co
 Unlicensed Disintegration	kld	187	Owned	core,spells,flash,artifacts,burn,removal,aggro,control	Non-foil	3	B,R	~~	~~	Instant
 Debtors' Knell	gpt	141	Owned	core,control,graveyard	Non-foil	7	W,B	Hybrid	~~	Enchantment
 Chimeric Mass	mm2	204	Owned	core,artifacts,counters,manasink,ramp,control	Non-foil	0	~~	~~	~~	Artifact
-Pentavus	mrd	226	Owned	core,ramp,control,manasink,fliers,tokens,counters,reanimator	Non-foil	7	~~	~~	~~	Artifact Creature — Construct
 Engineered Explosives	2xm	252	Owned	core,removal,artifact_removal,enchantment_removal,wrath,control	Non-foil	0	~~	~~	~~	Artifact
 Azorius Chancery	c18	233	Owned	core,gold_land	Non-foil	0	U,W	~~	~~	Land
 Dimir Aqueduct	2x2	322	Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
@@ -451,7 +446,6 @@ Giant Solifuge	gpt	143	Owned	occasional	Non-foil	4	R,G	Hybrid	~~	Creature — In
 You Hear Something on Watch	afr	42	Owned	core,tokens,wide,removal,control,spells,flash,aggro	Non-foil	2	W	~~	~~	Instant
 Grazilaxx, Illithid Scholar	afr	60	Owned	aggrocontrol,blink,fliers,core,aggro	Non-foil	3	U	~~	~~	Legendary Creature — Horror
 Shambling Ghast	afr	119	Owned	artifacts,removal,sacrifice,zombies,core,ramp,control	Non-foil	1	B	~~	~~	Creature — Zombie
-You See a Pair of Goblins	afr	170	Owned	core,goblins,tokens,wide,spells,flash,aggro	Non-foil	3	R	~~	~~	Instant
 Battle Cry Goblin	afr	132	Owned	core,goblins,tokens,aggro,manasink,tribal_payoff	Non-foil	2	R	~~	~~	Creature — Goblin
 Plundering Barbarian	afr	158	Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
 Burning-Fist Minotaur	hou	85	Owned	core,graveyard,aggrocontrol,aggro,control,wizards	Non-foil	2	R	~~	~~	Creature — Minotaur Wizard
@@ -459,7 +453,6 @@ Abiding Grace	mh2	1	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
 Cleric Class	afr	6	Owned	core,lifegain,lifegain_payoff,manasink	Non-foil	1	W	~~	~~	Enchantment — Class
 Syr Konrad, the Grim	znc	56	Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Ghost Council of Orzhova	mm2	176	Owned	occasional	Non-foil	4	B,W	~~	~~	Legendary Creature — Spirit
-Precursor Golem	som	194	Owned	occasional	Non-foil	5	~~	~~	~~	Artifact Creature — Golem
 Soulknife Spy	afr	75	Owned	core,elves,aggrocontrol,aggro	Non-foil	3	U	~~	~~	Creature — Elf Rogue
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
@@ -574,7 +567,6 @@ Cumber Stone	con	24	Owned	~~	Non-foil	4	U	~~	~~	Artifact
 Wall of Souls	tpr	123	Owned	~~	Non-foil	2	B	~~	~~	Creature — Wall
 Riptide Laboratory	mh2	303	Owned	~~	Non-foil	0	U	~~	~~	Land
 Masked Vandal	khm	184	Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
-Snakeskin Veil	khm	194	Owned	~~	Non-foil	1	G	~~	~~	Instant
 Orim's Thunder	c15	78	Owned	~~	Non-foil	3	R,W	~~	~~	Instant
 Great Teacher's Decree	dtk	21	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
 Vulshok Battlegear	mrd	272	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
@@ -943,7 +935,6 @@ Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Demolition Field	bro	260	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Acidic Slime	nec	112	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
 Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
-Shardless Agent	mh2	423	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Beast Within	clb	820	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
 Shardless Agent	mh2	292	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
@@ -1021,6 +1012,11 @@ Kari Zev, Skyship Raider	plst	AER-87	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creat
 Fae of Wishes	eld	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrummingbird	ncc	236	Owned	~~	Non-foil	2	U	~~	~~	Creature — Phyrexian Bird Horror
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cankerbloom	one	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cavalier of Night	plst	M20-94	Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental Knight
+Cavalier of Dawn	m20	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cavalier of Flame	m20	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cavalier of Gales	m20	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

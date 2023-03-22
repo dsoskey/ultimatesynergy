@@ -281,7 +281,6 @@ Flamewake Phoenix	frf	100	Owned	~~	Non-foil	3	R	~~	~~	Creature — Phoenix
 Garruk, Primal Hunter	c21	190	Owned	~~	Non-foil	5	G	~~	~~	Legendary Planeswalker — Garruk
 Garruk's Uprising	scd	185	Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Phylath, World Sculptor	znr	234	Owned	~~	Non-foil	6	G,R	~~	~~	Legendary Creature — Elemental
-Cavalier of Thorns	m20	167	Owned	~~	Non-foil	5	G	~~	~~	Creature — Elemental Knight
 Risen Reef	m20	217	Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Elemental
 Tilonalli's Summoner	rix	121	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Shaman
 Merfolk Looter	exo	39	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
@@ -311,7 +310,6 @@ Collective Brutality	sld	1085	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Elspeth's Nightmare	thb	91	Owned	~~	Non-foil	3	B	~~	~~	Enchantment — Saga
 Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Command the Dreadhorde	war	82	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
-Cavalier of Night	plst	M20-94	Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental Knight
 Slayer of the Wicked	isd	32	Owned	~~	Non-foil	4	W	~~	~~	Creature — Human Soldier
 Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Profane Memento	m15	226	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
@@ -601,6 +599,13 @@ Verdant Force	dom	187	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
 Guardian Gladewalker	khm	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsettled Mariner	mh1	216	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orvar, the All-Form	khm	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Precursor Golem	som	194	Owned	occasional	Non-foil	5	~~	~~	~~	Artifact Creature — Golem
+Pentavus	mrd	226	Owned	core,ramp,control,manasink,fliers,tokens,counters,reanimator	Non-foil	7	~~	~~	~~	Artifact Creature — Construct
+Serrated Arrows	gvl	20	Not Owned	artifacts,counters,pingers,u2.0,removal,core,control	Non-foil	4	~~	~~	~~	Artifact
+Overbeing of Myth	eve	157	Owned	occasional	Non-foil	5	U,G	Hybrid	~~	Creature — Spirit Avatar
+Maraleaf Pixie	eld	196	Owned	occasional	Non-foil	2	G,U	~~	~~	Creature — Faerie
+You See a Pair of Goblins	afr	170	Owned	core,goblins,tokens,wide,spells,flash,aggro	Non-foil	3	R	~~	~~	Instant
+Royal Assassin	m12	105	Not Owned	tappers,control,humans,tappers_payoff,u2.80,occasional	Non-foil	3	B	~~	~~	Creature — Human Assassin
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
