@@ -417,7 +417,6 @@ Tireless Tracker	sld	711	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Gale, Waterdeep Prodigy	clb	72	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Human Wizard
 Monster Manual	clb	242	Owned	~~	Non-foil	4	G	~~	~~	Artifact
 Bedevil	brc	121	Owned	~~	Non-foil	3	B,R	~~	~~	Instant
-Gingerbrute	jmp	466	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Food Golem
 Enter the God-Eternals	scd	227	Owned	~~	Non-foil	5	B,U	~~	~~	Sorcery
 Drake Haven	akh	51	Owned	~~	Non-foil	3	U	~~	~~	Enchantment
 Ol' Buzzbark	ust	134	Owned	~~	Non-foil	2	G,R	~~	~~	Legendary Creature — Goblin Warrior
@@ -608,6 +607,44 @@ You See a Pair of Goblins	afr	170	Owned	core,goblins,tokens,wide,spells,flash,ag
 Royal Assassin	m12	105	Not Owned	tappers,control,humans,tappers_payoff,u2.80,occasional	Non-foil	3	B	~~	~~	Creature — Human Assassin
 Ancestor Dragon	gs1	12	Owned	~~	Non-foil	6	W	~~	~~	Creature — Dragon
 Dictate of Kruphix	c18	86	Owned	occasional	Non-foil	3	U	~~	~~	Enchantment
+Serra Angel	gnt	16	Owned	occasional	Non-foil	5	W	~~	~~	Creature — Angel
+Flameblast Dragon	c18	123	Owned	core,fliers,ramp,reanimator,removal,burn,control	Non-foil	6	R	~~	~~	Creature — Dragon
+Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
+Castle Ardenvale	eld	238	Owned	core,tokens,wide,manasink,control,humans	Non-foil	0	W	~~	~~	Land
+Burnished Hart	ths	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Foundry Inspector	kld	215	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Baleful Strix	pc2	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Metamorph	nph	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Etherium Sculptor	ala	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Academy Manufactor	mh2	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Reality Chip	neo	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Combustible Gearhulk	kld	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Noxious Gearhulk	kld	96	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kuldotha Forgemaster	som	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steel Overseer	m11	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stonecoil Serpent	eld	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Millikin	ody	302	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Angel of the Ruins	c21	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Containment Construct	neo	243	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bronze Guardian	c21	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Duplicant	mrd	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethersworn Canonist	ala	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Junk Diver	uds	132	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brudiclad, Telchor Engineer	c18	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chief of the Foundry	ori	225	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Enthusiastic Mechanaut	neo	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scion of Draco	mh2	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kappa Cannoneer	nec	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Traxos, Scourge of Kroog	dom	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cataclysmic Gearhulk	kld	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Akroan Horse	ths	210	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Research Thief	nec	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystalline Crawler	c16	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Filigree Familiar	kld	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Golden Guardian	rix	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Virus Beetle	neo	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Necron Deathmark	40k	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcbound Crusher	dst	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
