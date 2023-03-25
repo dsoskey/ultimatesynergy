@@ -57,7 +57,7 @@ Dark-Dweller Oracle	m19	134	Not Owned	goblins,sacrifice,tokens,burn,u4.4,smoothi
 Fireslinger	j22	130	Not Owned	wizards,humans,pingers,u2.80,u4.2,occasional	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Goblin Cratermaker	grn	103	Not Owned	goblins,artifact_removal,u4.6.1,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Mogg War Marshal	ema	139	Not Owned	goblins,blink,sacrifice,tokens,wide,stax,u2.0,core,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
-Fire Imp	por	126	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
+Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
 Goblin Sharpshooter	c13	111	Not Owned	pingers,goblins,sacrifice,u2.63,u2.89,occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Beetleback Chief	c14	171	Not Owned	goblins,blink,tokens,sacrifice,wide,stax,u2.63,u2.80,aggro,control,occasional	Non-foil	4	R	~~	~~	Creature — Goblin Warrior
@@ -259,7 +259,6 @@ Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
 Angel of Despair	gk2	37	Owned	occasional	Non-foil	7	B,W	~~	~~	Creature — Angel
 Ashiok, Dream Render	war	228	Owned	occasional	Non-foil	3	B,U	~~	~~	Legendary Planeswalker — Ashiok
-Azorius Guildmage	gk2	9	Owned	occasional	Non-foil	2	U,W	~~	~~	Creature — Vedalken Wizard
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Blightning	ala	156	Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
@@ -299,7 +298,6 @@ Simic Charm	gtc	195	Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Snakeform	eve	161	Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Stormbind	tsb	102	Owned	graveyard,burn,removal,occasional	Non-foil	3	R,G	~~	~~	Enchantment
-Supreme Verdict	ima	210	Owned	occasional	Non-foil	4	U,W	~~	~~	Sorcery
 Swans of Bryn Argoll	mm2	199	Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Creature — Bird Spirit
 Tidehollow Sculler	md1	2	Owned	occasional	Non-foil	2	B,W	~~	~~	Artifact Creature — Zombie
 Tymaret, the Murder King	ths	207	Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
@@ -350,7 +348,6 @@ Icon of Ancestry	m20	229	Owned	core,tribal_payoff,tribal,manasink	Non-foil	3	~~	
 Rielle, the Everwise	iko	203	Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Dauntless Bodyguard	dom	14	Owned	core,aggrocontrol,humans,wide,aggro	Non-foil	1	W	~~	~~	Creature — Human Knight
 Treasure Map	xln	250	Owned	core,artifacts,smoothing,control	Non-foil	2	~~	~~	~~	Artifact
-Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
 Sevinne's Reclamation	c19	5	Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 The Antiquities War	dom	42	Owned	core,artifacts_payoff,artifacts	Non-foil	4	U	~~	~~	Enchantment — Saga
 Daring Saboteur	xln	49	Owned	core,aggrocontrol,graveyard,manasink,tappers,humans,aggro	Non-foil	2	U	~~	~~	Creature — Human Pirate
@@ -360,7 +357,6 @@ Mazemind Tome	m21	232	Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	A
 Witch's Oven	eld	237	Owned	sacrifice,lifegain,tokens,artifacts,occasional	Non-foil	1	~~	~~	~~	Artifact
 Noyan Dar, Roil Shaper	bfz	216	Owned	occasional	Non-foil	5	W,U	~~	~~	Legendary Creature — Merfolk Ally
 Fire // Ice	mh2	290	Owned	tappers,burn,removal,spells,flash,aggro,control,occasional	Non-foil	2	U,R	Hybrid	~~	Instant
-Castle Ardenvale	eld	238	Owned	core,tokens,wide,manasink,control,humans	Non-foil	0	W	~~	~~	Land
 Flooded Strand	ktk	233	Owned	core,gold_land	Non-foil	0	W,U	~~	~~	Land
 Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
 Bloodstained Mire	ktk	230	Not Owned	core,gold_land	Non-foil	0	B,R	~~	~~	Land
@@ -483,7 +479,6 @@ Hinder	chk	65	Owned	core,control,aggrocontrol,spells,flash	Non-foil	3	U	~~	~~	In
 Clear Shot	emn	152	Owned	core,spells,flash,removal,heroic,aggro,aggrocontrol	Non-foil	3	G	~~	~~	Instant
 Bookwurm	stx	123	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Wurm
 Nils, Discipline Enforcer	c21	20	Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
-Expressive Iteration	stx	186	Owned	core,spells,smoothing,aggro,aggrocontrol,control	Non-foil	2	U,R	~~	~~	Sorcery
 Mind Flayer	afr	63	Owned	core,removal,blink,aggro	Non-foil	5	U	~~	~~	Creature — Horror
 Monoskelion	mh2	229	Owned	core,artifacts,counters,sacrifice,removal,pingers,wide,aggro,control,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Ghostly Flicker	khc	39	Owned	occasional	Non-foil	3	U	~~	~~	Instant
@@ -704,7 +699,6 @@ Ghost Quarter	cm2	253	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Haunted Fengraf	a25	240	Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Jungle Basin	cma	258	Owned	~~	Non-foil	0	G	~~	~~	Land
-Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
 Grasping Dunes	akh	244	Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Branchloft Pathway	znr	258	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Brightclimb Pathway	slu	14	Owned	~~	Non-foil	0	W,B	~~	~~	Land
@@ -818,7 +812,7 @@ Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Tezzeret's Gambit	cm2	51	Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
 Umara Mystic	znr	238	Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
-Containment Priest	m21	314	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
+Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Dryad Arbor	tsr	277	Owned	~~	Non-foil	0	G	~~	~~	Land Creature — Forest Dryad
 Luminarch Aspirant	ncc	205	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	ori	166	Owned	~~	Non-foil	1	R	~~	~~	Instant
