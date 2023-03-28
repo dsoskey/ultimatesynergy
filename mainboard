@@ -373,7 +373,6 @@ Abrade	scd	122	Owned	core,artifact_removal,removal,spells,flash,aggro,control	No
 Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
 Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
-Arrogant Wurm	vma	195	Owned	core,graveyard,aggro	Non-foil	5	G	~~	~~	Creature — Wurm
 Farseek	dmc	133	Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Roar of the Wurm	dds	49	Owned	core,spells,tokens,ramp,graveyard,control	Non-foil	7	G	~~	~~	Sorcery
 Sky Hussar	dis	131	Owned	core,fliers,humans,twin,aggro	Non-foil	5	W,U	~~	~~	Creature — Human Knight
@@ -701,21 +700,8 @@ Inspiring Vantage	kld	246	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Spirebluff Canal	kld	249	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Botanical Sanctum	kld	244	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Blooming Marsh	kld	243	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Skycloud Expanse	nec	177	Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Darkwater Catacombs	c19	238	Owned	~~	Non-foil	0	B,U	~~	~~	Land
-Shadowblood Ridge	ncc	426	Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Mossfire Valley	nec	171	Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Mystic Gate	shm	277	Owned	~~	Non-foil	0	U,W	~~	~~	Land
-Sunken Ruins	2xm	326	Owned	~~	Non-foil	0	B,U	~~	~~	Land
-Graven Cairns	2xm	320	Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Fetid Heath	ncc	401	Owned	~~	Non-foil	0	W,B	~~	~~	Land
-Rugged Prairie	2xm	325	Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Cascade Bluffs	a25	237	Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Flooded Grove	eve	177	Owned	~~	Non-foil	0	G,U	~~	~~	Land
-Twilight Mire	ncc	443	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Shivan Gorge	dmc	232	Owned	~~	Non-foil	0	R	~~	~~	Legendary Land
 Blinkmoth Well	mrd	279	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Sejiri Refuge	zen	224	Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Blossoming Sands	c19	231	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Graypelt Refuge	c19	249	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Kazandu Refuge	scd	307	Owned	~~	Non-foil	0	G,R	~~	~~	Land
@@ -1013,6 +999,17 @@ Wizard's Retort	dom	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Fracture	eve	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	grn	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ons	316	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ons	321	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	ons	313	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	ons	330	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	ons	328	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marsh Flats	zen	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	zen	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	zen	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	zen	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	zen	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cave of Temptation	mh1	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

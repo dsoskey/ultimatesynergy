@@ -3124,3 +3124,46 @@ Timestamp	Board	ChangeType	Name
 2023-03-28T22:08:51.783+00:00	maybeboard	add	Deny the Witch
 2023-03-28T22:08:51.783+00:00	maybeboard	add	Undermine
 2023-03-28T22:08:51.783+00:00	maybeboard	add	Miscalculation
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Sejiri Refuge
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Twilight Mire
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Flooded Grove
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Cascade Bluffs
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Rugged Prairie
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Fetid Heath
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Graven Cairns
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Sunken Ruins
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Mystic Gate
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Mossfire Valley
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Shadowblood Ridge
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Darkwater Catacombs
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Skycloud Expanse
+2023-03-28T22:12:44.148+00:00	mainboard	remove	Arrogant Wurm
+2023-03-28T22:12:44.148+00:00	mainboard	add	Flooded Strand
+2023-03-28T22:12:44.148+00:00	mainboard	add	Polluted Delta
+2023-03-28T22:12:44.148+00:00	mainboard	add	Bloodstained Mire
+2023-03-28T22:12:44.148+00:00	mainboard	add	Wooded Foothills
+2023-03-28T22:12:44.148+00:00	mainboard	add	Windswept Heath
+2023-03-28T22:12:44.148+00:00	mainboard	add	Marsh Flats
+2023-03-28T22:12:44.148+00:00	mainboard	add	Scalding Tarn
+2023-03-28T22:12:44.148+00:00	mainboard	add	Verdant Catacombs
+2023-03-28T22:12:44.148+00:00	mainboard	add	Arid Mesa
+2023-03-28T22:12:44.148+00:00	mainboard	add	Misty Rainforest
+2023-03-28T22:12:44.148+00:00	mainboard	add	Cave of Temptation
+2023-03-28T22:12:44.148+00:00	maybeboard	edit	Storm the Festival
+2023-03-28T22:12:44.148+00:00	maybeboard	remove	Howl of the Horde
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Arrogant Wurm
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Obstinate Baloth
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Skycloud Expanse
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Darkwater Catacombs
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Shadowblood Ridge
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Mossfire Valley
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Mystic Gate
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Sunken Ruins
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Graven Cairns
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Fetid Heath
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Cascade Bluffs
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Rugged Prairie
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Crystal Grotto
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Hall of Oracles
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Guildmages' Forum
+2023-03-28T22:12:44.148+00:00	maybeboard	add	Cabal Coffers
