@@ -111,7 +111,6 @@ Inexorable Blob	soi	212	Owned	~~	Non-foil	3	G	~~	~~	Creature — Ooze
 Blight Mound	c21	36	Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Fateful Absence	mid	328	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Scavenging Ooze	m21	318	Owned	~~	Non-foil	2	G	~~	~~	Creature — Ooze
-Marauding Blight-Priest	j22	439	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Cleric
 Suture Priest	nph	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Body Launderer	snc	68	Owned	~~	Non-foil	4	B	~~	~~	Creature — Ogre Rogue
 Clone Shell	2xm	241	Owned	~~	Non-foil	5	~~	~~	~~	Artifact Creature — Shapeshifter
@@ -328,7 +327,6 @@ High Priest of Penance	gtc	171	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Human 
 Underworld Coinsmith	c15	237	Owned	~~	Non-foil	2	B,W	~~	~~	Enchantment Creature — Human Cleric
 Grand Abolisher	m12	19	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Coat of Arms	10e	316	Owned	~~	Non-foil	5	~~	~~	~~	Artifact
-Dina, Soul Steeper	stx	178	Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
 Pulse of Murasa	uma	179	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dimir Charm	gk1	11	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
 Licia, Sanguine Tribune	c17	40	Owned	~~	Non-foil	8	B,R,W	~~	~~	Legendary Creature — Vampire Soldier
@@ -413,7 +411,6 @@ Ol' Buzzbark	ust	134	Owned	~~	Non-foil	2	G,R	~~	~~	Legendary Creature — Goblin
 Doomed Artisan	c19	3	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Artificer
 Dream Eater	grn	38	Owned	~~	Non-foil	6	U	~~	~~	Creature — Nightmare Sphinx
 Thorn Mammoth	eld	323	Owned	~~	Non-foil	7	G	~~	~~	Creature — Elephant
-Dream Eater	grn	38	Owned	~~	Non-foil	6	U	~~	~~	Creature — Nightmare Sphinx
 Niv-Mizzet, Parun	clb	851	Owned	~~	Non-foil	6	R,U	~~	~~	Legendary Creature — Dragon Wizard
 The Royal Scions	eld	199	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Planeswalker — Will Rowan
 Nicol Bolas, Dragon-God	med	WS6	Owned	~~	Non-foil	5	B,R,U	~~	~~	Legendary Planeswalker — Bolas
@@ -679,10 +676,7 @@ Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
-Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
 Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
-Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
-Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -703,6 +697,12 @@ Trudge Garden	c21	69	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voice of the Blessed	vow	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hogaak, Arisen Necropolis	mh1	202	Owned	occasional	Non-foil	7	B,G	Hybrid	~~	Legendary Creature — Avatar
 Accorder Paladin	mbs	1	Not Owned	humans,tokens,wide,aggrocontrol,u2.0,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Knight
+Nezumi Graverobber	chk	129	Owned	core,rogues,graveyard,manasink,reanimator,aggro,control	Non-foil	2	B	~~	~~	Creature — Rat Rogue
+Sepulcher Ghoul	afr	118	Owned	core,sacrifice,zombies,aggro	Non-foil	2	B	~~	~~	Creature — Zombie
+Archon of Justice	m12	6	Owned	core,ramp,fliers,control,sacrifice	Non-foil	5	W	~~	~~	Creature — Archon
+Warden of the Woods	m21	213	Owned	~~	Non-foil	6	G	~~	~~	Creature — Treefolk
+Reveillark	mma	26	Owned	~~	Non-foil	5	W	~~	~~	Creature — Elemental
+Cradle of Vitality	ala	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

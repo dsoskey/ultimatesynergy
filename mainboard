@@ -37,7 +37,6 @@ Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,gravey
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
 Time of Ice	dom	70	Not Owned	tappers,tappers_payoff,aggrocontrol,u4.4,core,aggro,control	Non-foil	4	U	~~	~~	Enchantment — Saga
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,humans,graveyard,wide,aggrocontrol,u2.60,occasional	Non-foil	1	B	~~	~~	Creature — Human Warrior
-Cryptbreaker	emn	86	Not Owned	zombies,graveyard,reanimator,tokens,wide,tribal_payoff,u2.98,smoothing,core,manasink,control	Non-foil	1	B	~~	~~	Creature — Zombie
 Kitesail Freebooter	xln	110	Not Owned	humans,fliers,evasion,aggrocontrol,u3.4,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Pirate
 Oona's Prowler	lrw	133	Not Owned	fliers,graveyard,evasion,aggrocontrol,u2.0,core,rogues,aggro	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
@@ -136,7 +135,6 @@ Saheeli, Sublime Artificer	war	234	Owned	artifacts,counters,spells,tokens,occasi
 Soul Warden	mm3	24	Owned	occasional	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Akroma's Vengeance	c20	74	Owned	occasional	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
-Archon of Justice	m12	6	Owned	core,ramp,fliers,control,sacrifice	Non-foil	5	W	~~	~~	Creature — Archon
 Balance	ema	2	Owned	occasional	Non-foil	2	W	~~	~~	Sorcery
 Decree of Justice	c20	85	Owned	occasional	Non-foil	4	W	~~	~~	Sorcery
 Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Beast
@@ -195,7 +193,6 @@ Infest	cn2	139	Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
 Innocent Blood	e02	19	Owned	occasional	Non-foil	1	B	~~	~~	Sorcery
 Last Gasp	rav	93	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
 Necromancy	vis	64	Owned	core,reanimator,graveyard	Non-foil	3	B	~~	~~	Enchantment
-Nezumi Graverobber	chk	129	Owned	core,rogues,graveyard,manasink,reanimator,aggro,control	Non-foil	2	B	~~	~~	Creature — Rat Rogue
 Reanimate	tmp	151	Owned	core,graveyard,spells,lifegain,reanimator,aggro	Non-foil	1	B	~~	~~	Sorcery
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
@@ -432,7 +429,6 @@ Ghost Council of Orzhova	mm2	176	Owned	occasional	Non-foil	4	B,W	~~	~~	Legendary
 Soulknife Spy	afr	75	Owned	core,elves,aggrocontrol,aggro	Non-foil	3	U	~~	~~	Creature — Elf Rogue
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
-Sepulcher Ghoul	afr	118	Owned	core,sacrifice,zombies,aggro	Non-foil	2	B	~~	~~	Creature — Zombie
 Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control	Non-foil	6	R	~~	~~	Sorcery
 Cave of the Frost Dragon	afr	253	Owned	core,manasink,fliers	Non-foil	0	W	~~	~~	Land
 Hall of Storm Giants	afr	257	Owned	core,manasink	Non-foil	0	U	~~	~~	Land
@@ -501,7 +497,6 @@ Immersturm Skullcairn	khm	263	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Rune of Sustenance	khm	25	Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura Rune
 Rise of the Dread Marn	khm	107	Owned	~~	Non-foil	3	B	~~	~~	Instant
 Gnottvold Slumbermound	khm	258	Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Warden of the Woods	m21	213	Owned	~~	Non-foil	6	G	~~	~~	Creature — Treefolk
 Gates of Istfell	khm	256	Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Axgard Armory	khm	250	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Surtland Frostpyre	khm	271	Owned	~~	Non-foil	0	R,U	~~	~~	Land
@@ -789,7 +784,6 @@ Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Tezzeret's Gambit	cm2	51	Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
 Umara Mystic	znr	238	Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
-Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Dryad Arbor	tsr	277	Owned	~~	Non-foil	0	G	~~	~~	Land Creature — Forest Dryad
 Luminarch Aspirant	ncc	205	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	ori	166	Owned	~~	Non-foil	1	R	~~	~~	Instant
@@ -843,7 +837,7 @@ Showdown of the Skalds	khm	229	Owned	~~	Non-foil	4	R,W	~~	~~	Enchantment — Sag
 Grumgully, the Generous	clb	847	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Goblin Shaman
 Thryx, the Sudden Storm	thb	76	Owned	~~	Non-foil	5	U	~~	~~	Legendary Creature — Elemental Giant
 Kiora's Follower	ddo	52	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk
-Tradewind Rider	tmp	98	Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
+Tradewind Rider	vma	98	Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
 Searing Blaze	wwk	90	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Chandra, Acolyte of Flame	m20	126	Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswalker — Chandra
 Gilded Goose	eld	160	Owned	~~	Non-foil	1	G	~~	~~	Creature — Bird
@@ -970,7 +964,6 @@ Soul-Scar Mage	akh	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodline Pretender	khm	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crib Swap	cm2	22	Owned	~~	Non-foil	3	W	~~	~~	Tribal Instant — Shapeshifter
-Reveillark	mma	26	Owned	~~	Non-foil	5	W	~~	~~	Creature — Elemental
 Animating Faerie	eld	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kari Zev, Skyship Raider	plst	AER-87	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Fae of Wishes	eld	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1028,6 +1021,8 @@ Celestial Unicorn	afr	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Marauding Blight-Priest	znr	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twinblade Paladin	m20	285	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dina, Soul Steeper	stx	178	Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
+Titan of Industry	snc	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
