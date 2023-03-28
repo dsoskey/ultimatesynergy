@@ -333,7 +333,7 @@ Trostani Discordant	scd	253	Owned	~~	Non-foil	5	G,W	~~	~~	Legendary Creature —
 You Happen On a Glade	afr	214	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Warden of the Woods	m21	213	Owned	~~	Non-foil	6	G	~~	~~	Creature — Treefolk
 Fully Grown	iko	154	Owned	~~	Non-foil	3	G	~~	~~	Instant
-Storm the Festival	dbl	200	Owned	~~	Non-foil	6	G	~~	~~	Sorcery
+Storm the Festival	mid	364	Owned	~~	Non-foil	6	G	~~	~~	Sorcery
 Ominous Roost	dbl	65	Owned	~~	Non-foil	3	U	~~	~~	Enchantment
 Grim Backwoods	dka	156	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Bojuka Bog	c20	259	Owned	~~	Non-foil	0	B	~~	~~	Land
@@ -659,7 +659,6 @@ Gempalm Incinerator	dmr	122	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin
 Rimrock Knight	eld	137	Owned	heroic,spells,wide,flash,core,aggro	Non-foil	2	R	~~	~~	Creature — Dwarf Knight
 Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
 Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
-Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Archangel of Thune	m14	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -760,6 +759,22 @@ Flip the Switch	mid	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deny the Witch	40k	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Undermine	inv	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	~~	Non-foil	2	U	~~	~~	Instant
+Arrogant Wurm	vma	195	Owned	core,graveyard,aggro	Non-foil	5	G	~~	~~	Creature — Wurm
+Obstinate Baloth	m11	188	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skycloud Expanse	nec	177	Owned	~~	Non-foil	0	W,U	~~	~~	Land
+Darkwater Catacombs	c19	238	Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Shadowblood Ridge	ncc	426	Owned	~~	Non-foil	0	B,R	~~	~~	Land
+Mossfire Valley	nec	171	Owned	~~	Non-foil	0	G,R	~~	~~	Land
+Mystic Gate	shm	277	Owned	~~	Non-foil	0	U,W	~~	~~	Land
+Sunken Ruins	2xm	326	Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Graven Cairns	2xm	320	Owned	~~	Non-foil	0	B,R	~~	~~	Land
+Fetid Heath	ncc	401	Owned	~~	Non-foil	0	W,B	~~	~~	Land
+Cascade Bluffs	a25	237	Owned	~~	Non-foil	0	R,U	~~	~~	Land
+Rugged Prairie	2xm	325	Owned	~~	Non-foil	0	R,W	~~	~~	Land
+Crystal Grotto	dmu	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hall of Oracles	stx	267	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Guildmages' Forum	grn	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cabal Coffers	tor	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery

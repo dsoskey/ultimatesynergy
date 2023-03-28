@@ -999,16 +999,16 @@ Wizard's Retort	dom	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Fracture	eve	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	grn	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flooded Strand	ons	316	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Polluted Delta	ons	321	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodstained Mire	ons	313	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wooded Foothills	ons	330	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Windswept Heath	ons	328	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Marsh Flats	zen	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Scalding Tarn	zen	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Verdant Catacombs	zen	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arid Mesa	zen	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Misty Rainforest	zen	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
+Polluted Delta	ktk	239	Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
+Bloodstained Mire	ktk	230	Owned	~~	~~	"""~~"""	B,R	~~	~~	~~
+Wooded Foothills	ktk	249	Owned	~~	~~	"""~~"""	R,G	~~	~~	~~
+Windswept Heath	ktk	248	Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
+Marsh Flats	mh2	248	Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
+Scalding Tarn	mh2	254	Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
+Verdant Catacombs	mh2	260	Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
+Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
+Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Cave of Temptation	mh1	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
