@@ -408,7 +408,6 @@ Fable of the Mirror-Breaker	neo	141	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — 
 Minsc & Boo, Timeless Heroes	clb	285	Owned	~~	Non-foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
 Escape to the Wilds	eld	189	Owned	~~	Non-foil	5	G,R	~~	~~	Sorcery
 Spider Spawning	2x2	158	Owned	~~	Non-foil	5	B,G	~~	~~	Sorcery
-Loran of the Third Path	bro	12	Owned	~~	Non-foil	3	W	~~	~~	Legendary Creature — Human Artificer
 Tireless Tracker	sld	711	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Tireless Tracker	sld	711	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Gale, Waterdeep Prodigy	clb	72	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Human Wizard
@@ -647,7 +646,6 @@ Azorius Guildmage	gk2	9	Owned	occasional	Non-foil	2	U,W	~~	~~	Creature — Vedal
 Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
 Supreme Verdict	ima	210	Owned	occasional	Non-foil	4	U,W	~~	~~	Sorcery
 Terastodon	wwk	115	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Waterfront Bouncer	vma	102	Owned	occasional	Non-foil	2	U	~~	~~	Creature — Merfolk Spellshaper
 Thrashing Brontodon	rix	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Poppet Stitcher	mid	71	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Deluge	mid	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -656,7 +654,6 @@ Champion of the Perished	mid	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Meathook Massacre	mid	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Augur of Autumn	mid	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moltensteel Dragon	nph	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Eternal Dragon	c20	88	Owned	ramp,graveyard,smoothing,fliers,control,reanimator,occasional	Non-foil	7	W	~~	~~	Creature — Dragon Spirit
 Broodmate Dragon	ala	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bone Dragon	m19	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlord Silumgar	dtk	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -666,7 +663,6 @@ Abzan Falconer	cm2	15	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Sol
 Loran of the Third Path	bro	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege Veteran	bro	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Proxy	bro	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Abzan Falconer	ktk	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashnod's Harvester	bro	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nezumi Prowler	neo	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -679,6 +675,8 @@ Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Scavenged Brawler	brc	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Birthing Pod	nph	104	Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
+Purphoros's Intervention	thb	151	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

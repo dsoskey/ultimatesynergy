@@ -2863,3 +2863,12 @@ Timestamp	Board	ChangeType	Name
 2023-03-28T02:22:37.099+00:00	maybeboard	add	Simian Simulacrum
 2023-03-28T02:22:37.099+00:00	maybeboard	add	Suffocating Blast
 2023-03-28T02:22:37.099+00:00	maybeboard	add	Scavenged Brawler
+2023-03-28T02:42:23.273+00:00	mainboard	remove	Skullcrack
+2023-03-28T02:42:23.273+00:00	mainboard	remove	Birthing Pod
+2023-03-28T02:42:23.273+00:00	mainboard	remove	Purphoros's Intervention
+2023-03-28T02:42:23.273+00:00	maybeboard	remove	Abzan Falconer
+2023-03-28T02:42:23.273+00:00	maybeboard	remove	Eternal Dragon
+2023-03-28T02:42:23.273+00:00	maybeboard	remove	Waterfront Bouncer
+2023-03-28T02:42:23.273+00:00	maybeboard	remove	Loran of the Third Path
+2023-03-28T02:42:23.273+00:00	maybeboard	add	Birthing Pod
+2023-03-28T02:42:23.273+00:00	maybeboard	add	Purphoros's Intervention

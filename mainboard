@@ -222,7 +222,6 @@ Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
 Krenko, Mob Boss	ddt	52	Owned	goblins,tokens,wide,occasional	Non-foil	4	R	~~	~~	Legendary Creature — Goblin Warrior
 Guttersnipe	c19	145	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Pulse of the Forge	dst	66	Owned	occasional	Non-foil	3	R	~~	~~	Instant
-Purphoros's Intervention	thb	151	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Satyr Firedancer	bng	108	Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
 Young Pyromancer	uma	155	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
@@ -230,7 +229,6 @@ Zo-Zu the Punisher	dds	41	Owned	occasional	Non-foil	3	R	~~	~~	Legendary Creature
 Keeper of Fables	eld	163	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Cat
 Dryad Greenseeker	m19	178	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Path of Discovery	rix	142	Owned	occasional	Non-foil	4	G	~~	~~	Enchantment
-Birthing Pod	nph	104	Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
 Blossoming Defense	kld	146	Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
 Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
@@ -940,7 +938,6 @@ Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slippery Bogle	eve	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sure Strike	bfz	157	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snakeskin Veil	khm	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Skullcrack	gtc	106	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firespout	shm	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Vraska, Golgari Queen	grn	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
