@@ -142,7 +142,6 @@ Ruin Raider	xln	118	Owned	~~	Non-foil	3	B	~~	~~	Creature — Orc Pirate
 Master of Waves	ddt	1	Owned	~~	Non-foil	4	U	~~	~~	Creature — Merfolk Wizard
 Rhythm of the Wild	nec	142	Owned	~~	Non-foil	3	G,R	~~	~~	Enchantment
 Baleful Mastery	stx	64	Owned	~~	Non-foil	4	B	~~	~~	Instant
-Supreme Verdict	2x2	280	Owned	~~	Non-foil	4	U,W	~~	~~	Sorcery
 Massacre Wurm	m21	316	Owned	~~	Non-foil	6	B	~~	~~	Creature — Phyrexian Wurm
 Void Winnower	pbfz	17p	Owned	~~	Non-foil	9	~~	~~	~~	Creature — Eldrazi
 Pestilence	brb	49	Owned	~~	Non-foil	4	B	~~	~~	Enchantment
@@ -303,7 +302,6 @@ Elspeth's Nightmare	thb	91	Owned	~~	Non-foil	3	B	~~	~~	Enchantment — Saga
 Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Command the Dreadhorde	war	82	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
 Slayer of the Wicked	isd	32	Owned	~~	Non-foil	4	W	~~	~~	Creature — Human Soldier
-Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Profane Memento	m15	226	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Retreat to Hagra	bfz	121	Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Simic Manipulator	gtc	50	Owned	~~	Non-foil	3	U	~~	~~	Creature — Mutant Wizard
@@ -317,7 +315,6 @@ Wayfarer's Bauble	40k	262	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
 Gonti, Lord of Luxury	jmp	240	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Priest of Forgotten Gods	rna	83	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
-Midnight Reaper	scd	91	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Phyrexian Rebirth	mbs	15	Owned	~~	Non-foil	6	W	~~	~~	Sorcery
 Read the Bones	ddp	56	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Night's Whisper	ddm	68	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
@@ -510,7 +507,7 @@ Ghirapur Aether Grid	ori	148	Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
 Boots of Speed	afr	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Portable Hole	afr	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urza, Lord High Artificer	mh1	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tezzeret, Betrayer of Flesh	neo	304	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tezzeret, Betrayer of Flesh	neo	84	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hapless Researcher	jud	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emry, Lurker of the Loch	eld	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -635,7 +632,6 @@ Thrashing Brontodon	rix	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Poppet Stitcher	mid	71	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Deluge	mid	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Champion of the Flame	dom	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Champion of the Perished	mid	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Meathook Massacre	mid	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Augur of Autumn	mid	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moltensteel Dragon	nph	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -703,6 +699,15 @@ Archon of Justice	m12	6	Owned	core,ramp,fliers,control,sacrifice	Non-foil	5	W	~~
 Warden of the Woods	m21	213	Owned	~~	Non-foil	6	G	~~	~~	Creature — Treefolk
 Reveillark	mma	26	Owned	~~	Non-foil	5	W	~~	~~	Creature — Elemental
 Cradle of Vitality	ala	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Night of Souls' Betrayal	chk	133	Owned	~~	Non-foil	4	B	~~	~~	Legendary Enchantment
+Dance of the Dead	ice	118	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
+Rhox	10e	291	Owned	occasional	Non-foil	6	G	~~	~~	Creature — Rhino Beast
+Rampaging Baloths	c14	212	Owned	~~	Non-foil	6	G	~~	~~	Creature — Beast
+Noosegraf Mob	emn	98	Not Owned	counters,zombies,tokens,wide,blink,stax,u4.6.3,reanimator,occasional	Non-foil	6	B	~~	~~	Creature — Zombie
+Visara the Dreadful	ema	114	Owned	occasional	Non-foil	6	B	~~	~~	Legendary Creature — Gorgon
+Piper of the Swarm	eld	100	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Human Warlock
+Oona's Prowler	lrw	133	Not Owned	fliers,graveyard,evasion,aggrocontrol,u2.0,core,rogues,aggro	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
+Ripjaw Raptor	xln	203	Not Owned	dinosaurs,enrage,ramp,pingers,u3.4,occasional	Non-foil	4	G	~~	~~	Creature — Dinosaur
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
