@@ -720,6 +720,25 @@ Gluttonous Slug	mh1	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Righteous Cause	cmd	29	Owned	~~	Non-foil	5	W	~~	~~	Enchantment
 Promise of Bunrei	a25	30	Owned	core,sacrifice,tokens,aggro	Non-foil	3	W	~~	~~	Enchantment
 Faith's Fetters	rav	16	Not Owned	lifegain,artifact_removal,control,u2.0,removal,core	Non-foil	4	W	~~	~~	Enchantment — Aura
+Steel Leaf Champion	dom	182	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Elf Knight
+Wharf Infiltrator	emn	80	Owned	occasional	Non-foil	2	U	~~	~~	Creature — Human Horror
+Curious Obsession	rix	35	Owned	core,aggrocontrol,heroic,fliers,tappers,aggro	Non-foil	1	U	~~	~~	Enchantment — Aura
+Lethal Scheme	ncc	36	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Security Bypass	snc	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Throne of Geth	som	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Courage in Crisis	war	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drown in Ichor	one	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vat Emergence	one	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloom Hulk	war	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serum Snare	one	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mesmerizing Dose	one	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Everythingamajig	ust	147a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memory Lapse	ema	60	Owned	occasional	Non-foil	2	U	~~	~~	Instant
+Negate	m15	71	Not Owned	flash,spells,aggrocontrol,u2.0,occasional	Non-foil	2	U	~~	~~	Instant
+Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foil	3	U	~~	~~	Instant
+Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
+Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
+Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

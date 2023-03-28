@@ -26,7 +26,6 @@ Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	
 Murmuring Mystic	grn	45	Not Owned	wizards,humans,spells,tokens,enrage,evasion,u4.6.1,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,u3.8,core,aggro	Non-foil	1	U	~~	~~	Instant
 Into the Roil	zen	48	Not Owned	spells,flash,aggrocontrol,u2.74,u4.7,core,aggro,control	Non-foil	2	U	~~	~~	Instant
-Negate	m15	71	Not Owned	flash,spells,aggrocontrol,u2.0,occasional	Non-foil	2	U	~~	~~	Instant
 Thirst for Knowledge	ddf	68	Not Owned	artifacts,graveyard,flash,reanimator,spells,aggrocontrol,u2.0,smoothing,core,control,aggro	Non-foil	3	U	~~	~~	Instant
 Chart a Course	xln	48	Not Owned	graveyard,spells,fliers,reanimator,aggrocontrol,u3.3,smoothing,core,aggro	Non-foil	2	U	~~	~~	Sorcery
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
@@ -113,7 +112,6 @@ Anger	plst	UMA-122	Not Owned	graveyard,reanimator,u2.61,u4.8,core,aggro	Non-foil
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	~~	~~	~~	Land
 Putrefy	rav	221	Not Owned	spells,flash,artifact_removal,u2.0,u4.8,removal,core,aggro,control	Non-foil	3	B,G	~~	~~	Instant
 Tomebound Lich	m20	219	Not Owned	zombies,wizards,graveyard,lifegain,aggrocontrol,blink,u4.8,smoothing,core,aggro,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
-Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
 Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,aggro	Non-foil	2	W	~~	~~	Creature — Spirit
 Thought Courier	5dn	38	Not Owned	humans,wizards,graveyard,control,u4.9,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Overseer of the Damned	e01	36	Not Owned	ramp,reanimator,zombies,control,fliers,u4.9,removal,blink,occasional	Non-foil	7	B	~~	~~	Creature — Demon
@@ -156,18 +154,14 @@ Cryptic Command	ima	48	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Rite of Replication	c15	105	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
 Baral, Chief of Compliance	aer	28	Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
-Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foil	3	U	~~	~~	Instant
-Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Fact or Fiction	cmr	634	Owned	flash,spells,graveyard,core,aggro,control	Non-foil	4	U	~~	~~	Instant
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
-Memory Lapse	ema	60	Owned	occasional	Non-foil	2	U	~~	~~	Instant
 Misdirection	ddt	15	Owned	occasional	Non-foil	5	U	~~	~~	Instant
 Pendrell Flux	usg	87	Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
 Psionic Blast	tsb	30	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
 Repulse	cn2	119	Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~	~~	Instant
-Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Startled Awake	soi	88	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
 The Mirari Conjecture	dom	57	Owned	occasional	Non-foil	5	U	~~	~~	Enchantment — Saga
@@ -232,7 +226,6 @@ Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
-Steel Leaf Champion	dom	182	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Elf Knight
 Moment's Peace	ody	251	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
@@ -304,14 +297,12 @@ Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	~~	~~	Land
 Pteramander	rna	47	Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Kokusho, the Evening Star	mma	89	Owned	core,ramp,fliers,control,lifegain,sacrifice	Non-foil	6	B	~~	~~	Legendary Creature — Dragon Spirit
 Meadowboon	mor	17	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
-Wharf Infiltrator	emn	80	Owned	occasional	Non-foil	2	U	~~	~~	Creature — Human Horror
 Frantic Search	dmr	51	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Animate Dead			Not Owned	occasional	Non-foil	2	B	~~	~~	Enchantment — Aura
 Diabolic Servitude	c15	120	Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
 Irencrag Pyromancer	eld	128	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Human Wizard
 Reckless Charge	ema	144	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Ghostly Pilferer	m21	52	Owned	core,graveyard,aggrocontrol,rogues,tappers,manasink,aggro	Non-foil	2	U	~~	~~	Creature — Spirit Rogue
-Curious Obsession	rix	35	Owned	core,aggrocontrol,heroic,fliers,tappers,aggro	Non-foil	1	U	~~	~~	Enchantment — Aura
 Feed the Swarm	znr	102	Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
 Waker of Waves	m21	84	Owned	core,reanimator,graveyard,control,ramp	Non-foil	7	U	~~	~~	Creature — Whale
 Robber of the Rich	eld	138	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
@@ -1011,6 +1002,10 @@ Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smell Fear	mh2	173	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Scurry Oak	mh2	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Renegade Krasis	dgm	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Change of Plans	ncc	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obscura Confluence	ncc	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Carnivorous Canopy	one	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reject Imperfection	one	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
