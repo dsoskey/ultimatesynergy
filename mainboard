@@ -67,11 +67,10 @@ Galvanic Blast	som	91	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,agg
 Brimstone Volley	isd	132	Not Owned	flash,sacrifice,spells,burn,u2.0,u2.92,removal,core,aggro,control	Non-foil	3	R	~~	~~	Instant
 Risk Factor	grn	113	Not Owned	burn,spells,graveyard,flash,aggrocontrol,u4.6.4,reanimator,core,aggro	Non-foil	3	R	~~	~~	Instant
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
-Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
 Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
 Birds of Paradise	plst	CN2-176	Not Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Llanowar Elves	m11	184	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
+Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
 Woodland Champion	m20	205	Not Owned	tokens,elves,u4.7.7,core,aggro	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,elves,counters_payoff,u4.7,core,aggro	Non-foil	3	G	~~	~~	Creature — Elf Druid
@@ -301,7 +300,6 @@ Pyromancer's Goggles	ori	236	Owned	occasional	Non-foil	5	R	~~	~~	Legendary Artif
 Bonesplitter	mrd	146	Owned	core,artifacts,heroic,aggro,aggrocontrol,manasink,fliers	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Epochrasite	c14	238	Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Icy Manipulator	dom	219	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Mortarpod	mm2	222	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Nevinyrral's Disk	c17	217	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
@@ -313,7 +311,6 @@ Spellskite	mm2	230	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact Creature — Ho
 Sunforger	c16	275	Owned	occasional	Non-foil	3	R,W	~~	~~	Artifact — Equipment
 Trading Post	cm2	225	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Untethered Express	aer	179	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact — Vehicle
-Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Castle Embereth	eld	239	Owned	core,wide,manasink,tokens	Non-foil	0	R	~~	~~	Land
 Castle Vantress	eld	242	Owned	core,manasink,control	Non-foil	0	U	~~	~~	Land
 Ghitu Encampment	ddn	33	Owned	occasional	Non-foil	0	R	~~	~~	Land
@@ -401,7 +398,6 @@ Blazing Rootwalla	mh2	115	Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-f
 Fire Prophecy	iko	116	Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
 Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
-Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
 Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Arrogant Wurm	vma	195	Owned	core,graveyard,aggro	Non-foil	5	G	~~	~~	Creature — Wurm
@@ -483,7 +479,6 @@ Misty Rainforest	mh2	250	Owned	core,gold_land	Non-foil	0	U,G	~~	~~	Land
 Scalding Tarn	mh2	254	Not Owned	core,gold_land	Non-foil	0	U,R	~~	~~	Land
 Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
-Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Emergent Sequence	stx	129	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Blasphemous Act	ncc	264	Owned	~~	Non-foil	9	R	~~	~~	Sorcery
@@ -530,7 +525,6 @@ Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Skemfar Elderhall	khm	268	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Righteous Cause	cmd	29	Owned	~~	Non-foil	5	W	~~	~~	Enchantment
 Doomskar	khm	9	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
-Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Weatherseed Treefolk	ulg	116	Owned	~~	Non-foil	5	G	~~	~~	Creature — Treefolk
 Nine Lives	m21	28	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Manriki-Gusari	sok	156	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -1019,6 +1013,10 @@ Phyrexian Dragon Engine	bro	163a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Loran of the Third Path	bro	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lunarch Veteran	mid	27	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
+Ornithopter of Paradise	mh2	232	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Thopter
+Arcbound Crusher	dst	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Utopia Sprawl	dis	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Song of the Dryads	c14	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

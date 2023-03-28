@@ -4,9 +4,8 @@ Nahiri, Heir of the Ancients	znr	230	Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Pla
 Nissa of Shadowed Boughs	znr	231	Owned	~~	Non-foil	4	B,G	~~	~~	Legendary Planeswalker — Nissa
 Brushfire Elemental	znr	221	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Elemental
 Containment Construct	neo	243	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Lodestone Golem	brr	29	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
+Lodestone Golem	mm2	219	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
 Silent Arbiter	cns	204	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Construct
-Hollow One	hou	163	Owned	~~	Non-foil	5	~~	~~	~~	Artifact Creature — Golem
 Platinum Angel	v15	13	Owned	~~	Non-foil	7	~~	~~	~~	Artifact Creature — Angel
 Ancient Stone Idol	c18	53	Owned	~~	Non-foil	10	~~	~~	~~	Artifact Creature — Golem
 Jinxed Idol	tmp	293	Owned	~~	Non-foil	2	~~	~~	~~	Artifact
@@ -70,7 +69,6 @@ Nearheath Pilgrim	avr	31	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Shadowstorm Vizier	akh	206	Owned	~~	Non-foil	2	B,U	~~	~~	Creature — Human Cleric
 Geist of the Lonely Vigil	emn	27	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
 Arcus Acolyte	mh2	185	Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Human Cleric Archer
-Stonework Packbeast	znr	255	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
 Hallowed Priest	anb	9	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Tourach, Dread Cantor	mh2	102	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Righteous Valkyrie	khm	24	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
@@ -147,7 +145,7 @@ Rhythm of the Wild	nec	142	Owned	~~	Non-foil	3	G,R	~~	~~	Enchantment
 Baleful Mastery	stx	64	Owned	~~	Non-foil	4	B	~~	~~	Instant
 Supreme Verdict	2x2	280	Owned	~~	Non-foil	4	U,W	~~	~~	Sorcery
 Massacre Wurm	m21	316	Owned	~~	Non-foil	6	B	~~	~~	Creature — Phyrexian Wurm
-Void Winnower	sld	1075	Owned	~~	Non-foil	9	~~	~~	~~	Creature — Eldrazi
+Void Winnower	pbfz	17p	Owned	~~	Non-foil	9	~~	~~	~~	Creature — Eldrazi
 Pestilence	brb	49	Owned	~~	Non-foil	4	B	~~	~~	Enchantment
 Buried Alive	cm2	59	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Torment of Hailfire	hou	77	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
@@ -376,8 +374,6 @@ Deeproot Champion	plst	XLN-185	Owned	~~	Non-foil	2	G	~~	~~	Creature — Merfolk 
 Bloodline Shaman	ons	249	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Wizard Shaman
 Majestic Myriarch	c20	182	Owned	~~	Non-foil	5	G	~~	~~	Creature — Chimera
 Graveshifter	mh1	94	Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
-Universal Automaton	mh1	235	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Shapeshifter
-Bloodline Pretender	j22	757	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Shapeshifter
 Moritte of the Frost	khm	223	Owned	~~	Non-foil	5	G,U	~~	~~	Legendary Snow Creature — Shapeshifter
 Changeling Titan	lrw	200	Owned	~~	Non-foil	5	G	~~	~~	Creature — Shapeshifter
 Shapesharer	lrw	85	Owned	~~	Non-foil	2	U	~~	~~	Creature — Shapeshifter
@@ -425,7 +421,6 @@ Nicol Bolas, Dragon-God	med	WS6	Owned	~~	Non-foil	5	B,R,U	~~	~~	Legendary Planes
 Blast Zone	slu	504	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Murktide Regent	mh2	52	Not Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
-Ornithopter of Paradise	mh2	232	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Thopter
 Thundermaw Hellkite	scd	164	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Oath of Nissa	ogw	140	Owned	~~	Non-foil	1	G	~~	~~	Legendary Enchantment
 Abundant Harvest	mh2	147	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
@@ -473,7 +468,7 @@ Fiery Confluence	c15	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beast Within	nph	103	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Orchard	chk	276	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Zuran Orb	ice	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zuran Orb	mh2	300	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flagstones of Trokair	tsp	272	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Weaponcraft Enthusiast	kld	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Gift	mh1	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -616,15 +611,13 @@ The Reality Chip	neo	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	kld	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Noxious Gearhulk	kld	96	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kuldotha Forgemaster	som	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Steel Overseer	m11	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stonecoil Serpent	eld	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Millikin	ody	302	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angel of the Ruins	c21	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Containment Construct	neo	243	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bronze Guardian	c21	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duplicant	mrd	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethersworn Canonist	ala	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Junk Diver	uds	132	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Junk Diver	c14	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	c18	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief of the Foundry	ori	225	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Enthusiastic Mechanaut	neo	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -639,7 +632,6 @@ Filigree Familiar	kld	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golden Guardian	rix	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Virus Beetle	neo	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necron Deathmark	40k	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arcbound Crusher	dst	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expressive Iteration	stx	186	Owned	core,spells,smoothing,aggro,aggrocontrol,control	Non-foil	2	U,R	~~	~~	Sorcery
 Azorius Guildmage	gk2	9	Owned	occasional	Non-foil	2	U,W	~~	~~	Creature — Vedalken Wizard
 Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
@@ -672,13 +664,23 @@ Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
-Scavenged Brawler	brc	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scavenged Brawler	brc	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	nph	104	Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
 Purphoros's Intervention	thb	151	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Reap the Past	mh1	211	Owned	occasional	Non-foil	2	G,R	~~	~~	Sorcery
 Squee, Goblin Nabob	c19	152	Owned	occasional	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Gempalm Incinerator	dmr	122	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin
 Rimrock Knight	eld	137	Owned	heroic,spells,wide,flash,core,aggro	Non-foil	2	R	~~	~~	Creature — Dwarf Knight
+Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
+Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
+Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
+Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
+Archangel of Thune	m14	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
+Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
+Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
