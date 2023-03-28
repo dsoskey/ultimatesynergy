@@ -160,7 +160,6 @@ Steel Overseer	ddf	44	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Constru
 Steel Overseer	ddf	44	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Neyali, Suns' Vanguard	onc	2	Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Creature — Human Rebel
 Park Heights Maverick	ncc	63	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Soldier
-Hostile Negotiations	bro	105	Owned	~~	Non-foil	4	B	~~	~~	Instant
 Draconic Destiny	bro	130	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Aura
 Mechanized Warfare	bro	139	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Gaea's Gift	bro	182	Owned	~~	Non-foil	2	G	~~	~~	Instant
@@ -567,7 +566,6 @@ Emerald Dragon	clb	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Naga	clb	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	eld	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sapphire Dragon	clb	94	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Monster Manual	clb	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tlincalli Hunter	clb	682	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Handed Axe	clb	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Lantern	clb	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -609,7 +607,6 @@ Etherium Sculptor	ala	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Manufactor	mh2	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Reality Chip	neo	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	kld	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Noxious Gearhulk	kld	96	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kuldotha Forgemaster	som	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stonecoil Serpent	eld	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Millikin	ody	302	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -681,6 +678,31 @@ Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equ
 Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
+Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
+Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
+Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
+Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
+Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
+Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Krosan Tusker	plst	DDU-14	Owned	reanimator,ramp,smoothing,occasional	Non-foil	7	G	~~	~~	Creature — Boar Beast
+Verdant Sun's Avatar	xln	213	Owned	~~	Non-foil	7	G	~~	~~	Creature — Dinosaur Avatar
+Jaddi Offshoot	bfz	176	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Nectarpot	znr	190	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elvish Mystic	m14	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fyndhorn Elves	ice	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Accomplished Alchemist	stx	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serra Ascendant	m11	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Castigate	gpt	106	Owned	occasional	Non-foil	2	B,W	~~	~~	Sorcery
+Cliffhaven Vampire	ogw	153	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hallowed Priest	anb	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serene Steward	bfz	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trudge Garden	c21	69	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voice of the Blessed	vow	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hogaak, Arisen Necropolis	mh1	202	Owned	occasional	Non-foil	7	B,G	Hybrid	~~	Legendary Creature — Avatar
+Accorder Paladin	mbs	1	Not Owned	humans,tokens,wide,aggrocontrol,u2.0,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Knight
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

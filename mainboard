@@ -2,7 +2,6 @@ Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	Type
 Champion of the Parish	isd	6	Not Owned	humans,blink,counters,wide,tribal_payoff,soldiers,u2.0,u3.9,occasional	Non-foil	1	W	~~	~~	Creature — Human Soldier
 Healer's Hawk	grn	14	Not Owned	fliers,lifegain,heroic,wide,evasion,aggrocontrol,u4.6.4,core,aggro,control	Non-foil	1	W	~~	~~	Creature — Bird
 Thraben Inspector	soi	44	Not Owned	humans,artifacts,flash,stax,blink,sacrifice,tokens,manasink,wide,soldiers,aggrocontrol,u2.87,smoothing,core,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Soldier
-Accorder Paladin	mbs	1	Not Owned	humans,tokens,wide,aggrocontrol,u2.0,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Knight
 Relic Seeker	ori	29	Not Owned	humans,artifacts,counters,tappers,soldiers,aggrocontrol,u2.0,u3.8,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Porcelain Legionnaire	nph	19	Not Owned	artifacts,soldiers,aggrocontrol,u2.0,occasional	Non-foil	2	~~	Colorless	~~	Artifact Creature — Soldier
 Attended Knight	m13	5	Not Owned	humans,blink,tokens,sacrifice,wide,stax,soldiers,u2.80,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Human Knight
@@ -258,7 +257,6 @@ Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specte
 Blightning	ala	156	Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
-Castigate	gpt	106	Owned	occasional	Non-foil	2	B,W	~~	~~	Sorcery
 Deathrite Shaman	gk1	59	Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
 Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
 Dreg Mangler	rtr	158	Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plant Zombie
@@ -375,7 +373,6 @@ Supernatural Stamina	akh	111	Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Mutilate	gvl	55	Owned	occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Affliction	mm2	84	Owned	occasional	Non-foil	3	B	~~	~~	Instant
 Primal Might	m21	197	Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
-Hogaak, Arisen Necropolis	mh1	202	Owned	occasional	Non-foil	7	B,G	Hybrid	~~	Legendary Creature — Avatar
 Arcbound Ravager	dst	100	Owned	core,artifacts,counters	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
 Ministrant of Obligation	rna	16	Owned	core,sacrifice,tokens,fliers,humans,control	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Thalia's Lieutenant	soi	43	Owned	core,humans,counters,aggro,tribal_payoff	Non-foil	2	W	~~	~~	Creature — Human Soldier
@@ -401,7 +398,6 @@ Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,c
 Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Arrogant Wurm	vma	195	Owned	core,graveyard,aggro	Non-foil	5	G	~~	~~	Creature — Wurm
-Krosan Tusker	plst	DDU-14	Owned	reanimator,ramp,smoothing,occasional	Non-foil	7	G	~~	~~	Creature — Boar Beast
 Farseek	dmc	133	Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Roar of the Wurm	dds	49	Owned	core,spells,tokens,ramp,graveyard,control	Non-foil	7	G	~~	~~	Sorcery
 Sky Hussar	dis	131	Owned	core,fliers,humans,twin,aggro	Non-foil	5	W,U	~~	~~	Creature — Human Knight
@@ -556,7 +552,6 @@ Kulrath Knight	shm	190	Owned	~~	Non-foil	5	B,R	~~	~~	Creature — Elemental Knig
 Ojutai's Breath	ima	68	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Take Heart	jmp	134	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Contagion	me1	64	Owned	~~	Non-foil	5	B	~~	~~	Instant
-Verdant Sun's Avatar	xln	213	Owned	~~	Non-foil	7	G	~~	~~	Creature — Dinosaur Avatar
 Shining Shoal	bok	21	Owned	~~	Non-foil	2	W	~~	~~	Instant — Arcane
 Rushing River	pls	30	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Shower of Coals	ody	221	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
@@ -1017,6 +1012,22 @@ Ornithopter of Paradise	mh2	232	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature �
 Arcbound Crusher	dst	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	dis	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	c14	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Valentin, Dean of the Vein	stx	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spectrum Sentinel	bro	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pest Infestation	c21	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodthirsty Aerialist	m20	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Researcher	stx	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silversmote Ghoul	m21	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Noxious Gearhulk	kld	96	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tivash, Gloom Summoner	c21	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Righteous Valkyrie	khm	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Archangel of Thune	m14	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ajani, Strength of the Pride	m20	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodbond Vampire	bfz	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Celestial Unicorn	afr	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Light of Promise	m21	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marauding Blight-Priest	znr	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Twinblade Paladin	m20	285	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
