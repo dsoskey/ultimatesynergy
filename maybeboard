@@ -127,7 +127,6 @@ Flux Channeler	war	52	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Master of Etherium	2xm	57	Owned	~~	Non-foil	3	U	~~	~~	Artifact Creature — Vedalken Wizard
 Ichormoon Gauntlet	one	56	Owned	~~	Non-foil	3	U	~~	~~	Artifact
 Ezuri, Stalker of Spheres	one	201	Owned	~~	Non-foil	4	G,U	~~	~~	Legendary Creature — Phyrexian Elf Warrior
-Smell Fear	mh2	173	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Cauldron Familiar	jmp	216	Owned	~~	Non-foil	1	B	~~	~~	Creature — Cat
 Howling Mine	brr	83	Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Goblin Wizardry	m21	148	Owned	~~	Non-foil	4	R	~~	~~	Instant
@@ -328,7 +327,6 @@ Pulse of Murasa	uma	179	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dimir Charm	gk1	11	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
 Licia, Sanguine Tribune	c17	40	Owned	~~	Non-foil	8	B,R,W	~~	~~	Legendary Creature — Vampire Soldier
 Manaform Hellkite	dbl	437	Owned	~~	Non-foil	4	R	~~	~~	Creature — Dragon
-Edgar Markov	oc17	36	Owned	~~	Non-foil	6	B,R,W	~~	~~	Legendary Creature — Vampire Knight
 Goldspan Dragon	j22	550	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Seize the Storm	j22	598	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 You Find Some Prisoners	afr	169	Owned	~~	Non-foil	2	R	~~	~~	Instant
@@ -708,6 +706,20 @@ Visara the Dreadful	ema	114	Owned	occasional	Non-foil	6	B	~~	~~	Legendary Creatu
 Piper of the Swarm	eld	100	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Human Warlock
 Oona's Prowler	lrw	133	Not Owned	fliers,graveyard,evasion,aggrocontrol,u2.0,core,rogues,aggro	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
 Ripjaw Raptor	xln	203	Not Owned	dinosaurs,enrage,ramp,pingers,u3.4,occasional	Non-foil	4	G	~~	~~	Creature — Dinosaur
+Decree of Justice	c20	85	Owned	occasional	Non-foil	4	W	~~	~~	Sorcery
+Varina, Lich Queen	c18	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+K'rrik, Son of Yawgmoth	c19	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wall of Souls	tpr	123	Owned	~~	Non-foil	2	B	~~	~~	Creature — Wall
+Audacious Thief	m20	84	Owned	core,humans,rogues,tappers,aggrocontrol,heroic,aggro	Non-foil	3	B	~~	~~	Creature — Human Rogue
+Bloodbond Vampire	bfz	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Horobi, Death's Wail	chk	117	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Spirit
+Flux Channeler	war	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gyre Sage	gtc	123	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crocanura	gtc	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gluttonous Slug	mh1	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Righteous Cause	cmd	29	Owned	~~	Non-foil	5	W	~~	~~	Enchantment
+Promise of Bunrei	a25	30	Owned	core,sacrifice,tokens,aggro	Non-foil	3	W	~~	~~	Enchantment
+Faith's Fetters	rav	16	Not Owned	lifegain,artifact_removal,control,u2.0,removal,core	Non-foil	4	W	~~	~~	Enchantment — Aura
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard

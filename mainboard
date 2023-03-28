@@ -7,11 +7,10 @@ Porcelain Legionnaire	nph	19	Not Owned	artifacts,soldiers,aggrocontrol,u2.0,occa
 Attended Knight	m13	5	Not Owned	humans,blink,tokens,sacrifice,wide,stax,soldiers,u2.80,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Human Knight
 Flickerwisp	mma	16	Not Owned	fliers,blink,evasion,aggrocontrol,u2.0,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Elemental
 Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,aggro	Non-foil	1	W	~~	~~	Instant
-Day of Judgment	zen	9	Not Owned	control,spells,wrath,u2.0,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
+Day of Judgment	m11	12	Not Owned	control,spells,wrath,u2.0,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
 Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
 Oblivion Ring	arc	3	Not Owned	artifact_removal,enchantment_removal,u2.0,removal,occasional	Non-foil	3	W	~~	~~	Enchantment
 Recumbent Bliss	eve	13	Not Owned	lifegain,u2.0,u3.4,removal,core,aggro,control	Non-foil	3	W	~~	~~	Enchantment — Aura
-Faith's Fetters	rav	16	Not Owned	lifegain,artifact_removal,control,u2.0,removal,core	Non-foil	4	W	~~	~~	Enchantment — Aura
 Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Cloudfin Raptor	gtc	32	Not Owned	fliers,counters,evasion,wide,aggrocontrol,u2.63,occasional	Non-foil	1	U	~~	~~	Creature — Bird Mutant
 Delver of Secrets	isd	51	Not Owned	wizards,humans,spells,evasion,aggrocontrol,u2.0,u3.4,core,aggro	Non-foil	1	U	~~	~~	Creature — Human Wizard 
@@ -133,7 +132,6 @@ Soul Warden	mm3	24	Owned	occasional	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Akroma's Vengeance	c20	74	Owned	occasional	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Balance	ema	2	Owned	occasional	Non-foil	2	W	~~	~~	Sorcery
-Decree of Justice	c20	85	Owned	occasional	Non-foil	4	W	~~	~~	Sorcery
 Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Beast
 Galepowder Mage	ddi	12	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kithkin Wizard
 Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
@@ -145,7 +143,6 @@ Legion's Landing	xln	22	Owned	occasional	Non-foil	1	W	~~	~~	Legendary Enchantmen
 Magus of the Disk	tsp	27	Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
 Mentor of the Meek	m19	27	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
 Prison Term	shm	18	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
-Promise of Bunrei	a25	30	Owned	core,sacrifice,tokens,aggro	Non-foil	3	W	~~	~~	Enchantment
 Safe Passage	m13	30	Owned	occasional	Non-foil	3	W	~~	~~	Instant
 Shelter	mh1	28	Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Owned	core,lifegain,spells,burn,humans,aggro,control,aggrocontrol	Non-foil	2	W	White	~~	Creature — Human Monk
@@ -327,7 +324,6 @@ Treasure Map	xln	250	Owned	core,artifacts,smoothing,control	Non-foil	2	~~	~~	~~	
 Sevinne's Reclamation	c19	5	Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 The Antiquities War	dom	42	Owned	core,artifacts_payoff,artifacts	Non-foil	4	U	~~	~~	Enchantment — Saga
 Daring Saboteur	xln	49	Owned	core,aggrocontrol,graveyard,manasink,tappers,humans,aggro	Non-foil	2	U	~~	~~	Creature — Human Pirate
-Audacious Thief	m20	84	Owned	core,humans,rogues,tappers,aggrocontrol,heroic,aggro	Non-foil	3	B	~~	~~	Creature — Human Rogue
 Hapatra, Vizier of Poisons	akh	199	Owned	core,counters,counters_payoff,humans,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Witch's Oven	eld	237	Owned	sacrifice,lifegain,tokens,artifacts,occasional	Non-foil	1	~~	~~	~~	Artifact
@@ -506,7 +502,6 @@ Armix, Filigree Thrasher	cmr	108	Owned	~~	Non-foil	3	B	~~	~~	Legendary Artifact 
 Goldvein Pick	khm	239	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Skemfar Elderhall	khm	268	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Righteous Cause	cmd	29	Owned	~~	Non-foil	5	W	~~	~~	Enchantment
 Doomskar	khm	9	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Weatherseed Treefolk	ulg	116	Owned	~~	Non-foil	5	G	~~	~~	Creature — Treefolk
 Nine Lives	m21	28	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
@@ -521,7 +516,6 @@ Subtle Strike	znr	128	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Wellwisher	cma	166	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Patron Wizard	ody	89	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Cumber Stone	con	24	Owned	~~	Non-foil	4	U	~~	~~	Artifact
-Wall of Souls	tpr	123	Owned	~~	Non-foil	2	B	~~	~~	Creature — Wall
 Riptide Laboratory	mh2	303	Owned	~~	Non-foil	0	U	~~	~~	Land
 Masked Vandal	khm	184	Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
 Orim's Thunder	c15	78	Owned	~~	Non-foil	3	R,W	~~	~~	Instant
@@ -550,7 +544,6 @@ Guided Strike	ima	23	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Blinding Beam	ddf	28	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Taunting Elf	gn3	108	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf
 Hour of Eternity	hou	36	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
-Horobi, Death's Wail	chk	117	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Spirit
 Breakthrough	2x2	41	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Llanowar Reborn	c21	296	Owned	~~	Non-foil	0	G	~~	~~	Land
 Fight as One	iko	12	Owned	~~	Non-foil	1	W	~~	~~	Instant
@@ -1005,7 +998,6 @@ Tivash, Gloom Summoner	c21	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Righteous Valkyrie	khm	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel of Thune	m14	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani, Strength of the Pride	m20	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodbond Vampire	bfz	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Celestial Unicorn	afr	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Marauding Blight-Priest	znr	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1016,6 +1008,9 @@ Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Champion of the Perished	mid	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spark Double	war	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smell Fear	mh2	173	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
+Scurry Oak	mh2	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Renegade Krasis	dgm	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
