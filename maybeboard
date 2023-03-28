@@ -46,10 +46,9 @@ Fireblade Charger	znr	139	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrio
 Kargan Intimidator	znr	145	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Warrior
 Sneaking Guide	znr	164	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Rogue
 Broken Wings	gn3	90	Owned	~~	Non-foil	3	G	~~	~~	Instant
-Lunarch Veteran	mid	27	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Soulmender	m20	37	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Speaker of the Heavens	m21	38	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Traveling Minister	dbl	306	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
+Traveling Minister	vow	39	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Archivist of Oghma	clb	4	Owned	~~	Non-foil	2	W	~~	~~	Creature — Halfling Cleric
 Auriok Champion	ima	9	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Ayli, Eternal Pilgrim	ogw	151	Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Kor Cleric
@@ -439,7 +438,7 @@ Torbran, Thane of Red Fell	sld	678	Owned	~~	Non-foil	4	R	~~	~~	Legendary Creatur
 Ulvenwald Oddity	vow	225	Owned	~~	Non-foil	4	G	~~	~~	Creature — Beast
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Ambush Viper	isd	169	Owned	~~	Non-foil	2	G	~~	~~	Creature — Snake
-Intrepid Adversary	dbl	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
+Intrepid Adversary	pmid	25p	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Declaration in Stone	ncc	196	Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Nissa, Who Shakes the World	sld	1042	Owned	~~	Non-foil	5	G	~~	~~	Legendary Planeswalker — Nissa
@@ -660,7 +659,6 @@ Dragonlord Silumgar	dtk	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlord Atarka	dtk	216	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Korvold, Fae-Cursed King	eld	329	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abzan Falconer	cm2	15	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
-Loran of the Third Path	bro	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege Veteran	bro	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Proxy	bro	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashnod's Harvester	bro	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -677,6 +675,10 @@ Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Scavenged Brawler	brc	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	nph	104	Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
 Purphoros's Intervention	thb	151	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
+Reap the Past	mh1	211	Owned	occasional	Non-foil	2	G,R	~~	~~	Sorcery
+Squee, Goblin Nabob	c19	152	Owned	occasional	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
+Gempalm Incinerator	dmr	122	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin
+Rimrock Knight	eld	137	Owned	heroic,spells,wide,flash,core,aggro	Non-foil	2	R	~~	~~	Creature — Dwarf Knight
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
