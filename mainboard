@@ -136,13 +136,11 @@ Beanstalk Giant	eld	149	Owned	u4.9.3,ramp,control,core	Non-foil	3	G	~~	~~	Creatu
 Simic Sky Swallower	dis	130	Owned	u2.0,u4.9.3,ramp,graveyard,reanimator,core,control	Non-foil	7	U,G	~~	~~	Creature — Leviathan
 Saheeli, Sublime Artificer	war	234	Owned	artifacts,counters,spells,tokens,occasional	Non-foil	3	U,R	Hybrid	~~	Legendary Planeswalker — Saheeli
 Soul Warden	mm3	24	Owned	occasional	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Abzan Falconer	cm2	15	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
 Akroma's Vengeance	c20	74	Owned	occasional	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Archon of Justice	m12	6	Owned	core,ramp,fliers,control,sacrifice	Non-foil	5	W	~~	~~	Creature — Archon
 Balance	ema	2	Owned	occasional	Non-foil	2	W	~~	~~	Sorcery
 Decree of Justice	c20	85	Owned	occasional	Non-foil	4	W	~~	~~	Sorcery
-Eternal Dragon	c20	88	Owned	ramp,graveyard,smoothing,fliers,control,reanimator,occasional	Non-foil	7	W	~~	~~	Creature — Dragon Spirit
 Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Beast
 Galepowder Mage	ddi	12	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kithkin Wizard
 Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
@@ -185,7 +183,6 @@ Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legenda
 Startled Awake	soi	88	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
 The Mirari Conjecture	dom	57	Owned	occasional	Non-foil	5	U	~~	~~	Enchantment — Saga
 Triton Tactics	ddt	23	Owned	occasional	Non-foil	1	U	~~	~~	Instant
-Waterfront Bouncer	vma	102	Owned	occasional	Non-foil	2	U	~~	~~	Creature — Merfolk Spellshaper
 Piper of the Swarm	eld	100	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Human Warlock
 Gravecrawler	ddq	59	Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
 Army of the Damned	mic	106	Owned	occasional	Non-foil	8	B	~~	~~	Sorcery
@@ -262,7 +259,7 @@ Ashiok, Dream Render	war	228	Owned	occasional	Non-foil	3	B,U	~~	~~	Legendary Pla
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Blightning	ala	156	Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
-Bloodbraid Elf	arb	50	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
+Bloodbraid Elf	c16	184	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Castigate	gpt	106	Owned	occasional	Non-foil	2	B,W	~~	~~	Sorcery
 Deathrite Shaman	gk1	59	Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
@@ -297,7 +294,6 @@ Siege Rhino	cp3	5	Owned	occasional	Non-foil	4	B,G,W	~~	~~	Creature — Rhino
 Simic Charm	gtc	195	Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Snakeform	eve	161	Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
-Stormbind	tsb	102	Owned	graveyard,burn,removal,occasional	Non-foil	3	R,G	~~	~~	Enchantment
 Swans of Bryn Argoll	mm2	199	Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Creature — Bird Spirit
 Tidehollow Sculler	md1	2	Owned	occasional	Non-foil	2	B,W	~~	~~	Artifact Creature — Zombie
 Tymaret, the Murder King	ths	207	Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
@@ -574,7 +570,6 @@ Contagion	me1	64	Owned	~~	Non-foil	5	B	~~	~~	Instant
 Verdant Sun's Avatar	xln	213	Owned	~~	Non-foil	7	G	~~	~~	Creature — Dinosaur Avatar
 Shining Shoal	bok	21	Owned	~~	Non-foil	2	W	~~	~~	Instant — Arcane
 Rushing River	pls	30	Owned	~~	Non-foil	3	U	~~	~~	Instant
-Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Shower of Coals	ody	221	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Bleeding Edge	war	78	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 One With the Wind	j22	330	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
@@ -642,7 +637,6 @@ Electrolyze	mm2	174	Owned	~~	Non-foil	3	R,U	~~	~~	Instant
 Incubation // Incongruity	c21	219	Owned	~~	Non-foil	4	G,U	~~	~~	Sorcery
 Judith, the Scourge Diva	rna	185	Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Creature — Human Shaman
 Fireblade Artist	rna	172	Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human Shaman
-Regisaur Alpha	xln	227	Owned	~~	Non-foil	5	G,R	~~	~~	Creature — Dinosaur
 Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Blessed Respite	mh2	150	Owned	~~	Non-foil	2	G	~~	~~	Instant
 Kalitas, Traitor of Ghet	ogw	86	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Vampire Warrior
@@ -1017,6 +1011,19 @@ Duplicant	mrd	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bladecoil Serpent	bro	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staff of Compleation	one	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Consider	mid	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Play with Fire	mid	154	Owned	~~	Non-foil	1	R	~~	~~	Instant
+Fading Hope	mid	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Timeless Dragon	mh2	35	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Merfolk Branchwalker	xln	197	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Unearth	ulg	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Recommission	bro	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fallaji Archaeologist	bro	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Razorlash Transmogrant	bro	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lone Rider	emn	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Horned Stoneseeker	bro	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Dragon Engine	bro	163a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steel Seraph	bro	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

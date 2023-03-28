@@ -105,7 +105,6 @@ Buried Ruin	jmp	491	Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Mikokoro, Center of the Sea	sok	162	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Throat Slitter	pc2	37	Owned	~~	Non-foil	5	B	~~	~~	Creature — Rat Ninja
-Ox of Agonas	nec	108	Owned	~~	Non-foil	5	R	~~	~~	Creature — Ox
 Wild Nacatl	ddh	4	Owned	~~	Non-foil	1	W,R,G	~~	~~	Creature — Cat Warrior
 Runechanter's Pike	isd	231	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Clarion Spirit	khm	6	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit
@@ -143,7 +142,6 @@ Liliana's Mastery	gnt	32	Owned	~~	Non-foil	5	B	~~	~~	Enchantment
 Ensoul Artifact	m15	54	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Daring Escape	snc	104	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Storm Strike	rna	119	Owned	~~	Non-foil	1	R	~~	~~	Instant
-Play with Fire	mid	154	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Ruin Raider	xln	118	Owned	~~	Non-foil	3	B	~~	~~	Creature — Orc Pirate
 Master of Waves	ddt	1	Owned	~~	Non-foil	4	U	~~	~~	Creature — Merfolk Wizard
 Rhythm of the Wild	nec	142	Owned	~~	Non-foil	3	G,R	~~	~~	Enchantment
@@ -174,7 +172,6 @@ Viashino Heretic	ulg	95	Owned	~~	Non-foil	3	R	~~	~~	Creature — Viashino
 Industrial Advancement	ncc	47	Owned	~~	Non-foil	4	R	~~	~~	Enchantment
 Dulcet Sirens	c14	14	Owned	~~	Non-foil	3	U	~~	~~	Creature — Siren
 Conjurer's Closet	c13	239	Owned	~~	Non-foil	5	~~	~~	~~	Artifact
-Skullcrack	gtc	106	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Gerrard's Verdict	apc	102	Owned	~~	Non-foil	2	B,W	~~	~~	Sorcery
 Soul of Windgrace	dmu	220	Owned	~~	Non-foil	4	B,G,R	~~	~~	Legendary Creature — Cat Avatar
 Juri, Master of the Revue	cmr	282	Owned	~~	Non-foil	2	B,R	~~	~~	Legendary Creature — Human Shaman
@@ -649,6 +646,39 @@ Expressive Iteration	stx	186	Owned	core,spells,smoothing,aggro,aggrocontrol,cont
 Azorius Guildmage	gk2	9	Owned	occasional	Non-foil	2	U,W	~~	~~	Creature — Vedalken Wizard
 Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
 Supreme Verdict	ima	210	Owned	occasional	Non-foil	4	U,W	~~	~~	Sorcery
+Terastodon	wwk	115	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Waterfront Bouncer	vma	102	Owned	occasional	Non-foil	2	U	~~	~~	Creature — Merfolk Spellshaper
+Thrashing Brontodon	rix	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Poppet Stitcher	mid	71	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memory Deluge	mid	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Champion of the Flame	dom	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Champion of the Perished	mid	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Meathook Massacre	mid	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Augur of Autumn	mid	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Moltensteel Dragon	nph	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eternal Dragon	c20	88	Owned	ramp,graveyard,smoothing,fliers,control,reanimator,occasional	Non-foil	7	W	~~	~~	Creature — Dragon Spirit
+Broodmate Dragon	ala	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Dragon	m19	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dragonlord Silumgar	dtk	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dragonlord Atarka	dtk	216	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Korvold, Fae-Cursed King	eld	329	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abzan Falconer	cm2	15	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
+Loran of the Third Path	bro	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Siege Veteran	bro	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Proxy	bro	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abzan Falconer	ktk	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashnod's Harvester	bro	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nezumi Prowler	neo	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hostile Negotiations	bro	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Fleshgorger	bro	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+No One Left Behind	bro	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Giant Cindermaw	bro	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
+Scavenged Brawler	brc	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
