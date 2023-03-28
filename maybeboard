@@ -32,7 +32,6 @@ Sejiri Shelter	znr	37	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Anticognition	znr	45	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Glasspool Mimic	znr	60	Owned	~~	Non-foil	3	U	~~	~~	Creature — Shapeshifter Rogue
 Inscription of Insight	znr	61	Owned	~~	Non-foil	4	U	~~	~~	Sorcery
-Jwari Disruption	znr	64	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Negate	ogw	59	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Blood Beckoning	znr	92	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Blackbloom Rogue	znr	91	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Rogue
@@ -123,7 +122,6 @@ Triskelion	plst	M11-218	Owned	~~	Non-foil	6	~~	~~	~~	Artifact Creature — Const
 Priest of Urabrask	nph	90	Owned	~~	Non-foil	3	R	~~	~~	Creature — Phyrexian Human Cleric
 Trostani, Selesnya's Voice	gk1	102	Owned	~~	Non-foil	4	G,W	~~	~~	Legendary Creature — Dryad
 Florian, Voldaren Scion	dbl	223	Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Creature — Vampire Noble
-Flux Channeler	war	52	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Master of Etherium	2xm	57	Owned	~~	Non-foil	3	U	~~	~~	Artifact Creature — Vedalken Wizard
 Ichormoon Gauntlet	one	56	Owned	~~	Non-foil	3	U	~~	~~	Artifact
 Ezuri, Stalker of Spheres	one	201	Owned	~~	Non-foil	4	G,U	~~	~~	Legendary Creature — Phyrexian Elf Warrior
@@ -664,11 +662,8 @@ Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	N
 Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Archangel of Thune	m14	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
-Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -739,7 +734,32 @@ Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foi
 Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
 Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
+Blade of the Bloodchief	zen	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Armory of Iroas	jou	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sigiled Sword of Valeron	m19	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Leather Armor	afr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Amorphous Axe	mh1	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Team Pennant	stx	260	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Citizen's Crowbar	snc	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zephyr Boots	stx	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Relic Axe	znr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dissolve	ths	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dissipate	mir	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Familiar's Ruse	lrw	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thought Collapse	rna	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abjure	wth	31	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Turn Aside	som	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lofty Denial	m21	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Didn't Say Please	eld	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hindering Light	ala	173	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flip the Switch	mid	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deny the Witch	40k	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Undermine	inv	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Miscalculation	ulg	36	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
