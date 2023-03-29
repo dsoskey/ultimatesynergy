@@ -397,7 +397,7 @@ Tireless Tracker	sld	711	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scou
 Tireless Tracker	sld	711	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Gale, Waterdeep Prodigy	clb	72	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Human Wizard
 Monster Manual	clb	242	Owned	~~	Non-foil	4	G	~~	~~	Artifact
-Bedevil	brc	121	Owned	~~	Non-foil	3	B,R	~~	~~	Instant
+Bedevil	ncc	331	Owned	~~	Non-foil	3	B,R	~~	~~	Instant
 Enter the God-Eternals	scd	227	Owned	~~	Non-foil	5	B,U	~~	~~	Sorcery
 Drake Haven	akh	51	Owned	~~	Non-foil	3	U	~~	~~	Enchantment
 Ol' Buzzbark	ust	134	Owned	~~	Non-foil	2	G,R	~~	~~	Legendary Creature — Goblin Warrior
@@ -775,6 +775,12 @@ Crystal Grotto	dmu	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hall of Oracles	stx	267	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guildmages' Forum	grn	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cabal Coffers	tor	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Oona's Gatewarden	shm	173	Owned	~~	Non-foil	1	U,B	Hybrid	~~	Creature — Faerie Soldier
+Oona, Queen of the Fae	shm	172	Owned	occasional	Non-foil	6	U,B	Hybrid	~~	Legendary Creature — Faerie Wizard
+Lochmere Serpent	eld	195	Owned	occasional	Non-foil	6	B,U	~~	~~	Creature — Serpent
+Elves of Deep Shadow	gk1	56	Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Druid
+Kiku, Night's Flower	chk	121	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — Human Assassin
+Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery

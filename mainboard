@@ -231,16 +231,14 @@ Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Sha
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
 Angel of Despair	gk2	37	Owned	occasional	Non-foil	7	B,W	~~	~~	Creature — Angel
-Ashiok, Dream Render	war	228	Owned	occasional	Non-foil	3	B,U	~~	~~	Legendary Planeswalker — Ashiok
+Ashiok, Dream Render	war	228	Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
-Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Blightning	ala	156	Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Deathrite Shaman	gk1	59	Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
 Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
 Dreg Mangler	rtr	158	Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plant Zombie
-Elves of Deep Shadow	gk1	56	Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Druid
 Enigma Drake	akh	198	Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Evil Twin	bbd	222	Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
@@ -251,13 +249,11 @@ Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
 Juniper Order Ranger	cm2	158	Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
 Kitchen Finks	uma	216	Owned	occasional	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
 Lightning Helix	rav	213	Owned	core,lifegain,burn,spells,flash,removal,aggro,control	Non-foil	2	W,R	~~	~~	Instant
-Lochmere Serpent	eld	195	Owned	occasional	Non-foil	6	B,U	~~	~~	Creature — Serpent
 Loxodon Hierarch	gk1	114	Owned	occasional	Non-foil	4	G,W	~~	~~	Creature — Elephant Cleric
 Mirrorweave	cm2	162	Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Instant
 Momentary Blink	tsp	29	Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
 Mortify	rna	192	Owned	occasional	Non-foil	3	B,W	~~	~~	Instant
 Murderous Redcap	uma	217	Owned	occasional	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
-Oona, Queen of the Fae	shm	172	Owned	occasional	Non-foil	6	U,B	Hybrid	~~	Legendary Creature — Faerie Wizard
 Palladia-Mors, the Ruiner	m19	219	Owned	occasional	Non-foil	6	G,R,W	~~	~~	Legendary Creature — Elder Dragon
 Pernicious Deed	a25	212	Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Phantom Nishoba	c17	188	Owned	occasional	Non-foil	7	W,G	~~	~~	Creature — Cat Beast Spirit
@@ -513,13 +509,12 @@ Great Teacher's Decree	dtk	21	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
 Vulshok Battlegear	mrd	272	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Incremental Blight	arc	17	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
 Pulse of the Fields	dst	11	Owned	~~	Non-foil	3	W	~~	~~	Instant
-Oona's Gatewarden	shm	173	Owned	~~	Non-foil	1	U,B	Hybrid	~~	Creature — Faerie Soldier
 Behold the Multiverse	khm	46	Owned	~~	Non-foil	4	U	~~	~~	Instant
 Evincar's Justice	cmd	80	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
 Quicksilver Gargantuan	som	39	Owned	~~	Non-foil	7	U	~~	~~	Creature — Shapeshifter
 Drifter il-Dal	tsp	59	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Khalni Garden	c18	262	Owned	~~	Non-foil	0	G	~~	~~	Land
-Kulrath Knight	shm	190	Owned	~~	Non-foil	5	B,R	~~	~~	Creature — Elemental Knight
+Kulrath Knight	shm	190	Owned	~~	Non-foil	5	B,R	Hybrid	~~	Creature — Elemental Knight
 Ojutai's Breath	ima	68	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Take Heart	jmp	134	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Contagion	me1	64	Owned	~~	Non-foil	5	B	~~	~~	Instant
@@ -528,7 +523,6 @@ Rushing River	pls	30	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Shower of Coals	ody	221	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Bleeding Edge	war	78	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 One With the Wind	j22	330	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
-Kiku, Night's Flower	chk	121	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — Human Assassin
 Kazandu Mammoth	znr	189	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elephant
 Guided Strike	ima	23	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Blinding Beam	ddf	28	Owned	~~	Non-foil	3	W	~~	~~	Instant
@@ -915,7 +909,7 @@ Kykar, Wind's Fury	m20	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hinata, Dawn-Crowned	neo	222	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urborg Lhurgoyf	dmu	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Shikari	mh2	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Dominance	mrd	253	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Talisman of Dominance	clb	877	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karn's Sylex	dmu	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

@@ -3177,3 +3177,19 @@ Timestamp	Board	ChangeType	Name
 2023-03-28T22:48:26.979+00:00	mainboard	edit	Verdant Catacombs
 2023-03-28T22:48:26.979+00:00	mainboard	edit	Windswept Heath
 2023-03-28T22:48:26.979+00:00	mainboard	edit	Wooded Foothills
+2023-03-29T01:39:27.674+00:00	mainboard	edit	Talisman of Dominance
+2023-03-29T01:39:27.674+00:00	mainboard	edit	Ashiok, Dream Render
+2023-03-29T01:39:27.674+00:00	mainboard	edit	Kulrath Knight
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Kiku, Night's Flower
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Oona's Gatewarden
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Oona, Queen of the Fae
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Lochmere Serpent
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Elves of Deep Shadow
+2023-03-29T01:39:27.674+00:00	mainboard	remove	Blazing Specter
+2023-03-29T01:39:27.674+00:00	maybeboard	edit	Bedevil
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Oona's Gatewarden
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Oona, Queen of the Fae
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Lochmere Serpent
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Elves of Deep Shadow
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Kiku, Night's Flower
+2023-03-29T01:39:27.674+00:00	maybeboard	add	Blazing Specter
