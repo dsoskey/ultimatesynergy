@@ -177,7 +177,7 @@ Forced Adaptation	gtc	120	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Ajani, Sleeper Agent	dmu	375	Owned	~~	Non-foil	4	G,W	~~	~~	Legendary Planeswalker — Ajani
 Shabraz, the Skyshark	plst	C20-14	Owned	~~	Non-foil	5	U,W	~~	~~	Legendary Creature — Shark Bird
 Elsha of the Infinite	c19	40	Owned	~~	Non-foil	5	R,U,W	~~	~~	Legendary Creature — Djinn Monk
-Elephant Guide	jud	111	Owned	~~	Non-foil	3	G	~~	~~	Enchantment — Aura
+Elephant Guide	ema	163	Owned	~~	Non-foil	3	G	~~	~~	Enchantment — Aura
 Ghyrson Starn, Kelermorph	40k	124	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Tyranid Human
 Whirler Rogue	gnt	25	Owned	~~	Non-foil	4	U	~~	~~	Creature — Human Rogue Artificer
 Sylvan Anthem	mh2	176	Owned	~~	Non-foil	2	G	~~	~~	Enchantment
@@ -294,7 +294,7 @@ Patient Rebuilding	m19	67	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Agonizing Remorse	thb	83	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 The Eldest Reborn	c19	131	Owned	~~	Non-foil	5	B	~~	~~	Enchantment — Saga
 Spark Harvest	war	105	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
-Collective Brutality	sld	1085	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Collective Brutality	plst	EMN-85	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Elspeth's Nightmare	thb	91	Owned	~~	Non-foil	3	B	~~	~~	Enchantment — Saga
 Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Command the Dreadhorde	war	82	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
@@ -313,7 +313,7 @@ Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature
 Gonti, Lord of Luxury	jmp	240	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Priest of Forgotten Gods	rna	83	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Phyrexian Rebirth	mbs	15	Owned	~~	Non-foil	6	W	~~	~~	Sorcery
-Read the Bones	ddp	56	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
+Read the Bones	plst	DDP-56	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Night's Whisper	ddm	68	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Irenicus's Vile Duplication	clb	78	Owned	~~	Non-foil	4	U	~~	~~	Sorcery
 Drana's Emissary	bfz	210	Owned	~~	Non-foil	3	B,W	~~	~~	Creature — Vampire Cleric Ally
@@ -644,7 +644,6 @@ Nezumi Prowler	neo	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostile Negotiations	bro	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-No One Left Behind	bro	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Giant Cindermaw	bro	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -783,6 +782,26 @@ Kiku, Night's Flower	chk	121	Owned	~~	Non-foil	2	B	~~	~~	Legendary Creature — 
 Blazing Specter	ddh	52	Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Frantic Search	dmr	51	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Rite of Replication	c15	105	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
+Soldier of the Pantheon	ths	32	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Solemn Offering	m10	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fiendslayer Paladin	m14	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aven Riftwatcher	plc	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Syndic of Tithes	gtc	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Moldervine Cloak	mma	155	Owned	occasional	Non-foil	3	G	~~	~~	Enchantment — Aura
+Daretti, Scrap Savant	cm2	4	Not Owned	graveyard,artifacts,u4.9.1,reanimator,occasional	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
+Weatherseed Treefolk	ulg	116	Owned	~~	Non-foil	5	G	~~	~~	Creature — Treefolk
+Startled Awake	soi	88	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
+Seize the Day	ody	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Echo of Eons	mh1	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Reclamation	j22	124	Owned	lifegain,manasink,graveyard,occasional	Non-foil	1	B	~~	~~	Enchantment
+Rite of Oblivion	mid	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Croaking Counterpart	mid	215	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Siphon Insight	mid	241	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Angelfire Ignition	mid	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Forbidden Alchemy	isd	55	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Increasing Savagery	dka	120	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mass Diminish	c19	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Increasing Vengeance	dka	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
