@@ -75,7 +75,7 @@ Briarhorn	lrw	199	Not Owned	flash,heroic,blink,aggrocontrol,u2.0,core,aggro,cont
 Penumbra Spider	mm3	131	Not Owned	sacrifice,tokens,enrage,stax,u2.67,core,control	Non-foil	4	G	~~	~~	Creature — Spider
 Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Vines of Vastwood	zen	193	Not Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
-Rampant Growth	2x2	371	Not Owned	ramp,spells,u2.0,u2.89,smoothing,occasional	Non-foil	2	G	~~	~~	Sorcery
+Rampant Growth	nec	125	Not Owned	ramp,spells,u2.0,u2.89,smoothing,occasional	Non-foil	2	G	~~	~~	Sorcery
 Hunting Triad	mor	127	Not Owned	elves,counters,flash,tokens,sacrifice,spells,fliers,heroic,wide,stax,aggrocontrol,u4.6,core,aggro	Non-foil	4	G	~~	~~	Tribal Sorcery — Elf
 Seasons Past	soi	226	Not Owned	graveyard,ramp,spells,u2.77,core,control	Non-foil	6	G	~~	~~	Sorcery
 Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,u2.0,u4.7,smoothing,core,aggro,control	Non-foil	2	G	~~	~~	Enchantment
@@ -151,7 +151,6 @@ Twilight Drover	rav	33	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Spirit
 Thassa's Oracle	thb	73	Owned	core,wizards,control,blink	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Elder Deep-Fiend	emn	5	Owned	occasional	Non-foil	8	U	~~	~~	Creature — Eldrazi Octopus
 Cryptic Command	ima	48	Owned	occasional	Non-foil	4	U	~~	~~	Instant
-Rite of Replication	c15	105	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
 Baral, Chief of Compliance	aer	28	Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
@@ -226,7 +225,7 @@ Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
-Moment's Peace	ody	251	Owned	occasional	Non-foil	2	G	~~	~~	Instant
+Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
@@ -293,7 +292,6 @@ Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	~~	~~	Land
 Pteramander	rna	47	Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Kokusho, the Evening Star	mma	89	Owned	core,ramp,fliers,control,lifegain,sacrifice	Non-foil	6	B	~~	~~	Legendary Creature — Dragon Spirit
 Meadowboon	mor	17	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
-Frantic Search	dmr	51	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Animate Dead			Not Owned	occasional	Non-foil	2	B	~~	~~	Enchantment — Aura
 Diabolic Servitude	c15	120	Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
 Irencrag Pyromancer	eld	128	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Human Wizard
