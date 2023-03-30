@@ -3288,3 +3288,5 @@ Timestamp	Board	ChangeType	Name
 2023-03-30T11:55:03.599+00:00	mainboard	add	Steel Overseer
 2023-03-30T11:55:03.599+00:00	mainboard	add	Smuggler's Copter
 2023-03-30T11:55:03.599+00:00	maybeboard	remove	Steel Overseer
+2023-03-30T21:03:02.417+00:00	mainboard	remove	Pernicious Deed
+2023-03-30T21:03:02.417+00:00	maybeboard	add	Pernicious Deed
