@@ -128,7 +128,6 @@ Saheeli, Sublime Artificer	war	234	Owned	artifacts,counters,spells,tokens,occasi
 Soul Warden	mm3	24	Owned	occasional	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Akroma's Vengeance	c20	74	Owned	occasional	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
-Balance	ema	2	Owned	occasional	Non-foil	2	W	~~	~~	Sorcery
 Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Beast
 Galepowder Mage	ddi	12	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kithkin Wizard
 Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
@@ -321,7 +320,6 @@ Goblin Guide	2xm	127	Owned	core,goblins,aggrocontrol,burn,wide,aggro	Non-foil	1	
 Dreadhorde Arcanist	war	125	Owned	core,spells,graveyard,zombies,wizards,heroic,burn,aggro	Non-foil	2	R	~~	~~	Creature — Zombie Wizard
 Primal Empathy	iko	200	Owned	occasional	Non-foil	3	G,U	~~	~~	Enchantment
 Elder of Laurels	isd	177	Owned	wide,tokens,manasink,flash,humans,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
-All That Glitters	eld	2	Owned	core,artifacts,heroic,aggro	Non-foil	2	W	~~	~~	Enchantment — Aura
 Cage of Hands	pca	4	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Ghirapur Aether Grid	ori	148	Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
 Stingscourger	mma	131	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
@@ -390,7 +388,6 @@ Shambling Ghast	afr	119	Owned	artifacts,removal,sacrifice,zombies,core,ramp,cont
 Battle Cry Goblin	afr	132	Owned	core,goblins,tokens,aggro,manasink,tribal_payoff	Non-foil	2	R	~~	~~	Creature — Goblin
 Plundering Barbarian	afr	158	Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
 Burning-Fist Minotaur	hou	85	Owned	core,graveyard,aggrocontrol,aggro,control,wizards	Non-foil	2	R	~~	~~	Creature — Minotaur Wizard
-Abiding Grace	mh2	1	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
 Cleric Class	afr	6	Owned	core,lifegain,lifegain_payoff,manasink	Non-foil	1	W	~~	~~	Enchantment — Class
 Syr Konrad, the Grim	znc	56	Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Ghost Council of Orzhova	mm2	176	Owned	occasional	Non-foil	4	B,W	~~	~~	Legendary Creature — Spirit
@@ -408,7 +405,6 @@ Stromkirk Occultist	emn	146	Owned	core,reanimator,graveyard,aggro,aggrocontrol	N
 Hobgoblin Captain	afr	148	Owned	core,aggro,goblins,heroic	Non-foil	2	R	~~	~~	Creature — Goblin Barbarian
 Goblin Traprunner	mh2	130	Owned	core,goblins,aggro,tokens,wide,sacrifice	Non-foil	4	R	~~	~~	Creature — Goblin
 Tireless Provisioner	mh2	180	Owned	core,elves,artifacts,lifegain,ramp,control	Non-foil	3	G	~~	~~	Creature — Elf Scout
-Fae Offering	mh2	158	Owned	occasional	Non-foil	3	G	~~	~~	Enchantment
 Visionary Augmenter	kld	34	Owned	core,counters,tokens,artifacts,wide,sacrifice,blink	Non-foil	4	W	~~	~~	Creature — Dwarf Artificer
 Doomed Traveler	isd	11	Owned	core,sacrifice,tokens,fliers,wide,aggro,control,heroic	Non-foil	1	W	~~	~~	Creature — Human Soldier
 Constable of the Realm	mh2	10	Owned	core,counters_payoff,counters	Non-foil	5	W	~~	~~	Creature — Giant Soldier
@@ -703,7 +699,6 @@ Nissa, Voice of Zendikar	ddr	1	Owned	~~	Non-foil	3	G	~~	~~	Legendary Planeswalke
 Cleric of Life's Bond	znr	222	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vampire Cleric
 Valakut Exploration	znr	175	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Proclamation of Rebirth	plst	DIS-15	Owned	~~	Non-foil	3	W	~~	~~	Sorcery
-Planar Outburst	ncc	209	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Ixidron	tsp	65	Owned	~~	Non-foil	5	U	~~	~~	Creature — Illusion
 Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Black Dragon Gate	clb	347	Owned	~~	Non-foil	0	B	~~	~~	Land — Gate
@@ -964,7 +959,6 @@ Ajani, Strength of the Pride	m20	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Celestial Unicorn	afr	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Marauding Blight-Priest	znr	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Twinblade Paladin	m20	285	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dina, Soul Steeper	stx	178	Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
 Titan of Industry	snc	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
@@ -1002,6 +996,7 @@ Swift Justice	rtr	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divine Reckoning	isd	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unburial Rites	isd	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 No One Left Behind	bro	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ajani, Adversary of Tyrants	m19	3	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
