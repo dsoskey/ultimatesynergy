@@ -3250,3 +3250,11 @@ Timestamp	Board	ChangeType	Name
 2023-03-30T03:54:53.394+00:00	maybeboard	add	Fae Offering
 2023-03-30T03:54:53.394+00:00	maybeboard	add	Twinblade Paladin
 2023-03-30T03:54:53.394+00:00	maybeboard	add	Auramancer
+2023-03-30T10:32:14.250+00:00	mainboard	edit	Phyrexian Metamorph
+2023-03-30T10:32:14.250+00:00	mainboard	remove	Inniaz, the Gale Force
+2023-03-30T10:32:14.250+00:00	mainboard	remove	Elder of Laurels
+2023-03-30T10:32:14.250+00:00	mainboard	remove	Moment's Peace
+2023-03-30T10:32:14.250+00:00	mainboard	remove	Chord of Calling
+2023-03-30T10:32:14.250+00:00	mainboard	add	Obstinate Baloth
+2023-03-30T10:32:14.250+00:00	maybeboard	add	Moment's Peace
+2023-03-30T10:32:14.250+00:00	maybeboard	add	Inniaz, the Gale Force

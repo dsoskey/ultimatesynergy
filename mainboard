@@ -210,7 +210,6 @@ Call of the Herd	dmr	153	Owned	core,tokens,spells,graveyard,aggro,control	Non-fo
 Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
 Collected Company	dtk	177	Owned	occasional	Non-foil	4	G	~~	~~	Instant
 Elephant Guide	ema	163	Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
-Chord of Calling	m15	172	Owned	occasional	Non-foil	3	G	~~	~~	Instant
 Explore	c19	164	Owned	occasional	Non-foil	2	G	~~	~~	Sorcery
 Dryad Greenseeker	m19	178	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
@@ -221,7 +220,6 @@ Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
-Moment's Peace	td0	A80	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Troll Ascetic	cm2	146	Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
@@ -323,7 +321,6 @@ Elder of Laurels	isd	177	Owned	wide,tokens,manasink,flash,humans,occasional	Non-
 Cage of Hands	pca	4	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Ghirapur Aether Grid	ori	148	Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
 Stingscourger	mma	131	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
-Elder of Laurels	isd	177	Owned	wide,tokens,manasink,flash,humans,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
 All That Glitters	eld	2	Owned	core,artifacts,heroic,aggro	Non-foil	2	W	~~	~~	Enchantment — Aura
 Necromantic Summons	ori	110	Owned	core,spells,reanimator,graveyard,mill,control	Non-foil	5	B	~~	~~	Sorcery
 Wishclaw Talisman	eld	110	Owned	occasional	Non-foil	2	B	~~	~~	Artifact
@@ -472,7 +469,6 @@ Descendants' Path	avr	173	Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Littjara Mirrorlake	khm	264	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Sarulf's Packmate	khm	192	Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Demon Bolt	clb	787	Owned	~~	Non-foil	3	R	~~	~~	Instant
-Inniaz, the Gale Force	jmp	12	Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
 Embolden	ody	22	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Armix, Filigree Thrasher	cmr	108	Owned	~~	Non-foil	3	B	~~	~~	Legendary Artifact Creature — Golem
 Goldvein Pick	khm	239	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -997,6 +993,7 @@ Divine Reckoning	isd	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unburial Rites	isd	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 No One Left Behind	bro	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani, Adversary of Tyrants	m19	3	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obstinate Baloth	m11	188	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
