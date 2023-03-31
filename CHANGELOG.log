@@ -3302,3 +3302,6 @@ Timestamp	Board	ChangeType	Name
 2023-03-31T06:41:02.523+00:00	maybeboard	add	Ghoulcaller's Bell
 2023-03-31T06:41:02.523+00:00	maybeboard	add	Lyra Dawnbringer
 2023-03-31T06:41:02.523+00:00	maybeboard	add	Giada, Font of Hope
+2023-03-31T07:43:10.186+00:00	mainboard	add	Steel Overseer
+2023-03-31T07:43:10.186+00:00	maybeboard	remove	Lore Seeker
+2023-03-31T07:43:10.186+00:00	maybeboard	remove	Steel Overseer
