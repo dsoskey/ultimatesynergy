@@ -421,7 +421,6 @@ Ulvenwald Oddity	vow	225	Owned	~~	Non-foil	4	G	~~	~~	Creature — Beast
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Ambush Viper	isd	169	Owned	~~	Non-foil	2	G	~~	~~	Creature — Snake
 Intrepid Adversary	pmid	25p	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
-Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Declaration in Stone	ncc	196	Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Nissa, Who Shakes the World	sld	1042	Owned	~~	Non-foil	5	G	~~	~~	Legendary Planeswalker — Nissa
 Tibalt, Rakish Instigator	plst	WAR-146	Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswalker — Tibalt
@@ -829,6 +828,11 @@ Defiler of Faith	dmu	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pernicious Deed	a25	212	Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Tireless Provisioner	mh2	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retreat to Coralhelm	bfz	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watcher of the Spheres	m21	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Diluvian Primordial	gtc	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghoulcaller's Bell	isd	224	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lyra Dawnbringer	dom	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Giada, Font of Hope	snc	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Oracle	roe	85	Not Owned	wizards,humans,blink,u2.0,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
