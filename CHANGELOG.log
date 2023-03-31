@@ -3351,3 +3351,23 @@ Timestamp	Board	ChangeType	Name
 2023-03-31T13:10:07.455+00:00	mainboard	add	Otawara, Soaring City
 2023-03-31T13:10:07.455+00:00	maybeboard	add	One With the Wind
 2023-03-31T13:10:07.455+00:00	maybeboard	add	Snapcaster Mage
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Insolent Neonate
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Oust
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Blinding Beam
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Skemfar Elderhall
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Harmonize
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Dryad Greenseeker
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Sparksmith
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Safe Passage
+2023-03-31T13:27:31.946+00:00	mainboard	remove	Seasons Past
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Blinding Beam
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Sparksmith
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Insolent Neonate
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Safe Passage
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Oust
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Dryad Greenseeker
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Skemfar Elderhall
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Surtland Frostpyre
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Harmonize
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Seasons Past
+2023-03-31T13:27:31.946+00:00	maybeboard	add	Edge of Autumn
