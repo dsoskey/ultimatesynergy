@@ -9,7 +9,6 @@ Flickerwisp	mma	16	Not Owned	fliers,blink,evasion,aggrocontrol,u2.0,core,aggro,c
 Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,aggro	Non-foil	1	W	~~	~~	Instant
 Day of Judgment	m11	12	Not Owned	control,spells,wrath,u2.0,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
 Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
-Oblivion Ring	arc	3	Not Owned	artifact_removal,enchantment_removal,u2.0,removal,occasional	Non-foil	3	W	~~	~~	Enchantment
 Recumbent Bliss	eve	13	Not Owned	lifegain,u2.0,u3.4,removal,core,aggro,control	Non-foil	3	W	~~	~~	Enchantment — Aura
 Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Cloudfin Raptor	gtc	32	Not Owned	fliers,counters,evasion,wide,aggrocontrol,u2.63,occasional	Non-foil	1	U	~~	~~	Creature — Bird Mutant
@@ -798,7 +797,6 @@ Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
 Abzan Charm	2x2	166	Owned	~~	Non-foil	3	B,G,W	~~	~~	Instant
 Experimental Overload	m21	218	Owned	~~	Non-foil	4	R,U	~~	~~	Sorcery
 Choked Estuary	40k	268	Owned	~~	Non-foil	0	B,U	~~	~~	Land
-Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Port Town	ncc	420	Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Game Trail	clb	894	Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -996,6 +994,18 @@ Felidar Retreat	j22	184	Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Codex Shredder	rtr	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Overseer	ddf	44	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
+Gravedigger	por	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blackbloom Rogue	znr	91	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Rogue
+Languish	ori	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodghast	zen	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Electrostatic Infantry	dmu	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phoenix Chick	dmu	140	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smash to Dust	dmu	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wilt	iko	176	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Greatsword of Tyr	clb	22	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
+Baird, Argivian Recruiter	dmu	195	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tori D'Avenant, Fury Rider	dmu	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Balmor, Battlemage Captain	dmu	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
