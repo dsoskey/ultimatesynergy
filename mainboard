@@ -127,7 +127,6 @@ Akroma's Vengeance	c20	74	Owned	occasional	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Beast
 Galepowder Mage	ddi	12	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kithkin Wizard
-Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
 Griffin Guide	tsp	21	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Hour of Reckoning	c19	65	Owned	occasional	Non-foil	7	W	~~	~~	Sorcery
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
@@ -318,7 +317,6 @@ Damnation	sld	121	Owned	wrath,control,core,spells,removal	Non-foil	4	B	~~	~~	Sor
 Scourge of Skola Vale	bng	137	Owned	counters,sacrifice,core	Non-foil	3	G	~~	~~	Creature — Hydra
 Collision // Colossus	rna	223	Owned	removal,spells,flash,core,aggro	Non-foil	2	R,G	Multicolored	~~	Instant
 Elite Spellbinder	stx	17	Owned	aggrocontrol,fliers,humans,aggro,blink,occasional	Non-foil	3	W	~~	~~	Creature — Human Cleric
-Intangible Virtue	ema	15	Owned	occasional	Non-foil	2	W	~~	~~	Enchantment
 Supernatural Stamina	akh	111	Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Mutilate	gvl	55	Owned	occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Affliction	mm2	84	Owned	occasional	Non-foil	3	B	~~	~~	Instant
@@ -595,9 +593,7 @@ Hinterland Harbor	dmr	248	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Woodland Cemetery	dmr	261	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Blighted Woodland	cmr	476	Owned	~~	Non-foil	0	G	~~	~~	Land
 Blighted Steppe	bfz	232	Owned	~~	Non-foil	0	W	~~	~~	Land
-Blighted Gorge	bfz	231	Owned	~~	Non-foil	0	R	~~	~~	Land
 Blighted Cataract	ddt	26	Owned	~~	Non-foil	0	U	~~	~~	Land
-Blighted Fen	j22	810	Owned	~~	Non-foil	0	B	~~	~~	Land
 Kjeldoran Outpost	vma	301	Owned	~~	Non-foil	0	W	~~	~~	Land
 Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	~~	~~	Land
 Ghost Quarter	cm2	253	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -627,7 +623,6 @@ Stirring Wildwood	uma	251	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Tolaria West	v16	13	Owned	~~	Non-foil	0	U	~~	~~	Land
 Dakmor Salvage	ddj	79	Owned	~~	Non-foil	0	B	~~	~~	Land
 Keldon Megaliths	jvc	58	Owned	~~	Non-foil	0	R	~~	~~	Land
-New Benalia	fut	172	Owned	~~	Non-foil	0	W	~~	~~	Land
 Lavaclaw Reaches	uma	245	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Creeping Tar Pit	wwk	134	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Raging Ravine	nec	176	Owned	~~	Non-foil	0	G,R	~~	~~	Land
@@ -636,15 +631,9 @@ Needle Spires	ogw	175	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Lumbering Falls	c21	299	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Ruins of Oran-Rief	ogw	176	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Shrine of the Forsaken Gods	c19	273	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Spawning Bed	bfz	248	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Moorland Haunt	isd	244	Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Owned	~~	Non-foil	0	U,R	~~	~~	Land
-Secluded Steppe	c20	307	Owned	~~	Non-foil	0	W	~~	~~	Land
-Lonely Sandbar	mh1	242	Owned	~~	Non-foil	0	U	~~	~~	Land
-Barren Moor	c19	229	Owned	~~	Non-foil	0	B	~~	~~	Land
-Forgotten Cave	c20	274	Owned	~~	Non-foil	0	R	~~	~~	Land
-Tranquil Thicket	c21	408	Owned	~~	Non-foil	0	G	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Persist	mh2	96	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
@@ -869,7 +858,6 @@ Hinata, Dawn-Crowned	neo	222	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urborg Lhurgoyf	dmu	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Shikari	mh2	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	clb	877	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karn's Sylex	dmu	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1005,6 +993,7 @@ Wildborn Preserver	eld	182	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	dka	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drossforge Bridge	mh2	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Haunted Ridge	mid	263	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goldmire Bridge	mh2	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

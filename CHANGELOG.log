@@ -3412,3 +3412,28 @@ Timestamp	Board	ChangeType	Name
 2023-04-01T06:00:08.872+00:00	maybeboard	add	Wandering Fumarole
 2023-04-01T06:16:32.647+00:00	maybeboard	remove	Drossforge Bridge
 2023-04-01T06:16:32.647+00:00	maybeboard	add	Temple of Malice
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Darksteel Citadel
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Tranquil Thicket
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Forgotten Cave
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Barren Moor
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Lonely Sandbar
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Secluded Steppe
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Shrine of the Forsaken Gods
+2023-04-01T06:23:18.718+00:00	mainboard	remove	New Benalia
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Blighted Fen
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Blighted Gorge
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Intangible Virtue
+2023-04-01T06:23:18.718+00:00	mainboard	remove	Glorious Anthem
+2023-04-01T06:23:18.718+00:00	mainboard	add	Goldmire Bridge
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Barren Moor
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Blighted Fen
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Blighted Gorge
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Glorious Anthem
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Intangible Virtue
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Tranquil Thicket
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Shrine of the Forsaken Gods
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Secluded Steppe
+2023-04-01T06:23:18.718+00:00	maybeboard	add	New Benalia
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Lonely Sandbar
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Forgotten Cave
+2023-04-01T06:23:18.718+00:00	maybeboard	add	Darksteel Citadel
