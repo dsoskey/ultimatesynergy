@@ -88,7 +88,6 @@ Order of Whiteclay	shm	16	Owned	~~	Non-foil	3	W	~~	~~	Creature — Kithkin Cleri
 Bygone Bishop	voc	80	Owned	~~	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
 Viconia, Drow Apostate	clb	156	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Elf Cleric
 Emissary of Sunrise	xln	10	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
-Tainted Adversary	pmid	124p	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Sower of Temptation	bbd	131	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
 Bloodthirsty Adversary	mid	351	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Strip Mine	v09	13	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -201,7 +200,6 @@ Vigor Mortis	ddj	74	Owned	~~	Non-foil	4	B,G	~~	~~	Sorcery
 Regrowth	sum	214	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Den Protector	c16	147	Owned	~~	Non-foil	2	G	~~	~~	Creature — Human Warrior
 Golgari Findbroker	khc	86	Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Elf Shaman
-Order of Midnight	eld	99	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Knight
 Tarmogoyf	mm2	165	Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Ishkanah, Grafwidow	emn	162	Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature — Spider
 Nyx Weaver	jou	153	Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
@@ -213,7 +211,6 @@ Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Chemister's Insight	c20	108	Owned	~~	Non-foil	4	U	~~	~~	Instant
 Firebolt	dd2	49	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Collective Defiance	emn	123	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
-Nantuko Shade	tor	74	Owned	~~	Non-foil	2	B	~~	~~	Creature — Insect Shade
 Lingering Souls	tsr	296	Owned	~~	Non-foil	3	B,W	~~	~~	Sorcery
 Song-Mad Treachery	znr	165	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Memorial to Glory	40k	283	Owned	~~	Non-foil	0	W	~~	~~	Land
@@ -222,11 +219,9 @@ Merfolk Spy	m14	62	Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Rogue
 Expendable Lackey	snc	43	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Citizen
 Blistercoil Weird	rtr	211	Owned	~~	Non-foil	1	R,U	~~	~~	Creature — Weird
 Dark Confidant	mm2	75	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Wizard
-Evolved Sleeper	dmu	93	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human
 Stirge	clb	150	Owned	~~	Non-foil	1	B	~~	~~	Creature — Insect Bat
 Vampire Neonate	m19	124	Owned	~~	Non-foil	1	B	~~	~~	Creature — Vampire
 Quag Vampires	cns	122	Owned	~~	Non-foil	1	B	~~	~~	Creature — Vampire Rogue
-Ruthless Sniper	akh	105	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
 Cruel Sadist	m15	93	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Assassin
 Concealing Curtains	vow	367	Owned	~~	Non-foil	1	B	~~	~~	Creature — Wall
 Rakdos Cackler	gk2	67	Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
@@ -306,7 +301,6 @@ Chandra, Torch of Defiance	ss3	1	Owned	~~	Non-foil	4	R	~~	~~	Legendary Planeswal
 Soldevi Adnate	all	60a	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Unexpected Results	gtc	203	Owned	~~	Non-foil	4	G,U	~~	~~	Sorcery
 Wayfarer's Bauble	40k	262	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
-Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
 Gonti, Lord of Luxury	jmp	240	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Priest of Forgotten Gods	rna	83	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Phyrexian Rebirth	mbs	15	Owned	~~	Non-foil	6	W	~~	~~	Sorcery
@@ -481,7 +475,6 @@ Nicol Bolas, Dragon-God	war	207	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Esika, God of the Tree	khm	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thespian's Stage	gtc	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vampire Hexmage	zen	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lae'zel, Vlaakith's Champion	clb	29	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Safekeeper	cma	152	Owned	occasional	Non-foil	1	G	~~	~~	Creature — Human Wizard
 Kessig Prowler	emn	163	Not Owned	flash,manasink,wide,aggrocontrol,u2.86,core,aggro	Non-foil	1	G	~~	~~	Creature — Werewolf Horror 
@@ -630,7 +623,6 @@ Abzan Falconer	cm2	15	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Sol
 Siege Veteran	bro	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Proxy	bro	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashnod's Harvester	bro	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nezumi Prowler	neo	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostile Negotiations	bro	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -810,7 +802,6 @@ Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~
 Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Evolved Sleeper	dmu	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
 Keldon Flamesage	dmu	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squee, Dubious Monarch	dmu	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
