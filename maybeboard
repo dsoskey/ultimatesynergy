@@ -4,7 +4,6 @@ Nahiri, Heir of the Ancients	znr	230	Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Pla
 Nissa of Shadowed Boughs	znr	231	Owned	~~	Non-foil	4	B,G	~~	~~	Legendary Planeswalker — Nissa
 Brushfire Elemental	znr	221	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Elemental
 Containment Construct	neo	243	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Lodestone Golem	mm2	219	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
 Silent Arbiter	cns	204	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Construct
 Platinum Angel	v15	13	Owned	~~	Non-foil	7	~~	~~	~~	Artifact Creature — Angel
 Ancient Stone Idol	c18	53	Owned	~~	Non-foil	10	~~	~~	~~	Artifact Creature — Golem
@@ -449,7 +448,6 @@ Gisa and Geralf	emn	183	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kiora, the Crashing Wave	bng	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Satyr Wayfinder	bng	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nyx-Fleece Ram	jou	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cogwork Librarian	cns	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dack's Duplicate	cns	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worldknit	cns	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -594,7 +592,6 @@ Traxos, Scourge of Kroog	dom	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cataclysmic Gearhulk	kld	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Akroan Horse	ths	210	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Research Thief	nec	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Crystalline Crawler	c16	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filigree Familiar	kld	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golden Guardian	rix	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Virus Beetle	neo	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -897,6 +894,13 @@ Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
 Descendants' Path	avr	173	Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Condescend	dd2	28	Owned	core,spells,smoothing,flash,aggrocontrol,aggro,control	Non-foil	1	U	~~	~~	Instant
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
+Shimmer Myr	mbs	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Reality Chip	neo	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Combustible Gearhulk	kld	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cyberdrive Awakener	nec	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Delayed Blast Fireball	clb	676	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Showstopper	dgm	102	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Staggershock	roe	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
