@@ -3410,3 +3410,5 @@ Timestamp	Board	ChangeType	Name
 2023-04-01T06:00:08.872+00:00	mainboard	add	Haunted Ridge
 2023-04-01T06:00:08.872+00:00	maybeboard	add	Vineglimmer Snarl
 2023-04-01T06:00:08.872+00:00	maybeboard	add	Wandering Fumarole
+2023-04-01T06:16:32.647+00:00	maybeboard	remove	Drossforge Bridge
+2023-04-01T06:16:32.647+00:00	maybeboard	add	Temple of Malice

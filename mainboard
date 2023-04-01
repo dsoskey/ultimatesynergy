@@ -633,7 +633,6 @@ Creeping Tar Pit	wwk	134	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Raging Ravine	nec	176	Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Shambling Vent	clb	914	Owned	~~	Non-foil	0	B,W	~~	~~	Land
 Needle Spires	ogw	175	Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Wandering Fumarole	plst	OGW-182	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Lumbering Falls	c21	299	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Ruins of Oran-Rief	ogw	176	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -792,7 +791,6 @@ Game Trail	clb	894	Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Frostboil Snarl	stx	265	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Necroblossom Snarl	onc	160	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Shineshadow Snarl	stx	272	Owned	~~	Non-foil	0	B,W	~~	~~	Land
-Vineglimmer Snarl	stx	274	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Furycalm Snarl	stx	266	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Obscura Storefront	snc	252	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Novijen, Heart of Progress	c15	296	Owned	~~	Non-foil	0	G,U	~~	~~	Land
@@ -1005,6 +1003,8 @@ Stitcher's Supplier	m19	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Forgotten Gods	rna	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wildborn Preserver	eld	182	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	dka	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drossforge Bridge	mh2	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Haunted Ridge	mid	263	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
