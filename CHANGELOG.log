@@ -3455,3 +3455,8 @@ Timestamp	Board	ChangeType	Name
 2023-04-01T06:25:09.721+00:00	maybeboard	add	Wind-Scarred Crag
 2023-04-01T06:30:36.608+00:00	mainboard	remove	Choked Estuary
 2023-04-01T06:30:36.608+00:00	maybeboard	add	Choked Estuary
+2023-04-01T06:32:55.408+00:00	mainboard	edit	Lightning Bolt
+2023-04-01T06:32:55.408+00:00	mainboard	remove	Krenko, Mob Boss
+2023-04-01T06:32:55.408+00:00	mainboard	remove	Beetleback Chief
+2023-04-01T06:32:55.408+00:00	maybeboard	add	Beetleback Chief
+2023-04-01T06:32:55.408+00:00	maybeboard	add	Krenko, Mob Boss

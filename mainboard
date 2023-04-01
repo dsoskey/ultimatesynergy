@@ -52,7 +52,6 @@ Mogg War Marshal	ema	139	Not Owned	goblins,blink,sacrifice,tokens,wide,stax,u2.0
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
 Goblin Sharpshooter	c13	111	Not Owned	pingers,goblins,sacrifice,u2.63,u2.89,occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
-Beetleback Chief	c14	171	Not Owned	goblins,blink,tokens,sacrifice,wide,stax,u2.63,u2.80,aggro,control,occasional	Non-foil	4	R	~~	~~	Creature — Goblin Warrior
 Captivating Crew	xln	137	Not Owned	sacrifice,humans,manasink,u4.7,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
 Zealous Conscripts	avr	166	Not Owned	humans,twin,blink,sacrifice,burn,u2.0,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	som	91	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
@@ -188,7 +187,6 @@ Genju of the Spires	a25	132	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — 
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Guttersnipe	c19	145	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
-Krenko, Mob Boss	ddt	52	Owned	goblins,tokens,wide,occasional	Non-foil	4	R	~~	~~	Legendary Creature — Goblin Warrior
 Pulse of the Forge	dst	66	Owned	occasional	Non-foil	3	R	~~	~~	Instant
 Satyr Firedancer	bng	108	Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
@@ -973,7 +971,7 @@ Tori D'Avenant, Fury Rider	dmu	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balmor, Battlemage Captain	dmu	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dress Down	mh2	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lightning Bolt	lea	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lightning Bolt	2x2	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadelight Ranger	plst	RIX-136	Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
 Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eternal Witness	5dn	86	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
