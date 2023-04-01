@@ -273,7 +273,6 @@ Inferno Titan	cm2	109	Owned	~~	Non-foil	6	R	~~	~~	Creature — Giant
 Sun Titan	ncc	210	Owned	~~	Non-foil	6	W	~~	~~	Creature — Giant
 Glorybringer	akh	134	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Claim the Firstborn	eld	118	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
-Jadelight Ranger	plst	RIX-136	Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
 Approach of the Second Sun	sld	1035	Owned	~~	Non-foil	7	W	~~	~~	Sorcery
 Winds of Abandon	plst	MH1-37	Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Settle the Wreckage	xln	34	Owned	~~	Non-foil	4	W	~~	~~	Instant
@@ -329,7 +328,6 @@ You Find Some Prisoners	afr	169	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Teshar, Ancestor's Apostle	dmc	105	Owned	~~	Non-foil	4	W	~~	~~	Legendary Creature — Bird Cleric
 Trostani Discordant	scd	253	Owned	~~	Non-foil	5	G,W	~~	~~	Legendary Creature — Dryad
 You Happen On a Glade	afr	214	Owned	~~	Non-foil	3	G	~~	~~	Instant
-Warden of the Woods	m21	213	Owned	~~	Non-foil	6	G	~~	~~	Creature — Treefolk
 Fully Grown	iko	154	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Storm the Festival	mid	364	Owned	~~	Non-foil	6	G	~~	~~	Sorcery
 Ominous Roost	dbl	65	Owned	~~	Non-foil	3	U	~~	~~	Enchantment
@@ -641,7 +639,6 @@ Phyrexian Fleshgorger	bro	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Giant Cindermaw	bro	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Scavenged Brawler	brc	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	nph	104	Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
@@ -654,7 +651,6 @@ Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-f
 Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
 Words of War	ons	244	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Archangel of Thune	m14	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Howl of the Horde	ktk	112	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
@@ -867,6 +863,9 @@ Surtland Frostpyre	khm	271	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Edge of Autumn	fut	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Venerated Loxodon	grn	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Eldest Reborn	dom	90	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+One With the Wind	j22	330	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
