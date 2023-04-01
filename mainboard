@@ -128,7 +128,6 @@ Felidar Sovereign	bfz	26	Owned	occasional	Non-foil	6	W	~~	~~	Creature — Cat Be
 Galepowder Mage	ddi	12	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kithkin Wizard
 Griffin Guide	tsp	21	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Hour of Reckoning	c19	65	Owned	occasional	Non-foil	7	W	~~	~~	Sorcery
-Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
 Legion's Landing	xln	22	Owned	occasional	Non-foil	1	W	~~	~~	Legendary Enchantment
 Magus of the Disk	tsp	27	Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
 Mentor of the Meek	m19	27	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
@@ -189,7 +188,6 @@ Guttersnipe	c19	145	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Sham
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
 Pulse of the Forge	dst	66	Owned	occasional	Non-foil	3	R	~~	~~	Instant
 Satyr Firedancer	bng	108	Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
-Sparksmith	ons	235	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
 Young Pyromancer	uma	155	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
 Zo-Zu the Punisher	dds	41	Owned	occasional	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Keeper of Fables	eld	163	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Cat
@@ -263,11 +261,11 @@ Spellskite	mm2	230	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact Creature — Ho
 Sunforger	c16	275	Owned	occasional	Non-foil	3	R,W	~~	~~	Artifact — Equipment
 Trading Post	cm2	225	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Untethered Express	aer	179	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact — Vehicle
-Castle Embereth	eld	239	Owned	core,wide,manasink,tokens	Non-foil	0	R	~~	~~	Land
-Castle Vantress	eld	242	Owned	core,manasink,control	Non-foil	0	U	~~	~~	Land
-Ghitu Encampment	ddn	33	Owned	occasional	Non-foil	0	R	~~	~~	Land
+Castle Embereth	eld	239	Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
+Castle Vantress	eld	242	Owned	core,manasink,control	Non-foil	0	U	Blue	~~	Land
+Ghitu Encampment	ddn	33	Owned	occasional	Non-foil	0	R	Red	~~	Land
 Mishra's Factory	a25	242	Owned	occasional	Non-foil	0	~~	~~	~~	Land
-Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	~~	~~	Land
+Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	Green	~~	Land
 Pteramander	rna	47	Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Kokusho, the Evening Star	mma	89	Owned	core,ramp,fliers,control,lifegain,sacrifice	Non-foil	6	B	~~	~~	Legendary Creature — Dragon Spirit
 Meadowboon	mor	17	Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
@@ -327,7 +325,6 @@ Leonin Lightscribe	stx	20	Owned	core,spells,wide,tokens,aggro	Non-foil	2	W	~~	~~
 Seeker of the Way	ktk	22	Owned	core,spells,lifegain,humans,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Angelic Purge	soi	3	Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 Naru Meha, Master Wizard	dom	59	Owned	core,wizards,humans,spells,flash,tribal_payoff	Non-foil	4	U	~~	~~	Legendary Creature — Human Wizard
-Condescend	dd2	28	Owned	core,spells,smoothing,flash,aggrocontrol,aggro,control	Non-foil	1	U	~~	~~	Instant
 Nightveil Sprite	grn	48	Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
 Aether Spellbomb	mma	196	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
 Deep Analysis	plst	EMA-45	Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
@@ -375,10 +372,10 @@ Soulknife Spy	afr	75	Owned	core,elves,aggrocontrol,aggro	Non-foil	3	U	~~	~~	Crea
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
 Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control	Non-foil	6	R	~~	~~	Sorcery
-Cave of the Frost Dragon	afr	253	Owned	core,manasink,fliers	Non-foil	0	W	~~	~~	Land
-Hall of Storm Giants	afr	257	Owned	core,manasink	Non-foil	0	U	~~	~~	Land
-Hive of the Eye Tyrant	afr	258	Owned	core,manasink	Non-foil	0	B	~~	~~	Land
-Den of the Bugbear	afr	254	Owned	core,tokens,manasink,wide	Non-foil	0	R	~~	~~	Land
+Cave of the Frost Dragon	afr	253	Owned	core,manasink,fliers	Non-foil	0	W	White	~~	Land
+Hall of Storm Giants	afr	257	Owned	core,manasink	Non-foil	0	U	Blue	~~	Land
+Hive of the Eye Tyrant	afr	258	Owned	core,manasink	Non-foil	0	B	Black	~~	Land
+Den of the Bugbear	afr	254	Owned	core,tokens,manasink,wide	Non-foil	0	R	Red	~~	Land
 Bloodbraid Marauder	mh2	116	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Berserker
 Shepherd of the Flock	eld	28	Owned	core,blink,spells,flash,humans,aggro,aggrocontrol	Non-foil	2	W	~~	~~	Creature — Human Peasant
 Stromkirk Occultist	emn	146	Owned	core,reanimator,graveyard,aggro,aggrocontrol	Non-foil	3	R	~~	~~	Creature — Vampire Horror
@@ -446,7 +443,6 @@ Inniaz, the Gale Force	jmp	12	Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature �
 Rune of Mortality	khm	108	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura Rune
 Realmwalker	khm	188	Owned	~~	Non-foil	3	G	~~	~~	Creature — Shapeshifter
 Cosmos Elixir	khm	237	Owned	~~	Non-foil	4	~~	~~	~~	Artifact
-Descendants' Path	avr	173	Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Littjara Mirrorlake	khm	264	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Sarulf's Packmate	khm	192	Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Demon Bolt	clb	787	Owned	~~	Non-foil	3	R	~~	~~	Instant
@@ -467,7 +463,7 @@ Subtle Strike	znr	128	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Wellwisher	cma	166	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Patron Wizard	ody	89	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Cumber Stone	con	24	Owned	~~	Non-foil	4	U	~~	~~	Artifact
-Riptide Laboratory	mh2	303	Owned	~~	Non-foil	0	U	~~	~~	Land
+Riptide Laboratory	mh2	303	Owned	~~	Non-foil	0	U	Blue	~~	Land
 Masked Vandal	khm	184	Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
 Orim's Thunder	c15	78	Owned	~~	Non-foil	3	R,W	~~	~~	Instant
 Great Teacher's Decree	dtk	21	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
@@ -478,7 +474,7 @@ Behold the Multiverse	khm	46	Owned	~~	Non-foil	4	U	~~	~~	Instant
 Evincar's Justice	cmd	80	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
 Quicksilver Gargantuan	som	39	Owned	~~	Non-foil	7	U	~~	~~	Creature — Shapeshifter
 Drifter il-Dal	tsp	59	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
-Khalni Garden	c18	262	Owned	~~	Non-foil	0	G	~~	~~	Land
+Khalni Garden	c18	262	Owned	~~	Non-foil	0	G	Green	~~	Land
 Kulrath Knight	shm	190	Owned	~~	Non-foil	5	B,R	Hybrid	~~	Creature — Elemental Knight
 Ojutai's Breath	ima	68	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Take Heart	jmp	134	Owned	~~	Non-foil	1	W	~~	~~	Instant
@@ -493,7 +489,7 @@ Blinding Beam	ddf	28	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Taunting Elf	gn3	108	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf
 Hour of Eternity	hou	36	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Breakthrough	2x2	41	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
-Llanowar Reborn	c21	296	Owned	~~	Non-foil	0	G	~~	~~	Land
+Llanowar Reborn	c21	296	Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Spontaneous Mutation	cmr	100	Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
 Searing Meditation	rav	226	Owned	~~	Non-foil	3	R,W	~~	~~	Enchantment
@@ -501,7 +497,7 @@ Twinblade Slasher	eve	79	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Simic Guildmage	dis	148	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Elf Wizard
 Vine Trellis	ddd	4	Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant Wall
 Generous Patron	bbd	70	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
-Memorial to Unity	dom	245	Owned	~~	Non-foil	0	G	~~	~~	Land
+Memorial to Unity	dom	245	Owned	~~	Non-foil	0	G	Green	~~	Land
 Grind // Dust	hou	155	Owned	~~	Non-foil	6	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
 Fumigate	onc	69	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
@@ -524,7 +520,7 @@ Arc Trail	ddn	23	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Magma Jet	jvc	52	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Skarrgan Hellkite	rna	114	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Arbor Elf	a25	160	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Wild Growth	30a	225	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
+Wild Growth	afc	174	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
 Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Incubation Druid	rna	131	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
@@ -589,15 +585,15 @@ Clifftop Retreat	dmr	241	Owned	~~	Non-foil	0	W,R	~~	~~	Land
 Sulfur Falls	dmr	258	Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Hinterland Harbor	dmr	248	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Woodland Cemetery	dmr	261	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Blighted Woodland	cmr	476	Owned	~~	Non-foil	0	G	~~	~~	Land
-Blighted Steppe	bfz	232	Owned	~~	Non-foil	0	W	~~	~~	Land
-Blighted Cataract	ddt	26	Owned	~~	Non-foil	0	U	~~	~~	Land
-Kjeldoran Outpost	vma	301	Owned	~~	Non-foil	0	W	~~	~~	Land
-Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	~~	~~	Land
+Blighted Woodland	cmr	476	Owned	~~	Non-foil	0	G	Green	~~	Land
+Blighted Steppe	bfz	232	Owned	~~	Non-foil	0	W	White	~~	Land
+Blighted Cataract	ddt	26	Owned	~~	Non-foil	0	U	Blue	~~	Land
+Kjeldoran Outpost	vma	301	Owned	~~	Non-foil	0	W	White	~~	Land
+Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	Green	~~	Land
 Ghost Quarter	cm2	253	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Haunted Fengraf	a25	240	Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Jungle Basin	cma	258	Owned	~~	Non-foil	0	G	~~	~~	Land
+Jungle Basin	cma	258	Owned	~~	Non-foil	0	G	Green	~~	Land
 Grasping Dunes	akh	244	Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Branchloft Pathway	znr	258	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Brightclimb Pathway	slu	14	Owned	~~	Non-foil	0	W,B	~~	~~	Land
@@ -618,9 +614,9 @@ Venerable Warsinger	stx	246	Owned	~~	Non-foil	3	R,W	~~	~~	Creature — Spirit Cl
 Duskfang Mentor	iko	86	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Cleric
 Vizier of Deferment	akh	37	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Stirring Wildwood	uma	251	Owned	~~	Non-foil	0	G,W	~~	~~	Land
-Tolaria West	v16	13	Owned	~~	Non-foil	0	U	~~	~~	Land
-Dakmor Salvage	ddj	79	Owned	~~	Non-foil	0	B	~~	~~	Land
-Keldon Megaliths	jvc	58	Owned	~~	Non-foil	0	R	~~	~~	Land
+Tolaria West	v16	13	Owned	~~	Non-foil	0	U	Blue	~~	Land
+Dakmor Salvage	ddj	79	Owned	~~	Non-foil	0	B	Black	~~	Land
+Keldon Megaliths	jvc	58	Owned	~~	Non-foil	0	R	Red	~~	Land
 Lavaclaw Reaches	uma	245	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Creeping Tar Pit	wwk	134	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Raging Ravine	nec	176	Owned	~~	Non-foil	0	G,R	~~	~~	Land
@@ -646,7 +642,7 @@ Inspiring Vantage	kld	246	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Spirebluff Canal	kld	249	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Botanical Sanctum	kld	244	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Blooming Marsh	kld	243	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Shivan Gorge	dmc	232	Owned	~~	Non-foil	0	R	~~	~~	Legendary Land
+Shivan Gorge	dmc	232	Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Blinkmoth Well	mrd	279	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Blossoming Sands	c19	231	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Graypelt Refuge	c19	249	Owned	~~	Non-foil	0	G,W	~~	~~	Land
@@ -661,25 +657,25 @@ Cleric of Life's Bond	znr	222	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vampire
 Valakut Exploration	znr	175	Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Proclamation of Rebirth	plst	DIS-15	Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Ixidron	tsp	65	Owned	~~	Non-foil	5	U	~~	~~	Creature — Illusion
-Black Dragon Gate	clb	347	Owned	~~	Non-foil	0	B	~~	~~	Land — Gate
-Cliffgate	clb	350	Owned	~~	Non-foil	0	R	~~	~~	Land — Gate
-Boseiju, Who Endures	neo	266	Owned	~~	Non-foil	0	G	~~	~~	Legendary Land
-Eiganjo, Seat of the Empire	neo	268	Owned	~~	Non-foil	0	W	~~	~~	Legendary Land
+Black Dragon Gate	clb	347	Owned	~~	Non-foil	0	B	Black	~~	Land — Gate
+Cliffgate	clb	350	Owned	~~	Non-foil	0	R	Red	~~	Land — Gate
+Boseiju, Who Endures	neo	266	Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
+Eiganjo, Seat of the Empire	neo	268	Owned	~~	Non-foil	0	W	White	~~	Legendary Land
 Myriad Landscape	onc	159	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Prismatic Vista	mh1	244	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Takenuma, Abandoned Mire	neo	278	Owned	~~	Non-foil	0	B	~~	~~	Legendary Land
-Sokenzan, Crucible of Defiance	neo	276	Owned	~~	Non-foil	0	R	~~	~~	Legendary Land
-Sea Gate	clb	359	Owned	~~	Non-foil	0	U	~~	~~	Land — Gate
-Thriving Isle	ncc	441	Owned	~~	Non-foil	0	U	~~	~~	Land
-Thriving Bluff	ncc	438	Owned	~~	Non-foil	0	R	~~	~~	Land
-Thriving Heath	ncc	440	Owned	~~	Non-foil	0	W	~~	~~	Land
-Thriving Moor	jmp	37	Owned	~~	Non-foil	0	B	~~	~~	Land
+Takenuma, Abandoned Mire	neo	278	Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
+Sokenzan, Crucible of Defiance	neo	276	Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
+Sea Gate	clb	359	Owned	~~	Non-foil	0	U	Blue	~~	Land — Gate
+Thriving Isle	ncc	441	Owned	~~	Non-foil	0	U	Blue	~~	Land
+Thriving Bluff	ncc	438	Owned	~~	Non-foil	0	R	Red	~~	Land
+Thriving Heath	ncc	440	Owned	~~	Non-foil	0	W	White	~~	Land
+Thriving Moor	jmp	37	Owned	~~	Non-foil	0	B	Black	~~	Land
 Kabira Takedown	znr	19	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Silundi Vision	znr	80	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Kazuul's Fury	znr	146	Owned	~~	Non-foil	3	R	~~	~~	Instant
 Turntimber Symbiosis	znr	215	Owned	~~	Non-foil	7	G	~~	~~	Sorcery
-Castle Garenbrig	eld	240	Owned	~~	Non-foil	0	G	~~	~~	Land
-Citadel Gate	clb	349	Owned	~~	Non-foil	0	W	~~	~~	Land — Gate
+Castle Garenbrig	eld	240	Owned	~~	Non-foil	0	G	Green	~~	Land
+Citadel Gate	clb	349	Owned	~~	Non-foil	0	W	White	~~	Land — Gate
 Bane of Progress	plst	C15-175	Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
 Radha, Heart of Keld	m21	224	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
 Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
@@ -730,7 +726,6 @@ Frogify	eld	47	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Pelt Collector	grn	141	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Chainweb Aracnir	thb	167	Owned	~~	Non-foil	1	G	~~	~~	Creature — Spider
 Deathbonnet Sprout	mid	181	Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus
-Goblin Grappler	lgn	100	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin
 Unlucky Witness	snc	128	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Citizen
 Goblin Rabblemaster	j22	545	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Warrior
 Legion Warboss	grn	109	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Soldier
@@ -774,10 +769,10 @@ Obscura Storefront	snc	252	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Novijen, Heart of Progress	c15	296	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Alchemist's Refuge	avr	225	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Temple of Deceit	scd	324	Owned	~~	Non-foil	0	U,B	~~	~~	Land
-Mortuary Mire	clb	900	Owned	~~	Non-foil	0	B	~~	~~	Land
+Mortuary Mire	clb	900	Owned	~~	Non-foil	0	B	Black	~~	Land
 Temple of Epiphany	m20	253	Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Temple of Enlightenment	scd	325	Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Soldevi Excavations	me2	236	Owned	~~	Non-foil	0	U	~~	~~	Land
+Soldevi Excavations	me2	236	Owned	~~	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -970,7 +965,7 @@ Baird, Argivian Recruiter	dmu	195	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tori D'Avenant, Fury Rider	dmu	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balmor, Battlemage Captain	dmu	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dress Down	mh2	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Lightning Bolt	2x2	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadelight Ranger	plst	RIX-136	Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
 Simian Simulacrum	bro	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -987,12 +982,15 @@ Murmuring Bosk	mor	147	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolved Sleeper	dmu	93	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human
 Ruthless Sniper	akh	105	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
 Nezumi Prowler	neo	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Order of Midnight	eld	99	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Knight
 Tainted Adversary	pmid	124p	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Vampire Hexmage	zen	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
 Avacyn's Pilgrim	isd	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Willow Geist	mid	207	Owned	~~	Non-foil	1	G	~~	~~	Creature — Treefolk Spirit
+Scrapwork Mutt	bro	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcbound Tracker	mh2	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stratus Dancer	dtk	80	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hypnotic Sprite	eld	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
