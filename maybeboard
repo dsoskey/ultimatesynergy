@@ -57,7 +57,6 @@ Niambi, Esteemed Speaker	m21	222	Owned	~~	Non-foil	2	U,W	~~	~~	Legendary Creatur
 Boneknitter	ons	128	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie Cleric
 Shaile, Dean of Radiance	stx	158	Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Bird Cleric
 Remorseful Cleric	scd	31	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
-Augusta, Dean of Order  Art Card	astx	54	Owned	~~	Non-foil	0	~~	~~	~~	Card
 Temmet, Vizier of Naktamun	akh	207	Owned	~~	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
 Withered Wretch	hop	45	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie Cleric
 Anointer Priest	plst	AKH-3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
@@ -183,9 +182,7 @@ Wight of Precinct Six	jmp	287	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Elite Guardmage	war	195	Owned	~~	Non-foil	4	U,W	~~	~~	Creature — Human Wizard
 Banisher Priest	m14	7	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Pledge of Unity	war	210	Owned	~~	Non-foil	3	G,W	~~	~~	Instant
-Dromoka's Command	2x2	206	Owned	~~	Non-foil	2	G,W	~~	~~	Instant
 Huatli's Raptor	war	200	Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Dinosaur
-Strangleroot Geist	plst	PDKA-127	Owned	~~	Non-foil	2	G	~~	~~	Creature — Spirit
 Deadbridge Goliath	j22	645	Owned	~~	Non-foil	4	G	~~	~~	Creature — Insect
 Collective Effort	onc	61	Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Rishkar, Peema Renegade	ncc	305	Owned	~~	Non-foil	3	G	~~	~~	Legendary Creature — Elf Druid
@@ -547,7 +544,6 @@ Goblin Wardriver	ddt	50	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin 
 Fire Servant	m11	137	Owned	~~	Non-foil	5	R	~~	~~	Creature — Elemental
 Resilient Khenra	hou	131	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Jackal Wizard
 Verdant Force	dom	187	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
-Guardian Gladewalker	khm	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsettled Mariner	mh1	216	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orvar, the All-Form	khm	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Precursor Golem	som	194	Owned	occasional	Non-foil	5	~~	~~	~~	Artifact Creature — Golem
@@ -702,12 +698,9 @@ Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foi
 Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
 Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
-Blade of the Bloodchief	zen	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Armory of Iroas	jou	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigiled Sword of Valeron	m19	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leather Armor	afr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Amorphous Axe	mh1	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Team Pennant	stx	260	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Citizen's Crowbar	snc	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zephyr Boots	stx	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -901,6 +894,40 @@ Phyrexian Tower	usg	322	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Locthwain	eld	241	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manriki-Gusari	sok	156	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Razortide Bridge	mh2	252	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pieces of the Puzzle	soi	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Saw It Coming	khm	76	Owned	~~	Non-foil	3	U	~~	~~	Instant
+Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
+Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
+Simic Ascendancy	rna	207	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Slip Out the Back	snc	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ivy Lane Denizen	gtc	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ajani, the Greathearted	war	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Immaculate Magistrate	lrw	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silkguard	nec	29	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Duskshell Crawler	mh2	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Surly Badgersaur	c20	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Edgar Markov	oc17	36	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tyvar Kell	khm	198	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kyler, Sigardian Emissary	mic	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Idyllic Grange	eld	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vampire Socialite	mid	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Basri's Lieutenant	m21	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rakish Heir	isd	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fight Rigging	snc	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Invigorating Hot Spring	neo	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Slaughter Specialist	mid	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scale the Heights	znr	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brallin, Skyshark Rider	c20	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Faerie Vandal	eld	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pridemalkin	m21	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Froghemoth	afr	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mindless Automaton	exo	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chishiro, the Shattered Blade	nec	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shabraz, the Skyshark	c20	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Augusta, Dean of Order  Art Card	astx	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Oath of Ajani	aer	131	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Oath of Chandra	ogw	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obuun, Mul Daya Ancestor	znc	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

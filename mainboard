@@ -8,7 +8,6 @@ Attended Knight	m13	5	Not Owned	humans,blink,tokens,sacrifice,wide,stax,soldiers
 Flickerwisp	mma	16	Not Owned	fliers,blink,evasion,aggrocontrol,u2.0,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Elemental
 Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,aggro	Non-foil	1	W	~~	~~	Instant
 Day of Judgment	m11	12	Not Owned	control,spells,wrath,u2.0,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
-Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
 Recumbent Bliss	eve	13	Not Owned	lifegain,u2.0,u3.4,removal,core,aggro,control	Non-foil	3	W	~~	~~	Enchantment — Aura
 Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Cloudfin Raptor	gtc	32	Not Owned	fliers,counters,evasion,wide,aggrocontrol,u2.63,occasional	Non-foil	1	U	~~	~~	Creature — Bird Mutant
@@ -457,7 +456,6 @@ Lashknife Barrier	pls	9	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Stone Haven Pilgrim	plst	JMP-6	Owned	~~	Non-foil	2	W	~~	~~	Creature — Kor Cleric
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Torment of Venom	hou	79	Owned	~~	Non-foil	4	B	~~	~~	Instant
-Saw It Coming	khm	76	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Subtle Strike	znr	128	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Wellwisher	cma	166	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Patron Wizard	ody	89	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
@@ -676,7 +674,6 @@ Castle Garenbrig	eld	240	Owned	~~	Non-foil	0	G	Green	~~	Land
 Citadel Gate	clb	349	Owned	~~	Non-foil	0	W	White	~~	Land — Gate
 Bane of Progress	plst	C15-175	Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
 Radha, Heart of Keld	m21	224	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
-Containment Priest	m21	13	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Tezzeret's Gambit	cm2	51	Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
 Umara Mystic	znr	238	Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
@@ -1001,8 +998,37 @@ Rending Flame	vow	175	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blur of Blades	hou	84	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malakir Rebirth	znr	111	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rustvale Bridge	mh2	253	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Monastery Mentor	frf	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
+Prosperous Innkeeper	afr	200	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Strangleroot Geist	plst	PDKA-127	Owned	~~	Non-foil	2	G	~~	~~	Creature — Spirit
+Prismatic Ending	mh2	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Emiel the Blessed	jmp	3	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Indulgent Aristocrat	soi	118	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Patron of the Vein	c17	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ordeal of Erebos	ths	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ordeal of Nylea	ths	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ordeal of Purphoros	ddl	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ordeal of Thassa	ths	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ordeal of Heliod	ths	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ravenous Squirrel	mh2	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pollenbright Druid	war	173	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Go-Shintai of Ancient Wars	neo	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Go-Shintai of Boundless Vigor	neo	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Animal Sanctuary	m21	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger Class	afr	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Collective Effort	emn	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hall of Oracles	stx	267	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Roaring Earth	neo	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Guardian Gladewalker	khm	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sage of Hours	jou	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Armory of Iroas	jou	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Amorphous Axe	mh1	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abzan Ascendancy	ktk	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Anafenza, the Foremost	ktk	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Scrapling	mh2	230	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dromoka's Command	2x2	206	Owned	~~	Non-foil	2	G,W	~~	~~	Instant
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
