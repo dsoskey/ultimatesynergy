@@ -129,7 +129,6 @@ Griffin Guide	tsp	21	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Hour of Reckoning	c19	65	Owned	occasional	Non-foil	7	W	~~	~~	Sorcery
 Legion's Landing	xln	22	Owned	occasional	Non-foil	1	W	~~	~~	Legendary Enchantment
 Magus of the Disk	tsp	27	Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
-Mentor of the Meek	m19	27	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Human Soldier
 Prison Term	shm	18	Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Safe Passage	m13	30	Owned	occasional	Non-foil	3	W	~~	~~	Instant
 Shelter	mh1	28	Owned	occasional	Non-foil	2	W	~~	~~	Instant
@@ -320,7 +319,6 @@ Arcbound Ravager	dst	100	Owned	core,artifacts,counters	Non-foil	2	~~	~~	~~	Artif
 Ministrant of Obligation	rna	16	Owned	core,sacrifice,tokens,fliers,humans,control	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Thalia's Lieutenant	soi	43	Owned	core,humans,counters,aggro,tribal_payoff	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Seasoned Hallowblade	m21	34	Owned	graveyard,humans,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
-Leonin Lightscribe	stx	20	Owned	core,spells,wide,tokens,aggro	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Seeker of the Way	ktk	22	Owned	core,spells,lifegain,humans,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Angelic Purge	soi	3	Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 Naru Meha, Master Wizard	dom	59	Owned	core,wizards,humans,spells,flash,tribal_payoff	Non-foil	4	U	~~	~~	Legendary Creature — Human Wizard
@@ -381,7 +379,6 @@ Stromkirk Occultist	emn	146	Owned	core,reanimator,graveyard,aggro,aggrocontrol	N
 Hobgoblin Captain	afr	148	Owned	core,aggro,goblins,heroic	Non-foil	2	R	~~	~~	Creature — Goblin Barbarian
 Goblin Traprunner	mh2	130	Owned	core,goblins,aggro,tokens,wide,sacrifice	Non-foil	4	R	~~	~~	Creature — Goblin
 Tireless Provisioner	mh2	180	Owned	core,elves,artifacts,lifegain,ramp,control	Non-foil	3	G	~~	~~	Creature — Elf Scout
-Visionary Augmenter	kld	34	Owned	core,counters,tokens,artifacts,wide,sacrifice,blink	Non-foil	4	W	~~	~~	Creature — Dwarf Artificer
 Doomed Traveler	isd	11	Owned	core,sacrifice,tokens,fliers,wide,aggro,control,heroic	Non-foil	1	W	~~	~~	Creature — Human Soldier
 Constable of the Realm	mh2	10	Owned	core,counters_payoff,counters	Non-foil	5	W	~~	~~	Creature — Giant Soldier
 Weaponize the Monsters	iko	140	Owned	core,sacrifice,burn	Non-foil	1	R	~~	~~	Enchantment
@@ -453,7 +450,6 @@ Doomskar	khm	9	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Nine Lives	m21	28	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Port of Karfell	clb	908	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Lashknife Barrier	pls	9	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
-Stone Haven Pilgrim	plst	JMP-6	Owned	~~	Non-foil	2	W	~~	~~	Creature — Kor Cleric
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Torment of Venom	hou	79	Owned	~~	Non-foil	4	B	~~	~~	Instant
 Subtle Strike	znr	128	Owned	~~	Non-foil	2	B	~~	~~	Instant
@@ -603,7 +599,6 @@ Nullpriest of Oblivion	znr	118	Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire 
 Chaplain of Alms	mid	13	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Mikaeus, the Lunarch	jmp	123	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Cleric
 Soul's Attendant	roe	44	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Voice of the Blessed	vow	354	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
 Elas il-Kor, Sadistic Pilgrim	dmu	198	Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Phyrexian Kor Cleric
 Phyrexian Missionary	dmu	27	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Phyrexian Human Cleric
 Venerable Warsinger	stx	246	Owned	~~	Non-foil	3	R,W	~~	~~	Creature — Spirit Cleric
@@ -1029,6 +1024,14 @@ Abzan Ascendancy	ktk	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anafenza, the Foremost	ktk	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Scrapling	mh2	230	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dromoka's Command	2x2	206	Owned	~~	Non-foil	2	G,W	~~	~~	Instant
+Unbounded Potential	mh2	36	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreadhorde Butcher	war	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lorescale Coatl	arb	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Patchwork Automaton	neo	254	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clown Car	unf	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Explosive Entry	neo	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ecologist's Terrarium	neo	246	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ingenious Smith	afr	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
