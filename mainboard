@@ -73,7 +73,6 @@ Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,
 Vines of Vastwood	zen	193	Not Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Rampant Growth	nec	125	Not Owned	ramp,spells,u2.0,u2.89,smoothing,occasional	Non-foil	2	G	~~	~~	Sorcery
 Hunting Triad	mor	127	Not Owned	elves,counters,flash,tokens,sacrifice,spells,fliers,heroic,wide,stax,aggrocontrol,u4.6,core,aggro	Non-foil	4	G	~~	~~	Tribal Sorcery — Elf
-Seasons Past	soi	226	Not Owned	graveyard,ramp,spells,u2.77,core,control	Non-foil	6	G	~~	~~	Sorcery
 Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,u2.0,u4.7,smoothing,core,aggro,control	Non-foil	2	G	~~	~~	Enchantment
 Growing Ranks	rtr	217	Not Owned	tokens,stax,u3.5,sacrifice,occasional	Non-foil	4	W,G	Hybrid	~~	Enchantment
 Frilled Mystic	rna	174	Not Owned	flash,elves,wizards,aggrocontrol,blink,u4.7,core,aggro,control	Non-foil	4	U,G	~~	~~	Creature — Elf Lizard Wizard
@@ -111,7 +110,6 @@ Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,a
 Thought Courier	5dn	38	Not Owned	humans,wizards,graveyard,control,u4.9,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Overseer of the Damned	e01	36	Not Owned	ramp,reanimator,zombies,control,fliers,u4.9,removal,blink,occasional	Non-foil	7	B	~~	~~	Creature — Demon
 Monastery Swiftspear	ktk	118	Not Owned	spells,burn,aggrocontrol,humans,u2.60,u2.69,u3.1,u4.9,aggro,occasional	Non-foil	1	R	~~	~~	Creature — Human Monk
-Fecundity	uma	165	Not Owned	sacrifice,u2.62,u4.9,occasional	Non-foil	3	G	~~	~~	Enchantment
 Ash Barrens	a25	236	Not Owned	graveyard,u4.9,core,gold_land	Non-foil	0	~~	~~	~~	Land
 Bygone Bishop	soi	8	Owned	u4.9.3,u2.77,fliers,artifacts,aggrocontrol,manasink,core,aggro	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
 Emeria Angel	ima	20	Owned	u2.0,u4.9.3,fliers,tokens,ramp,wide,occasional	Non-foil	4	W	~~	~~	Creature — Angel
@@ -877,7 +875,6 @@ Lunarch Veteran	mid	27	Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Ornithopter of Paradise	mh2	232	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Thopter
 Arcbound Crusher	dst	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	dis	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Song of the Dryads	c14	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valentin, Dean of the Vein	stx	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectrum Sentinel	bro	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1036,6 +1033,7 @@ Mukotai Soulripper	neo	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Runebinder	dka	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venomcrawler	40k	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anointer Priest	plst	AKH-3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
+Obsessive Skinner	soi	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
