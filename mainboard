@@ -68,7 +68,6 @@ Ohran Viper	csp	115	Not Owned	tappers,tappers_payoff,aggrocontrol,u2.84,core,agg
 Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_removal,u4.6,core,aggro,control	Non-foil	3	G	~~	~~	Creature — Dinosaur
 Blastoderm	gvl	7	Not Owned	counters,ramp,enrage,aggrocontrol,u2.76,core,aggro	Non-foil	4	G	~~	~~	Creature — Beast
 Briarhorn	lrw	199	Not Owned	flash,heroic,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	4	G	~~	~~	Creature — Elemental
-Penumbra Spider	mm3	131	Not Owned	sacrifice,tokens,enrage,stax,u2.67,core,control	Non-foil	4	G	~~	~~	Creature — Spider
 Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Vines of Vastwood	zen	193	Not Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Rampant Growth	nec	125	Not Owned	ramp,spells,u2.0,u2.89,smoothing,occasional	Non-foil	2	G	~~	~~	Sorcery
@@ -438,7 +437,6 @@ Rune of Mortality	khm	108	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura Rune
 Realmwalker	khm	188	Owned	~~	Non-foil	3	G	~~	~~	Creature — Shapeshifter
 Cosmos Elixir	khm	237	Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Littjara Mirrorlake	khm	264	Owned	~~	Non-foil	0	G,U	~~	~~	Land
-Sarulf's Packmate	khm	192	Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Demon Bolt	clb	787	Owned	~~	Non-foil	3	R	~~	~~	Instant
 Embolden	ody	22	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Armix, Filigree Thrasher	cmr	108	Owned	~~	Non-foil	3	B	~~	~~	Legendary Artifact Creature — Golem
@@ -728,7 +726,6 @@ Chandra, Acolyte of Flame	m20	126	Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswa
 Gilded Goose	eld	160	Owned	~~	Non-foil	1	G	~~	~~	Creature — Bird
 Rattleclaw Mystic	ktk	144	Owned	~~	Non-foil	2	U,R,G	Green	~~	Creature — Human Shaman
 Runaway Steam-Kin	grn	115	Owned	~~	Non-foil	2	R	~~	~~	Creature — Elemental
-Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elemental
 Skyclave Apparition	znr	39	Owned	~~	Non-foil	3	W	~~	~~	Creature — Kor Spirit
 Hanweir Militia Captain	soi	21	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Oust	roe	40	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -765,7 +762,6 @@ Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Demolition Field	bro	260	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Acidic Slime	nec	112	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
 Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Beast Within	clb	820	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
@@ -939,7 +935,7 @@ Felidar Retreat	j22	184	Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Codex Shredder	rtr	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Overseer	ddf	44	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Gravedigger	por	95	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gravedigger	plst	CM2-66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blackbloom Rogue	znr	91	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Rogue
 Languish	ori	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodghast	zen	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1034,8 +1030,44 @@ Havengul Runebinder	dka	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venomcrawler	40k	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anointer Priest	plst	AKH-3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Obsessive Skinner	soi	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shadow-Rite Priest	dmu	106	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
+Bloodghast	zen	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Everlasting Torment	shm	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lockjaw Snapper	shm	255	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fists of the Demigod	shm	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blight Sickle	shm	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Puncture Blast	eve	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rendclaw Trow	eve	127	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Noxious Hatchling	eve	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cinderbones	shm	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rustrazor Butcher	shm	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Scuzzback Scrapper	shm	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Grim Initiate	war	130	Owned	~~	Non-foil	1	R	~~	~~	Creature — Zombie Warrior
+Goblin Javelineer	afr	144	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
+Fireblade Charger	znr	139	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
+Falkenrath Gorger	soi	155	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abbot of Keral Keep	ori	127	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodthirsty Adversary	mid	351	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
+Grenzo, Havoc Raiser	cn2	54	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Goblin Rogue
+Giant Cindermaw	bro	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Squee, Dubious Monarch	dmu	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tainted Observer	one	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vishgraz, the Doomhive	onc	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Necrogen Communion	one	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voidwing Hybrid	one	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Venser, Corpse Puppet	one	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Venser, Shaper Savant	fut	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dune Mover	one	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lukka, Bound to Ruin	one	207	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lukka, Coppercoat Outcast	iko	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aspirant's Ascent	one	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Convert	one	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inkmoth Nexus	mbs	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glistening Dawn	mom	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Necropede	som	185	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
