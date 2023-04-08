@@ -192,7 +192,6 @@ Tarmogoyf	mm2	165	Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Ishkanah, Grafwidow	emn	162	Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature — Spider
 Nyx Weaver	jou	153	Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
 Sprite Dragon	iko	211	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Faerie Dragon
-Adeliz, the Cinder Wind	dom	190	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Firemind's Research	grn	171	Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
 Vapor Snag	mm2	66	Owned	~~	Non-foil	1	U	~~	~~	Instant
 Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
@@ -232,7 +231,6 @@ Goblin Balloon Brigade	9ed	189	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin W
 Footlight Fiend	rna	216	Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
 Koll, the Forgemaster	khm	220	Owned	~~	Non-foil	2	R,W	~~	~~	Legendary Creature — Dwarf Warrior
 Heroic Reinforcements	onc	118	Owned	~~	Non-foil	4	R,W	~~	~~	Sorcery
-Empyrean Eagle	scd	226	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Bird Spirit
 Aurelia, Exemplar of Justice	grn	153	Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Creature — Angel
 Flame-Kin Zealot	rav	206	Owned	~~	Non-foil	4	R,W	~~	~~	Creature — Elemental Berserker
 Nobilis of War	mm2	195	Owned	~~	Non-foil	5	R,W	~~	~~	Creature — Spirit Avatar
@@ -287,7 +285,6 @@ Priest of Forgotten Gods	rna	83	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Hum
 Phyrexian Rebirth	mbs	15	Owned	~~	Non-foil	6	W	~~	~~	Sorcery
 Read the Bones	plst	DDP-56	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Night's Whisper	ddm	68	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
-Irenicus's Vile Duplication	clb	78	Owned	~~	Non-foil	4	U	~~	~~	Sorcery
 Drana's Emissary	bfz	210	Owned	~~	Non-foil	3	B,W	~~	~~	Creature — Vampire Cleric Ally
 High Priest of Penance	gtc	171	Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Human Cleric
 Underworld Coinsmith	c15	237	Owned	~~	Non-foil	2	B,W	~~	~~	Enchantment Creature — Human Cleric
@@ -617,7 +614,6 @@ Ghostfire Blade	ktk	220	Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipm
 Vulshok Morningstar	ddi	66	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Hornet Queen	cmd	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Battlesphere	som	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krosan Tusker	plst	DDU-14	Owned	reanimator,ramp,smoothing,occasional	Non-foil	7	G	~~	~~	Creature — Boar Beast
 Verdant Sun's Avatar	xln	213	Owned	~~	Non-foil	7	G	~~	~~	Creature — Dinosaur Avatar
 Jaddi Offshoot	bfz	176	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -684,11 +680,8 @@ Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Dismiss	cn2	108	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Sigiled Sword of Valeron	m19	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leather Armor	afr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Team Pennant	stx	260	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Citizen's Crowbar	snc	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Zephyr Boots	stx	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Relic Axe	znr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dissolve	ths	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dissipate	mir	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Familiar's Ruse	lrw	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -900,7 +893,6 @@ Pridemalkin	m21	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Froghemoth	afr	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindless Automaton	exo	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chishiro, the Shattered Blade	nec	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shabraz, the Skyshark	c20	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Augusta, Dean of Order  Art Card	astx	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Ajani	aer	131	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Chandra	ogw	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -987,6 +979,97 @@ Glistening Oil	nph	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Unlife	nph	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flensermite	mbs	41	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contagious Nim	som	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zo-Zu the Punisher	dds	41	Owned	occasional	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
+Haakon, Stromgald Scourge	csp	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Indulge // Excess	ncc	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pongify	plc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rapid Hybridization	gtc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Call the Coppercoats	c20	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Theoretical Duplication	c21	34	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eldrazi Monument	zen	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Halo Fountain	snc	15	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Throne of the God-Pharaoh	akh	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mothdust Changeling	mor	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Amoeboid Changeling	lrw	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Venomous Changeling	mh1	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Avian Changeling	lrw	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Webweaver Changeling	mh1	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Changeling Titan	lrw	200	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Changeling Berserker	lrw	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Maskwood Nexus	khm	240	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arachnoform	khm	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vanquisher's Banner	xln	251	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Patriarch's Bidding	ons	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Door of Destinies	mor	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Molten Echoes	c20	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obelisk of Urd	m15	222	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Heirloom Blade	c17	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Etchings of the Chosen	mh1	198	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mana Echoes	ons	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skemfar Shadowsage	khm	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Radiant Destiny	rix	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chainer, Dementia Master	tor	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Folk Hero	clb	650	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+New Blood	c17	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Riders of Gavony	avr	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steely Resolve	ons	286	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cryptic Gateway	ons	306	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trickery Charm	ons	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Alpha Status	scg	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Konda's Banner	chk	259	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blades of Velis Vel	lrw	152	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Graaz, Unstoppable Juggernaut	one	229	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sensei Golden-Tail	chk	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Leaf-Crowned Elder	mor	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tribal Unity	ons	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Grave Sifter	c14	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arachnoform	khm	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aphetto Dredging	ons	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Faces of the Past	scg	35	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mephidross Vampire	5dn	53	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lim-Dûl the Necromancer	tsp	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Instruments of War	j22	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hivestone	tsp	256	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Riptide Replicator	ons	309	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elvish Soultiller	lgn	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mistform Ultimus	lgn	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reins of the Vinesteed	mor	134	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ego Erasure	lrw	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Herald's Horn	c17	53	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Mutation	c13	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Woodland Changeling	lrw	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Culling Dais	2xm	246	Owned	core,sacrifice,tokens,counters	Non-foil	2	~~	~~	~~	Artifact
+Shrine of Loyal Legions	md1	5	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact
+Peer Pressure	ons	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Patriarch's Bidding	mh2	275	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
+Evincar's Justice	cmd	80	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
+Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
+Village Messenger	soi	190	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Werewolf
+Insolent Neonate	soi	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blastoderm	gvl	7	Not Owned	counters,ramp,enrage,aggrocontrol,u2.76,core,aggro	Non-foil	4	G	~~	~~	Creature — Beast
+Vulshok Battlegear	mrd	272	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
+Unnatural Selection	apc	32	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Keeper of Fables	eld	163	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Cat
+Emergence Zone	war	245	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tradewind Rider	vma	98	Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
+Clever Impersonator	ktk	34	Owned	core,aggro,control	Non-foil	4	U	~~	~~	Creature — Shapeshifter
+Harmonize	ncc	295	Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
+Arcane Denial	all	22a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Electrostatic Field	grn	97	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mental Note	jud	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Harmonic Prodigy	mh2	132	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kessig Flamebreather	vow	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stormchaser Mage	ogw	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wee Dragonauts	gpt	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crash Through	hou	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismari Apprentice	stx	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethereal Forager	c20	34	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystic Confluence	c15	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vapor Snag	nph	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sweltering Suns	akh	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magmatic Sinkhole	mh1	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vraska's Contempt	xln	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gush	mmq	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
