@@ -72,7 +72,7 @@ Jerren, Corrupted Bishop	mid	109	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature 
 Torens, Fist of the Angels	vow	344	Owned	~~	Non-foil	3	G,W	~~	~~	Legendary Creature — Human Cleric
 Inspiring Overseer	snc	18	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Geist of Saint Traft	ddq	1	Owned	~~	Non-foil	3	U,W	~~	~~	Legendary Creature — Spirit Cleric
-Runo Stromkirk	dbl	513	Owned	~~	Non-foil	3	B,U	~~	~~	Legendary Creature — Vampire Cleric
+Runo Stromkirk	vow	246	Owned	~~	Non-foil	3	B,U	~~	~~	Legendary Creature — Vampire Cleric
 Pious Evangel	soi	34	Owned	~~	Non-foil	3	B,W	~~	~~	Creature — Human Cleric
 Thalia's Geistcaller	c19	7	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Extricator of Sin	emn	23	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
@@ -169,7 +169,6 @@ Whirler Rogue	gnt	25	Owned	~~	Non-foil	4	U	~~	~~	Creature — Human Rogue Artifi
 Sylvan Anthem	mh2	176	Owned	~~	Non-foil	2	G	~~	~~	Enchantment
 Wizard Class	plst	AFR-81	Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Blood Funnel	rav	77	Owned	~~	Non-foil	2	B	~~	~~	Enchantment
-Infernal Grasp	mid	107	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Tatyova, Steward of Tides	dmu	222	Owned	~~	Non-foil	3	G,U	~~	~~	Legendary Creature — Merfolk Druid
 Woe Strider	thb	123	Owned	~~	Non-foil	3	B	~~	~~	Creature — Horror
 Wight of Precinct Six	jmp	287	Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
@@ -469,7 +468,6 @@ Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ertai Resurrected	dmu	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stinkweed Imp	rav	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golgari Grave-Troll	rav	167	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Skorpekh Lord	40k	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tenacious Underdog	snc	97	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Living Death	tmp	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tomb Fortress	40k	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -479,7 +477,6 @@ Fury	mh2	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grief	mh2	311	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Axe	tsp	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zurgo Bellstriker	dtk	169	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
-Hormagaunt Horde	40k	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hardened Scales	ktk	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrun, Breaker of Silence	one	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life from the Loam	rav	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1076,7 +1073,6 @@ Angel of Despair	gk2	37	Owned	occasional	Non-foil	7	B,W	~~	~~	Creature — Angel
 Trumpeting Herd	mh1	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fleshtaker	mid	222	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	neo	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Royal Warden	40k	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cave of Temptation	mh1	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Maelstrom Wanderer	pc2	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halvar, God of Battle	khm	15	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1112,6 +1108,16 @@ Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Umara Mystic	znr	238	Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
 Funeral Charm	vis	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bane of Progress	plst	C15-175	Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
+Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
+Darkblast	rav	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Triarch Praetorian	40k	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Karakas	leg	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reanimate	tmp	151	Owned	core,graveyard,spells,lifegain,reanimator,aggro	Non-foil	1	B	~~	~~	Sorcery
+Collective Brutality	emn	85	Owned	occasional	Non-foil	2	B	~~	~~	Sorcery
+Persist	mh2	96	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
+Trygon Prime	40k	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dragon Mantle	ths	119	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

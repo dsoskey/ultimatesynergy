@@ -144,14 +144,12 @@ Gravecrawler	ddq	59	Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	N
 Army of the Damned	mic	106	Owned	occasional	Non-foil	8	B	~~	~~	Sorcery
 Blackmail	9ed	115★	Owned	core,aggrocontrol,spells,aggro	Non-foil	1	B	~~	~~	Sorcery
 Cemetery Reaper	mic	108	Owned	core,zombies,graveyard,tokens	Non-foil	3	B	~~	~~	Creature — Zombie
-Collective Brutality	emn	85	Owned	occasional	Non-foil	2	B	~~	~~	Sorcery
 Dark Ritual	a25	82	Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Dismember	mm2	79	Owned	occasional	Non-foil	3	~~	Colorless	~~	Instant
 Doom Blade	e02	18	Owned	removal,spells,flash,occasional	Non-foil	2	B	~~	~~	Instant
 Dusk Urchins	shm	65	Owned	core,counters,sacrifice,smoothing,aggro,control	Non-foil	3	B	~~	~~	Creature — Ouphe
 Infest	cn2	139	Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
 Last Gasp	rav	93	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
-Reanimate	tmp	151	Owned	core,graveyard,spells,lifegain,reanimator,aggro	Non-foil	1	B	~~	~~	Sorcery
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
 Rescue from the Underworld	ths	102	Owned	occasional	Non-foil	5	B	~~	~~	Instant
@@ -159,7 +157,6 @@ Sudden Death	tsp	134	Owned	occasional	Non-foil	3	B	~~	~~	Instant
 Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Multicolored	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
-Dragon Mantle	ths	119	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Alesha, Who Smiles at Death	c20	143	Owned	occasional	Non-foil	3	W,B,R	Multicolored	~~	Legendary Creature — Human Warrior
 Banefire	m19	130	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Bedlam Reveler	emn	118	Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Horror
@@ -186,7 +183,6 @@ Invigorate	a25	173	Owned	occasional	Non-foil	3	G	~~	~~	Instant
 Joraga Treespeaker	roe	190	Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Moment's Peace	ody	251	Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
-Skinshifter	m12	195	Owned	core,humans,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Squirrel Nest	mh1	182	Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Abrupt Decay	gk1	57	Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
 Ashiok, Dream Render	war	228	Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
@@ -311,7 +307,6 @@ Blazing Rootwalla	mh2	115	Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-f
 Fire Prophecy	iko	116	Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
 Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
-Basking Rootwalla	gvl	2	Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Farseek	dmc	133	Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Roar of the Wurm	dds	49	Owned	core,spells,tokens,ramp,graveyard,control	Non-foil	7	G	~~	~~	Sorcery
@@ -585,7 +580,6 @@ Moorland Haunt	isd	244	Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
-Persist	mh2	96	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Fatal Push	sld	112	Owned	~~	Non-foil	1	B	~~	~~	Instant
 Seachrome Coast	one	258	Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Razorverge Thicket	one	257	Owned	~~	Non-foil	0	W,G	~~	~~	Land
@@ -1075,6 +1069,10 @@ Eel Umbra	roe	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grismold, the Dreadsower	c19	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necron Deathmark	40k	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sicarian Infiltrator	40k	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skorpekh Lord	40k	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Infernal Grasp	mid	107	Owned	~~	Non-foil	2	B	~~	~~	Instant
+Royal Warden	40k	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hormagaunt Horde	40k	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
