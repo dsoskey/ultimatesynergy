@@ -31,7 +31,6 @@ Sejiri Shelter	znr	37	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Anticognition	znr	45	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Glasspool Mimic	znr	60	Owned	~~	Non-foil	3	U	~~	~~	Creature — Shapeshifter Rogue
 Inscription of Insight	znr	61	Owned	~~	Non-foil	4	U	~~	~~	Sorcery
-Negate	ogw	59	Owned	~~	Non-foil	2	U	~~	~~	Instant
 Blood Beckoning	znr	92	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Feed the Swarm	ncc	250	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Nighthawk Scavenger	clb	763	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Rogue
@@ -437,7 +436,6 @@ Titania, Protector of Argoth	c14	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flesh Carver	c14	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kytheon, Hero of Akros	ori	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ninja of the Deep Hours	bok	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sicarian Infiltrator	40k	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Force Spike	ddj	14	Owned	flash,aggrocontrol,spells,occasional	Non-foil	1	U	~~	~~	Instant
 Street Wraith	plst	A25-108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stromkirk Noble	isd	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -568,7 +566,6 @@ Research Thief	nec	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filigree Familiar	kld	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golden Guardian	rix	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Virus Beetle	neo	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Necron Deathmark	40k	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expressive Iteration	stx	186	Owned	core,spells,smoothing,aggro,aggrocontrol,control	Non-foil	2	U,R	~~	~~	Sorcery
 Azorius Guildmage	gk2	9	Owned	occasional	Non-foil	2	U,W	~~	~~	Creature — Vedalken Wizard
 Mistmeadow Witch	cma	203	Owned	~~	Non-foil	2	U,W	~~	~~	Creature — Kithkin Wizard
@@ -672,7 +669,6 @@ Serum Snare	one	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesmerizing Dose	one	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Everythingamajig	ust	147a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Lapse	ema	60	Owned	occasional	Non-foil	2	U	~~	~~	Instant
-Negate	m15	71	Not Owned	flash,spells,aggrocontrol,u2.0,occasional	Non-foil	2	U	~~	~~	Instant
 Complicate	ons	76	Owned	core,smoothing,aggrocontrol,flash,spells,control	Non-foil	3	U	~~	~~	Instant
 Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
 Scatter to the Winds	bfz	85	Owned	occasional	Non-foil	3	U	~~	~~	Instant
@@ -683,7 +679,6 @@ Team Pennant	stx	260	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Citizen's Crowbar	snc	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dissolve	ths	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dissipate	mir	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Familiar's Ruse	lrw	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Collapse	rna	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abjure	wth	31	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1060,7 +1055,6 @@ Crash Through	hou	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismari Apprentice	stx	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethereal Forager	c20	34	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Confluence	c15	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vapor Snag	nph	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sweltering Suns	akh	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magmatic Sinkhole	mh1	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraska's Contempt	xln	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1102,7 +1096,22 @@ Skyboon Evangelist	ncc	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mortify	rna	192	Owned	occasional	Non-foil	3	B,W	~~	~~	Instant
 Dire-Strain Rampage	mid	219	Owned	~~	Non-foil	3	G,R	~~	~~	Sorcery
 Sultai Charm	c19	202	Owned	~~	Non-foil	3	B,G,U	~~	~~	Instant
+Breakthrough	2x2	41	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
+Preordain	m11	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Curiosity	isd	49	Not Owned	heroic,fliers,pingers,tappers,fliers_payoff,tappers_payoff,aggrocontrol,u3.8,occasional	Non-foil	1	U	~~	~~	Enchantment — Aura
+Abzan Charm	2x2	166	Owned	~~	Non-foil	3	B,G,W	~~	~~	Instant
+Dakmor Salvage	ddj	79	Owned	~~	Non-foil	0	B	Black	~~	Land
+Blighted Cataract	ddt	26	Owned	~~	Non-foil	0	U	Blue	~~	Land
+Blighted Steppe	bfz	232	Owned	~~	Non-foil	0	W	White	~~	Land
+Giant Solifuge	gpt	143	Owned	occasional	Non-foil	4	R,G	Hybrid	~~	Creature — Insect
+Behold the Multiverse	khm	46	Owned	~~	Non-foil	4	U	~~	~~	Instant
+Supreme Will	hou	49	Owned	~~	Non-foil	3	U	~~	~~	Instant
+Hinder	chk	65	Owned	core,control,aggrocontrol,spells,flash	Non-foil	3	U	~~	~~	Instant
+Misdirection	ddt	15	Owned	occasional	Non-foil	5	U	~~	~~	Instant
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Umara Mystic	znr	238	Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
+Funeral Charm	vis	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bane of Progress	plst	C15-175	Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
