@@ -302,7 +302,6 @@ Deep Analysis	plst	EMA-45	Owned	core,graveyard,spells,lifegain,aggro,control	Non
 Carnophage	tpr	84	Owned	core,zombies,aggro,aggrocontrol,lifegain	Non-foil	1	B	~~	~~	Creature — Zombie
 Carrion Feeder	dde	2	Owned	sacrifice,counters,zombies,aggro,occasional	Non-foil	1	B	~~	~~	Creature — Zombie
 Sinister Starfish	mh2	99	Owned	core,graveyard,control,smoothing	Non-foil	2	B	~~	~~	Creature — Starfish
-Goblin Banneret	grn	102	Owned	core,manasink,counters,goblins,aggro,heroic	Non-foil	1	R	~~	~~	Creature — Goblin Soldier
 Blazing Rootwalla	mh2	115	Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Fire Prophecy	iko	116	Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
@@ -1058,7 +1057,6 @@ Stormwing Entity	m21	73	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	ths	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drown in Sorrow	bng	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	ice	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Clay Revenant	bro	118	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mayhem Devil	war	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spiteful Prankster	jmp	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

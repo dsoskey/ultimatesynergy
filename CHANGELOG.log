@@ -4110,3 +4110,7 @@ Timestamp	Board	ChangeType	Name
 2023-04-09T14:07:36.766+00:00	maybeboard	add	Basking Rootwalla
 2023-04-09T14:07:36.766+00:00	maybeboard	add	Trygon Prime
 2023-04-09T14:07:36.766+00:00	maybeboard	add	Dragon Mantle
+2023-04-10T07:27:55.392+00:00	mainboard	remove	Clay Revenant
+2023-04-10T07:27:55.392+00:00	mainboard	remove	Goblin Banneret
+2023-04-10T07:27:55.392+00:00	maybeboard	add	Goblin Banneret
+2023-04-10T07:27:55.392+00:00	maybeboard	add	Clay Revenant
