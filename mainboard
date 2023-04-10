@@ -128,7 +128,6 @@ Sunscorch Regent	dtk	41	Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
 Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
 Twilight Drover	rav	33	Owned	occasional	Non-foil	3	W	~~	~~	Creature — Spirit
 Thassa's Oracle	thb	73	Owned	core,wizards,control,blink	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
-Elder Deep-Fiend	emn	5	Owned	occasional	Non-foil	8	U	~~	~~	Creature — Eldrazi Octopus
 Cryptic Command	ima	48	Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Baral, Chief of Compliance	aer	28	Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
@@ -249,7 +248,6 @@ Irencrag Pyromancer	eld	128	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Hum
 Reckless Charge	ema	144	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Ghostly Pilferer	m21	52	Owned	core,graveyard,aggrocontrol,rogues,tappers,manasink,aggro	Non-foil	2	U	~~	~~	Creature — Spirit Rogue
 Feed the Swarm	znr	102	Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
-Waker of Waves	m21	84	Owned	core,reanimator,graveyard,control,ramp	Non-foil	7	U	~~	~~	Creature — Whale
 Robber of the Rich	eld	138	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	30a	196	Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
 Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
@@ -380,7 +378,6 @@ Emergent Sequence	stx	129	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Blasphemous Act	ncc	264	Owned	~~	Non-foil	9	R	~~	~~	Sorcery
 Captain's Claws	ogw	162	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Runed Crown	khm	245	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
-Basalt Ravager	khm	122	Owned	~~	Non-foil	4	R	~~	~~	Creature — Giant Wizard
 Haunting Voyage	khm	98	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
 Spirit of the Season	und	70	Owned	~~	Non-foil	3	G	~~	~~	Creature — Treefolk Spirit
 Resplendent Marshal	khm	22	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
@@ -980,7 +977,6 @@ Anointer Priest	plst	AKH-3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Obsessive Skinner	soi	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow-Rite Priest	dmu	106	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Everlasting Torment	shm	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lockjaw Snapper	shm	255	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fists of the Demigod	shm	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blight Sickle	shm	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Puncture Blast	eve	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1071,6 +1067,12 @@ Skorpekh Lord	40k	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	107	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Royal Warden	40k	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hormagaunt Horde	40k	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+General Kudro of Drannith	iko	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shadowspear	thb	236	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bruenor Battlehammer	afr	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Retrofitter Foundry	c18	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Croaking Counterpart	mid	215	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

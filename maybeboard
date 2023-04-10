@@ -291,7 +291,7 @@ Coat of Arms	10e	316	Owned	~~	Non-foil	5	~~	~~	~~	Artifact
 Pulse of Murasa	uma	179	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dimir Charm	gk1	11	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
 Licia, Sanguine Tribune	c17	40	Owned	~~	Non-foil	8	B,R,W	~~	~~	Legendary Creature — Vampire Soldier
-Manaform Hellkite	dbl	437	Owned	~~	Non-foil	4	R	~~	~~	Creature — Dragon
+Manaform Hellkite	vow	170	Owned	~~	Non-foil	4	R	~~	~~	Creature — Dragon
 Goldspan Dragon	j22	550	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Seize the Storm	j22	598	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 You Find Some Prisoners	afr	169	Owned	~~	Non-foil	2	R	~~	~~	Instant
@@ -587,7 +587,6 @@ Ashnod's Harvester	bro	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostile Negotiations	bro	105	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rampaging Ferocidon	xln	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bushwhack	bro	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffocating Blast	apc	124	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Scavenged Brawler	brc	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -725,7 +724,6 @@ Startled Awake	soi	88	Owned	occasional	Non-foil	4	U	~~	~~	Sorcery
 Seize the Day	ody	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Reclamation	j22	124	Owned	lifegain,manasink,graveyard,occasional	Non-foil	1	B	~~	~~	Enchantment
-Croaking Counterpart	mid	215	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Siphon Insight	mid	241	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angelfire Ignition	mid	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Alchemy	isd	55	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1120,6 +1118,20 @@ Trygon Prime	40k	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Mantle	ths	119	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Goblin Banneret	grn	102	Owned	core,manasink,counters,goblins,aggro,heroic	Non-foil	1	R	~~	~~	Creature — Goblin Soldier
 Clay Revenant	bro	118	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Basalt Ravager	khm	122	Owned	~~	Non-foil	4	R	~~	~~	Creature — Giant Wizard
+Shimmerdrift Vale	khm	267	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bramble Sovereign	bbd	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lockjaw Snapper	shm	255	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reyav, Master Smith	cmr	290	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Barbed Spike	mh2	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Light of the Legion	grn	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Careful Cultivation	neo	178	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elder Deep-Fiend	emn	5	Owned	occasional	Non-foil	8	U	~~	~~	Creature — Eldrazi Octopus
+Waker of Waves	m21	84	Owned	core,reanimator,graveyard,control,ramp	Non-foil	7	U	~~	~~	Creature — Whale
+Wedding Announcement	vow	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sinister Concierge	ncc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Warkite Marauder	rix	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Oskar, Rubbish Reclaimer	ncc	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
