@@ -47,7 +47,6 @@ Dark-Dweller Oracle	m19	134	Not Owned	goblins,sacrifice,tokens,burn,u4.4,smoothi
 Fireslinger	j22	130	Not Owned	wizards,humans,pingers,u2.80,u4.2,occasional	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Goblin Cratermaker	grn	103	Not Owned	goblins,artifact_removal,u4.6.1,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
-Goblin Sharpshooter	c13	111	Not Owned	pingers,goblins,sacrifice,u2.63,u2.89,occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Captivating Crew	xln	137	Not Owned	sacrifice,humans,manasink,u4.7,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
 Zealous Conscripts	avr	166	Not Owned	humans,twin,blink,sacrifice,burn,u2.0,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
@@ -298,7 +297,6 @@ Nightveil Sprite	grn	48	Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyar
 Aether Spellbomb	mma	196	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
 Deep Analysis	plst	EMA-45	Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
 Carnophage	tpr	84	Owned	core,zombies,aggro,aggrocontrol,lifegain	Non-foil	1	B	~~	~~	Creature — Zombie
-Carrion Feeder	dde	2	Owned	sacrifice,counters,zombies,aggro,occasional	Non-foil	1	B	~~	~~	Creature — Zombie
 Sinister Starfish	mh2	99	Owned	core,graveyard,control,smoothing	Non-foil	2	B	~~	~~	Creature — Starfish
 Blazing Rootwalla	mh2	115	Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Fire Prophecy	iko	116	Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
