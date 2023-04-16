@@ -31,7 +31,6 @@ Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,gravey
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
 Time of Ice	dom	70	Not Owned	tappers,tappers_payoff,aggrocontrol,u4.4,core,aggro,control	Non-foil	4	U	~~	~~	Enchantment — Saga
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,humans,graveyard,wide,aggrocontrol,u2.60,occasional	Non-foil	1	B	~~	~~	Creature — Human Warrior
-Kitesail Freebooter	xln	110	Not Owned	humans,fliers,evasion,aggrocontrol,u3.4,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Pirate
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
 Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Bird
@@ -989,7 +988,7 @@ Goblin Javelineer	afr	144	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrio
 Fireblade Charger	znr	139	Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
 Falkenrath Gorger	soi	155	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	ori	127	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodthirsty Adversary	pmid	129p	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
+Bloodthirsty Adversary	mid	129	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Grenzo, Havoc Raiser	cn2	54	Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Goblin Rogue
 Giant Cindermaw	bro	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squee, Dubious Monarch	dmu	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1071,6 +1070,12 @@ Shadowspear	thb	236	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bruenor Battlehammer	afr	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retrofitter Foundry	c18	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Croaking Counterpart	mid	215	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wear // Tear	dgm	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brotherhood's End	bro	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Innocent Blood	e02	19	Owned	occasional	Non-foil	1	B	~~	~~	Sorcery
+Diregraf Colossus	soi	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Beckon Apparition	eve	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Experimental Augury	one	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

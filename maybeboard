@@ -402,7 +402,6 @@ Humility	tmp	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selvala, Explorer Returned	cns	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunset Revelry	mid	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timely Reinforcements	m12	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Experimental Augury	one	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Annihilating Glare	one	80	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cast Down	dom	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barbed Batterfist	one	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1085,7 +1084,6 @@ Ordeal of Purphoros	ddl	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necromancy	vis	64	Owned	core,reanimator,graveyard	Non-foil	3	B	~~	~~	Enchantment
 Terramorphic Expanse	afc	267	Not Owned	u2.0,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Evolving Wilds	bfz	236	Not Owned	u2.0,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
-Innocent Blood	e02	19	Owned	occasional	Non-foil	1	B	~~	~~	Sorcery
 Skyboon Evangelist	ncc	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mortify	rna	192	Owned	occasional	Non-foil	3	B,W	~~	~~	Instant
 Dire-Strain Rampage	mid	219	Owned	~~	Non-foil	3	G,R	~~	~~	Sorcery
@@ -1141,6 +1139,10 @@ Emerald Charm	vis	106	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Metamorphosis	arn	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vorapede	dka	131	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightshade Peddler	avr	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deflecting Palm	ktk	173	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kitesail Freebooter	xln	110	Not Owned	humans,fliers,evasion,aggrocontrol,u3.4,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Pirate
+Xathrid Slyblade	m15	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gift of Orzhova	gtc	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
