@@ -4184,3 +4184,7 @@ Timestamp	Board	ChangeType	Name
 2023-04-18T04:32:16.347+00:00	maybeboard	add	The Mirari Conjecture
 2023-04-18T04:32:16.347+00:00	maybeboard	add	Time of Ice
 2023-04-18T04:32:16.347+00:00	maybeboard	add	Obscura Storefront
+2023-04-18T04:38:12.024+00:00	mainboard	remove	Sky Hussar
+2023-04-18T04:38:12.024+00:00	mainboard	remove	Naru Meha, Master Wizard
+2023-04-18T04:38:12.024+00:00	maybeboard	add	Naru Meha, Master Wizard
+2023-04-18T04:38:12.024+00:00	maybeboard	add	Sky Hussar

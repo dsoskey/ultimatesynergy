@@ -289,7 +289,6 @@ Thalia's Lieutenant	soi	43	Owned	core,humans,counters,aggro,tribal_payoff	Non-fo
 Seasoned Hallowblade	m21	34	Owned	graveyard,humans,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Seeker of the Way	ktk	22	Owned	core,spells,lifegain,humans,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Angelic Purge	soi	3	Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
-Naru Meha, Master Wizard	dom	59	Owned	core,wizards,humans,spells,flash,tribal_payoff	Non-foil	4	U	~~	~~	Legendary Creature — Human Wizard
 Nightveil Sprite	grn	48	Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
 Aether Spellbomb	mma	196	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
 Deep Analysis	plst	EMA-45	Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
@@ -302,7 +301,6 @@ Fiery Temper	plst	SOI-156	Owned	core,graveyard,removal,burn,spells,flash,aggro,c
 Deadbridge Goliath	rtr	120	Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Farseek	dmc	133	Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Roar of the Wurm	dds	49	Owned	core,spells,tokens,ramp,graveyard,control	Non-foil	7	G	~~	~~	Sorcery
-Sky Hussar	dis	131	Owned	core,fliers,humans,twin,aggro	Non-foil	5	W,U	~~	~~	Creature — Human Knight
 Dimir Guildmage	rav	245	Owned	core,humans,wizards,manasink,aggro,aggrocontrol,control	Non-foil	2	U,B	Multicolored	~~	Creature — Human Wizard
 Unlicensed Disintegration	kld	187	Owned	core,spells,flash,artifacts,burn,removal,aggro,control	Non-foil	3	B,R	~~	~~	Instant
 Debtors' Knell	gpt	141	Owned	core,control,graveyard	Non-foil	7	W,B	Hybrid	~~	Enchantment
