@@ -1152,6 +1152,7 @@ Time of Ice	dom	70	Not Owned	tappers,tappers_payoff,aggrocontrol,u4.4,core,aggro
 Obscura Storefront	snc	252	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Naru Meha, Master Wizard	dom	59	Owned	core,wizards,humans,spells,flash,tribal_payoff	Non-foil	4	U	~~	~~	Legendary Creature — Human Wizard
 Sky Hussar	dis	131	Owned	core,fliers,humans,twin,aggro	Non-foil	5	W,U	~~	~~	Creature — Human Knight
+Cleric Class	afr	6	Owned	core,lifegain,lifegain_payoff,manasink	Non-foil	1	W	~~	~~	Enchantment — Class
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
