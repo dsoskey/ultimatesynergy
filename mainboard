@@ -29,7 +29,6 @@ Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,
 Favorable Winds	cns	98	Not Owned	fliers_payoff,u2.67,u3.6,fliers,occasional	Non-foil	2	U	~~	~~	Enchantment
 Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,u2.78,u4.1,core,aggro	Non-foil	2	U,G	Blue	~~	Enchantment
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
-Time of Ice	dom	70	Not Owned	tappers,tappers_payoff,aggrocontrol,u4.4,core,aggro,control	Non-foil	4	U	~~	~~	Enchantment — Saga
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,humans,graveyard,wide,aggrocontrol,u2.60,occasional	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
@@ -135,7 +134,6 @@ Psionic Blast	tsb	30	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
 Repulse	cn2	119	Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~	~~	Instant
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
-The Mirari Conjecture	dom	57	Owned	occasional	Non-foil	5	U	~~	~~	Enchantment — Saga
 Triton Tactics	ddt	23	Owned	occasional	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
 Army of the Damned	mic	106	Owned	occasional	Non-foil	8	B	~~	~~	Sorcery
@@ -429,7 +427,6 @@ Drifter il-Dal	tsp	59	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Khalni Garden	c18	262	Owned	~~	Non-foil	0	G	Green	~~	Land
 Kulrath Knight	shm	190	Owned	~~	Non-foil	5	B,R	Hybrid	~~	Creature — Elemental Knight
 Ojutai's Breath	ima	68	Owned	~~	Non-foil	3	U	~~	~~	Instant
-Take Heart	jmp	134	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Contagion	me1	64	Owned	~~	Non-foil	5	B	~~	~~	Instant
 Shining Shoal	bok	21	Owned	~~	Non-foil	2	W	~~	~~	Instant — Arcane
 Rushing River	pls	30	Owned	~~	Non-foil	3	U	~~	~~	Instant
@@ -455,7 +452,6 @@ Sram's Expertise	aer	24	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
 Looter il-Kor	tsr	74	Owned	~~	Non-foil	2	U	~~	~~	Creature — Kor Rogue
 Nadir Kraken	thb	55	Owned	~~	Non-foil	3	U	~~	~~	Creature — Kraken
 Censor	akh	46	Owned	~~	Non-foil	2	U	~~	~~	Instant
-Blinding Beam	mma	7	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Curator of Mysteries	c20	109	Owned	~~	Non-foil	4	U	~~	~~	Creature — Sphinx
 Blood Artist	avr	86	Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire
 Zulaport Cutthroat	clb	775	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Rogue Ally
@@ -697,7 +693,6 @@ Obscura Charm	snc	208	Owned	~~	Non-foil	3	B,U,W	~~	~~	Instant
 Rith's Charm	dde	60	Owned	~~	Non-foil	3	W,R,G	~~	~~	Instant
 Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
 Experimental Overload	m21	218	Owned	~~	Non-foil	4	R,U	~~	~~	Sorcery
-Obscura Storefront	snc	252	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Novijen, Heart of Progress	c15	296	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Alchemist's Refuge	avr	225	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Temple of Deceit	scd	324	Owned	~~	Non-foil	0	U,B	~~	~~	Land
@@ -1077,6 +1072,7 @@ Beckon Apparition	eve	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Experimental Augury	one	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balduvian Warlord	csp	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Booster Tutor	und	33	Owned	~~	Non-foil	1	B	~~	~~	Instant
+Young Wolf	dka	134	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

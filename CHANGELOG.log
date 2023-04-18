@@ -4173,3 +4173,14 @@ Timestamp	Board	ChangeType	Name
 2023-04-16T11:10:37.531+00:00	maybeboard	add	Plow Under
 2023-04-18T04:13:07.180+00:00	mainboard	remove	Raff, Weatherlight Stalwart
 2023-04-18T04:13:07.180+00:00	maybeboard	add	Raff, Weatherlight Stalwart
+2023-04-18T04:32:16.347+00:00	mainboard	remove	Obscura Storefront
+2023-04-18T04:32:16.347+00:00	mainboard	remove	Blinding Beam
+2023-04-18T04:32:16.347+00:00	mainboard	remove	Take Heart
+2023-04-18T04:32:16.347+00:00	mainboard	remove	The Mirari Conjecture
+2023-04-18T04:32:16.347+00:00	mainboard	remove	Time of Ice
+2023-04-18T04:32:16.347+00:00	mainboard	add	Young Wolf
+2023-04-18T04:32:16.347+00:00	maybeboard	add	Blinding Beam
+2023-04-18T04:32:16.347+00:00	maybeboard	add	Take Heart
+2023-04-18T04:32:16.347+00:00	maybeboard	add	The Mirari Conjecture
+2023-04-18T04:32:16.347+00:00	maybeboard	add	Time of Ice
+2023-04-18T04:32:16.347+00:00	maybeboard	add	Obscura Storefront
