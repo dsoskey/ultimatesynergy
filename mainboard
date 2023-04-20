@@ -152,7 +152,7 @@ Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Multicolored	~
 Quicksmith Rebel	aer	93	Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
 Alesha, Who Smiles at Death	c20	143	Owned	occasional	Non-foil	3	W,B,R	Multicolored	~~	Legendary Creature — Human Warrior
-Banefire	m19	130	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
+Banefire	m19	130	Owned	occasional	Non-foil	"""6"""	R	~~	~~	Sorcery
 Bedlam Reveler	emn	118	Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Horror
 Browbeat	a25	123	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Brute Force	mm2	108	Owned	occasional	Non-foil	1	R	~~	~~	Instant
@@ -370,7 +370,6 @@ Runed Crown	khm	245	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Haunting Voyage	khm	98	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
 Spirit of the Season	und	70	Owned	~~	Non-foil	3	G	~~	~~	Creature — Treefolk Spirit
 Resplendent Marshal	khm	22	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
-Crush the Weak	khm	128	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Struggle for Skemfar	khm	196	Owned	~~	Non-foil	4	G	~~	~~	Sorcery
 Elvish Warmaster	j22	654	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Warrior
 Aegar, the Freezing Flame	khm	200	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Giant Wizard
@@ -744,7 +743,6 @@ Burning Inquiry	m10	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fervent Champion	eld	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reinforced Ronin	neo	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Biophagus	40k	87	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chaos Defiler	40k	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mawloc	40k	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cindervines	rna	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jinnie Fay, Jetmir's Second	snc	195	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -975,7 +973,6 @@ Tainted Observer	one	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vishgraz, the Doomhive	onc	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necrogen Communion	one	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidwing Hybrid	one	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Corpse Puppet	one	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	fut	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
