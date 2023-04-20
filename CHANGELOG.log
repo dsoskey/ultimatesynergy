@@ -4225,3 +4225,6 @@ Timestamp	Board	ChangeType	Name
 2023-04-20T16:42:39.617+00:00	maybeboard	remove	Stonecoil Serpent
 2023-04-20T16:42:39.617+00:00	maybeboard	remove	Wasteland
 2023-04-20T16:42:39.617+00:00	maybeboard	remove	Magmatic Channeler
+2023-04-20T17:00:49.931+00:00	mainboard	remove	Ordeal of Thassa
+2023-04-20T17:00:49.931+00:00	maybeboard	remove	Arachnoform
+2023-04-20T17:00:49.931+00:00	maybeboard	add	Ordeal of Thassa

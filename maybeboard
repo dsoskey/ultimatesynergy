@@ -978,7 +978,6 @@ Webweaver Changeling	mh1	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Changeling Titan	lrw	200	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Changeling Berserker	lrw	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Maskwood Nexus	khm	240	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arachnoform	khm	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vanquisher's Banner	xln	251	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patriarch's Bidding	ons	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Door of Destinies	mor	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1162,6 +1161,7 @@ Patron Wizard	ody	89	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Soul Exchange	me2	111	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Nine Lives	m21	28	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Crosis's Charm	c17	169	Owned	~~	Non-foil	3	U,B,R	~~	~~	Instant
+Ordeal of Thassa	ths	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
