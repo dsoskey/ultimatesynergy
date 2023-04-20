@@ -4190,3 +4190,31 @@ Timestamp	Board	ChangeType	Name
 2023-04-18T04:38:12.024+00:00	maybeboard	add	Sky Hussar
 2023-04-18T09:46:04.568+00:00	mainboard	remove	Cleric Class
 2023-04-18T09:46:04.568+00:00	maybeboard	add	Cleric Class
+2023-04-20T06:21:06.306+00:00	mainboard	edit	Emiel the Blessed
+2023-04-20T06:21:06.306+00:00	mainboard	edit	Dimir Guildmage
+2023-04-20T06:21:06.306+00:00	mainboard	edit	Fists of the Demigod
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Balduvian Warlord
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Everlasting Torment
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Crosis's Charm
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Soul Exchange
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Taunting Elf
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Quicksilver Gargantuan
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Pulse of the Fields
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Patron Wizard
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Nine Lives
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Phantom Nishoba
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Loxodon Hierarch
+2023-04-20T06:21:06.306+00:00	mainboard	remove	Safe Passage
+2023-04-20T06:21:06.306+00:00	mainboard	add	Coalition Construct
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Balduvian Warlord
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Pulse of the Fields
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Safe Passage
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Phantom Nishoba
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Loxodon Hierarch
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Everlasting Torment
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Quicksilver Gargantuan
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Taunting Elf
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Patron Wizard
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Soul Exchange
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Nine Lives
+2023-04-20T06:21:06.306+00:00	maybeboard	add	Crosis's Charm
