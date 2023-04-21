@@ -22,7 +22,6 @@ Trinket Mage	som	48	Not Owned	wizards,humans,artifacts,blink,stax,u2.61,u3.2,cor
 Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
 Murmuring Mystic	grn	45	Not Owned	wizards,humans,spells,tokens,enrage,evasion,u4.6.1,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,u3.8,core,aggro	Non-foil	1	U	~~	~~	Instant
-Into the Roil	zen	48	Not Owned	spells,flash,aggrocontrol,u2.74,u4.7,core,aggro,control	Non-foil	2	U	~~	~~	Instant
 Thirst for Knowledge	ddf	68	Not Owned	artifacts,graveyard,flash,reanimator,spells,aggrocontrol,u2.0,smoothing,core,control,aggro	Non-foil	3	U	~~	~~	Instant
 Chart a Course	xln	48	Not Owned	graveyard,spells,fliers,reanimator,aggrocontrol,u3.3,smoothing,core,aggro	Non-foil	2	U	~~	~~	Sorcery
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
@@ -131,7 +130,6 @@ Fact or Fiction	cmr	634	Owned	flash,spells,graveyard,core,aggro,control	Non-foil
 Pendrell Flux	usg	87	Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
 Psionic Blast	tsb	30	Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
-Repulse	cn2	119	Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~	~~	Instant
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Owned	occasional	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
@@ -1020,7 +1018,6 @@ Watcher for Tomorrow	mh1	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Mind	vow	251	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Slash	roe	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Windrider Wizard	znr	87	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	ths	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1059,6 +1056,12 @@ Bloodchief's Thirst	znr	94	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magmatic Channeler	j22	571	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Wasteland	tmp	330	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Liliana, Waker of the Dead	m21	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Etched Familiar	mom	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Archangel Elspeth	mom	320	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirran Banesplitter	mom	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chrome Host Seedshark	mom	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quickling	m15	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raffine, Scheming Seer	snc	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
