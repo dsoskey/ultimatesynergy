@@ -677,7 +677,6 @@ Turn Aside	som	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lofty Denial	m21	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Didn't Say Please	eld	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Condescend	5dn	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hindering Light	ala	173	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flip the Switch	mid	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deny the Witch	40k	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1165,6 +1164,15 @@ Ordeal of Thassa	ths	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmquake	onc	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chaos Defiler	40k	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crush the Weak	khm	128	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
+Boon-Bringer Valkyrie	mom	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Xerex Strobe-Knight	mom	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Halo Forager	mom	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Willing Test Subject	ust	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Greenwarden of Murasa	bfz	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aboleth Spawn	clb	662	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Into the Roil	zen	48	Not Owned	spells,flash,aggrocontrol,u2.74,u4.7,core,aggro,control	Non-foil	2	U	~~	~~	Instant
+Repulse	cn2	119	Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~	~~	Instant
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
