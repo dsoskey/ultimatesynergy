@@ -449,7 +449,6 @@ Arcbound Javelineer	mh2	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lizard Blades	neo	153	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoneforge Mystic	wwk	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Skyboon Evangelist	ncc	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghirapur Aether Grid	ori	148	Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
 Boots of Speed	afr	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Portable Hole	afr	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1174,7 +1173,29 @@ Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	zen	48	Not Owned	spells,flash,aggrocontrol,u2.74,u4.7,core,aggro,control	Non-foil	2	U	~~	~~	Instant
 Repulse	cn2	119	Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~	~~	Instant
 Conspiracy Theorist	pstx	94s	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Shaman
+Hushbringer	eld	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Imposing Sovereign	m14	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
+Foulmire Knight	eld	90	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Genju of the Spires	a25	132	Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
+Banefire	m19	130	Owned	occasional	Non-foil	"""6"""	R	~~	~~	Sorcery
+Browbeat	a25	123	Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
+Goblin Grenade	ddt	45	Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
+Smoldering Egg	mid	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hobgoblin Captain	afr	148	Owned	core,aggro,goblins,heroic	Non-foil	2	R	~~	~~	Creature — Goblin Barbarian
+Horned Stoneseeker	bro	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Battle Cry Goblin	afr	132	Owned	core,goblins,tokens,aggro,manasink,tribal_payoff	Non-foil	2	R	~~	~~	Creature — Goblin
+Fires of Invention	eld	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thrill of Possibility	eld	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,aggro	Non-foil	1	W	~~	~~	Instant
+Blink of an Eye	dom	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gilded Goose	eld	160	Owned	~~	Non-foil	1	G	~~	~~	Creature — Bird
 Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
+Castle Vantress	eld	242	Owned	core,manasink,control	Non-foil	0	U	Blue	~~	Land
+Faerie Conclave	ulg	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Royal Scions	eld	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thorn Mammoth	eld	323	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Castle Embereth	eld	239	Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	Land
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
