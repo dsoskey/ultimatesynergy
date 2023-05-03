@@ -4339,3 +4339,12 @@ Timestamp	Board	ChangeType	Name
 2023-05-03T13:15:15.775+00:00	mainboard	add	Warden of the First Tree
 2023-05-03T13:15:15.775+00:00	maybeboard	add	Quartzwood Crasher
 2023-05-03T13:15:15.775+00:00	maybeboard	add	Alluring Suitor
+2023-05-03T13:35:34.884+00:00	mainboard	remove	Doom Blade
+2023-05-03T13:35:34.884+00:00	mainboard	add	Eternal Scourge
+2023-05-03T13:35:34.884+00:00	mainboard	add	Spikefield Hazard
+2023-05-03T13:35:34.884+00:00	mainboard	add	Putrid Goblin
+2023-05-03T13:35:34.884+00:00	mainboard	add	Plague Belcher
+2023-05-03T13:35:34.884+00:00	mainboard	add	Righteous Valkyrie
+2023-05-03T13:35:34.884+00:00	maybeboard	remove	Righteous Valkyrie
+2023-05-03T13:35:34.884+00:00	maybeboard	add	Doom Blade
+2023-05-03T13:35:34.884+00:00	maybeboard	add	Thran Vigil

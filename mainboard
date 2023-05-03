@@ -135,7 +135,6 @@ Blackmail	9ed	115★	Owned	core,aggrocontrol,spells,aggro	Non-foil	1	B	~~	~~	Sor
 Cemetery Reaper	mic	108	Owned	core,zombies,graveyard,tokens	Non-foil	3	B	~~	~~	Creature — Zombie
 Dark Ritual	a25	82	Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Dismember	mm2	79	Owned	occasional	Non-foil	3	~~	Colorless	~~	Instant
-Doom Blade	e02	18	Owned	removal,spells,flash,occasional	Non-foil	2	B	~~	~~	Instant
 Dusk Urchins	shm	65	Owned	core,counters,sacrifice,smoothing,aggro,control	Non-foil	3	B	~~	~~	Creature — Ouphe
 Infest	cn2	139	Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
 Last Gasp	rav	93	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
@@ -1063,6 +1062,11 @@ Reyhan, Last of the Abzan	c16	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raven's Crime	mma	95	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 The Modern Age	neo	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Warden of the First Tree	frf	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eternal Scourge	emn	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spikefield Hazard	znr	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Putrid Goblin	mh1	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plague Belcher	akh	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Righteous Valkyrie	khm	24	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
