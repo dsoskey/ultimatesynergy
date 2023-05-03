@@ -153,7 +153,6 @@ Eidolon of the Great Revel	a25	128	Owned	occasional	Non-foil	2	R	~~	~~	Enchantme
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Guttersnipe	c19	145	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
-Pulse of the Forge	dst	66	Owned	occasional	Non-foil	3	R	~~	~~	Instant
 Satyr Firedancer	bng	108	Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Young Pyromancer	uma	155	Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
 Dryad Greenseeker	m19	178	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
@@ -209,7 +208,6 @@ Bonesplitter	mrd	146	Owned	core,artifacts,heroic,aggro,aggrocontrol,manasink,fli
 Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Epochrasite	c14	238	Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Icy Manipulator	dom	219	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
-Mortarpod	mm2	222	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Nevinyrral's Disk	c17	217	Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Perilous Myr	som	192	Owned	core,artifacts,sacrifice,wide,removal,control	Non-foil	2	~~	~~	~~	Artifact Creature — Myr
 Powder Keg	p04	1	Owned	occasional	Non-foil	2	~~	~~	~~	Artifact
@@ -350,7 +348,6 @@ Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
 Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Emergent Sequence	stx	129	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
-Blasphemous Act	ncc	264	Owned	~~	Non-foil	9	R	~~	~~	Sorcery
 Captain's Claws	ogw	162	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Runed Crown	khm	245	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Haunting Voyage	khm	98	Owned	~~	Non-foil	6	B	~~	~~	Sorcery
@@ -380,7 +377,6 @@ Rune of Mortality	khm	108	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura Rune
 Realmwalker	khm	188	Owned	~~	Non-foil	3	G	~~	~~	Creature — Shapeshifter
 Cosmos Elixir	khm	237	Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Littjara Mirrorlake	khm	264	Owned	~~	Non-foil	0	G,U	~~	~~	Land
-Demon Bolt	clb	787	Owned	~~	Non-foil	3	R	~~	~~	Instant
 Embolden	ody	22	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Armix, Filigree Thrasher	cmr	108	Owned	~~	Non-foil	3	B	~~	~~	Legendary Artifact Creature — Golem
 Goldvein Pick	khm	239	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -405,7 +401,6 @@ Ojutai's Breath	ima	68	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Contagion	me1	64	Owned	~~	Non-foil	5	B	~~	~~	Instant
 Shining Shoal	bok	21	Owned	~~	Non-foil	2	W	~~	~~	Instant — Arcane
 Rushing River	pls	30	Owned	~~	Non-foil	3	U	~~	~~	Instant
-Shower of Coals	ody	221	Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Bleeding Edge	war	78	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Kazandu Mammoth	znr	189	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elephant
 Guided Strike	ima	23	Owned	~~	Non-foil	2	W	~~	~~	Instant
@@ -674,7 +669,6 @@ Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Demolition Field	bro	260	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Cleansing Wildfire	znr	137	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Beast Within	clb	820	Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
 Shardless Agent	mh2	292	Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
@@ -915,7 +909,6 @@ Roaring Earth	neo	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Gladewalker	khm	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sage of Hours	jou	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Armory of Iroas	jou	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Amorphous Axe	mh1	219	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abzan Ascendancy	ktk	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anafenza, the Foremost	ktk	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Scrapling	mh2	230	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -989,7 +982,6 @@ Sakashima's Student	pc2	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unclaimed Territory	xln	258	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavern of Souls	avr	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Secluded Courtyard	neo	275	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Relic Axe	znr	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zephyr Boots	stx	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adeliz, the Cinder Wind	dom	190	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard

@@ -4348,3 +4348,18 @@ Timestamp	Board	ChangeType	Name
 2023-05-03T13:35:34.884+00:00	maybeboard	remove	Righteous Valkyrie
 2023-05-03T13:35:34.884+00:00	maybeboard	add	Doom Blade
 2023-05-03T13:35:34.884+00:00	maybeboard	add	Thran Vigil
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Relic Axe
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Amorphous Axe
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Cleansing Wildfire
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Shower of Coals
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Demon Bolt
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Blasphemous Act
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Mortarpod
+2023-05-03T14:16:11.873+00:00	mainboard	remove	Pulse of the Forge
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Relic Axe
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Mortarpod
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Shower of Coals
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Blasphemous Act
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Cleansing Wildfire
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Pulse of the Forge
+2023-05-03T14:16:11.873+00:00	maybeboard	add	Demon Bolt
