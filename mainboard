@@ -384,7 +384,6 @@ Doomskar	khm	9	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Port of Karfell	clb	908	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Lashknife Barrier	pls	9	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
-Torment of Venom	hou	79	Owned	~~	Non-foil	4	B	~~	~~	Instant
 Subtle Strike	znr	128	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Wellwisher	cma	166	Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Cumber Stone	con	24	Owned	~~	Non-foil	4	U	~~	~~	Artifact
@@ -997,7 +996,6 @@ Drown in Sorrow	bng	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	ddl	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mayhem Devil	war	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spiteful Prankster	jmp	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rite of Oblivion	mid	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anafenza, Kin-Tree Spirit	dtk	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tyranid Prime	40k	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1062,10 +1060,15 @@ Righteous Valkyrie	khm	24	Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Edgar, Charmed Groom	vow	236	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shambling Ghast	afr	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Iron Apprentice	neo	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viashino Pyromancer	m19	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Excise the Imperfect	moc	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
+Go for the Throat	mbs	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vraan, Executioner Thane	one	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Butcher Ghoul	avr	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Baneslayer Angel	m10	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
