@@ -43,7 +43,6 @@ Fireslinger	j22	130	Not Owned	wizards,humans,pingers,u2.80,u4.2,occasional	Non-f
 Goblin Cratermaker	grn	103	Not Owned	goblins,artifact_removal,u4.6.1,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
-Captivating Crew	xln	137	Not Owned	sacrifice,humans,manasink,u4.7,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
 Zealous Conscripts	avr	166	Not Owned	humans,twin,blink,sacrifice,burn,u2.0,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	som	91	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
 Brimstone Volley	isd	132	Not Owned	flash,sacrifice,spells,burn,u2.0,u2.92,removal,core,aggro,control	Non-foil	3	R	~~	~~	Instant
@@ -59,7 +58,6 @@ Evolution Sage	war	159	Not Owned	counters,ramp,elves,counters_payoff,u4.7,core,a
 Ohran Viper	csp	115	Not Owned	tappers,tappers_payoff,aggrocontrol,u2.84,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
 Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_removal,u4.6,core,aggro,control	Non-foil	3	G	~~	~~	Creature — Dinosaur
 Briarhorn	lrw	199	Not Owned	flash,heroic,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	4	G	~~	~~	Creature — Elemental
-Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Vines of Vastwood	zen	193	Not Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Rampant Growth	nec	125	Not Owned	ramp,spells,u2.0,u2.89,smoothing,occasional	Non-foil	2	G	~~	~~	Sorcery
 Hunting Triad	mor	127	Not Owned	elves,counters,flash,tokens,sacrifice,spells,fliers,heroic,wide,stax,aggrocontrol,u4.6,core,aggro	Non-foil	4	G	~~	~~	Tribal Sorcery — Elf
@@ -83,12 +81,10 @@ Adaptive Automaton	m12	201	Not Owned	artifacts,tribal,tokens,tribal_payoff,u2.0,
 Scuttling Doom Engine	m15	229	Not Owned	artifacts,ramp,reanimator,enrage,u2.72,u2.91,occasional	Non-foil	6	~~	~~	~~	Artifact Creature — Construct
 Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
 Mutavault	clb	903	Not Owned	tribal,manasink,u4.7.7,core	Non-foil	0	~~	~~	~~	Land
-Dwynen, Gilt-Leaf Daen	ori	172	Not Owned	elves,u4.6.2,u4.7.12,core,tribal_payoff,lifegain,aggro	Non-foil	4	G	~~	~~	Legendary Creature — Elf Warrior
 Giant Killer	eld	14	Not Owned	tappers,humans,spells,u4.8,removal,core,manasink,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Peasant 
 Bake into a Pie	eld	76	Not Owned	artifacts,spells,lifegain,flash,u4.8,removal,core,control	Non-foil	4	B	~~	~~	Instant
 Pashalik Mons	mh1	138	Not Owned	goblins,sacrifice,tokens,wide,manasink,u4.8,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Faithless Looting	dka	87	Not Owned	graveyard,spells,u2.63,u4.8,smoothing,reanimator,core	Non-foil	1	R	~~	~~	Sorcery
-Izzet Chemister	a25	138	Not Owned	goblins,spells,burn,graveyard,wizards,u4.4,u4.8,core,manasink,control	Non-foil	3	R	~~	~~	Creature — Goblin Wizard
 Anger	plst	UMA-122	Not Owned	graveyard,reanimator,u2.61,u4.8,core,aggro	Non-foil	4	R	~~	~~	Creature — Incarnation
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	~~	~~	~~	Land
 Putrefy	rav	221	Not Owned	spells,flash,artifact_removal,u2.0,u4.8,removal,core,aggro,control	Non-foil	3	B,G	~~	~~	Instant
@@ -333,7 +329,6 @@ Wonder	mh2	271	Owned	core,graveyard,fliers,aggro,aggrocontrol	Non-foil	4	U	~~	~~
 Mine Collapse	mh2	135	Owned	core,removal,spells,flash	Non-foil	4	R	~~	~~	Instant
 Scrabbling Claws	mrd	237	Owned	core,artifacts	Non-foil	1	~~	~~	~~	Artifact
 Clear Shot	emn	152	Owned	core,spells,flash,removal,heroic,aggro,aggrocontrol	Non-foil	3	G	~~	~~	Instant
-Bookwurm	stx	123	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Wurm
 Mind Flayer	afr	63	Owned	core,removal,blink,aggro	Non-foil	5	U	~~	~~	Creature — Horror
 Monoskelion	mh2	229	Owned	core,artifacts,counters,sacrifice,removal,pingers,wide,aggro,control,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Ghostly Flicker	khc	39	Owned	occasional	Non-foil	3	U	~~	~~	Instant
@@ -1067,6 +1062,7 @@ Vraan, Executioner Thane	one	114	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Butcher Ghoul	avr	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Command	stx	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Baneslayer Angel	m10	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Earl of Squirrel	ust	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

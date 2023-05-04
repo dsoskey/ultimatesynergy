@@ -1188,7 +1188,6 @@ Castle Embereth	eld	239	Not Owned	core,wide,manasink,tokens	Non-foil	0	R	Red	~~	
 Castle Vantress	eld	242	Owned	core,manasink,control	Non-foil	0	U	Blue	~~	Land
 Faerie Conclave	ulg	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Royal Scions	eld	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Thorn Mammoth	eld	323	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cinderbones	shm	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Simic Sky Swallower	dis	130	Owned	u2.0,u4.9.3,ramp,graveyard,reanimator,core,control	Non-foil	7	U,G	~~	~~	Creature — Leviathan
 Simic Guildmage	dis	148	Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Elf Wizard
@@ -1221,7 +1220,6 @@ Demon Bolt	clb	787	Owned	~~	Non-foil	3	R	~~	~~	Instant
 Vivien, Champion of the Wilds	war	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vivien, Arkbow Ranger	m20	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Traprunner	mh2	130	Owned	core,goblins,aggro,tokens,wide,sacrifice	Non-foil	4	R	~~	~~	Creature — Goblin
-Earl of Squirrel	ust	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reidane, God of the Worthy	khm	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirited Companion	neo	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ramunap Ruins	hou	181	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1246,6 +1244,11 @@ Sultai Emissary	frf	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ultimate Price	gk2	36	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Bloodghast	zen	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiery Impulse	ori	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dwynen, Gilt-Leaf Daen	ori	172	Not Owned	elves,u4.6.2,u4.7.12,core,tribal_payoff,lifegain,aggro	Non-foil	4	G	~~	~~	Legendary Creature — Elf Warrior
+Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
+Bookwurm	stx	123	Owned	occasional	Non-foil	8	G	~~	~~	Creature — Wurm
+Captivating Crew	xln	137	Not Owned	sacrifice,humans,manasink,u4.7,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
+Izzet Chemister	a25	138	Not Owned	goblins,spells,burn,graveyard,wizards,u4.4,u4.8,core,manasink,control	Non-foil	3	R	~~	~~	Creature — Goblin Wizard
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
