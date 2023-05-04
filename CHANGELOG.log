@@ -4432,3 +4432,7 @@ Timestamp	Board	ChangeType	Name
 2023-05-04T14:26:11.294+00:00	maybeboard	add	Bookwurm
 2023-05-04T14:26:11.294+00:00	maybeboard	add	Captivating Crew
 2023-05-04T14:26:11.294+00:00	maybeboard	add	Izzet Chemister
+2023-05-04T15:29:07.648+00:00	mainboard	remove	Crystalline Crawler
+2023-05-04T15:29:07.648+00:00	mainboard	remove	Benthic Biomancer
+2023-05-04T15:29:07.648+00:00	maybeboard	add	Crystalline Crawler
+2023-05-04T15:29:07.648+00:00	maybeboard	add	Benthic Biomancer
