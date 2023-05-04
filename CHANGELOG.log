@@ -4378,3 +4378,10 @@ Timestamp	Board	ChangeType	Name
 2023-05-04T00:33:15.547+00:00	maybeboard	add	Reidane, God of the Worthy
 2023-05-04T00:33:15.547+00:00	maybeboard	add	Spirited Companion
 2023-05-04T00:33:15.547+00:00	maybeboard	add	Ramunap Ruins
+2023-05-04T11:55:38.697+00:00	mainboard	add	Wizard Class
+2023-05-04T11:55:38.697+00:00	mainboard	add	Iron Apprentice
+2023-05-04T11:55:38.697+00:00	mainboard	add	Drown in Ichor
+2023-05-04T11:55:38.697+00:00	maybeboard	remove	Drown in Ichor
+2023-05-04T11:55:38.697+00:00	maybeboard	remove	Wizard Class
+2023-05-04T11:55:38.697+00:00	maybeboard	add	Strategic Planning
+2023-05-04T11:55:38.697+00:00	maybeboard	add	Defiant Salvager
