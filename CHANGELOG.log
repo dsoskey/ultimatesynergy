@@ -4436,3 +4436,9 @@ Timestamp	Board	ChangeType	Name
 2023-05-04T15:29:07.648+00:00	mainboard	remove	Benthic Biomancer
 2023-05-04T15:29:07.648+00:00	maybeboard	add	Crystalline Crawler
 2023-05-04T15:29:07.648+00:00	maybeboard	add	Benthic Biomancer
+2023-05-05T04:58:13.954+00:00	mainboard	remove	Drainpipe Vermin
+2023-05-05T04:58:13.954+00:00	mainboard	remove	Exhume
+2023-05-05T04:58:13.954+00:00	mainboard	remove	Stupor
+2023-05-05T04:58:13.954+00:00	maybeboard	add	Drainpipe Vermin
+2023-05-05T04:58:13.954+00:00	maybeboard	add	Exhume
+2023-05-05T04:58:13.954+00:00	maybeboard	add	Stupor

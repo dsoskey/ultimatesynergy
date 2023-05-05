@@ -34,7 +34,6 @@ Braids, Cabal Minion	ody	117	Not Owned	stax,tokens,sacrifice,humans,u4.7,core,ar
 Skinrender	som	78	Not Owned	zombies,counters,blink,aggrocontrol,u2.0,u4.5,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
 Tragic Slip	dka	76	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,u2.79,core,aggro	Non-foil	1	B	~~	~~	Instant
-Stupor	tsb	48	Not Owned	spells,aggrocontrol,u2.0,core,aggro	Non-foil	3	B	~~	~~	Sorcery
 Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,u3.9,u4.7,occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Lavamancer	m12	145	Not Owned	wizards,humans,graveyard,burn,u2.0,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	som	104	Not Owned	heroic,goblins,manasink,flash,wide,u2.0,u2.80,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
@@ -463,7 +462,6 @@ Brazen Borrower	sld	234	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Arc Lightning	ktk	97	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Knight of Autumn	grn	183	Owned	~~	Non-foil	3	G,W	~~	~~	Creature — Dryad Knight
 Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
-Exhume	jmp	230	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Rhizome Lurcher	grn	196	Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
 Celestial Colonnade	uma	238	Owned	~~	Non-foil	0	W,U	~~	~~	Land
@@ -611,7 +609,6 @@ Tide Shaper	mh2	72	Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard
 Lantern Bearer	vow	66	Owned	~~	Non-foil	1	U	~~	~~	Creature — Spirit
 Festering Mummy	akh	91	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie
 Fourth Bridge Prowler	aer	60	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Rogue
-Drainpipe Vermin	rtr	66	Owned	~~	Non-foil	1	B	~~	~~	Creature — Rat
 Frogify	eld	47	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Pelt Collector	grn	141	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Chainweb Aracnir	thb	167	Owned	~~	Non-foil	1	G	~~	~~	Creature — Spider
