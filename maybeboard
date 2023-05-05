@@ -1254,6 +1254,7 @@ Benthic Biomancer	rna	32	Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard
 Drainpipe Vermin	rtr	66	Owned	~~	Non-foil	1	B	~~	~~	Creature — Rat
 Exhume	jmp	230	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Stupor	tsb	48	Not Owned	spells,aggrocontrol,u2.0,core,aggro	Non-foil	3	B	~~	~~	Sorcery
+Komainu Battle Armor	nec	21	Owned	~~	Non-foil	3	R	~~	~~	Artifact Creature — Equipment Dog
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

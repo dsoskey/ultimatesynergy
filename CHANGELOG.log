@@ -4442,3 +4442,6 @@ Timestamp	Board	ChangeType	Name
 2023-05-05T04:58:13.954+00:00	maybeboard	add	Drainpipe Vermin
 2023-05-05T04:58:13.954+00:00	maybeboard	add	Exhume
 2023-05-05T04:58:13.954+00:00	maybeboard	add	Stupor
+2023-05-05T23:35:33.799+00:00	mainboard	remove	Watcher for Tomorrow
+2023-05-05T23:35:33.799+00:00	mainboard	remove	Komainu Battle Armor
+2023-05-05T23:35:33.799+00:00	maybeboard	add	Komainu Battle Armor
