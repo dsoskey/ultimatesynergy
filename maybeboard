@@ -724,7 +724,6 @@ Temple of Mystery	m20	255	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hero of Bladehold	mbs	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nils, Discipline Enforcer	c21	20	Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
-Djinn of Wishes	c18	87	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Keldon Flamesage	dmu	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -762,7 +761,6 @@ Vohar, Vodalian Desecrator	dmu	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Indulgence	snc	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tor Wauki the Younger	dmc	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snapcaster Mage	isd	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blinding Beam	ddf	28	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Oust	roe	40	Not Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Dryad Greenseeker	m19	178	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Skemfar Elderhall	khm	268	Owned	~~	Non-foil	0	B,G	~~	~~	Land
@@ -927,7 +925,6 @@ Bloated Contaminator	one	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venerated Rotpriest	one	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightbelly Rat	one	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jawbone Duelist	one	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Plague Myr	mbs	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Strike	som	80	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viral Drake	nph	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viridian Corrupter	mbs	94	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1276,8 +1273,161 @@ Yorion, Sky Nomad	iko	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blast from the Past	unh	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Combat Courier	bro	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Woebringer Demon	rav	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Favor of the Overbeing	eve	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystic Snake	apc	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Weathered Wayfarer	ons	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Volcanic Fallout	con	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Paleoloth	con	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Feral Hydra	ala	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Death Baron	ala	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Squelch	chk	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Creakwood Liege	eve	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dauntless Escort	arb	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Esper Charm	ala	167	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clam Session	ugl	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Denied!	ugl	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goblin Bowling Team	ugl	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Planar Cleansing	m10	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Twincast	sok	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pithing Needle	sok	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Caldera Hellion	ala	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sharding Sphinx	ala	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Ingot	dst	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystal Vein	mir	325	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Lust	leg	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Minamo, School at Water's Edge	chk	279	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Rack	atq	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quicksilver Fountain	mrd	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Teferi's Puzzle Box	vis	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chrome Mox	mrd	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+All Is Dust	roe	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elspeth, Knight-Errant	ala	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hero of Bladehold	mbs	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Transcendent Master	roe	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obsidian Fireheart	zen	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hero of Oxid Ridge	mbs	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Comet Storm	wwk	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tezzeret the Seeker	ala	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Giant Growth	lea	197	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghazbán Ogre	arn	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stone Rain	lea	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yamabushi's Storm	chk	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tongs	tmp	307	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Winds of Rath	tmp	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Island Sanctuary	lea	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Resurrection	lea	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drudge Skeletons	lea	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raise Dead	lea	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Disenchant	lea	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Muddle the Mixture	rav	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Compulsive Research	rav	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurking Informant	rav	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sage Owl	wth	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Earthbind	lea	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yamabushi's Flame	chk	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Immolation	leg	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crown of Flames	tmp	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Strange Inversion	chk	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Galvanic Arc	rav	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reroute	rav	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crushing Pain	chk	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blind with Anger	chk	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spell Blast	lea	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Index	apc	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Counterspell	lea	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serpent Skin	chk	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Instill Energy	lea	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Living Lands	lea	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thieving Magpie	uds	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thalakos Dreamsower	tmp	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazuul, Tyrant of the Cliffs	wwk	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Contested War Zone	mbs	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystifying Maze	m11	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sunblast Angel	som	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+White Sun's Zenith	mbs	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Creeping Corrosion	mbs	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Grand Architect	som	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cryptoplasm	mbs	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kuldotha Phoenix	som	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silence	m10	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mitotic Slime	m11	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Leyline of Vitality	m11	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elvish Archdruid	m10	176	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Conundrum Sphinx	m11	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marshal's Anthem	wwk	15	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Umbra Mystic	roe	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Consuming Vapors	roe	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chain Reaction	wwk	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Terminate	dmc	172	Owned	~~	Non-foil	2	B,R	~~	~~	Instant
+Kabira Crossroads	zen	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ornithopter	atq	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Sire	mbs	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Panic Spellbomb	som	191	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Expedition Map	zen	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arrest	mmq	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Blademaster	zen	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rise from the Grave	m10	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Grim Discovery	zen	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gatekeeper of Malakir	zen	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ichor Rats	som	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Liliana's Specter	m11	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cultivate	m11	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Naturalize	ons	275	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sejiri Steppe	wwk	142	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Razormane Masticore	5dn	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Qasali Pridemage	arb	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Izzet Guildmage	gpt	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancient Ziggurat	con	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nivix, Aerie of the Firemind	gpt	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plaxmanta	dis	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vithian Renegades	arb	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pure // Simple	dis	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pillory of the Sleepless	gpt	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Edge of the Divinity	eve	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Daru Encampment	ons	315	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger of Eos	ala	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stasis Cocoon	5dn	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glimmerpost	som	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Halimar Depths	wwk	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Umara Raptor	zen	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mana Leak	sth	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fleshbag Marauder	ala	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smoldering Spires	wwk	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Soaring Seacliff	zen	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steady Progress	som	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Agrus Kos, Wojek Veteran	rav	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Master Warcraft	rav	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rowen	vis	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Meglonoth	con	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trickbind	tsp	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sudden Shock	tsp	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Seize the Initiative	som	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Suffer the Past	roe	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Red Sun's Zenith	mbs	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Anowon, the Ruin Sage	wwk	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ezuri, Renegade Leader	som	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nature's Spiral	m10	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bladed Pinions	som	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Traitorous Instinct	roe	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Revoke Existence	som	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Snake Umbra	roe	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Copperhorn Scout	som	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Salvage Scout	som	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Unnatural Predation	mbs	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Necrogen Censer	som	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plummet	arc	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magma Rift	zen	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Relic Crush	zen	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plague Stinger	som	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tainted Strike	som	80	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raise the Alarm	mrd	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
