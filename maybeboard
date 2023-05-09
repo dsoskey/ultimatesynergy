@@ -207,7 +207,6 @@ Prickly Boggart	mor	74	Owned	~~	Non-foil	1	B	~~	~~	Creature — Goblin Rogue
 Angler Turtle	scd	43	Owned	~~	Non-foil	7	U	~~	~~	Creature — Turtle
 Witching Well	eld	74	Owned	~~	Non-foil	1	U	~~	~~	Artifact
 Medomai's Prophecy	thb	53	Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Saga
-Elves of Deep Shadow	ddj	47	Owned	~~	Non-foil	1	B,G	~~	~~	Creature — Elf Druid
 Winding Constrictor	aer	140	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Snake
 Grakmaw, Skyclave Ravager	znr	223	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
 Flaxen Intruder	eld	155	Owned	~~	Non-foil	1	G	~~	~~	Creature — Human Berserker
@@ -358,7 +357,6 @@ Doomed Artisan	c19	3	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Artificer
 Dream Eater	grn	38	Owned	~~	Non-foil	6	U	~~	~~	Creature — Nightmare Sphinx
 Thorn Mammoth	eld	323	Owned	~~	Non-foil	7	G	~~	~~	Creature — Elephant
 Niv-Mizzet, Parun	clb	851	Owned	~~	Non-foil	6	R,U	~~	~~	Legendary Creature — Dragon Wizard
-The Royal Scions	eld	199	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Planeswalker — Will Rowan
 Blast Zone	slu	504	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Murktide Regent	mh2	52	Not Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
@@ -1277,6 +1275,7 @@ Plow Under	uds	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	iko	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blast from the Past	unh	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Combat Courier	bro	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
