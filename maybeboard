@@ -1029,7 +1029,6 @@ Magmatic Sinkhole	mh1	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraska's Contempt	xln	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gush	mmq	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Daretti, Ingenious Iconoclast	cn2	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Jace, Wielder of Mysteries	war	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harmonious Archon	eld	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smother	ons	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Volcanic Torrent	cmr	208	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1101,7 +1100,6 @@ Elder Deep-Fiend	emn	5	Owned	occasional	Non-foil	8	U	~~	~~	Creature — Eldrazi 
 Waker of Waves	m21	84	Owned	core,reanimator,graveyard,control,ramp	Non-foil	7	U	~~	~~	Creature — Whale
 Wedding Announcement	vow	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Concierge	ncc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Warkite Marauder	rix	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oskar, Rubbish Reclaimer	ncc	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Sharpshooter	c13	111	Not Owned	pingers,goblins,sacrifice,u2.63,u2.89,occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Carrion Feeder	dde	2	Owned	sacrifice,counters,zombies,aggro,occasional	Non-foil	1	B	~~	~~	Creature — Zombie
@@ -1269,6 +1267,18 @@ Humiliate	stx	193	Owned	occasional	Non-foil	2	W,B	~~	~~	Sorcery
 Spiteful Prankster	jmp	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Great Teacher's Decree	dtk	21	Owned	~~	Non-foil	4	W	~~	~~	Sorcery
 Infest	cn2	139	Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
+Dusk Legion Duelist	mom	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phantasmal Image	m12	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Artisan	bbd	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ozolith, the Shattered Spire	mom	198	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nettlecyst	mh2	231	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Champion of Lambholt	avr	171	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aurelia's Fury	gtc	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chord of Calling	rav	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plow Under	uds	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yorion, Sky Nomad	iko	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Murktide Regent	mh2	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blast from the Past	unh	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
