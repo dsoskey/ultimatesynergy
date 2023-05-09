@@ -184,7 +184,6 @@ Golgari Findbroker	khc	86	Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Elf Shaman
 Tarmogoyf	mm2	165	Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Ishkanah, Grafwidow	emn	162	Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature — Spider
 Nyx Weaver	jou	153	Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
-Sprite Dragon	iko	211	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Faerie Dragon
 Firemind's Research	grn	171	Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
 Vapor Snag	mm2	66	Owned	~~	Non-foil	1	U	~~	~~	Instant
 Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
@@ -647,7 +646,6 @@ Security Bypass	snc	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Throne of Geth	som	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courage in Crisis	war	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vat Emergence	one	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloom Hulk	war	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serum Snare	one	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesmerizing Dose	one	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Everythingamajig	ust	147a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -771,7 +769,6 @@ Tainted Indulgence	snc	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tor Wauki the Younger	dmc	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snapcaster Mage	isd	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blinding Beam	ddf	28	Owned	~~	Non-foil	3	W	~~	~~	Instant
-Safe Passage	m13	30	Owned	occasional	Non-foil	3	W	~~	~~	Instant
 Oust	roe	40	Not Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Dryad Greenseeker	m19	178	Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Skemfar Elderhall	khm	268	Owned	~~	Non-foil	0	B,G	~~	~~	Land
@@ -871,7 +868,6 @@ Oath of Ajani	aer	131	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Chandra	ogw	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Obuun, Mul Daya Ancestor	znc	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Olivia, Mobilized for War	soi	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cazur, Ruthless Stalker	c20	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mark of Mutiny	zen	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightshade Harvester	cmr	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skullbriar, the Walking Grave	pcmd	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -927,7 +923,6 @@ Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elemental
 Sarulf's Packmate	khm	192	Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Penumbra Spider	mm3	131	Not Owned	sacrifice,tokens,enrage,stax,u2.67,core,control	Non-foil	4	G	~~	~~	Creature — Spider
 Acidic Slime	nec	112	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
-Toxicrene	40k	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ria Ivor, Bane of Bladehold	one	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosthetic Injector	one	239	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kinzu of the Bleak Coven	one	406	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1045,7 +1040,6 @@ Smother	ons	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Volcanic Torrent	cmr	208	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slice and Dice	ons	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Charging Monstrosaur	xln	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Obstinate Baloth	m11	188	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	mh1	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hidden Stockpile	aer	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1267,6 +1261,8 @@ Lesser Masticore	mh1	225	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Mast
 Stormchaser Drake	dbl	349	Owned	~~	Non-foil	2	U	~~	~~	Creature — Drake
 Swiftblade Vindicator	pgrn	203s	Owned	~~	Non-foil	2	R,W	~~	~~	Creature — Human Soldier
 Kenrith's Transformation	afc	162	Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
+Cosi's Trickster	zen	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brawn	jud	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
