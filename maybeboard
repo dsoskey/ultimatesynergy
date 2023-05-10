@@ -889,7 +889,6 @@ Domri's Ambush	war	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ich-Tekik, Salvage Splicer	cmr	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alharu, Solemn Ritualist	cmr	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawl from the Cellar	mid	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Seasons Past	soi	226	Not Owned	graveyard,ramp,spells,u2.77,core,control	Non-foil	6	G	~~	~~	Sorcery
 Song of the Dryads	c14	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fecundity	uma	165	Not Owned	sacrifice,u2.62,u4.9,occasional	Non-foil	3	G	~~	~~	Enchantment
 Rot Shambler	bfz	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1243,7 +1242,6 @@ Hero of the Nyxborn	thb	219	Not Owned	~~	Non-foil	3	R,W	~~	~~	Enchantment Creatu
 Lesser Masticore	mh1	225	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Masticore
 Stormchaser Drake	dbl	349	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Drake
 Swiftblade Vindicator	pgrn	203s	Not Owned	~~	Non-foil	2	R,W	~~	~~	Creature — Human Soldier
-Kenrith's Transformation	afc	162	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Cosi's Trickster	zen	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brawn	jud	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruxa, Patient Professor	c21	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1253,7 +1251,6 @@ Steel Seraph	bro	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel Elspeth	mom	320	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Army of the Damned	mic	106	Not Owned	occasional	Non-foil	8	B	~~	~~	Sorcery
 Sinister Starfish	mh2	99	Not Owned	core,graveyard,control,smoothing	Non-foil	2	B	~~	~~	Creature — Starfish
-Priest of Forgotten Gods	rna	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Council of Orzhova	mm2	176	Not Owned	occasional	Non-foil	4	B,W	~~	~~	Legendary Creature — Spirit
 Tidehollow Sculler	md1	2	Not Owned	occasional	Non-foil	2	B,W	~~	~~	Artifact Creature — Zombie
 Humiliate	stx	193	Not Owned	occasional	Non-foil	2	W,B	~~	~~	Sorcery
@@ -1453,6 +1450,8 @@ Stormfist Crusader	eld	203	Not Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human 
 Undermine	ddh	62	Not Owned	occasional	Non-foil	3	B,U	~~	~~	Instant
 Sunforger	c16	275	Not Owned	occasional	Non-foil	3	R,W	~~	~~	Artifact — Equipment
 Bruenor Battlehammer	afr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Putrefy	rav	221	Not Owned	spells,flash,artifact_removal,u2.0,u4.8,removal,core,aggro,control	Non-foil	3	B,G	~~	~~	Instant
+Electrolyze	mm2	174	Not Owned	~~	Non-foil	3	R,U	~~	~~	Instant
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
