@@ -411,7 +411,7 @@ Arc Trail	ddn	23	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Magma Jet	jvc	52	Not Owned	~~	Non-foil	2	R	~~	~~	Instant
 Skarrgan Hellkite	rna	114	Not Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Arbor Elf	a25	160	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Wild Growth	afc	174	Not Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
+Wild Growth	afc	174	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
 Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Incubation Druid	rna	131	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
@@ -771,7 +771,6 @@ Jwari Disruption	znr	64	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wizard's Retort	dom	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Fracture	eve	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	grn	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
 Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
@@ -1057,14 +1056,46 @@ Mesa Chicken	ugl	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Rats	gvl	37	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Statuary	wwk	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Myr	mbs	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tel-Jilad Defiance	som	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tel-Jilad Defiance	som	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Servant of the Scale	dtk	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Terramorphic Expanse	10e	360	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolving Wilds	akh	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Profane Command	hop	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sudden Spoiling	tsp	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurking Informant	rav	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hero of Bladehold	mbs	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+All Is Dust	roe	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystal Vein	mir	325	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pithing Needle	sok	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Squelch	chk	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Djinn of Wishes	c18	87	Not Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
+Suffer the Past	roe	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steady Progress	som	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voidslime	dis	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plaxmanta	dis	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancient Ziggurat	con	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glorious Anthem	10e	17	Not Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
+Razormane Masticore	5dn	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vampire Nighthawk	e01	38	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
+Rancor	ulg	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kor Skyfisher	zen	23	Not Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
+Liliana's Specter	m11	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Sire	mbs	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Blademaster	zen	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kabira Crossroads	zen	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arrest	mmq	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Student of Warfare	roe	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Creeping Corrosion	mbs	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Instill Energy	lea	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Journey to Nowhere	zen	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
