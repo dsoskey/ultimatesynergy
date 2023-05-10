@@ -73,9 +73,9 @@ Contagion Clasp	som	144	Owned	counters,artifacts,counters_payoff,u2.60,u3.9,remo
 Cranial Plating	mm2	206	Not Owned	artifacts,artifacts_payoff,aggrocontrol,heroic,u2.63,core,aggro	Non-foil	2	B	Black	~~	Artifact — Equipment
 Oblivion Stone	mrd	222	Not Owned	manasink,control,artifacts,artifact_removal,enchantment_removal,u2.0,removal,core,wrath	Non-foil	3	~~	~~	~~	Artifact
 Pristine Talisman	c13	255	Not Owned	artifacts,lifegain,u2.0,u2.74,u3.2,core,control	Non-foil	3	~~	~~	~~	Artifact
-Bomat Courier	kld	199	Not Owned	artifacts,burn,aggrocontrol,u4.7.6,core,manasink,graveyard,aggro	Non-foil	1	~~	Red	~~	Artifact Creature — Construct
+Bomat Courier	kld	199	Not Owned	artifacts,burn,aggrocontrol,u4.7.6,core,manasink,graveyard,aggro	Non-foil	1	R	Red	~~	Artifact Creature — Construct
 Metallic Mimic	aer	164	Not Owned	artifacts,tribal,tokens,counters,blink,tribal_payoff,core,aggro,wide,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Shapeshifter
-Scrapheap Scrounger	kld	231	Not Owned	artifacts,graveyard,aggrocontrol,u2.89,occasional	Non-foil	2	~~	Black	~~	Artifact Creature — Construct
+Scrapheap Scrounger	kld	231	Not Owned	artifacts,graveyard,aggrocontrol,u2.89,occasional	Non-foil	2	B	Black	~~	Artifact Creature — Construct
 Adaptive Automaton	m12	201	Not Owned	artifacts,tribal,tokens,tribal_payoff,u2.0,u4.6.2,occasional	Non-foil	3	~~	~~	~~	Artifact Creature — Construct
 Scuttling Doom Engine	m15	229	Not Owned	artifacts,ramp,reanimator,enrage,u2.72,u2.91,occasional	Non-foil	6	~~	~~	~~	Artifact Creature — Construct
 Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
@@ -127,7 +127,7 @@ Gravecrawler	ddq	59	Not Owned	core,zombies,tribal_payoff,sacrifice,graveyard,agg
 Blackmail	9ed	115★	Not Owned	core,aggrocontrol,spells,aggro	Non-foil	1	B	~~	~~	Sorcery
 Cemetery Reaper	mic	108	Not Owned	core,zombies,graveyard,tokens	Non-foil	3	B	~~	~~	Creature — Zombie
 Dark Ritual	hop	24	Not Owned	occasional	Non-foil	1	B	~~	~~	Instant
-Dismember	mm2	79	Not Owned	occasional	Non-foil	3	~~	Colorless	~~	Instant
+Dismember	mm2	79	Not Owned	occasional	Non-foil	3	B	Colorless	~~	Instant
 Dusk Urchins	shm	65	Not Owned	core,counters,sacrifice,smoothing,aggro,control	Non-foil	3	B	~~	~~	Creature — Ouphe
 Last Gasp	rav	93	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
@@ -780,8 +780,8 @@ Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
 Marsh Flats	mh2	248	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
 Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
 Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
-Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
-Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
+Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
+Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Path of Bravery	m14	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Justice	rtr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divine Reckoning	isd	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1083,7 +1083,7 @@ Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaxmanta	dis	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
-Razormane Masticore	5dn	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
 Rancor	ulg	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
