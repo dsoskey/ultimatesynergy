@@ -3,7 +3,7 @@ Champion of the Parish	isd	6	Not Owned	humans,blink,counters,wide,tribal_payoff,
 Healer's Hawk	grn	14	Not Owned	fliers,lifegain,heroic,wide,evasion,aggrocontrol,u4.6.4,core,aggro,control	Non-foil	1	W	~~	~~	Creature — Bird
 Thraben Inspector	soi	44	Not Owned	humans,artifacts,flash,stax,blink,sacrifice,tokens,manasink,wide,soldiers,aggrocontrol,u2.87,smoothing,core,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Soldier
 Relic Seeker	ori	29	Not Owned	humans,artifacts,counters,tappers,soldiers,aggrocontrol,u2.0,u3.8,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Soldier
-Porcelain Legionnaire	nph	19	Not Owned	artifacts,soldiers,aggrocontrol,u2.0,occasional	Non-foil	2	~~	Colorless	~~	Artifact Creature — Soldier
+Porcelain Legionnaire	nph	19	Not Owned	artifacts,soldiers,aggrocontrol,u2.0,occasional	Non-foil	2	W	Colorless	~~	Artifact Creature — Soldier
 Attended Knight	m13	5	Not Owned	humans,blink,tokens,sacrifice,wide,stax,soldiers,u2.80,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Human Knight
 Flickerwisp	mma	16	Not Owned	fliers,blink,evasion,aggrocontrol,u2.0,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Elemental
 Day of Judgment	m11	12	Not Owned	control,spells,wrath,u2.0,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
@@ -201,7 +201,7 @@ Nevinyrral's Disk	c17	217	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Perilous Myr	som	192	Owned	core,artifacts,sacrifice,wide,removal,control	Non-foil	2	~~	~~	~~	Artifact Creature — Myr
 Powder Keg	p04	1	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact
 Solemn Simulacrum	onc	141	Owned	control	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
-Spellskite	mm2	230	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact Creature — Horror
+Spellskite	mm2	230	Not Owned	occasional	Non-foil	2	U	Colorless	~~	Artifact Creature — Horror
 Trading Post	cm2	225	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Untethered Express	aer	179	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact — Vehicle
 Ghitu Encampment	ddn	33	Not Owned	occasional	Non-foil	0	R	Red	~~	Land
@@ -768,7 +768,7 @@ Reject Imperfection	one	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoneforge Mystic	wwk	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flayer Husk	mbs	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jwari Disruption	znr	64	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
-Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	U	Colorless	~~	~~
 Wizard's Retort	dom	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Fracture	eve	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	grn	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1060,8 +1060,8 @@ Tel-Jilad Defiance	som	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Servant of the Scale	dtk	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Terramorphic Expanse	10e	360	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Evolving Wilds	akh	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Terramorphic Expanse	10e	360	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Evolving Wilds	akh	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	hop	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sudden Spoiling	tsp	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurking Informant	rav	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
