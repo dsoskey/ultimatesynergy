@@ -44,7 +44,6 @@ Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasio
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,golems,goblins,sacrifice,tokens,enrage,pingers,wide,stax,u2.0,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Zealous Conscripts	avr	166	Not Owned	humans,twin,blink,sacrifice,burn,u2.0,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	som	91	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
-Brimstone Volley	isd	132	Not Owned	flash,sacrifice,spells,burn,u2.0,u2.92,removal,core,aggro,control	Non-foil	3	R	~~	~~	Instant
 Risk Factor	grn	113	Not Owned	burn,spells,graveyard,flash,aggrocontrol,u4.6.4,reanimator,core,aggro	Non-foil	3	R	~~	~~	Instant
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
 Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
@@ -389,7 +388,6 @@ Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 Spontaneous Mutation	cmr	100	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
 Searing Meditation	rav	226	Not Owned	~~	Non-foil	3	R,W	~~	~~	Enchantment
 Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
-Vine Trellis	ddd	4	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant Wall
 Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Memorial to Unity	dom	245	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Grind // Dust	hou	155	Not Owned	~~	Non-foil	6	B,W	~~	~~	Sorcery
