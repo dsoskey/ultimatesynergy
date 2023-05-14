@@ -48,7 +48,6 @@ Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,remo
 Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
 Birds of Paradise	plst	CN2-176	Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
 Woodland Champion	m20	205	Not Owned	tokens,elves,u4.7.7,core,aggro	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,elves,counters_payoff,u4.7,core,aggro	Non-foil	3	G	~~	~~	Creature — Elf Druid
@@ -363,7 +362,6 @@ Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Doomskar	khm	9	Not Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Port of Karfell	clb	908	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
-Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Subtle Strike	znr	128	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Cumber Stone	con	24	Not Owned	~~	Non-foil	4	U	~~	~~	Artifact
