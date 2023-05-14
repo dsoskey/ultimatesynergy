@@ -23,7 +23,6 @@ Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,u3.8,core,aggro	Non-
 Thirst for Knowledge	ddf	68	Not Owned	artifacts,graveyard,flash,reanimator,spells,aggrocontrol,u2.0,smoothing,core,control,aggro	Non-foil	3	U	~~	~~	Instant
 Chart a Course	xln	48	Not Owned	graveyard,spells,fliers,reanimator,aggrocontrol,u3.3,smoothing,core,aggro	Non-foil	2	U	~~	~~	Sorcery
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
-Favorable Winds	cns	98	Not Owned	fliers_payoff,u2.67,u3.6,fliers,occasional	Non-foil	2	U	~~	~~	Enchantment
 Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,u2.78,u4.1,core,aggro	Non-foil	2	U,G	Blue	~~	Enchantment
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,humans,graveyard,wide,aggrocontrol,u2.60,occasional	Non-foil	1	B	~~	~~	Creature — Human Warrior
@@ -564,7 +563,6 @@ Titan's Strength	ori	166	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Anguished Unmaking	2x2	170	Not Owned	~~	Non-foil	3	B,W	~~	~~	Instant
 Assassin's Trophy	2x2	175	Not Owned	~~	Non-foil	2	B,G	~~	~~	Instant
 Despark	war	190	Not Owned	~~	Non-foil	2	B,W	~~	~~	Instant
-Plaguecrafter	afc	107	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Shaman
 Shrapnel Slinger	one	148	Not Owned	~~	Non-foil	2	R	~~	~~	Artifact Creature — Phyrexian Beast
 Unnatural Restoration	one	191	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Leyline Prowler	war	202	Not Owned	~~	Non-foil	3	B,G	~~	~~	Creature — Nightmare Beast
@@ -673,7 +671,6 @@ Ledger Shredder	snc	46	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Good-Fortune Unicorn	mh1	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Renata, Called to the Hunt	thb	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ascendant Packleader	vow	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lion Sash	neo	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dancing Sword	afr	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Restoration Angel	avr	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -687,7 +684,6 @@ Fervent Champion	eld	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reinforced Ronin	neo	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Biophagus	40k	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mawloc	40k	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cindervines	rna	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jinnie Fay, Jetmir's Second	snc	195	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kykar, Wind's Fury	m20	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hinata, Dawn-Crowned	neo	222	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -780,7 +776,6 @@ Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
 Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
 Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
-Path of Bravery	m14	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Justice	rtr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divine Reckoning	isd	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unburial Rites	isd	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -934,7 +929,6 @@ Witch's Vengeance	eld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selective Snare	grn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wild Shape	afr	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wings of Velis Vel	lrw	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sakashima's Student	pc2	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unclaimed Territory	xln	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavern of Souls	avr	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Secluded Courtyard	neo	275	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1071,7 +1065,6 @@ Crystal Vein	mir	325	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pithing Needle	sok	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squelch	chk	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Djinn of Wishes	m10	50	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Suffer the Past	roe	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steady Progress	som	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1080,7 +1073,6 @@ Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaxmanta	dis	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Glorious Anthem	10e	17	Owned	wide,tokens,occasional	Non-foil	3	W	~~	~~	Enchantment
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	zen	116	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
 Rancor	ulg	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1096,6 +1088,12 @@ Unmake	arc	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Creeping Corrosion	mbs	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Instill Energy	lea	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Covert Technician	neo	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Mutation	c13	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hull Breach	hop	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Journey to Nowhere	zen	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
