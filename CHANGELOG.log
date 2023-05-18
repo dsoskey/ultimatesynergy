@@ -7425,3 +7425,19 @@ Timestamp	Board	ChangeType	Name
 2023-05-17T02:40:40.676+00:00	maybeboard	add	Outpost Siege
 2023-05-18T22:23:21.159+00:00	maybeboard	add	Hunted Nightmare
 2023-05-18T22:23:21.159+00:00	maybeboard	add	Alela, Artful Provocateur
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Baneslayer Angel
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Havengul Runebinder
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Prismatic Ending
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Solitude
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Prismari Command
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Deathrite Shaman
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Joraga Treespeaker
+2023-05-18T22:45:23.002+00:00	mainboard	remove	Chart a Course
+2023-05-18T22:45:23.002+00:00	maybeboard	remove	Murktide Regent
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Deathrite Shaman
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Solitude
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Joraga Treespeaker
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Baneslayer Angel
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Prismari Command
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Chart a Course
+2023-05-18T22:45:23.002+00:00	maybeboard	add	Havengul Runebinder
