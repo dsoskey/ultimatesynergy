@@ -21,7 +21,6 @@ Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	
 Murmuring Mystic	grn	45	Not Owned	wizards,humans,spells,tokens,enrage,evasion,u4.6.1,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,u3.8,core,aggro	Non-foil	1	U	~~	~~	Instant
 Thirst for Knowledge	ddf	68	Not Owned	artifacts,graveyard,flash,reanimator,spells,aggrocontrol,u2.0,smoothing,core,control,aggro	Non-foil	3	U	~~	~~	Instant
-Chart a Course	xln	48	Not Owned	graveyard,spells,fliers,reanimator,aggrocontrol,u3.3,smoothing,core,aggro	Non-foil	2	U	~~	~~	Sorcery
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
 Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,u2.78,u4.1,core,aggro	Non-foil	2	U,G	Blue	~~	Enchantment
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
@@ -152,7 +151,6 @@ Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enc
 Explore	c19	164	Owned	occasional	Non-foil	2	G	~~	~~	Sorcery
 Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
 Invigorate	a25	173	Not Owned	occasional	Non-foil	3	G	~~	~~	Instant
-Joraga Treespeaker	roe	190	Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Squirrel Nest	mh1	182	Not Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
@@ -162,7 +160,6 @@ Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
-Deathrite Shaman	gk1	59	Not Owned	occasional	Non-foil	1	B,G	Hybrid	~~	Creature — Elf Shaman
 Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
 Dreg Mangler	rtr	158	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plant Zombie
 Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
@@ -636,12 +633,10 @@ Morophon, the Boundless	mh1	1	Not Owned	~~	Non-foil	7	B,G,R,U,W	Colorless	~~	Leg
 Taurean Mauler	arc	49	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
 Call to the Netherworld	c19	108	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Rotting Rats	con	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Prismari Command	stx	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindshrieker	isd	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Tank	war	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unholy Heat	mh2	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Solitude	mh2	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Incinerate	jvc	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Rage	rix	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	frf	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -836,7 +831,6 @@ Rustvale Bridge	mh2	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Monastery Mentor	frf	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Prismatic Ending	mh2	25	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Emiel the Blessed	jmp	3	Not Owned	~~	~~	"""~~"""	W	~~	~~	~~
 Indulgent Aristocrat	soi	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -869,7 +863,6 @@ Explosive Entry	neo	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ecologist's Terrarium	neo	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ingenious Smith	afr	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mukotai Soulripper	neo	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Havengul Runebinder	dka	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venomcrawler	40k	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anointer Priest	plst	AKH-3	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Obsessive Skinner	soi	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1012,7 +1005,6 @@ Go for the Throat	mbs	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraan, Executioner Thane	one	114	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Butcher Ghoul	avr	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Command	stx	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Baneslayer Angel	m10	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Earl of Squirrel	ust	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blossoming Calm	mh2	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kytheon, Hero of Akros	ori	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
