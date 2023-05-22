@@ -1087,7 +1087,6 @@ Carrion Feeder	dde	2	Not Owned	sacrifice,counters,zombies,aggro,occasional	Non-f
 Ulvenwald Hydra	soi	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Herder	usg	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Marisi, Breaker of the Coil	c19	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Emerald Charm	vis	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Metamorphosis	arn	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vorapede	dka	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightshade Peddler	avr	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1450,8 +1449,6 @@ Djinn of Wishes	m10	50	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Outpost Siege	afc	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Llanowar Elves	m19	314	Not Owned	elves,ramp,wide,aggrocontrol,u2.0,u2.76,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Outpost Siege	afc	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hunted Nightmare	iko	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alela, Artful Provocateur	eld	324	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1462,6 +1459,9 @@ Baneslayer Angel	m10	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismari Command	stx	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	Not Owned	graveyard,spells,fliers,reanimator,aggrocontrol,u3.3,smoothing,core,aggro	Non-foil	2	U	~~	~~	Sorcery
 Havengul Runebinder	dka	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goblin Javelineer	afr	144	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
+Fact or Fiction	cmr	634	Not Owned	flash,spells,graveyard,core,aggro,control	Non-foil	4	U	~~	~~	Instant
+Dryad Greenseeker	m19	178	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

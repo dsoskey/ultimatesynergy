@@ -112,7 +112,6 @@ Thassa's Oracle	thb	73	Not Owned	core,wizards,control,blink	Non-foil	2	U	~~	~~	C
 Cryptic Command	ima	48	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
-Fact or Fiction	cmr	634	Not Owned	flash,spells,graveyard,core,aggro,control	Non-foil	4	U	~~	~~	Instant
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
 Psionic Blast	tsb	30	Not Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Not Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
@@ -142,7 +141,6 @@ Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin 
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
 Satyr Firedancer	bng	108	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
-Dryad Greenseeker	m19	178	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Path of Discovery	rix	142	Not Owned	occasional	Non-foil	4	G	~~	~~	Enchantment
 Blossoming Defense	kld	146	Not Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
@@ -876,7 +874,6 @@ Rustrazor Butcher	shm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Grim Initiate	war	130	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Zombie Warrior
-Goblin Javelineer	afr	144	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
 Fireblade Charger	znr	139	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
 Falkenrath Gorger	soi	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -972,7 +969,7 @@ Raffine, Scheming Seer	snc	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land — Mountain Plains
 Stomping Ground	sld	126	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land — Mountain Forest
 Blood Crypt	unf	279	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
-Breeding Pool	exp	15	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
+Breeding Pool	sld	132	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
 Watery Grave	grn	259	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
 Steam Vents	grn	257	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
 Godless Shrine	unf	533	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
@@ -1082,6 +1079,11 @@ Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Mutation	c13	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fa'adiyah Seer	dmr	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Emerald Charm	vis	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Command	j21	664	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mishra's Foundry	bro	265	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Journey to Nowhere	zen	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
