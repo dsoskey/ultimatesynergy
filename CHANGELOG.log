@@ -7465,3 +7465,9 @@ Timestamp	Board	ChangeType	Name
 2023-05-22T01:03:26.611+00:00	maybeboard	remove	Cruel Celebrant
 2023-05-22T01:03:26.611+00:00	maybeboard	add	Outlaws' Merriment
 2023-05-22T01:03:26.611+00:00	maybeboard	add	Midnight Reaper
+2023-05-22T01:09:54.379+00:00	mainboard	add	Lingering Souls
+2023-05-22T01:09:54.379+00:00	mainboard	add	Hidden Stockpile
+2023-05-22T01:09:54.379+00:00	maybeboard	remove	Hidden Stockpile
+2023-05-22T01:09:54.379+00:00	maybeboard	remove	Lingering Souls
+2023-05-22T01:09:54.379+00:00	maybeboard	add	Gleeful Demolition
+2023-05-22T01:09:54.379+00:00	maybeboard	add	Brimaz, King of Oreskos

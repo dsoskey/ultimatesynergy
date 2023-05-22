@@ -188,7 +188,6 @@ Vapor Snag	mm2	66	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Fire // Ice	mh2	290	Not Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Firebolt	dd2	49	Not Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Collective Defiance	emn	123	Not Owned	~~	Non-foil	3	R	~~	~~	Sorcery
-Lingering Souls	tsr	296	Not Owned	~~	Non-foil	3	B,W	~~	~~	Sorcery
 Song-Mad Treachery	znr	165	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Memorial to Glory	40k	283	Not Owned	~~	Non-foil	0	W	~~	~~	Land
 Orzhov Enforcer	rna	79	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Rogue
@@ -1016,7 +1015,6 @@ Slice and Dice	ons	232	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Charging Monstrosaur	xln	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	mh1	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hidden Stockpile	aer	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Sun's Nemesis	thb	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slaughter-Priest of Mogis	thb	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angel of Despair	gk2	37	Not Owned	occasional	Non-foil	7	B,W	~~	~~	Creature — Angel
@@ -1463,6 +1461,8 @@ Fact or Fiction	cmr	634	Not Owned	flash,spells,graveyard,core,aggro,control	Non-
 Dryad Greenseeker	m19	178	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Outlaws' Merriment	eld	198	Not Owned	~~	Non-foil	4	R,W	~~	~~	Enchantment
 Midnight Reaper	grn	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gleeful Demolition	one	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brimaz, King of Oreskos	bng	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
