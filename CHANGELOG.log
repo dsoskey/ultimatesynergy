@@ -7477,3 +7477,8 @@ Timestamp	Board	ChangeType	Name
 2023-05-23T13:03:48.592+00:00	mainboard	add	Workshop Warchief
 2023-05-23T13:03:48.592+00:00	mainboard	add	Biogenic Ooze
 2023-05-23T13:03:48.592+00:00	maybeboard	add	Obscura Storefront
+2023-05-25T09:28:47.189+00:00	mainboard	remove	Kazandu Blademaster
+2023-05-25T09:28:47.189+00:00	mainboard	add	Glory-Bound Initiate
+2023-05-25T09:28:47.189+00:00	mainboard	add	Leonin Warleader
+2023-05-25T09:28:47.189+00:00	maybeboard	add	Kazandu Blademaster
+2023-05-25T09:28:47.189+00:00	maybeboard	add	Thalia, Heretic Cathar
