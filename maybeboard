@@ -200,7 +200,6 @@ Vampire Neonate	m19	124	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Vampire
 Quag Vampires	cns	122	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Vampire Rogue
 Cruel Sadist	m15	93	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Assassin
 Concealing Curtains	vow	367	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Wall
-Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
 Gnarled Scarhide	jou	72	Not Owned	~~	Non-foil	1	B	~~	~~	Enchantment Creature — Minotaur
 Prickly Boggart	mor	74	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Goblin Rogue
 Angler Turtle	scd	43	Not Owned	~~	Non-foil	7	U	~~	~~	Creature — Turtle
@@ -431,7 +430,6 @@ Thespian's Stage	gtc	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lae'zel, Vlaakith's Champion	clb	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Safekeeper	cma	152	Not Owned	occasional	Non-foil	1	G	~~	~~	Creature — Human Wizard
 Kessig Prowler	emn	163	Not Owned	flash,manasink,wide,aggrocontrol,u2.86,core,aggro	Non-foil	1	G	~~	~~	Creature — Werewolf Horror 
-Arcbound Javelineer	mh2	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lizard Blades	neo	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghirapur Aether Grid	ori	148	Not Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
@@ -578,7 +576,6 @@ Rimrock Knight	eld	137	Not Owned	heroic,spells,wide,flash,core,aggro	Non-foil	2	
 Fight with Fire	dom	119	Not Owned	spells,burn,ramp,u4.4,removal,occasional	Non-foil	3	R	~~	~~	Sorcery
 Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	Non-foil	1	R	~~	~~	Artifact
 Words of War	ons	244	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment
-Mizzium Mortars	rtr	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Howl of the Horde	ktk	112	Not Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Ghostfire Blade	ktk	220	Not Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Vulshok Morningstar	ddi	66	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -766,7 +763,6 @@ Chemister's Insight	grn	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrential Gearhulk	kld	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Earthshaker Khenra	hou	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wall of Omens	roe	53	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflector Mage	ogw	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflective Golem	stx	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -994,7 +990,6 @@ Clever Impersonator	ktk	34	Not Owned	core,aggro,control	Non-foil	4	U	~~	~~	Creat
 Harmonize	ncc	295	Not Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Arcane Denial	all	22a	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrostatic Field	grn	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harmonic Prodigy	mh2	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kessig Flamebreather	vow	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1179,7 +1174,6 @@ Goblin Traprunner	mh2	130	Not Owned	core,goblins,aggro,tokens,wide,sacrifice	Non
 Reidane, God of the Worthy	khm	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirited Companion	neo	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ramunap Ruins	hou	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Strategic Planning	ptk	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Defiant Salvager	aer	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glissa, Herald of Predation	mom	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	thb	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1217,7 +1211,6 @@ Fleetfoot Dancer	snc	188	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nykthos Paragon	mh2	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nykthos, Shrine to Nyx	ths	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
-Faerie Guidemother	prm	78850	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Faerie
 Valorous Stance	j22	263	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Ethereal Armor	q06	2	Not Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
 Goblin Electromancer	grn	174	Not Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Goblin Wizard
@@ -1467,6 +1460,27 @@ Bake into a Pie	eld	76	Not Owned	artifacts,spells,lifegain,flash,u4.8,removal,co
 Obscura Storefront	snc	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Blademaster	zen	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	emn	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mist-Syndicate Naga	mh1	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shardless Agent	mh2	292	Not Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
+Nahiri, the Harbinger	c20	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Archmage's Charm	mh1	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tajuru Paragon	znr	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Orzhov Pontiff	gpt	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wild Shape	afr	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Damn	mh2	449	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Etched Familiar	mom	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nagging Thoughts	soi	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Truth or Tale	tsp	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreg Mangler	rtr	158	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plant Zombie
+Leyline Prowler	war	202	Not Owned	~~	Non-foil	3	B,G	~~	~~	Creature — Nightmare Beast
+Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
+Frilled Mystic	rna	174	Not Owned	flash,elves,wizards,aggrocontrol,blink,u4.7,core,aggro,control	Non-foil	4	U,G	~~	~~	Creature — Elf Lizard Wizard
+Bounding Krasis	ori	212	Not Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Fish Lizard
+Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
+Siege Rhino	cp3	5	Not Owned	occasional	Non-foil	4	B,G,W	~~	~~	Creature — Rhino
+Kiora's Follower	ddo	52	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk
+Creeping Corrosion	mbs	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
