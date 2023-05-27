@@ -129,7 +129,7 @@ Sudden Death	tsp	134	Not Owned	occasional	Non-foil	3	B	~~	~~	Instant
 Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Hybrid	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
-Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Multicolored	~~	Legendary Creature — Human Warrior
+Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Hybrid	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Horror
 Brute Force	mm2	108	Not Owned	occasional	Non-foil	1	R	~~	~~	Instant
 Chandra's Phoenix	e01	44	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Phoenix
@@ -434,7 +434,7 @@ Bonecrusher Giant	eld	115	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
 Ravenous Chupacabra	rix	82	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Rhizome Lurcher	grn	196	Not Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
 Celestial Colonnade	uma	238	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Third Path Iconoclast	bro	223	Not Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
+Third Path Iconoclast	bro	223	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
 Ajani's Pridemate	c13	3	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Soldier
 Lava Coil	2x2	116	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Planar Disruption	one	28	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura
@@ -468,7 +468,7 @@ Clearwater Pathway	slu	15	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Cragcrown Pathway	znr	287	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Needleverge Pathway	znr	263	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Riverglide Pathway	slu	20	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Fearless Fledgling	znr	15	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Griffin
+Fearless Fledgling	znr	291	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Griffin
 Thieving Skydiver	znr	85	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Nullpriest of Oblivion	znr	118	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire Cleric
 Chaplain of Alms	mid	13	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
@@ -594,7 +594,7 @@ Opt	sld	111	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Malicious Affliction	ema	96	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Murderous Rider	eld	97	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
-Hydroid Krasis	2x2	228	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Jellyfish Hydra Beast
+Hydroid Krasis	2x2	228	Not Owned	~~	Non-foil	"""4"""	G,U	~~	~~	Creature — Jellyfish Hydra Beast
 Silverquill Pledgemage	stx	233	Not Owned	~~	Non-foil	3	W,B	Hybrid	~~	Creature — Vampire Cleric
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
@@ -1027,7 +1027,7 @@ Terramorphic Expanse	10e	360	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolving Wilds	akh	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	hop	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sudden Spoiling	tsp	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lurking Informant	rav	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurking Informant	rav	249	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Hero of Bladehold	mbs	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	roe	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1054,7 +1054,7 @@ Kabira Crossroads	zen	216	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Arrest	som	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unmake	arc	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Unmake	arc	98	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Instill Energy	lea	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Covert Technician	neo	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1076,14 +1076,32 @@ Workshop Warchief	psnc	165p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glory-Bound Initiate	akh	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Warleader	m19	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Faerie Guidemother	prm	78850	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Faerie
+Faerie Guidemother	eld	11	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Faerie
 Arcbound Javelineer	mh2	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen	por	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Strategic Planning	ptk	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
+Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
+Arcbound Worker	ddf	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fulminator Mage	2xm	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Saw in Half	unf	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodfeather Phoenix	mom	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rampaging Raptor	mom	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thalia and The Gitrog Monster	mom	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nissa, Resurgent Animist	mat	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rakdos Shred-Freak	gk2	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marsh Flats	zen	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	zen	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	zen	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	zen	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	zen	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Journey to Nowhere	zen	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
