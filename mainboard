@@ -192,7 +192,6 @@ Ghitu Encampment	ddn	33	Not Owned	occasional	Non-foil	0	R	Red	~~	Land
 Mishra's Factory	a25	242	Owned	occasional	Non-foil	0	~~	~~	~~	Land
 Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	Green	~~	Land
 Pteramander	rna	47	Not Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
-Kokusho, the Evening Star	mma	89	Not Owned	core,ramp,fliers,control,lifegain,sacrifice	Non-foil	6	B	~~	~~	Legendary Creature — Dragon Spirit
 Meadowboon	mor	17	Not Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
 Animate Dead			Not Owned	occasional	Non-foil	2	B	~~	~~	Enchantment — Aura
 Diabolic Servitude	c15	120	Not Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
@@ -383,7 +382,7 @@ Curator of Mysteries	c20	109	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Sphinx
 Blood Artist	avr	86	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire
 Zulaport Cutthroat	clb	775	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Rogue Ally
 Ransack the Lab	mh1	103	Not Owned	~~	Non-foil	2	B	~~	~~	Sorcery
-Shriekmaw	c20	136	Not Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental
+Shriekmaw	c20	136	Not Owned	~~	Non-foil	"""2"""	B	~~	~~	Creature — Elemental
 Flametongue Kavu	dmr	120	Not Owned	~~	Non-foil	4	R	~~	~~	Creature — Kavu
 Incendiary Flow	emn	133	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Chain Lightning	dmr	113	Not Owned	~~	Non-foil	1	R	~~	~~	Sorcery
