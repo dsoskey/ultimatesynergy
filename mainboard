@@ -105,7 +105,6 @@ Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dra
 Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
 Twilight Drover	rav	33	Not Owned	occasional	Non-foil	3	W	~~	~~	Creature — Spirit
 Thassa's Oracle	thb	73	Not Owned	core,wizards,control,blink	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
-Cryptic Command	ima	48	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
@@ -197,7 +196,6 @@ Animate Dead			Not Owned	occasional	Non-foil	2	B	~~	~~	Enchantment — Aura
 Diabolic Servitude	c15	120	Not Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
 Irencrag Pyromancer	eld	128	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Human Wizard
 Reckless Charge	ema	144	Not Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
-Ghostly Pilferer	m21	52	Not Owned	core,graveyard,aggrocontrol,rogues,tappers,manasink,aggro	Non-foil	2	U	~~	~~	Creature — Spirit Rogue
 Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
 Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	30a	196	Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
@@ -208,7 +206,6 @@ Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,humans,wide,aggro	Non-foi
 Treasure Map	xln	250	Not Owned	core,artifacts,smoothing,control	Non-foil	2	~~	~~	~~	Artifact
 Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 The Antiquities War	dom	42	Not Owned	core,artifacts_payoff,artifacts	Non-foil	4	U	~~	~~	Enchantment — Saga
-Daring Saboteur	xln	49	Not Owned	core,aggrocontrol,graveyard,manasink,tappers,humans,aggro	Non-foil	2	U	~~	~~	Creature — Human Pirate
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,humans,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Witch's Oven	eld	237	Not Owned	sacrifice,lifegain,tokens,artifacts,occasional	Non-foil	1	~~	~~	~~	Artifact
@@ -334,7 +331,6 @@ Immersturm Skullcairn	khm	263	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Rune of Sustenance	khm	25	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura Rune
 Rise of the Dread Marn	khm	107	Not Owned	~~	Non-foil	3	B	~~	~~	Instant
 Gnottvold Slumbermound	khm	258	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Gates of Istfell	khm	256	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Axgard Armory	khm	250	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Surtland Frostpyre	khm	271	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Inniaz, the Gale Force	jmp	12	Not Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
@@ -949,7 +945,7 @@ Quickling	m15	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raffine, Scheming Seer	snc	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land — Mountain Plains
 Stomping Ground	sld	126	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land — Mountain Forest
-Blood Crypt	unf	279	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
+Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
 Breeding Pool	sld	132	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
 Watery Grave	grn	259	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
 Steam Vents	grn	257	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
@@ -997,7 +993,6 @@ Seasoned Pyromancer	mh1	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sprite Dragon	iko	211	Not Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Faerie Dragon
 Cazur, Ruthless Stalker	c20	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloom Hulk	war	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Toxicrene	40k	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Warkite Marauder	rix	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Laelia, the Blade Reforged	c21	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Wielder of Mysteries	war	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1075,11 +1070,11 @@ Arcbound Javelineer	mh2	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen	por	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Strategic Planning	ptk	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Strategic Planning	khm	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Arcbound Worker	ddf	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fulminator Mage	2xm	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fulminator Mage	2xm	196	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Saw in Half	unf	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Raptor	mom	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1112,9 +1107,15 @@ Journey to Nowhere	zen	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oni-Cult Anvil	neo	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disciple of the Vault	2xm	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Triarch Praetorian	40k	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Magmatic Sinkhole	mh1	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rigo, Streetwise Mentor	psnc	215p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Toluz, Clever Conductor	psnc	228p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
