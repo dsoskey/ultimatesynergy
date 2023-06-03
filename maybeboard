@@ -1204,7 +1204,7 @@ Ethereal Armor	q06	2	Not Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
 Goblin Electromancer	grn	174	Not Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Goblin Wizard
 Hero of the Nyxborn	thb	219	Not Owned	~~	Non-foil	3	R,W	~~	~~	Enchantment Creature — Human Soldier
 Lesser Masticore	mh1	225	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Masticore
-Stormchaser Drake	dbl	349	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Drake
+Stormchaser Drake	vow	82	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Drake
 Swiftblade Vindicator	pgrn	203s	Not Owned	~~	Non-foil	2	R,W	~~	~~	Creature — Human Soldier
 Brawn	jud	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruxa, Patient Professor	c21	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1232,7 +1232,6 @@ Plow Under	uds	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	iko	232	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Murktide Regent	mh2	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blast from the Past	unh	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Combat Courier	bro	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Woebringer Demon	rav	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Snake	apc	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Weathered Wayfarer	ons	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1410,7 +1409,6 @@ Vine Trellis	ddd	4	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant Wall
 Overgrown Battlement	roe	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lion Sash	neo	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakashima's Student	pc2	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Moon-Circuit Hacker	neo	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaguecrafter	afc	107	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Shaman
 High-Speed Hoverbike	neo	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rafiq of the Many	ala	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1526,7 +1524,6 @@ Shielding Plax	uma	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Spitting Image	cm2	166	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Biomass Mutation	c21	209	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dovin, Hand of Control	war	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Nightveil Sprite	grn	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trace of Abundance	arb	142	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathbringer Liege	2x2	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Repudiate // Replicate	rna	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1605,6 +1602,10 @@ Blood for Bones	m20	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulcaller's Chant	isd	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bladebrand	m20	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	c15	120	Not Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
+Riddlesmith	2xm	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pyroclasm	ddl	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brass Herald	cmr	301	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stratus Dancer	dtk	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
