@@ -98,7 +98,6 @@ Griffin Guide	tsp	21	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aur
 Hour of Reckoning	c19	65	Not Owned	occasional	Non-foil	7	W	~~	~~	Sorcery
 Legion's Landing	xln	22	Not Owned	occasional	Non-foil	1	W	~~	~~	Legendary Enchantment
 Magus of the Disk	tsp	27	Not Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
-Prison Term	shm	18	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Not Owned	core,lifegain,spells,burn,humans,aggro,control,aggrocontrol	Non-foil	2	W	White	~~	Creature — Human Monk
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
@@ -193,7 +192,6 @@ Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	Green	~~	Land
 Pteramander	rna	47	Not Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Meadowboon	mor	17	Not Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
 Animate Dead			Not Owned	occasional	Non-foil	2	B	~~	~~	Enchantment — Aura
-Diabolic Servitude	c15	120	Not Owned	core,reanimator,graveyard,aggro	Non-foil	4	B	~~	~~	Enchantment
 Irencrag Pyromancer	eld	128	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Human Wizard
 Reckless Charge	ema	144	Not Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
@@ -359,7 +357,6 @@ Rushing River	pls	30	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Bleeding Edge	war	78	Not Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Kazandu Mammoth	znr	189	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elephant
 Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
-Hour of Eternity	hou	36	Not Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Llanowar Reborn	c21	296	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 Spontaneous Mutation	cmr	100	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
@@ -486,7 +483,6 @@ Spawning Bed	bfz	248	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Moorland Haunt	isd	244	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Soulherder	khc	93	Not Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Seachrome Coast	one	258	Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Razorverge Thicket	one	257	Owned	~~	Non-foil	0	W,G	~~	~~	Land
@@ -644,7 +640,6 @@ Renata, Called to the Hunt	thb	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ascendant Packleader	vow	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dancing Sword	afr	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Restoration Angel	avr	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade of the Oni	neo	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cult Conscript	dmu	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goldhound	snc	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -888,7 +883,6 @@ Arcane Adaptation	xln	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise the Draugr	khm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror of the Forebears	c17	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Return from Extinction	mh1	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Plague Engineer	mh1	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Volatile Claws	mh1	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Vengeance	eld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selective Snare	grn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1031,20 +1025,17 @@ Steady Progress	som	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Plaxmanta	dis	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Plaxmanta	c15	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	zen	116	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
-Rancor	ulg	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
 Liliana's Specter	m11	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Sire	mbs	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kabira Crossroads	zen	216	Owned	~~	~~	"""~~"""	~~	White	~~	~~
-Arrest	som	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unmake	arc	98	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Instill Energy	lea	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Covert Technician	neo	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1116,6 +1107,9 @@ Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Changeling Berserker	lrw	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elspeth's Smite	mom	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Aspirant	j22	501	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
