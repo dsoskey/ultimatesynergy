@@ -7859,3 +7859,8 @@ Timestamp	Board	ChangeType	Name
 2023-06-03T07:15:59.673+00:00	maybeboard	add	Stratus Dancer
 2023-06-05T04:19:20.742+00:00	mainboard	add	Evacuation
 2023-06-05T04:19:20.742+00:00	maybeboard	add	The Ozolith
+2023-06-05T04:42:21.286+00:00	mainboard	remove	Liliana, Heretical Healer
+2023-06-05T04:42:21.286+00:00	mainboard	remove	Blade of the Oni
+2023-06-05T04:42:21.286+00:00	mainboard	add	Malefic Scythe
+2023-06-05T04:42:21.286+00:00	maybeboard	add	Liliana, Heretical Healer
+2023-06-05T04:42:21.286+00:00	maybeboard	add	Blade of the Oni
