@@ -1039,7 +1039,7 @@ Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Mutation	c13	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Fa'adiyah Seer	dmr	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emerald Charm	dmr	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Verdant Command	mh2	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1068,16 +1068,16 @@ Rampaging Raptor	mom	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia and The Gitrog Monster	mom	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Resurgent Animist	mat	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Shred-Freak	gk2	70	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Marsh Flats	zen	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Scalding Tarn	zen	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Verdant Catacombs	zen	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arid Mesa	zen	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Misty Rainforest	zen	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
+Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
+Bloodstained Mire	ktk	230	Not Owned	core,gold_land	Non-foil	0	B,R	~~	~~	Land
+Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	R,G	~~	~~	~~
+Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
+Marsh Flats	zen	219	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
+Scalding Tarn	zen	223	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
+Verdant Catacombs	zen	229	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
+Arid Mesa	zen	211	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
+Misty Rainforest	zen	220	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Faithful Mending	mid	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raffine's Informant	snc	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Artificer's Assistant	dom	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
