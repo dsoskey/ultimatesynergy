@@ -7877,3 +7877,11 @@ Timestamp	Board	ChangeType	Name
 2023-06-05T06:38:49.109+00:00	mainboard	edit	Windswept Heath
 2023-06-05T06:38:49.109+00:00	mainboard	edit	Wooded Foothills
 2023-06-05T18:35:56.853+00:00	maybeboard	add	Precinct Captain
+2023-06-06T19:12:39.423+00:00	mainboard	remove	Amorphous Axe
+2023-06-06T19:12:39.423+00:00	mainboard	remove	Goldvein Pick
+2023-06-06T19:12:39.423+00:00	mainboard	remove	Witch's Oven
+2023-06-06T19:12:39.423+00:00	mainboard	remove	Bonesplitter
+2023-06-06T19:12:39.423+00:00	maybeboard	add	Bonesplitter
+2023-06-06T19:12:39.423+00:00	maybeboard	add	Witch's Oven
+2023-06-06T19:12:39.423+00:00	maybeboard	add	Goldvein Pick
+2023-06-06T19:12:39.423+00:00	maybeboard	add	Amorphous Axe
