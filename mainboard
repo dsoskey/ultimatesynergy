@@ -145,7 +145,6 @@ Invigorate	a25	173	Not Owned	occasional	Non-foil	3	G	~~	~~	Instant
 Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m13	184	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Dryad
 Squirrel Nest	mh1	182	Not Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
-Abrupt Decay	gk1	57	Not Owned	occasional	Non-foil	2	B,G	~~	~~	Instant
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
@@ -313,14 +312,12 @@ Spirit of the Season	und	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Treefol
 Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
 Struggle for Skemfar	khm	196	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
 Elvish Warmaster	j22	654	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Warrior
-Aegar, the Freezing Flame	khm	200	Not Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Giant Wizard
 Tergrid's Shadow	khm	113	Not Owned	~~	Non-foil	5	B	~~	~~	Instant
 Rune of Speed	khm	148	Not Owned	~~	Non-foil	2	R	~~	~~	Enchantment — Aura Rune
 Rune of Flight	khm	75	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura Rune
 Fall of the Impostor	khm	208	Not Owned	~~	Non-foil	3	G,W	~~	~~	Enchantment — Saga
 Maskwood Nexus	clb	865	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Rune of Might	khm	191	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura Rune
-The Raven's Warning	khm	227	Not Owned	~~	Non-foil	3	U,W	~~	~~	Enchantment — Saga
 Bretagard Stronghold	khm	253	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Skemfar Elderhall	khm	268	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Immersturm Skullcairn	khm	263	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land
@@ -531,9 +528,7 @@ Merfolk Skydiver	war	205	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk 
 Dryad Arbor	fut	174	Not Owned	~~	Non-foil	0	G	~~	~~	Land Creature — Forest Dryad
 Luminarch Aspirant	ncc	205	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	ori	166	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
-Anguished Unmaking	2x2	170	Not Owned	~~	Non-foil	3	B,W	~~	~~	Instant
 Assassin's Trophy	2x2	175	Not Owned	~~	Non-foil	2	B,G	~~	~~	Instant
-Despark	war	190	Not Owned	~~	Non-foil	2	B,W	~~	~~	Instant
 Shrapnel Slinger	one	148	Not Owned	~~	Non-foil	2	R	~~	~~	Artifact Creature — Phyrexian Beast
 Unnatural Restoration	one	191	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Security Bypass	snc	59	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
@@ -738,7 +733,6 @@ Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Swift Justice	rtr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divine Reckoning	isd	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unburial Rites	isd	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 No One Left Behind	bro	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani, Adversary of Tyrants	m19	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -955,7 +949,6 @@ Danitha Capashen, Paragon	plst	DOM-12	Not Owned	~~	Non-foil	3	W	~~	~~	Legendary 
 Henrika Domnathi	vow	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
-Edgar, Charmed Groom	vow	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viashino Pyromancer	m19	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1096,7 +1089,7 @@ Rigo, Streetwise Mentor	psnc	215p	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Toluz, Clever Conductor	psnc	228p	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Changeling Berserker	lrw	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1109,6 +1102,13 @@ Combat Courier	bro	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moon-Circuit Hacker	neo	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evacuation	10e	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malefic Scythe	m21	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Unsettled Mariner	mh1	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watcher of the Spheres	m21	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Baleful Strix	afc	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Time Sieve	2xm	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
