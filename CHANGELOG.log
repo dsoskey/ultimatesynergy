@@ -7925,3 +7925,7 @@ Timestamp	Board	ChangeType	Name
 2023-06-07T17:58:16.068+00:00	maybeboard	add	Frostwalk Bastion
 2023-06-07T17:58:16.068+00:00	maybeboard	add	Hostile Desert
 2023-06-07T17:58:16.068+00:00	maybeboard	add	Mobilized District
+2023-06-08T07:30:35.555+00:00	mainboard	edit	Memory Plunder
+2023-06-08T07:30:35.555+00:00	mainboard	remove	Voidslime
+2023-06-08T07:30:35.555+00:00	mainboard	add	Disallow
+2023-06-08T07:30:35.555+00:00	maybeboard	add	Voidslime
