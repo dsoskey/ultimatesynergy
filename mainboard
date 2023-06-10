@@ -1007,7 +1007,6 @@ Suffer the Past	roe	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steady Progress	som	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaxmanta	c15	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1106,10 +1105,11 @@ Watcher of the Spheres	m21	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	afc	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Sieve	2xm	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

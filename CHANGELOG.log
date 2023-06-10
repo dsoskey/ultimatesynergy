@@ -7929,3 +7929,6 @@ Timestamp	Board	ChangeType	Name
 2023-06-08T07:30:35.555+00:00	mainboard	remove	Voidslime
 2023-06-08T07:30:35.555+00:00	mainboard	add	Disallow
 2023-06-08T07:30:35.555+00:00	maybeboard	add	Voidslime
+2023-06-10T03:20:57.274+00:00	maybeboard	add	Aven Courier
+2023-06-10T03:20:57.274+00:00	maybeboard	add	Courier Bat
+2023-06-10T03:20:57.274+00:00	maybeboard	add	Chrome Courier
