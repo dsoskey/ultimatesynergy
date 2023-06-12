@@ -21,7 +21,6 @@ Murmuring Mystic	grn	45	Not Owned	wizards,humans,spells,tokens,enrage,evasion,u4
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,u3.8,core,aggro	Non-foil	1	U	~~	~~	Instant
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
 Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,u2.78,u4.1,core,aggro	Non-foil	2	U,G	Multicolored	~~	Enchantment
-Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,humans,graveyard,wide,aggrocontrol,u2.60,occasional	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
@@ -201,7 +200,6 @@ Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,humans,wide,aggro	Non-foil	1	W	~~	~~	Creature — Human Knight
 Treasure Map	xln	250	Not Owned	core,artifacts,smoothing,control	Non-foil	2	~~	~~	~~	Artifact
 Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
-The Antiquities War	dom	42	Not Owned	core,artifacts_payoff,artifacts	Non-foil	4	U	~~	~~	Enchantment — Saga
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,humans,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Noyan Dar, Roil Shaper	bfz	216	Not Owned	occasional	Non-foil	5	W,U	~~	~~	Legendary Creature — Merfolk Ally
@@ -563,7 +561,6 @@ Grumgully, the Generous	clb	847	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Crea
 Thryx, the Sudden Storm	thb	76	Not Owned	~~	Non-foil	5	U	~~	~~	Legendary Creature — Elemental Giant
 Searing Blaze	wwk	90	Not Owned	~~	Non-foil	2	R	~~	~~	Instant
 Chandra, Acolyte of Flame	m20	126	Not Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswalker — Chandra
-Rattleclaw Mystic	ktk	144	Not Owned	~~	Non-foil	2	U,R,G	Green	~~	Creature — Human Shaman
 Runaway Steam-Kin	grn	115	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Elemental
 Skyclave Apparition	znr	39	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Kor Spirit
 Hanweir Militia Captain	soi	21	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
@@ -615,7 +612,6 @@ Sure Strike	bfz	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snakeskin Veil	khm	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firespout	shm	205	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Vraska, Golgari Queen	grn	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rishadan Port	a25	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	a25	164	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Centaur
@@ -949,7 +945,6 @@ Henrika Domnathi	vow	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Viashino Pyromancer	m19	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	mid	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Excise the Imperfect	moc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	91	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
@@ -1110,6 +1105,11 @@ Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Witherbloom Command	pstx	248p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Juvenile Gloomwidow	shm	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Super-Duper Death Ray	ust	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+More or Less	ust	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skullcrack	gtc	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
