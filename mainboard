@@ -79,7 +79,6 @@ Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	~~	~~	~~	Land
 Tomebound Lich	m20	219	Not Owned	zombies,wizards,graveyard,lifegain,aggrocontrol,blink,u4.8,smoothing,core,aggro,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
 Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,aggro	Non-foil	2	W	~~	~~	Creature — Spirit
 Thought Courier	5dn	38	Not Owned	humans,wizards,graveyard,control,u4.9,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
-Overseer of the Damned	e01	36	Not Owned	ramp,reanimator,zombies,control,fliers,u4.9,removal,blink,occasional	Non-foil	7	B	~~	~~	Creature — Demon
 Monastery Swiftspear	ktk	118	Not Owned	spells,burn,aggrocontrol,humans,u2.60,u2.69,u3.1,u4.9,aggro,occasional	Non-foil	1	R	~~	~~	Creature — Human Monk
 Ash Barrens	a25	236	Not Owned	graveyard,u4.9,core,gold_land	Non-foil	0	~~	~~	~~	Land
 Bygone Bishop	soi	8	Not Owned	u4.9.3,u2.77,fliers,artifacts,aggrocontrol,manasink,core,aggro	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
@@ -237,7 +236,6 @@ Angelic Purge	soi	3	Not Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~
 Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
 Aether Spellbomb	mma	196	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
 Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
-Carnophage	tpr	84	Not Owned	core,zombies,aggro,aggrocontrol,lifegain	Non-foil	1	B	~~	~~	Creature — Zombie
 Blazing Rootwalla	mh2	115	Not Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
@@ -324,7 +322,6 @@ Rise of the Dread Marn	khm	107	Not Owned	~~	Non-foil	3	B	~~	~~	Instant
 Gnottvold Slumbermound	khm	258	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Axgard Armory	khm	250	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Surtland Frostpyre	khm	271	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Inniaz, the Gale Force	jmp	12	Not Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
 Rune of Mortality	khm	108	Not Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura Rune
 Realmwalker	khm	188	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Shapeshifter
 Cosmos Elixir	khm	237	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
@@ -700,7 +697,6 @@ Celestial Unicorn	afr	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Marauding Blight-Priest	znr	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dina, Soul Steeper	stx	178	Not Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
-Titan of Industry	snc	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Champion of the Perished	mid	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spark Double	war	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1008,7 +1004,6 @@ Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	zen	116	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
-Liliana's Specter	m11	104	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Sire	mbs	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kabira Crossroads	zen	216	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1110,6 +1105,15 @@ Juvenile Gloomwidow	shm	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Super-Duper Death Ray	ust	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 More or Less	ust	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skullcrack	gtc	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Soul of Zendikar	m15	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Soul of Shandalar	m15	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clay Revenant	bro	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drainpipe Vermin	rtr	66	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Rat
+Descendants' Path	avr	173	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment
+Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Frost Titan	m11	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cradle of Vitality	ala	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
