@@ -440,12 +440,12 @@ Haunted Fengraf	a25	240	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Jungle Basin	cma	258	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
-Branchloft Pathway	znr	258	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
+Branchloft Pathway	znr	284	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Brightclimb Pathway	slu	14	Not Owned	~~	Non-foil	0	W,B	~~	~~	Land
-Clearwater Pathway	slu	15	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Clearwater Pathway	znr	286	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Cragcrown Pathway	znr	287	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Needleverge Pathway	znr	263	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Riverglide Pathway	slu	20	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
+Needleverge Pathway	znr	288	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
+Riverglide Pathway	znr	289	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Fearless Fledgling	znr	291	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Griffin
 Thieving Skydiver	znr	85	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Nullpriest of Oblivion	znr	118	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire Cleric
@@ -1047,7 +1047,7 @@ Nissa, Resurgent Animist	mat	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Shred-Freak	gk2	70	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
 Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
-Bloodstained Mire	ktk	230	Not Owned	core,gold_land	Non-foil	0	B,R	~~	~~	Land
+Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	B,R	~~	~~	~~
 Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	R,G	~~	~~	~~
 Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
 Marsh Flats	mh2	248	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
@@ -1125,10 +1125,10 @@ Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Barkchannel Pathway	khm	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blightstep Pathway	khm	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Darkbore Pathway	khm	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hengegate Pathway	khm	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darkbore Pathway	slu	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hengegate Pathway	slu	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1136,7 +1136,7 @@ Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blood Crypt	prna	245p	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
+Blood Crypt	rna	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stomping Ground	sld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1147,6 +1147,26 @@ Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Crypt	rna	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stomping Ground	sld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marsh Flats	mh2	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steam Vents	gpt	164	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
+Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
