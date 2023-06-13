@@ -75,7 +75,7 @@ Giant Killer	eld	14	Not Owned	tappers,humans,spells,u4.8,removal,core,manasink,a
 Pashalik Mons	mh1	138	Not Owned	goblins,sacrifice,tokens,wide,manasink,u4.8,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Faithless Looting	dka	87	Not Owned	graveyard,spells,u2.63,u4.8,smoothing,reanimator,core	Non-foil	1	R	~~	~~	Sorcery
 Anger	plst	UMA-122	Not Owned	graveyard,reanimator,u2.61,u4.8,core,aggro	Non-foil	4	R	~~	~~	Creature — Incarnation
-Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	~~	~~	~~	Land
+Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Tomebound Lich	m20	219	Not Owned	zombies,wizards,graveyard,lifegain,aggrocontrol,blink,u4.8,smoothing,core,aggro,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
 Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,aggro	Non-foil	2	W	~~	~~	Creature — Spirit
 Thought Courier	5dn	38	Not Owned	humans,wizards,graveyard,control,u4.9,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
@@ -468,7 +468,6 @@ Needle Spires	ogw	175	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Lumbering Falls	c21	299	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Ruins of Oran-Rief	ogw	176	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Spawning Bed	bfz	248	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Moorland Haunt	isd	244	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -794,7 +793,7 @@ Go-Shintai of Boundless Vigor	neo	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Animal Sanctuary	m21	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	afr	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Collective Effort	emn	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hall of Oracles	stx	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hall of Oracles	stx	267	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Roaring Earth	neo	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Gladewalker	khm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sage of Hours	jou	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1120,7 +1119,6 @@ Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darkbore Pathway	slu	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hengegate Pathway	slu	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1166,6 +1164,8 @@ Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
