@@ -502,8 +502,6 @@ Black Dragon Gate	clb	347	Not Owned	~~	Non-foil	0	B	Black	~~	Land — Gate
 Cliffgate	clb	350	Not Owned	~~	Non-foil	0	R	Red	~~	Land — Gate
 Boseiju, Who Endures	neo	266	Not Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
 Eiganjo, Seat of the Empire	neo	268	Not Owned	~~	Non-foil	0	W	White	~~	Legendary Land
-Myriad Landscape	onc	159	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Prismatic Vista	mh1	244	Not Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Takenuma, Abandoned Mire	neo	278	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
 Sokenzan, Crucible of Defiance	neo	276	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Sea Gate	clb	359	Not Owned	~~	Non-foil	0	U	Blue	~~	Land — Gate
@@ -980,7 +978,6 @@ Tel-Jilad Defiance	som	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Servant of the Scale	dtk	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Terramorphic Expanse	10e	360	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	hop	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sudden Spoiling	tsp	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurking Informant	rav	249	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -988,7 +985,7 @@ Hero of Bladehold	mbs	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	roe	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Crystal Vein	mir	325	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pithing Needle	sok	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squelch	chk	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1168,7 +1165,7 @@ Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
