@@ -8169,3 +8169,30 @@ Timestamp	Board	ChangeType	Name
 2023-06-13T10:08:06.195+00:00	maybeboard	add	Woodland Cemetery
 2023-06-13T10:08:06.195+00:00	maybeboard	add	Clifftop Retreat
 2023-06-13T10:08:06.195+00:00	maybeboard	add	Hinterland Harbor
+2023-06-13T10:18:25.583+00:00	mainboard	remove	Citadel Gate
+2023-06-13T10:18:25.583+00:00	mainboard	remove	Thriving Bluff
+2023-06-13T10:18:25.583+00:00	mainboard	remove	Sea Gate
+2023-06-13T10:18:25.583+00:00	mainboard	remove	Cliffgate
+2023-06-13T10:18:25.583+00:00	mainboard	remove	Black Dragon Gate
+2023-06-13T10:18:25.583+00:00	mainboard	add	Vault of Whispers
+2023-06-13T10:18:25.583+00:00	mainboard	add	Leechridden Swamp
+2023-06-13T10:18:25.583+00:00	mainboard	add	Ancient Den
+2023-06-13T10:18:25.583+00:00	mainboard	add	Sejiri Shelter
+2023-06-13T10:18:25.583+00:00	mainboard	add	Razortide Bridge
+2023-06-13T10:18:25.583+00:00	mainboard	add	Mistvault Bridge
+2023-06-13T10:18:25.583+00:00	mainboard	add	Goldmire Bridge
+2023-06-13T10:18:25.583+00:00	mainboard	add	Silverbluff Bridge
+2023-06-13T10:18:25.583+00:00	maybeboard	remove	Razortide Bridge
+2023-06-13T10:18:25.583+00:00	maybeboard	remove	Goldmire Bridge
+2023-06-13T10:18:25.583+00:00	maybeboard	remove	Silverbluff Bridge
+2023-06-13T10:18:25.583+00:00	maybeboard	remove	Mistvault Bridge
+2023-06-13T10:18:25.583+00:00	maybeboard	remove	Sejiri Shelter
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Thriving Bluff
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Black Dragon Gate
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Sea Gate
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Citadel Gate
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Cliffgate
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Castle Locthwain
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Cabal Pit
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Memorial to Folly
+2023-06-13T10:18:25.583+00:00	maybeboard	add	Barren Moor

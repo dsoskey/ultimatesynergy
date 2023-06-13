@@ -26,7 +26,6 @@ Moss-Pit Skeleton	znr	228	Not Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Plant S
 Master of Winds	znr	68	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Sphinx Wizard
 Kitesail Cleric	znr	20	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Kor Cleric
 Nahiri's Binding	znr	29	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment — Aura
-Sejiri Shelter	znr	37	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Anticognition	znr	45	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Glasspool Mimic	znr	60	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Shapeshifter Rogue
 Inscription of Insight	znr	61	Not Owned	~~	Non-foil	4	U	~~	~~	Sorcery
@@ -469,9 +468,6 @@ Seat of the Synod	mrd	283	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Den	mrd	278	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Great Furnace	mrd	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault of Whispers	mrd	286	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mistvault Bridge	mh2	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Silverbluff Bridge	mh2	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wild Mongrel	plst	DDD-5	Not Owned	core,graveyard,aggro	Non-foil	2	G	~~	~~	Creature — Dog
 Thornweald Archer	ema	189	Not Owned	core,elves,aggro,control	Non-foil	2	G	~~	~~	Creature — Elf Archer
 Amethyst Dragon	clb	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -797,7 +793,6 @@ Showstopper	dgm	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	roe	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Locthwain	eld	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manriki-Gusari	sok	156	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
-Razortide Bridge	mh2	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pieces of the Puzzle	soi	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Saw It Coming	khm	76	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
@@ -1679,6 +1674,15 @@ Sulfur Falls	dmr	258	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Woodland Cemetery	dmr	261	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Clifftop Retreat	dmr	241	Not Owned	~~	Non-foil	0	W,R	~~	~~	Land
 Hinterland Harbor	dmr	248	Not Owned	~~	Non-foil	0	U,G	~~	~~	Land
+Thriving Bluff	ncc	438	Not Owned	~~	Non-foil	0	R	Red	~~	Land
+Black Dragon Gate	clb	347	Not Owned	~~	Non-foil	0	B	Black	~~	Land — Gate
+Sea Gate	clb	359	Not Owned	~~	Non-foil	0	U	Blue	~~	Land — Gate
+Citadel Gate	clb	349	Not Owned	~~	Non-foil	0	W	White	~~	Land — Gate
+Cliffgate	clb	350	Not Owned	~~	Non-foil	0	R	Red	~~	Land — Gate
+Castle Locthwain	eld	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cabal Pit	ody	315	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Barren Moor	arc	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

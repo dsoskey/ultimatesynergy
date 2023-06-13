@@ -487,15 +487,11 @@ Cleric of Life's Bond	znr	222	Not Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vam
 Valakut Exploration	znr	175	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Proclamation of Rebirth	plst	DIS-15	Not Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Ixidron	tsp	65	Not Owned	~~	Non-foil	5	U	~~	~~	Creature — Illusion
-Black Dragon Gate	clb	347	Not Owned	~~	Non-foil	0	B	Black	~~	Land — Gate
-Cliffgate	clb	350	Not Owned	~~	Non-foil	0	R	Red	~~	Land — Gate
 Boseiju, Who Endures	neo	266	Not Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
 Eiganjo, Seat of the Empire	neo	268	Not Owned	~~	Non-foil	0	W	White	~~	Legendary Land
 Takenuma, Abandoned Mire	neo	278	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
 Sokenzan, Crucible of Defiance	neo	276	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
-Sea Gate	clb	359	Not Owned	~~	Non-foil	0	U	Blue	~~	Land — Gate
 Thriving Isle	ncc	441	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
-Thriving Bluff	ncc	438	Not Owned	~~	Non-foil	0	R	Red	~~	Land
 Thriving Heath	ncc	440	Not Owned	~~	Non-foil	0	W	White	~~	Land
 Thriving Moor	jmp	37	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Kabira Takedown	znr	19	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
@@ -503,7 +499,6 @@ Silundi Vision	znr	80	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Kazuul's Fury	znr	146	Not Owned	~~	Non-foil	3	R	~~	~~	Instant
 Turntimber Symbiosis	znr	215	Not Owned	~~	Non-foil	7	G	~~	~~	Sorcery
 Castle Garenbrig	eld	240	Not Owned	~~	Non-foil	0	G	Green	~~	Land
-Citadel Gate	clb	349	Not Owned	~~	Non-foil	0	W	White	~~	Land — Gate
 Radha, Heart of Keld	m21	224	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
 Tezzeret's Gambit	cm2	51	Not Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
@@ -1154,6 +1149,14 @@ Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vault of Whispers	hop	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Leechridden Swamp	ddr	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancient Den	c21	276	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sejiri Shelter	znr	37	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
+Razortide Bridge	mh2	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mistvault Bridge	mh2	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silverbluff Bridge	mh2	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
