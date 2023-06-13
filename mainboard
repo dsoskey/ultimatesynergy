@@ -916,11 +916,13 @@ Raffine, Scheming Seer	snc	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land — Mountain Plains
 Stomping Ground	sld	126	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land — Mountain Forest
 Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
-Breeding Pool	sld	132	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
+Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
+Breeding Pool	gtc	240	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
+Hallowed Fountain	rna	251	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land — Plains Island
 Watery Grave	grn	259	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
 Steam Vents	grn	257	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
-Godless Shrine	unf	533	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
-Overgrown Tomb	rtr	243	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
+Godless Shrine	sld	128	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
+Overgrown Tomb	grn	253	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
 Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Who // What // When // Where // Why	unh	120	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1121,8 +1123,31 @@ Narnam Renegade	aer	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Xantid Swarm	ema	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swarm Shambler	znr	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
+Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Barkchannel Pathway	khm	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blightstep Pathway	khm	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Darkbore Pathway	khm	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hengegate Pathway	khm	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watery Grave	rav	286	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
+Blood Crypt	prna	245p	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
+Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stomping Ground	sld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stomping Ground	sld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
