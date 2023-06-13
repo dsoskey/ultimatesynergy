@@ -8246,3 +8246,9 @@ Timestamp	Board	ChangeType	Name
 2023-06-13T23:03:38.695+00:00	mainboard	remove	Hormagaunt Horde
 2023-06-13T23:03:38.695+00:00	mainboard	add	Bloom Hulk
 2023-06-13T23:03:38.695+00:00	maybeboard	add	Hormagaunt Horde
+2023-06-13T23:20:59.059+00:00	mainboard	remove	Grenzo, Havoc Raiser
+2023-06-13T23:20:59.059+00:00	mainboard	remove	Burning-Fist Minotaur
+2023-06-13T23:20:59.059+00:00	mainboard	remove	Anger
+2023-06-13T23:20:59.059+00:00	maybeboard	add	Burning-Fist Minotaur
+2023-06-13T23:20:59.059+00:00	maybeboard	add	Grenzo, Havoc Raiser
+2023-06-13T23:20:59.059+00:00	maybeboard	add	Anger

@@ -72,7 +72,6 @@ Mutavault	clb	903	Not Owned	tribal,manasink,u4.7.7,core	Non-foil	0	~~	~~	~~	Land
 Giant Killer	eld	14	Not Owned	tappers,humans,spells,u4.8,removal,core,manasink,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Peasant 
 Pashalik Mons	mh1	138	Not Owned	goblins,sacrifice,tokens,wide,manasink,u4.8,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Faithless Looting	dka	87	Not Owned	graveyard,spells,u2.63,u4.8,smoothing,reanimator,core	Non-foil	1	R	~~	~~	Sorcery
-Anger	plst	UMA-122	Not Owned	graveyard,reanimator,u2.61,u4.8,core,aggro	Non-foil	4	R	~~	~~	Creature — Incarnation
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Tomebound Lich	m20	219	Not Owned	zombies,wizards,graveyard,lifegain,aggrocontrol,blink,u4.8,smoothing,core,aggro,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
 Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,aggro	Non-foil	2	W	~~	~~	Creature — Spirit
@@ -256,7 +255,6 @@ You Hear Something on Watch	afr	42	Not Owned	core,tokens,wide,removal,control,sp
 Grazilaxx, Illithid Scholar	afr	60	Not Owned	aggrocontrol,blink,fliers,core,aggro	Non-foil	3	U	~~	~~	Legendary Creature — Horror
 Shambling Ghast	afr	119	Not Owned	artifacts,removal,sacrifice,zombies,core,ramp,control	Non-foil	1	B	~~	~~	Creature — Zombie
 Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
-Burning-Fist Minotaur	hou	85	Not Owned	core,graveyard,aggrocontrol,aggro,control,wizards	Non-foil	2	R	~~	~~	Creature — Minotaur Wizard
 Syr Konrad, the Grim	znc	56	Not Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Soulknife Spy	afr	75	Not Owned	core,elves,aggrocontrol,aggro	Non-foil	3	U	~~	~~	Creature — Elf Rogue
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
@@ -801,7 +799,6 @@ Fireblade Charger	znr	139	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Wa
 Falkenrath Gorger	soi	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
-Grenzo, Havoc Raiser	cn2	54	Not Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Goblin Rogue
 Giant Cindermaw	bro	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squee, Dubious Monarch	dmu	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Observer	one	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
