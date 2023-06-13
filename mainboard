@@ -491,9 +491,6 @@ Boseiju, Who Endures	neo	266	Not Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
 Eiganjo, Seat of the Empire	neo	268	Not Owned	~~	Non-foil	0	W	White	~~	Legendary Land
 Takenuma, Abandoned Mire	neo	278	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
 Sokenzan, Crucible of Defiance	neo	276	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
-Thriving Isle	ncc	441	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
-Thriving Heath	ncc	440	Not Owned	~~	Non-foil	0	W	White	~~	Land
-Thriving Moor	jmp	37	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Kabira Takedown	znr	19	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Silundi Vision	znr	80	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Kazuul's Fury	znr	146	Not Owned	~~	Non-foil	3	R	~~	~~	Instant
@@ -740,7 +737,6 @@ Stitcher's Supplier	m19	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wildborn Preserver	eld	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	dka	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drossforge Bridge	mh2	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murmuring Bosk	mor	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolved Sleeper	dmu	93	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human
 Ruthless Sniper	akh	105	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
@@ -1157,6 +1153,12 @@ Razortide Bridge	mh2	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mistvault Bridge	mh2	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silverbluff Bridge	mh2	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mistveil Plains	uma	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Karoo	c14	303	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raugrin Triome	iko	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Savai Triome	iko	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raffine's Tower	snc	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Xander's Lounge	snc	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
