@@ -758,7 +758,6 @@ Stitcher's Supplier	m19	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wildborn Preserver	eld	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	dka	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drossforge Bridge	mh2	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Haunted Ridge	mid	263	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murmuring Bosk	mor	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolved Sleeper	dmu	93	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human
@@ -999,7 +998,7 @@ Suffer the Past	roe	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steady Progress	som	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Quicksand	vis	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Quicksand	cns	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaxmanta	c15	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1051,11 +1050,11 @@ Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
 Bloodstained Mire	ktk	230	Not Owned	core,gold_land	Non-foil	0	B,R	~~	~~	Land
 Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	R,G	~~	~~	~~
 Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
-Marsh Flats	zen	219	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
-Scalding Tarn	zen	223	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
-Verdant Catacombs	zen	229	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
-Arid Mesa	zen	211	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
-Misty Rainforest	zen	220	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
+Marsh Flats	mh2	248	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
+Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
+Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
+Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
+Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Faithful Mending	mid	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raffine's Informant	snc	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Artificer's Assistant	dom	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1124,7 +1123,6 @@ Xantid Swarm	ema	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swarm Shambler	znr	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
-Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
 Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barkchannel Pathway	khm	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1137,7 +1135,7 @@ Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Watery Grave	rav	286	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
+Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Crypt	prna	245p	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
 Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1148,6 +1146,7 @@ Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
