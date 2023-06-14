@@ -8254,3 +8254,14 @@ Timestamp	Board	ChangeType	Name
 2023-06-13T23:20:59.059+00:00	maybeboard	add	Anger
 2023-06-14T14:45:50.449+00:00	mainboard	remove	Bloom Hulk
 2023-06-14T14:45:50.449+00:00	mainboard	add	Oran-Rief Ooze
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Thalia and The Gitrog Monster
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Raffine, Scheming Seer
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Vishgraz, the Doomhive
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Hide // Seek
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Contagion
+2023-06-14T15:03:54.408+00:00	mainboard	remove	Treasure Map
+2023-06-14T15:03:54.408+00:00	maybeboard	add	Contagion
+2023-06-14T15:03:54.408+00:00	maybeboard	add	Treasure Map
+2023-06-14T15:03:54.408+00:00	maybeboard	add	Vishgraz, the Doomhive
+2023-06-14T15:03:54.408+00:00	maybeboard	add	Hide // Seek
+2023-06-14T15:03:54.408+00:00	maybeboard	add	Raffine, Scheming Seer
