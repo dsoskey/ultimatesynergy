@@ -72,7 +72,6 @@ Mutavault	clb	903	Not Owned	tribal,manasink,u4.7.7,core	Non-foil	0	~~	~~	~~	Land
 Giant Killer	eld	14	Not Owned	tappers,humans,spells,u4.8,removal,core,manasink,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Peasant 
 Pashalik Mons	mh1	138	Not Owned	goblins,sacrifice,tokens,wide,manasink,u4.8,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Faithless Looting	dka	87	Not Owned	graveyard,spells,u2.63,u4.8,smoothing,reanimator,core	Non-foil	1	R	~~	~~	Sorcery
-Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Tomebound Lich	m20	219	Not Owned	zombies,wizards,graveyard,lifegain,aggrocontrol,blink,u4.8,smoothing,core,aggro,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
 Grateful Apparition	war	17	Not Owned	fliers,counters_payoff,counters,u4.9,core,aggro	Non-foil	2	W	~~	~~	Creature — Spirit
 Thought Courier	5dn	38	Not Owned	humans,wizards,graveyard,control,u4.9,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
@@ -97,7 +96,6 @@ Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Not Owned	core,lifegain,spells,burn,humans,aggro,control,aggrocontrol	Non-foil	2	W	White	~~	Creature — Human Monk
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
 Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
-Twilight Drover	rav	33	Not Owned	occasional	Non-foil	3	W	~~	~~	Creature — Spirit
 Thassa's Oracle	thb	73	Not Owned	core,wizards,control,blink	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
@@ -825,9 +823,7 @@ Volatile Claws	mh1	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Vengeance	eld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selective Snare	grn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wings of Velis Vel	lrw	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unclaimed Territory	xln	258	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Cavern of Souls	avr	226	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Secluded Courtyard	neo	275	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Zephyr Boots	stx	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adeliz, the Cinder Wind	dom	190	Not Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
@@ -957,7 +953,6 @@ Steady Progress	som	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicksand	cns	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plaxmanta	c15	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	zen	116	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier

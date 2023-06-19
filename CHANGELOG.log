@@ -8356,3 +8356,13 @@ Timestamp	Board	ChangeType	Name
 2023-06-18T11:06:21.025+00:00	maybeboard	add	Cheatyface
 2023-06-18T11:06:21.025+00:00	maybeboard	add	Aetherborn Marauder
 2023-06-18T11:06:21.025+00:00	maybeboard	add	Voracious Hatchling
+2023-06-19T21:29:54.346+00:00	mainboard	remove	Ancient Ziggurat
+2023-06-19T21:29:54.346+00:00	mainboard	remove	Secluded Courtyard
+2023-06-19T21:29:54.346+00:00	mainboard	remove	Unclaimed Territory
+2023-06-19T21:29:54.346+00:00	mainboard	remove	Twilight Drover
+2023-06-19T21:29:54.346+00:00	mainboard	remove	Fabled Passage
+2023-06-19T21:29:54.346+00:00	maybeboard	add	Secluded Courtyard
+2023-06-19T21:29:54.346+00:00	maybeboard	add	Unclaimed Territory
+2023-06-19T21:29:54.346+00:00	maybeboard	add	Fabled Passage
+2023-06-19T21:29:54.346+00:00	maybeboard	add	Ancient Ziggurat
+2023-06-19T21:29:54.346+00:00	maybeboard	add	Twilight Drover
