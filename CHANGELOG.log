@@ -8384,3 +8384,9 @@ Timestamp	Board	ChangeType	Name
 2023-06-20T07:02:14.344+00:00	maybeboard	add	High Sentinels of Arashin
 2023-06-20T07:02:14.344+00:00	maybeboard	add	Magus of the Disk
 2023-06-20T07:02:14.344+00:00	maybeboard	add	Star Pupil
+2023-06-20T22:23:33.854+00:00	mainboard	remove	Faithful Mending
+2023-06-20T22:23:33.854+00:00	mainboard	add	Lazotep Reaver
+2023-06-20T22:23:33.854+00:00	maybeboard	remove	Lazotep Reaver
+2023-06-20T22:23:33.854+00:00	maybeboard	remove	Unsettled Mariner
+2023-06-20T22:23:33.854+00:00	maybeboard	add	Faithful Mending
+2023-06-20T22:23:33.854+00:00	maybeboard	add	Spell Queller
