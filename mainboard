@@ -91,7 +91,6 @@ Galepowder Mage	ddi	12	Not Owned	occasional	Non-foil	4	W	~~	~~	Creature — Kith
 Griffin Guide	tsp	21	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Hour of Reckoning	c19	65	Not Owned	occasional	Non-foil	7	W	~~	~~	Sorcery
 Legion's Landing	xln	22	Not Owned	occasional	Non-foil	1	W	~~	~~	Creature
-Magus of the Disk	tsp	27	Not Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Not Owned	core,lifegain,spells,burn,humans,aggro,control,aggrocontrol	Non-foil	2	W	White	~~	Creature — Human Monk
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
@@ -1197,6 +1196,9 @@ Nest Invader	plst	PCA-69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Turn to Mist	uma	224	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Sinkhole	lea	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hopeful Initiate	vow	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clarion Spirit	khm	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chief of the Foundry	c18	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

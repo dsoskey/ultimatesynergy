@@ -178,7 +178,6 @@ Vigor Mortis	ddj	74	Not Owned	~~	Non-foil	4	B,G	~~	~~	Sorcery
 Regrowth	sum	214	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Den Protector	c16	147	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Human Warrior
 Golgari Findbroker	khc	86	Not Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Elf Shaman
-Tarmogoyf	mm2	165	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Ishkanah, Grafwidow	emn	162	Not Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature — Spider
 Nyx Weaver	jou	153	Not Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
 Firemind's Research	grn	171	Not Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
@@ -1315,7 +1314,6 @@ Ranger of Eos	ala	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Cocoon	5dn	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glimmerpost	som	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halimar Depths	wwk	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Umara Raptor	zen	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Leak	m11	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fleshbag Marauder	ala	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soaring Seacliff	zen	225	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1726,6 +1724,9 @@ Smallpox	tsp	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mistveil Plains	uma	247	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Wormfang Drake	jud	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harm's Way	ddg	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+High Sentinels of Arashin	jmp	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magus of the Disk	tsp	27	Not Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
+Star Pupil	stx	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
