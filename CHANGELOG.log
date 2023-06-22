@@ -8391,3 +8391,6 @@ Timestamp	Board	ChangeType	Name
 2023-06-20T22:23:33.854+00:00	maybeboard	add	Faithful Mending
 2023-06-20T22:23:33.854+00:00	maybeboard	add	Spell Queller
 2023-06-22T04:44:20.655+00:00	mainboard	add	Stormchaser Mage
+2023-06-22T04:46:14.648+00:00	mainboard	remove	Temple of Enlightenment
+2023-06-22T04:46:14.648+00:00	mainboard	add	Galerider Sliver
+2023-06-22T04:46:14.648+00:00	maybeboard	add	Temple of Enlightenment

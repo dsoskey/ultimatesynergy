@@ -546,7 +546,6 @@ Alchemist's Refuge	avr	225	Not Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Temple of Deceit	scd	324	Not Owned	~~	Non-foil	0	U,B	~~	~~	Land
 Mortuary Mire	clb	900	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Temple of Epiphany	m20	253	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Temple of Enlightenment	scd	325	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Soldevi Excavations	me2	236	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
@@ -1200,6 +1199,7 @@ Chief of the Foundry	c18	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lazotep Reaver	war	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Galerider Sliver	sld	619	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
