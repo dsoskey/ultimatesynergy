@@ -8394,3 +8394,9 @@ Timestamp	Board	ChangeType	Name
 2023-06-22T04:46:14.648+00:00	mainboard	remove	Temple of Enlightenment
 2023-06-22T04:46:14.648+00:00	mainboard	add	Galerider Sliver
 2023-06-22T04:46:14.648+00:00	maybeboard	add	Temple of Enlightenment
+2023-06-22T04:57:34.238+00:00	mainboard	remove	Temple of Epiphany
+2023-06-22T04:57:34.238+00:00	mainboard	remove	Temple of Deceit
+2023-06-22T04:57:34.238+00:00	mainboard	remove	Temple of Mystery
+2023-06-22T04:57:34.238+00:00	maybeboard	add	Temple of Epiphany
+2023-06-22T04:57:34.238+00:00	maybeboard	add	Temple of Deceit
+2023-06-22T04:57:34.238+00:00	maybeboard	add	Temple of Mystery
