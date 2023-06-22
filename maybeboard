@@ -490,7 +490,6 @@ Goblin Wardriver	ddt	50	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Gob
 Fire Servant	m11	137	Not Owned	~~	Non-foil	5	R	~~	~~	Creature — Elemental
 Resilient Khenra	hou	131	Not Owned	occasional	Non-foil	2	G	~~	~~	Creature — Jackal Wizard
 Verdant Force	dom	187	Not Owned	occasional	Non-foil	8	G	~~	~~	Creature — Elemental
-Unsettled Mariner	mh1	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orvar, the All-Form	khm	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Precursor Golem	som	194	Owned	occasional	Non-foil	5	~~	~~	~~	Artifact Creature — Golem
 Pentavus	mrd	226	Owned	core,ramp,control,manasink,fliers,tokens,counters,reanimator	Non-foil	7	~~	~~	~~	Artifact Creature — Construct
@@ -1158,7 +1157,6 @@ Sylvok Battle-Chair	one	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pelakka Wurm	roe	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireblast	vis	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torment of Venom	hou	79	Not Owned	~~	Non-foil	4	B	~~	~~	Instant
-Lazotep Reaver	war	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Undead Butler	vow	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sultai Emissary	frf	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ultimate Price	gk2	36	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
@@ -1727,6 +1725,8 @@ Harm's Way	ddg	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 High Sentinels of Arashin	jmp	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magus of the Disk	tsp	27	Not Owned	core,humans,wizards,wrath,artifact_removal,enchantment_removal,control,removal	Non-foil	4	W	~~	~~	Creature — Human Wizard
 Star Pupil	stx	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Faithful Mending	mid	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spell Queller	emn	189	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
