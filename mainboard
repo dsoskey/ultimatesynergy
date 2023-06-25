@@ -616,7 +616,7 @@ Cavalier of Flame	m20	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavalier of Gales	m20	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scrap Trawler	aer	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gingerbrute	jmp	466	Not Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Food Golem
-Hangarback Walker	ori	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hangarback Walker	ori	229	Not Owned	~~	~~	"""4"""	~~	~~	~~	~~
 Liberator, Urza's Battlethopter	bro	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Circuit Mender	neo	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breya's Apprentice	mh2	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1198,6 +1198,7 @@ Lazotep Reaver	war	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Galerider Sliver	sld	619	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Safehold Elite	uma	220	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Nekrataal	10e	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
