@@ -960,7 +960,6 @@ Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Covert Technician	neo	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Darksteel Mutation	c13	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
@@ -1199,8 +1198,34 @@ Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Galerider Sliver	sld	619	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Safehold Elite	uma	220	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nekrataal	10e	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcus Acolyte	mh2	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Atraxa's Skitterfang	one	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Alchemist's Gift	m21	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Beloved Princess	eld	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blacklance Paragon	eld	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sorin, Imperious Bloodlord	m20	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sanctify	vow	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Natural End	m20	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bond of Flourishing	war	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spike Feeder	cmd	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skyclave Cleric	znr	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vermin Gorger	mh2	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Golgari Brownscale	uma	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
+Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inspiring Overseer	snc	18	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Cleric
+Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voice of the Blessed	vow	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cliffhaven Vampire	ogw	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Twinblade Paladin	m20	285	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serene Steward	bfz	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sling-Gang Lieutenant	j22	469	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Distinguished Conjurer	j22	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Diamond Mare	m19	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
