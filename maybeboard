@@ -231,7 +231,7 @@ Inferno Titan	cm2	109	Not Owned	~~	Non-foil	6	R	~~	~~	Creature — Giant
 Sun Titan	ncc	210	Not Owned	~~	Non-foil	6	W	~~	~~	Creature — Giant
 Glorybringer	akh	134	Not Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Claim the Firstborn	eld	118	Not Owned	~~	Non-foil	1	R	~~	~~	Sorcery
-Approach of the Second Sun	sld	1035	Not Owned	~~	Non-foil	7	W	~~	~~	Sorcery
+Approach of the Second Sun	plst	AKH-4	Not Owned	~~	Non-foil	7	W	~~	~~	Sorcery
 Winds of Abandon	plst	MH1-37	Not Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Settle the Wreckage	xln	34	Not Owned	~~	Non-foil	4	W	~~	~~	Instant
 Unexpectedly Absent	cma	27	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
@@ -672,12 +672,10 @@ Seize the Day	ody	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Reclamation	j22	124	Not Owned	lifegain,manasink,graveyard,occasional	Non-foil	1	B	~~	~~	Enchantment
 Siphon Insight	mid	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Angelfire Ignition	mid	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Alchemy	isd	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Increasing Savagery	dka	120	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mass Diminish	c19	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Increasing Vengeance	dka	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Abiding Grace	mh2	1	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
 All That Glitters	eld	2	Not Owned	core,artifacts,heroic,aggro	Non-foil	2	W	~~	~~	Enchantment — Aura
 Planar Outburst	ncc	209	Not Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 The Mending of Dominaria	dom	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -986,7 +984,6 @@ Maelstrom Wanderer	pc2	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halvar, God of Battle	khm	15	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wicked Wolf	eld	181	Not Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Spider Umbra	roe	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Felidar Umbra	pc2	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Bombardment	tmp	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dismissive Pyromancer	m19	136	Not Owned	humans,wizards,graveyard,u4.8,smoothing,core,removal,manasink,aggro,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Mogg War Marshal	ema	139	Not Owned	goblins,blink,sacrifice,tokens,wide,stax,u2.0,core,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
@@ -1055,7 +1052,6 @@ Blinding Beam	mma	7	Owned	~~	Non-foil	3	W	~~	~~	Instant
 Take Heart	jmp	134	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 The Mirari Conjecture	dom	57	Not Owned	occasional	Non-foil	5	U	~~	~~	Enchantment — Saga
 Time of Ice	dom	70	Not Owned	tappers,tappers_payoff,aggrocontrol,u4.4,core,aggro,control	Non-foil	4	U	~~	~~	Enchantment — Saga
-Obscura Storefront	snc	252	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Naru Meha, Master Wizard	dom	59	Not Owned	core,wizards,humans,spells,flash,tribal_payoff	Non-foil	4	U	~~	~~	Legendary Creature — Human Wizard
 Sky Hussar	dis	131	Not Owned	core,fliers,humans,twin,aggro	Non-foil	5	W,U	~~	~~	Creature — Human Knight
 Cleric Class	afr	6	Not Owned	core,lifegain,lifegain_payoff,manasink	Non-foil	1	W	~~	~~	Enchantment — Class
@@ -1619,7 +1615,6 @@ Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hateflayer	eve	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fang Skulkin	eve	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Symbol Status	unh	114	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-GO TO JAIL	und	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rare-B-Gone	unh	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Land Aid '04	unh	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul of Theros	m15	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1731,7 +1726,6 @@ Blood Operative	grn	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boot Nipper	iko	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Butcher's Cleaver	ddq	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Butcher's Glee	dtk	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dawn of Hope	grn	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Danitha, New Benalia's Light	mat	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contraband Kingpin	kld	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ambitious Farmhand	mid	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1760,11 +1754,17 @@ Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Apprentice	stx	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karlov of the Ghost Council	c15	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhys the Exiled	khc	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Obelisk Spider	hou	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tymaret, Chosen from Death	thb	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gorging Vulture	m20	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soldier of the Pantheon	ths	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Six-Sided Die	unf	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kytheon, Hero of Akros	ori	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
+Skyclave Cleric	znr	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Riveteers Overlook	snc	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cabaretti Courtyard	snc	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Maestros Theater	snc	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vampiric Rites	2x2	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Game of Chaos	5ed	232	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

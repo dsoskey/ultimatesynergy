@@ -139,7 +139,6 @@ Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,elves,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
-Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
 Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
@@ -901,7 +900,6 @@ Butcher Ghoul	avr	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Command	stx	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Earl of Squirrel	ust	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blossoming Calm	mh2	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kytheon, Hero of Akros	ori	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawling Chorus	one	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Mouser	mh2	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silver Raven	afr	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1210,7 +1208,6 @@ Bond of Flourishing	war	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spike Feeder	cmd	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Skyclave Cleric	znr	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vermin Gorger	mh2	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golgari Brownscale	uma	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1226,7 +1223,13 @@ Sling-Gang Lieutenant	j22	469	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Distinguished Conjurer	j22	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diamond Mare	m19	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inventors' Fair	kld	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tymaret, Chosen from Death	thb	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abiding Grace	mh2	1	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
+Felidar Umbra	pc2	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+GO TO JAIL	und	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Psychomancer	40k	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
