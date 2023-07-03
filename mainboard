@@ -137,7 +137,7 @@ Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legen
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
-Boggart Ram-Gang	pd2	13	Not Owned	occasional	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
+Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
@@ -146,14 +146,14 @@ Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature �
 Izzet Charm	gk1	41	Not Owned	occasional	Non-foil	2	R,U	~~	~~	Instant
 Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
 Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
-Kitchen Finks	uma	216	Not Owned	occasional	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
+Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
 Lightning Helix	rav	213	Not Owned	core,lifegain,burn,spells,flash,removal,aggro,control	Non-foil	2	W,R	~~	~~	Instant
 Mirrorweave	cm2	162	Not Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Instant
 Momentary Blink	tsp	29	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
-Murderous Redcap	uma	217	Not Owned	occasional	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
+Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature — Specter
-Shadowmage Infiltrator	a25	217	Not Owned	occasional	Non-foil	3	B,U	~~	~~	Creature — Human Wizard
+Shadowmage Infiltrator	a25	217	Not Owned	occasional,evasion	Non-foil	3	B,U	~~	~~	Creature — Human Wizard
 Simic Charm	gtc	195	Not Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Snakeform	eve	161	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
@@ -530,7 +530,7 @@ Silverquill Pledgemage	stx	233	Not Owned	~~	Non-foil	3	W,B	Hybrid	~~	Creature �
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
 Gala Greeters	snc	148	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
-Gala Greeters	snc	148	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
+Gala Greeters	snc	148	Not Owned	lifegain,artifacts,ramp,counters,repeatable,heroic	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Bant Charm	c18	169	Not Owned	~~	Non-foil	3	G,U,W	~~	~~	Instant
 Obscura Charm	snc	208	Not Owned	~~	Non-foil	3	B,U,W	~~	~~	Instant
 Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-foil	2	W	~~	~~	Creature — Human Noble
@@ -563,7 +563,7 @@ Sure Strike	bfz	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snakeskin Veil	khm	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firespout	shm	205	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Dryad Militant	rtr	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Dryad Militant	rtr	214	Not Owned	graveyard_hate,aggro,aggrocontrol	~~	"""~~"""	~~	Hybrid	~~	~~
 Rishadan Port	a25	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	a25	164	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Centaur
 Aether Channeler	dmu	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -604,7 +604,7 @@ Kari Zev, Skyship Raider	plst	AER-87	Not Owned	~~	Non-foil	2	R	~~	~~	Legendary C
 Fae of Wishes	eld	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrummingbird	ncc	236	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Phyrexian Bird Horror
 Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cankerbloom	one	161	Not Owned	beats,artifact removal,enchantment removal,counters,poison,sacrifice	Non-foil	5	G	~~	~~	Creature — Elemental Knight
 Cavalier of Night	plst	M20-94	Not Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental Knight
 Cavalier of Dawn	m20	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavalier of Flame	m20	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -777,7 +777,7 @@ Rendclaw Trow	eve	127	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Noxious Hatchling	eve	124	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rustrazor Butcher	shm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Scuzzback Scrapper	shm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Scuzzback Scrapper	shm	217	Not Owned	counters,aggro,beats	~~	"""~~"""	~~	Hybrid	~~	~~
 Grim Initiate	war	130	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Zombie Warrior
 Fireblade Charger	znr	139	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
 Falkenrath Gorger	soi	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1012,7 +1012,7 @@ Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Nature's Chant	mh1	210	Not Owned	artifact_removal,enchantment_removal	Non-foil	3	W	Hybrid	~~	Creature — Human Cleric
 Changeling Berserker	lrw	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth's Smite	mom	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Aspirant	j22	501	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1030,7 +1030,6 @@ Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Sieve	2xm	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Diregraf Captain	ddq	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	pstx	248p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1215,7 +1214,7 @@ Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Distinguished Conjurer	j22	4	Not Owned	lifegain,repeatable,control	~~	"""~~"""	~~	~~	~~	~~
 Diamond Mare	m19	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inventors' Fair	kld	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kazandu Nectarpot	znr	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Nectarpot	znr	190	Not Owned	lands,lifegain,repeatable,ramp	~~	"""~~"""	~~	~~	~~	~~
 Abiding Grace	mh2	1	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
 Felidar Umbra	pc2	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 GO TO JAIL	und	6	Not Owned	aggro,removal	~~	"""~~"""	~~	~~	~~	~~
