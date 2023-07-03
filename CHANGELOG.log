@@ -8697,3 +8697,11 @@ Timestamp	Board	ChangeType	Name
 2023-07-02T18:16:46.334+00:00	maybeboard	edit	Viral Drake
 2023-07-02T18:16:46.334+00:00	maybeboard	add	You Hear Something on Watch
 2023-07-02T18:16:46.334+00:00	maybeboard	add	Wood Elves
+2023-07-03T07:50:39.805+00:00	mainboard	remove	Sea's Claim
+2023-07-03T07:50:39.805+00:00	mainboard	remove	Steady Progress
+2023-07-03T07:50:39.805+00:00	mainboard	remove	Liliana, Waker of the Dead
+2023-07-03T07:50:39.805+00:00	mainboard	remove	Bleeding Edge
+2023-07-03T07:50:39.805+00:00	maybeboard	add	Liliana, Waker of the Dead
+2023-07-03T07:50:39.805+00:00	maybeboard	add	Steady Progress
+2023-07-03T07:50:39.805+00:00	maybeboard	add	Sea's Claim
+2023-07-03T07:50:39.805+00:00	maybeboard	add	Bleeding Edge
