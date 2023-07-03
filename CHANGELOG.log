@@ -8717,3 +8717,7 @@ Timestamp	Board	ChangeType	Name
 2023-07-03T23:19:43.820+00:00	mainboard	edit	Cankerbloom
 2023-07-03T23:19:43.820+00:00	mainboard	remove	Diregraf Captain
 2023-07-03T23:19:43.820+00:00	maybeboard	add	Diregraf Captain
+2023-07-03T23:40:25.789+00:00	mainboard	remove	Heaven // Earth
+2023-07-03T23:40:25.789+00:00	mainboard	remove	Shadowmage Infiltrator
+2023-07-03T23:40:25.789+00:00	maybeboard	add	Shadowmage Infiltrator
+2023-07-03T23:40:25.789+00:00	maybeboard	add	Heaven // Earth

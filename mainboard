@@ -153,7 +153,6 @@ Momentary Blink	tsp	29	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature — Specter
-Shadowmage Infiltrator	a25	217	Not Owned	occasional,evasion	Non-foil	3	B,U	~~	~~	Creature — Human Wizard
 Simic Charm	gtc	195	Not Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Snakeform	eve	161	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
@@ -244,7 +243,6 @@ Simic Growth Chamber	c18	282	Not Owned	core,gold_land	Non-foil	0	G,U	~~	~~	Land
 Izzet Boilerworks	gk1	47	Owned	core,gold_land	Non-foil	0	R,U	~~	~~	Land
 Boros Garrison	ima	233	Owned	core,gold_land	Non-foil	0	R,W	~~	~~	Land
 Cursed Mirror	c21	50	Not Owned	occasional	Non-foil	3	R	~~	~~	Artifact
-Heaven // Earth	akh	224	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Instant
 Grazilaxx, Illithid Scholar	afr	60	Not Owned	aggrocontrol,blink,fliers,core,aggro	Non-foil	3	U	~~	~~	Legendary Creature — Horror
 Shambling Ghast	afr	119	Not Owned	artifacts,removal,sacrifice,zombies,core,ramp,control	Non-foil	1	B	~~	~~	Creature — Zombie
 Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
