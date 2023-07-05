@@ -8747,3 +8747,7 @@ Timestamp	Board	ChangeType	Name
 2023-07-04T18:00:03.207+00:00	mainboard	edit	Emeria Angel
 2023-07-04T18:00:03.207+00:00	mainboard	edit	Scurry Oak
 2023-07-04T18:00:03.207+00:00	mainboard	remove	Gala Greeters
+2023-07-05T16:10:28.019+00:00	mainboard	remove	Diregraf Captain
+2023-07-05T16:10:28.019+00:00	mainboard	remove	Emiel the Blessed
+2023-07-05T16:10:28.019+00:00	maybeboard	add	Emiel the Blessed
+2023-07-05T16:10:28.019+00:00	maybeboard	add	Diregraf Captain
