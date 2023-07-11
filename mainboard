@@ -25,8 +25,8 @@ Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
 Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Bird
-Braids, Cabal Minion	ody	117	Not Owned	stax,tokens,sacrifice,core,artifacts	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
-Skinrender	som	78	Owned	zombies,counters,blink,aggrocontrol,u2.0,u4.5,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
+Braids, Cabal Minion	ody	117	Not Owned	tokens,sacrifice,core,artifacts,control	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
+Skinrender	som	78	Owned	zombies,counters,blink,aggrocontrol,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
 Tragic Slip	dka	76	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
 Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,u3.9,u4.7,occasional	Non-foil	4	B	~~	~~	Sorcery
@@ -46,7 +46,7 @@ Birds of Paradise	plst	CN2-176	Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothi
 Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
 Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
-Ohran Viper	csp	115	Not Owned	tappers,tappers_payoff,aggrocontrol,u2.84,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
+Ohran Viper	csp	115	Not Owned	tappers,aggrocontrol,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
 Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_removal,u4.6,core,aggro,control	Non-foil	3	G	~~	~~	Creature — Dinosaur
 Briarhorn	lrw	199	Not Owned	flash,heroic,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	4	G	~~	~~	Creature — Elemental
 Vines of Vastwood	zen	193	Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
@@ -354,7 +354,7 @@ Arbor Elf	a25	160	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Wild Growth	afc	174	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
 Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
-Incubation Druid	rna	131	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
+Incubation Druid	rna	131	Not Owned	ramp,counters	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Boneyard Wurm	uma	159	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Wurm
 Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Lovestruck Beast	eld	165	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Beast Noble
@@ -564,7 +564,7 @@ Rishadan Port	a25	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	a25	164	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Centaur
 Aether Channeler	dmu	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Experiment One	gtc	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Experiment One	gtc	119	Not Owned	counters,aggro,aggrocontrol,durable	~~	"""~~"""	~~	~~	~~	~~
 Bala Ged Recovery	znr	180	Not Owned	~~	Non-foil	3	G	~~	~~	Sorcery
 Brokers Ascendancy	snc	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Conclave Mentor	2x2	195	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Centaur Cleric
@@ -774,7 +774,7 @@ Rustrazor Butcher	shm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scuzzback Scrapper	shm	217	Not Owned	counters,aggro,beats	~~	"""~~"""	~~	Hybrid	~~	~~
 Grim Initiate	war	130	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Zombie Warrior
 Fireblade Charger	znr	139	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin Warrior
-Falkenrath Gorger	soi	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Falkenrath Gorger	soi	155	Not Owned	tribal,aggro,discard,graveyard	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Giant Cindermaw	bro	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -912,7 +912,7 @@ Sylvan Ranger	m11	198	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Recruit	rav	243	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Fowl Play	ugl	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesa Chicken	ugl	9	Owned	fliers,aggro,heroic,aggrocontrol,core	~~	"""~~"""	~~	~~	~~	~~
-Ravenous Rats	gvl	37	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ravenous Rats	gvl	37	Owned	discard,control,blink	~~	"""~~"""	~~	~~	~~	~~
 Plague Myr	mbs	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tel-Jilad Defiance	som	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1032,7 +1032,7 @@ More or Less	ust	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skullcrack	gtc	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul of Zendikar	m15	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul of Shandalar	m15	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Clay Revenant	bro	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clay Revenant	bro	118	Not Owned	artifacts,repeatable,durable,graveyard_hate,flash,sacrifice	~~	"""~~"""	~~	~~	~~	~~
 Descendants' Path	avr	173	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Frost Titan	m11	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
