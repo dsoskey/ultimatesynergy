@@ -8760,3 +8760,9 @@ Timestamp	Board	ChangeType	Name
 2023-07-07T23:43:19.673+00:00	mainboard	edit	Ohran Viper
 2023-07-07T23:43:19.673+00:00	mainboard	edit	Skinrender
 2023-07-11T17:52:06.038+00:00	maybeboard	add	Realm Seekers
+2023-07-11T20:54:28.069+00:00	mainboard	remove	Covert Technician
+2023-07-11T20:54:28.069+00:00	mainboard	remove	Henrika Domnathi
+2023-07-11T20:54:28.069+00:00	mainboard	remove	Cloudsteel Kirin
+2023-07-11T20:54:28.069+00:00	maybeboard	add	Henrika Domnathi
+2023-07-11T20:54:28.069+00:00	maybeboard	add	Covert Technician
+2023-07-11T20:54:28.069+00:00	maybeboard	add	Cloudsteel Kirin
