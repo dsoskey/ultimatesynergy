@@ -295,7 +295,6 @@ Encroaching Wastes	m14	227	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Fissure Vent	roe	144	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Geomancer's Gambit	mh1	125	Not Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Molten Rain	mm3	103	Not Owned	~~	Non-foil	3	R	~~	~~	Sorcery
-Fulminator Mage	uma	215	Not Owned	~~	Non-foil	3	B,R	Hybrid	~~	Creature — Elemental Shaman
 Goblin Ruinblaster	zen	127	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Lava Blister	ody	200	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Rain of Thorns	c13	163	Not Owned	~~	Non-foil	6	G	~~	~~	Sorcery
@@ -645,7 +644,6 @@ Fetid Heath	ncc	401	Not Owned	~~	Non-foil	0	W,B	~~	~~	Land
 Cascade Bluffs	a25	237	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Rugged Prairie	2xm	325	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Crystal Grotto	dmu	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hall of Oracles	stx	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guildmages' Forum	grn	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cabal Coffers	tor	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oona's Gatewarden	shm	173	Not Owned	~~	Non-foil	1	U,B	Hybrid	~~	Creature — Faerie Soldier
@@ -1478,7 +1476,6 @@ Shatterskull Smashing	znr	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Primordial Mist	c18	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	mh2	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sundering Growth	c19	203	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Steel of the Godhead	shm	150	Not Owned	~~	~~	"""~~"""	~~	Multicolored	~~	~~
 Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shielding Plax	uma	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1496,11 +1493,8 @@ Clout of the Dominus	eve	99	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dramatic Finale	pstx	180p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evelyn, the Covetous	psnc	184p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pit Fight	gk2	93	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Samut, Tyrant Smasher	war	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Everlasting Torment	c16	233	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Bioshift	gtc	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Batwing Brume	eve	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Double Cleave	uma	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Boartusk Liege	2x2	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1509,8 +1503,6 @@ Thistledown Liege	2x2	285	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Status // Statue	grn	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fracturing Gust	shm	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pest Summoning	stx	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Mercy Killing	shm	231	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Cryptborn Horror	rtr	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kaya, Bane of the Dead	war	231	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Gilder Bairn	eve	152	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Torrent of Souls	mm3	213	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1519,23 +1511,14 @@ Oakhame Ranger	eld	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Call the Skybreaker	ncc	333	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Selesnya Guildmage	2xm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scourge of the Nobilis	eve	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Make Your Mark	stx	204	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Safehold Elite	uma	220	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Augury Adept	shm	137	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Witherbloom Pledgemage	stx	249	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Seedcradle Witch	shm	241	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cemetery Puca	shm	158	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cryptic Command	ima	48	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
 Deathless Knight	eld	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moonhold	eve	143	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Scar	shm	194	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flame Javelin	jvc	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worldpurge	shm	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Slitherhead	rtr	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Arrows of Justice	gtc	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Crystallization	arb	144	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Jund Hackblade	arb	138	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Lorehold Pledgemage	stx	201	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rhys the Redeemed	2xm	213	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Loch Dragon	eld	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Sarkhan Vol	ala	191	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1543,7 +1526,6 @@ Sarkhan the Mad	roe	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Toxicrene	40k	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beast Attack	ddd	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fists of the Demigod	shm	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Duergar Hedge-Mage	cma	200	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rubblebelt Raiders	dds	57	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ghostly Pilferer	m21	52	Not Owned	core,graveyard,aggrocontrol,rogues,tappers,manasink,aggro	Non-foil	2	U	~~	~~	Creature — Spirit Rogue
 Daring Saboteur	xln	49	Not Owned	core,aggrocontrol,graveyard,manasink,tappers,aggro	Non-foil	2	U	~~	~~	Creature — Human Pirate
@@ -1746,7 +1728,6 @@ Restless Bloodseeker	vow	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Spawn	afr	123	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inquisitor Exarch	nph	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ayara, First of Locthwain	eld	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Apprentice	stx	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karlov of the Ghost Council	c15	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhys the Exiled	khc	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1789,4 +1770,8 @@ Cloudsteel Kirin	neo	8	Not Owned	heroic,fliers,control,artifacts,aggrocontrol,ag
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	2x2	228	Not Owned	~~	Non-foil	"""4"""	G,U	~~	~~	Creature — Jellyfish Hydra Beast
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Greenwheel Liberator	aer	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skyrider Elf	bfz	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wayfaring Temple	c19	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hero of Precinct One	rna	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
