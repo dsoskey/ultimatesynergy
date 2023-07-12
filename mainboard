@@ -476,7 +476,7 @@ Castle Garenbrig	eld	240	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Radha, Heart of Keld	m21	224	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
 Tezzeret's Gambit	cm2	51	Not Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
-Dryad Arbor	fut	174	Not Owned	~~	Non-foil	0	G	~~	~~	Land Creature — Forest Dryad
+Dryad Arbor	fut	174	Not Owned	~~	Non-foil	0	G	Green	~~	Land Creature — Forest Dryad
 Luminarch Aspirant	ncc	205	Not Owned	aggrocontrol,aggro,counters,repeatable	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	ori	166	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Assassin's Trophy	2x2	175	Not Owned	~~	Non-foil	2	B,G	~~	~~	Instant
@@ -523,7 +523,6 @@ Opt	sld	111	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Malicious Affliction	ema	96	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Murderous Rider	eld	97	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
-Hydroid Krasis	2x2	228	Not Owned	~~	Non-foil	"""4"""	G,U	~~	~~	Creature — Jellyfish Hydra Beast
 Silverquill Pledgemage	stx	233	Not Owned	~~	Non-foil	3	W,B	Hybrid	~~	Creature — Vampire Cleric
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
@@ -733,7 +732,6 @@ Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Indulgent Aristocrat	soi	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ordeal of Erebos	ths	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Squirrel	mh2	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pollenbright Druid	war	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1216,6 +1214,9 @@ Saiba Cryptomancer	mom	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dualcaster Mage	2xm	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger-Captain of Eos	mh1	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contentious Plan	war	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Werewolf Pack Leader	afr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Academy Rector	uds	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
