@@ -249,7 +249,7 @@ Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggr
 Syr Konrad, the Grim	znc	56	Not Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Not Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
-Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control	Non-foil	6	R	~~	~~	Sorcery
+Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control,graveyard_hate	Non-foil	6	R	~~	~~	Sorcery
 Cave of the Frost Dragon	afr	253	Not Owned	core,manasink,fliers	Non-foil	0	W	White	~~	Land
 Hall of Storm Giants	afr	257	Not Owned	core,manasink	Non-foil	0	U	Blue	~~	Land
 Hive of the Eye Tyrant	afr	258	Not Owned	core,manasink	Non-foil	0	B	Black	~~	Land
@@ -1217,6 +1217,30 @@ Contentious Plan	war	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Werewolf Pack Leader	afr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Rector	uds	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Esper Stormblade	arb	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jund Hackblade	arb	138	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Bant Sureblade	arb	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Curse of Chains	shm	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystallization	arb	144	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Bioshift	gtc	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Lorehold Pledgemage	stx	201	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Duergar Hedge-Mage	cma	200	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Arrows of Justice	gtc	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Make Your Mark	stx	204	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Slitherhead	rtr	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Mercy Killing	shm	231	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Sundering Growth	c19	203	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Pit Fight	gk2	93	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Fulminator Mage	uma	215	Not Owned	~~	Non-foil	3	B,R	Hybrid	~~	Creature — Elemental Shaman
+Cryptborn Horror	rtr	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Scar	shm	194	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Augury Adept	shm	137	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
