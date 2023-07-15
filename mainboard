@@ -29,7 +29,7 @@ Braids, Cabal Minion	ody	117	Not Owned	tokens,sacrifice,core,artifacts,control	N
 Skinrender	som	78	Owned	zombies,counters,blink,aggrocontrol,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
 Tragic Slip	dka	76	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
-Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,u3.9,u4.7,occasional	Non-foil	4	B	~~	~~	Sorcery
+Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Lavamancer	m12	145	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	som	104	Owned	heroic,manasink,flash,wide,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
 Dark-Dweller Oracle	m19	134	Not Owned	sacrifice,tokens,burn,smoothing,core,aggro	Non-foil	2	R	~~	~~	Creature — Goblin Shaman
@@ -1240,6 +1240,8 @@ Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Augury Adept	shm	137	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bastion of Remembrance	iko	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Meathook Massacre	mid	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
