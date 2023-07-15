@@ -1207,7 +1207,7 @@ Felidar Umbra	pc2	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 GO TO JAIL	und	6	Not Owned	aggro,removal	~~	"""~~"""	~~	~~	~~	~~
 Psychomancer	40k	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filter Out	mat	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Castle Ardenvale	eld	238	Not Owned	core,tokens,wide,manasink,control,humans	Non-foil	0	W	~~	~~	Land
+Castle Ardenvale	eld	238	Not Owned	core,tokens,wide,manasink,control,humans	Non-foil	0	W	White	~~	Land
 Wharf Infiltrator	emn	80	Not Owned	occasional	Non-foil	2	U	~~	~~	Creature — Human Horror
 Diffusion Sliver	m15	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Saiba Cryptomancer	mom	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1219,11 +1219,11 @@ Werewolf Pack Leader	afr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Rector	uds	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Esper Stormblade	arb	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Esper Stormblade	arb	132	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Jund Hackblade	arb	138	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Bant Sureblade	arb	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Curse of Chains	shm	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bant Sureblade	arb	143	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Curse of Chains	shm	139	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Crystallization	arb	144	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Bioshift	gtc	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Lorehold Pledgemage	stx	201	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1234,12 +1234,11 @@ Slitherhead	rtr	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Mercy Killing	shm	231	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Sundering Growth	c19	203	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pit Fight	gk2	93	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Fulminator Mage	uma	215	Not Owned	~~	Non-foil	3	B,R	Hybrid	~~	Creature — Elemental Shaman
 Cryptborn Horror	rtr	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scar	shm	194	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Augury Adept	shm	137	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
