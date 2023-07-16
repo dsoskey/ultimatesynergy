@@ -22,7 +22,7 @@ Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
 Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,core,aggro,sacrifice	Non-foil	2	U,G	Multicolored	~~	Enchantment
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol	Non-foil	1	B	~~	~~	Creature — Human Warrior
-Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,u2.0,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
+Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
 Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Bird
 Braids, Cabal Minion	ody	117	Not Owned	tokens,sacrifice,core,artifacts,control	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
@@ -1241,6 +1241,11 @@ Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Meathook Massacre	mid	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Boros Guildmage	cma	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aethertow	mm3	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Balefire Liege	2x2	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blistercoil Weird	rtr	211	Not Owned	~~	Non-foil	1	R,U	Hybrid	~~	Creature — Weird
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
