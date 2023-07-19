@@ -8850,3 +8850,69 @@ Timestamp	Board	ChangeType	Name
 2023-07-16T22:01:27.878+00:00	maybeboard	add	Crackleburr
 2023-07-17T09:45:40.031+00:00	mainboard	remove	Coalition Construct
 2023-07-17T09:45:40.031+00:00	maybeboard	add	Coalition Construct
+2023-07-19T21:53:01.823+00:00	mainboard	edit	Grateful Apparition
+2023-07-19T21:53:01.823+00:00	mainboard	edit	Doomskar Oracle
+2023-07-19T21:53:01.823+00:00	mainboard	remove	Shining Shoal
+2023-07-19T21:53:01.823+00:00	mainboard	remove	Knighted Myr
+2023-07-19T21:53:01.823+00:00	mainboard	remove	Felidar Sovereign
+2023-07-19T21:53:01.823+00:00	mainboard	add	Stone Haven Pilgrim
+2023-07-19T21:53:01.823+00:00	mainboard	add	Thalia's Geistcaller
+2023-07-19T21:53:01.823+00:00	mainboard	add	Siege Veteran
+2023-07-19T21:53:01.823+00:00	mainboard	add	Nils, Discipline Enforcer
+2023-07-19T21:53:01.823+00:00	mainboard	add	Archon of Sun's Grace
+2023-07-19T21:53:01.823+00:00	mainboard	add	Elspeth, Sun's Nemesis
+2023-07-19T21:53:01.823+00:00	mainboard	add	Archangel of Thune
+2023-07-19T21:53:01.823+00:00	mainboard	add	Harm's Way
+2023-07-19T21:53:01.823+00:00	mainboard	add	Seal Away
+2023-07-19T21:53:01.823+00:00	mainboard	add	Humility
+2023-07-19T21:53:01.823+00:00	mainboard	add	Sai, Master Thopterist
+2023-07-19T21:53:01.823+00:00	mainboard	add	Arcane Savant
+2023-07-19T21:53:01.823+00:00	mainboard	add	Supreme Will
+2023-07-19T21:53:01.823+00:00	mainboard	add	Pack Rat
+2023-07-19T21:53:01.823+00:00	mainboard	add	Lava Dart
+2023-07-19T21:53:01.823+00:00	mainboard	add	Stonecoil Serpent
+2023-07-19T21:53:01.823+00:00	mainboard	add	Meteor Golem
+2023-07-19T21:53:01.823+00:00	mainboard	add	Adorned Pouncer
+2023-07-19T21:53:01.823+00:00	mainboard	add	Flourishing Strike
+2023-07-19T21:53:01.823+00:00	mainboard	add	Cast into the Fire
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Harm's Way
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Inniaz, the Gale Force
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Archangel of Thune
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Supreme Will
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Nils, Discipline Enforcer
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Siege Veteran
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Lava Dart
+2023-07-19T21:53:01.823+00:00	maybeboard	remove	Thalia's Geistcaller
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Spirit of the Hearth
+2023-07-19T21:53:01.823+00:00	maybeboard	add	World Queller
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Gilded Drake
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Wavebreak Hippocamp
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Everdream
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Commit // Memory
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Sphinx's Tutelage
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Knighted Myr
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Shining Shoal
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Felidar Sovereign
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Frogkin Kidnapper
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Brain Maggot
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Haunted Dead
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Hagra Mauling
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Black Sun's Zenith
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Glint-Horn Buccaneer
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Countryside Crusher
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Stoke the Flames
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Wrangle
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Problematic Volcano
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Hermit Druid
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Yavimaya Elder
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Boon Satyr
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Seal of Primordium
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Lignify
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Forbidden Alchemy
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Lutri, the Spellchaser
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Bruse Tarl, Boorish Herder
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Spare Supplies
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Mimic Vat
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Reflecting Pool
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Mana Tithe
+2023-07-19T21:53:01.823+00:00	maybeboard	add	Taranika, Akroan Veteran
