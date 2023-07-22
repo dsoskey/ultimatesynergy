@@ -8916,3 +8916,79 @@ Timestamp	Board	ChangeType	Name
 2023-07-19T21:53:01.823+00:00	maybeboard	add	Reflecting Pool
 2023-07-19T21:53:01.823+00:00	maybeboard	add	Mana Tithe
 2023-07-19T21:53:01.823+00:00	maybeboard	add	Taranika, Akroan Veteran
+2023-07-22T03:45:44.534+00:00	mainboard	edit	Boros Guildmage
+2023-07-22T03:45:44.534+00:00	mainboard	edit	Alert Heedbonder
+2023-07-22T03:45:44.534+00:00	mainboard	edit	Aethertow
+2023-07-22T03:45:44.534+00:00	mainboard	edit	Hurricane
+2023-07-22T03:45:44.534+00:00	mainboard	edit	Evolutionary Leap
+2023-07-22T03:45:44.534+00:00	mainboard	remove	Watcher of the Spheres
+2023-07-22T03:45:44.534+00:00	mainboard	remove	Empyrean Eagle
+2023-07-22T03:45:44.534+00:00	mainboard	remove	Ruthless Sniper
+2023-07-22T03:45:44.534+00:00	mainboard	remove	Ferropede
+2023-07-22T03:45:44.534+00:00	mainboard	add	Blinkmoth Nexus
+2023-07-22T03:45:44.534+00:00	mainboard	add	Filigree Familiar
+2023-07-22T03:45:44.534+00:00	mainboard	add	Graceful Restoration
+2023-07-22T03:45:44.534+00:00	mainboard	add	Chrome Courier
+2023-07-22T03:45:44.534+00:00	mainboard	add	Raff Capashen, Ship's Mage
+2023-07-22T03:45:44.534+00:00	mainboard	add	Burning-Tree Emissary
+2023-07-22T03:45:44.534+00:00	mainboard	add	Warrant // Warden
+2023-07-22T03:45:44.534+00:00	mainboard	add	Depose // Deploy
+2023-07-22T03:45:44.534+00:00	mainboard	add	Discovery // Dispersal
+2023-07-22T03:45:44.534+00:00	mainboard	add	Tor Wauki the Younger
+2023-07-22T03:45:44.534+00:00	mainboard	add	Hurl Through Hell
+2023-07-22T03:45:44.534+00:00	mainboard	add	Winding Way
+2023-07-22T03:45:44.534+00:00	mainboard	add	Fungal Rebirth
+2023-07-22T03:45:44.534+00:00	mainboard	add	Embodiment of Agonies
+2023-07-22T03:45:44.534+00:00	mainboard	add	Embodiment of Fury
+2023-07-22T03:45:44.534+00:00	mainboard	add	Embodiment of Insight
+2023-07-22T03:45:44.534+00:00	mainboard	add	Foundation Breaker
+2023-07-22T03:45:44.534+00:00	mainboard	add	Cut Down
+2023-07-22T03:45:44.534+00:00	mainboard	add	Fungal Infection
+2023-07-22T03:45:44.534+00:00	mainboard	add	Graveshifter
+2023-07-22T03:45:44.534+00:00	mainboard	add	Legion Vanguard
+2023-07-22T03:45:44.534+00:00	mainboard	add	Nested Shambler
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Diregraf Captain
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Discovery // Dispersal
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Filigree Familiar
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Castle Locthwain
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Tor Wauki the Younger
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Forbidden Alchemy
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Hurl Through Hell
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Bone Shards
+2023-07-22T03:45:44.534+00:00	maybeboard	remove	Graveshifter
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Oketra's Monument
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Pilgrim's Eye
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Anax and Cymede
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Poison-Tip Archer
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Slimefoot, the Stowaway
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Corpse Knight
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Prepare // Fight
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Hackrobat
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Blazing Specter
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Sphinx Summoner
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Soul Diviner
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Thrash // Threat
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Band Together
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Ferropede
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Nishoba Brawler
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Urban Daggertooth
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Bannerhide Krushok
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Kari Zev's Expertise
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Light 'Em Up
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Borrowed Hostility
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Goblin Wizardry
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Merchant of the Vale
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Ahn-Crop Crasher
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Rix Maadi Reveler
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Phyrexian Tower
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Liliana's Devotee
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Siege Zombie
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Mnemonic Sphere
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Scour All Possibilities
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Rain of Revelation
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Quicken
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Ruthless Sniper
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Wingmate Roc
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Tamiyo, Collector of Tales
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Empyrean Eagle
+2023-07-22T03:45:44.534+00:00	maybeboard	add	Watcher of the Spheres
