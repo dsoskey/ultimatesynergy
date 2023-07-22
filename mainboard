@@ -102,7 +102,6 @@ Remand	rav	63	Not Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	N
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Not Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
-Blackmail	9ed	115★	Not Owned	core,aggrocontrol,spells,aggro	Non-foil	1	B	~~	~~	Sorcery
 Cemetery Reaper	mic	108	Not Owned	core,zombies,graveyard,tokens	Non-foil	3	B	~~	~~	Creature — Zombie
 Dark Ritual	hop	24	Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Dismember	mm2	79	Not Owned	occasional	Non-foil	3	B	Colorless	~~	Instant
@@ -539,7 +538,6 @@ Beast Within	clb	820	Not Owned	~~	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
 Morophon, the Boundless	mh1	1	Not Owned	~~	Non-foil	7	B,G,R,U,W	Colorless	~~	Legendary Creature — Shapeshifter
 Taurean Mauler	arc	49	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
-Call to the Netherworld	c19	108	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Rotting Rats	con	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindshrieker	isd	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -581,7 +579,6 @@ Biophagus	40k	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mawloc	40k	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jinnie Fay, Jetmir's Second	snc	195	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kykar, Wind's Fury	m20	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hinata, Dawn-Crowned	neo	222	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urborg Lhurgoyf	dmu	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Arcbound Shikari	mh2	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	clb	877	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1276,10 +1273,12 @@ Embodiment of Fury	ogw	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embodiment of Insight	ogw	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundation Breaker	mh2	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cut Down	dmu	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fungal Infection	dom	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fungal Infection	dom	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	Creature
 Graveshifter	mh1	94	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
 Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nested Shambler	mh2	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cleric Class	afr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
