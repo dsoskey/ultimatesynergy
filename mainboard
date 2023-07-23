@@ -313,7 +313,6 @@ Subtle Strike	znr	128	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Cumber Stone	con	24	Not Owned	~~	Non-foil	4	U	~~	~~	Artifact
 Riptide Laboratory	mh2	303	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
 Masked Vandal	khm	184	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
-Orim's Thunder	c15	78	Not Owned	~~	Non-foil	3	R,W	~~	~~	Instant
 Incremental Blight	arc	17	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
 Khalni Garden	c18	262	Owned	~~	Non-foil	0	G	Green	~~	Land
 Kulrath Knight	shm	190	Not Owned	~~	Non-foil	5	B,R	Hybrid	~~	Creature — Elemental Knight
@@ -324,7 +323,6 @@ Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Llanowar Reborn	c21	296	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 Spontaneous Mutation	cmr	100	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
-Searing Meditation	rav	226	Not Owned	~~	Non-foil	3	R,W	~~	~~	Enchantment
 Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Memorial to Unity	dom	245	Not Owned	~~	Non-foil	0	G	Green	~~	Land
@@ -919,7 +917,6 @@ Suffer the Past	roe	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicksand	cns	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Plaxmanta	c15	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	5dn	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	zen	116	Owned	~~	Non-foil	3	B	~~	~~	Creature — Vampire Shaman
 Kor Skyfisher	zen	23	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creature — Kor Soldier
@@ -1021,7 +1018,7 @@ Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Frost Titan	m11	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cradle of Vitality	ala	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Elves of Deep Shadow	gk1	56	Not Owned	occasional	Non-foil	1	B,G	~~	~~	Creature — Elf Druid
+Elves of Deep Shadow	gk1	56	Not Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Changeling Titan	lrw	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Striking Sliver	sld	644	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voldaren Epicure	vow	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

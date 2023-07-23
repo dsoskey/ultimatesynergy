@@ -9004,3 +9004,10 @@ Timestamp	Board	ChangeType	Name
 2023-07-22T21:06:42.931+00:00	maybeboard	add	Veinwitch Coven
 2023-07-22T21:06:42.931+00:00	maybeboard	add	Dawn of Hope
 2023-07-22T21:06:42.931+00:00	maybeboard	add	Kaseto, Orochi Archmage
+2023-07-23T19:08:06.053+00:00	mainboard	edit	Elves of Deep Shadow
+2023-07-23T19:08:06.053+00:00	mainboard	remove	Plaxmanta
+2023-07-23T19:08:06.053+00:00	mainboard	remove	Searing Meditation
+2023-07-23T19:08:06.053+00:00	mainboard	remove	Orim's Thunder
+2023-07-23T19:08:06.053+00:00	maybeboard	add	Plaxmanta
+2023-07-23T19:08:06.053+00:00	maybeboard	add	Searing Meditation
+2023-07-23T19:08:06.053+00:00	maybeboard	add	Orim's Thunder
