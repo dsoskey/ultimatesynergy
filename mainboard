@@ -59,7 +59,6 @@ Pacification Array	aer	168	Not Owned	artifacts,manasink,tappers,u2.92,core,remov
 Stoneforge Masterwork	ogw	166	Not Owned	tribal,tokens,tribal_payoff,heroic,u4.4,core,artifacts	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Sylvok Lifestaff	som	209	Owned	artifacts,sacrifice,lifegain,heroic,u2.60,core,aggro,control	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Contagion Clasp	som	144	Owned	counters,artifacts,counters_payoff,u2.60,u3.9,removal,core	Non-foil	2	~~	~~	~~	Artifact
-Cranial Plating	mm2	206	Not Owned	artifacts,artifacts_payoff,aggrocontrol,heroic,u2.63,core,aggro	Non-foil	2	B	Black	~~	Artifact — Equipment
 Oblivion Stone	mrd	222	Not Owned	manasink,control,artifacts,artifact_removal,enchantment_removal,u2.0,removal,core,wrath	Non-foil	3	~~	~~	~~	Artifact
 Pristine Talisman	c13	255	Not Owned	artifacts,lifegain,u2.0,u2.74,u3.2,core,control	Non-foil	3	~~	~~	~~	Artifact
 Bomat Courier	kld	199	Not Owned	artifacts,burn,aggrocontrol,u4.7.6,core,manasink,graveyard,aggro	Non-foil	1	R	Red	~~	Artifact Creature — Construct
@@ -97,7 +96,6 @@ Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
-Psionic Blast	tsb	30	Not Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Remand	rav	63	Not Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
@@ -141,7 +139,6 @@ Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapesh
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
-Izzet Charm	gk1	41	Not Owned	occasional	Non-foil	2	R,U	~~	~~	Instant
 Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
 Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
 Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
@@ -151,7 +148,6 @@ Momentary Blink	tsp	29	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature — Specter
-Simic Charm	gtc	195	Not Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Snakeform	eve	161	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Tymaret, the Murder King	ths	207	Not Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
@@ -1257,7 +1253,7 @@ Filigree Familiar	plst	GNT-52	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature —
 Graceful Restoration	mh2	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Courier	mh2	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raff Capashen, Ship's Mage	dom	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Warrant // Warden	rna	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Discovery // Dispersal	grn	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1275,7 +1271,6 @@ Graveshifter	mh1	94	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
 Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nested Shambler	mh2	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cleric Class	afr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
