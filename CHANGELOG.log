@@ -9021,3 +9021,10 @@ Timestamp	Board	ChangeType	Name
 2023-07-24T20:00:16.278+00:00	maybeboard	add	Simic Charm
 2023-07-24T20:00:16.278+00:00	maybeboard	add	Psionic Blast
 2023-07-24T20:00:16.278+00:00	maybeboard	add	Cranial Plating
+2023-07-25T09:24:41.939+00:00	mainboard	edit	Warrant // Warden
+2023-07-25T09:24:41.939+00:00	mainboard	edit	Depose // Deploy
+2023-07-25T09:24:41.939+00:00	mainboard	edit	Collision // Colossus
+2023-07-25T09:24:41.939+00:00	mainboard	edit	Discovery // Dispersal
+2023-07-25T09:24:41.939+00:00	mainboard	edit	Incubation // Incongruity
+2023-07-25T09:24:41.939+00:00	mainboard	add	Winds of Rath
+2023-07-25T09:24:41.939+00:00	maybeboard	remove	Winds of Rath

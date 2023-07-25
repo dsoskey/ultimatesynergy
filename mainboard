@@ -201,7 +201,7 @@ Geralf's Mindcrusher	dka	37	Not Owned	ramp,mill,control,zombies,core,blink	Non-f
 Frost Trickster	stx	43	Not Owned	fliers,tappers,core,blink,aggrocontrol,aggro	Non-foil	3	U	~~	~~	Creature — Bird Wizard
 Damnation	sld	121	Not Owned	wrath,control,core,spells,removal	Non-foil	4	B	~~	~~	Sorcery
 Scourge of Skola Vale	bng	137	Not Owned	counters,sacrifice,core	Non-foil	3	G	~~	~~	Creature — Hydra
-Collision // Colossus	rna	223	Not Owned	removal,spells,flash,core,aggro	Non-foil	2	R,G	Multicolored	~~	Instant
+Collision // Colossus	rna	223	Not Owned	removal,spells,flash,core,aggro	Non-foil	2	R,G	Hybrid	~~	Instant
 Elite Spellbinder	stx	17	Not Owned	aggrocontrol,fliers,aggro,blink,occasional	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Supernatural Stamina	akh	111	Not Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Mutilate	gvl	55	Owned	occasional	Non-foil	4	B	~~	~~	Sorcery
@@ -357,7 +357,7 @@ Signal Pest	mbs	131	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Pest
 Endless One	bfz	8	Not Owned	~~	Non-foil	0	~~	~~	~~	Creature — Eldrazi
 Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mind Stone	afc	211	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
-Incubation // Incongruity	c21	219	Not Owned	~~	Non-foil	"""3"""	G,U	~~	~~	Sorcery
+Incubation // Incongruity	c21	219	Not Owned	~~	Non-foil	"""3"""	G,U	Hybrid	~~	Sorcery
 Judith, the Scourge Diva	rna	185	Not Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Creature — Human Shaman
 Fireblade Artist	rna	172	Not Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human Shaman
 Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
@@ -1254,9 +1254,9 @@ Graceful Restoration	mh2	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Courier	mh2	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raff Capashen, Ship's Mage	dom	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Warrant // Warden	rna	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Discovery // Dispersal	grn	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Warrant // Warden	rna	230	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Discovery // Dispersal	grn	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Tor Wauki the Younger	dmc	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hurl Through Hell	afc	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Way	mh1	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1271,6 +1271,7 @@ Graveshifter	mh1	94	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
 Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nested Shambler	mh2	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cleric Class	afr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	tmp	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
