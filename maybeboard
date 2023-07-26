@@ -337,7 +337,6 @@ Enter the God-Eternals	scd	227	Not Owned	~~	Non-foil	5	B,U	~~	~~	Sorcery
 Drake Haven	akh	51	Not Owned	~~	Non-foil	3	U	~~	~~	Enchantment
 Ol' Buzzbark	ust	134	Not Owned	~~	Non-foil	2	G,R	~~	~~	Legendary Creature — Goblin Warrior
 Doomed Artisan	c19	3	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Artificer
-Dream Eater	grn	38	Not Owned	~~	Non-foil	6	U	~~	~~	Creature — Nightmare Sphinx
 Thorn Mammoth	eld	323	Not Owned	~~	Non-foil	7	G	~~	~~	Creature — Elephant
 Niv-Mizzet, Parun	clb	851	Not Owned	~~	Non-foil	6	R,U	~~	~~	Legendary Creature — Dragon Wizard
 Blast Zone	slu	504	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -1342,7 +1341,6 @@ Sapseep Forest	shm	279	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harsh Mercy	ons	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abolish	ddf	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	m11	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Frost Titan	m11	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Countryside Crusher	mma	108	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant Warrior
@@ -1651,7 +1649,6 @@ Chronomancer	40k	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotleth Troll	2x2	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rift Bolt	tsp	176	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dream Eater	grn	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	rtr	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hour of Devastation	hou	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1843,4 +1840,5 @@ Izzet Charm	gk1	41	Not Owned	occasional	Non-foil	2	R,U	~~	~~	Instant
 Simic Charm	gtc	195	Not Owned	occasional	Non-foil	2	G,U	~~	~~	Instant
 Psionic Blast	tsb	30	Not Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Cranial Plating	mm2	206	Not Owned	artifacts,artifacts_payoff,aggrocontrol,heroic,u2.63,core,aggro	Non-foil	2	B	Black	~~	Artifact — Equipment
+Venser, Corpse Puppet	one	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
