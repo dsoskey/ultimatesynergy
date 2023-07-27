@@ -9037,3 +9037,7 @@ Timestamp	Board	ChangeType	Name
 2023-07-27T08:01:21.322+00:00	mainboard	remove	Dark Ritual
 2023-07-27T08:01:21.322+00:00	maybeboard	add	Dark Ritual
 2023-07-27T08:01:21.322+00:00	maybeboard	add	Scorn-Blade Berserker
+2023-07-27T13:51:02.915+00:00	mainboard	remove	Shepherd of the Flock
+2023-07-27T13:51:02.915+00:00	mainboard	remove	Elite Spellbinder
+2023-07-27T13:51:02.915+00:00	maybeboard	add	Shepherd of the Flock
+2023-07-27T13:51:02.915+00:00	maybeboard	add	Elite Spellbinder
