@@ -9041,3 +9041,9 @@ Timestamp	Board	ChangeType	Name
 2023-07-27T13:51:02.915+00:00	mainboard	remove	Elite Spellbinder
 2023-07-27T13:51:02.915+00:00	maybeboard	add	Shepherd of the Flock
 2023-07-27T13:51:02.915+00:00	maybeboard	add	Elite Spellbinder
+2023-07-27T18:01:42.461+00:00	mainboard	remove	Bant Sureblade
+2023-07-27T18:01:42.461+00:00	mainboard	remove	Jund Hackblade
+2023-07-27T18:01:42.461+00:00	mainboard	remove	Esper Stormblade
+2023-07-27T18:01:42.461+00:00	maybeboard	add	Esper Stormblade
+2023-07-27T18:01:42.461+00:00	maybeboard	add	Bant Sureblade
+2023-07-27T18:01:42.461+00:00	maybeboard	add	Jund Hackblade
