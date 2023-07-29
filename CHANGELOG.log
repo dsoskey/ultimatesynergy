@@ -9047,3 +9047,7 @@ Timestamp	Board	ChangeType	Name
 2023-07-27T18:01:42.461+00:00	maybeboard	add	Esper Stormblade
 2023-07-27T18:01:42.461+00:00	maybeboard	add	Bant Sureblade
 2023-07-27T18:01:42.461+00:00	maybeboard	add	Jund Hackblade
+2023-07-29T03:41:18.932+00:00	mainboard	remove	Vizier of Deferment
+2023-07-29T03:41:18.932+00:00	mainboard	remove	Galepowder Mage
+2023-07-29T03:41:18.932+00:00	maybeboard	add	Galepowder Mage
+2023-07-29T03:41:18.932+00:00	maybeboard	add	Vizier of Deferment
