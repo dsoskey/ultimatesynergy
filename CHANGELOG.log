@@ -9072,3 +9072,6 @@ Timestamp	Board	ChangeType	Name
 2023-07-30T09:20:54.016+00:00	mainboard	remove	Dark-Dweller Oracle
 2023-07-30T09:22:50.681+00:00	mainboard	remove	Animate Dead
 2023-07-30T09:22:50.681+00:00	maybeboard	add	Animate Dead
+2023-07-30T09:51:45.174+00:00	mainboard	remove	Reinforced Ronin
+2023-07-30T09:51:45.174+00:00	mainboard	remove	Watcher for Tomorrow
+2023-07-30T09:51:45.174+00:00	maybeboard	add	Reinforced Ronin
