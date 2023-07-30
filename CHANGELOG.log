@@ -9075,3 +9075,7 @@ Timestamp	Board	ChangeType	Name
 2023-07-30T09:51:45.174+00:00	mainboard	remove	Reinforced Ronin
 2023-07-30T09:51:45.174+00:00	mainboard	remove	Watcher for Tomorrow
 2023-07-30T09:51:45.174+00:00	maybeboard	add	Reinforced Ronin
+2023-07-30T19:23:03.193+00:00	mainboard	remove	Golgari Brownscale
+2023-07-30T19:23:03.193+00:00	mainboard	remove	Briarhorn
+2023-07-30T19:23:03.193+00:00	maybeboard	add	Golgari Brownscale
+2023-07-30T19:23:03.193+00:00	maybeboard	add	Briarhorn

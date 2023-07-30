@@ -48,7 +48,6 @@ Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Cr
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
 Ohran Viper	csp	115	Not Owned	tappers,aggrocontrol,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
 Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_removal,u4.6,core,aggro,control	Non-foil	3	G	~~	~~	Creature — Dinosaur
-Briarhorn	lrw	199	Not Owned	flash,heroic,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	4	G	~~	~~	Creature — Elemental
 Vines of Vastwood	zen	193	Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,smoothing,core,aggro,control,tokens,graveyard,repeatable	Non-foil	2	G	~~	~~	Enchantment
 Growing Ranks	rtr	217	Not Owned	tokens,stax,u3.5,sacrifice,occasional	Non-foil	4	W,G	Hybrid	~~	Enchantment
@@ -1157,7 +1156,6 @@ Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spike Feeder	cmd	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vermin Gorger	mh2	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Golgari Brownscale	uma	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
 Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
