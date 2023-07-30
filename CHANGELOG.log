@@ -9070,3 +9070,5 @@ Timestamp	Board	ChangeType	Name
 2023-07-30T09:19:29.860+00:00	mainboard	add	Falkenrath Pit Fighter
 2023-07-30T09:19:29.860+00:00	mainboard	add	Intrepid Adversary
 2023-07-30T09:20:54.016+00:00	mainboard	remove	Dark-Dweller Oracle
+2023-07-30T09:22:50.681+00:00	mainboard	remove	Animate Dead
+2023-07-30T09:22:50.681+00:00	maybeboard	add	Animate Dead
