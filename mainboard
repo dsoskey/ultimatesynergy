@@ -707,7 +707,6 @@ Prismatic Ending	mh2	25	Not Owned	control,aggrocontrol,enchantment_removal,artif
 Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ordeal of Erebos	ths	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ordeal of Heliod	ths	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Squirrel	mh2	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pollenbright Druid	war	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Go-Shintai of Ancient Wars	neo	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -895,7 +894,6 @@ Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stifle	scg	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pithing Needle	sok	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Squelch	chk	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffer the Past	roe	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	rav	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1280,6 +1278,7 @@ Flametongue Yearling	mh2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chatterstorm	mh2	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Apprentice	stx	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gilded Drake	usg	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitched Drake	isd	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	nph	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

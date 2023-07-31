@@ -9087,3 +9087,8 @@ Timestamp	Board	ChangeType	Name
 2023-07-31T03:30:45.551+00:00	mainboard	add	Abundant Harvest
 2023-07-31T03:30:45.551+00:00	mainboard	add	Chatterstorm
 2023-07-31T03:30:45.551+00:00	mainboard	add	Quandrix Apprentice
+2023-07-31T04:05:48.299+00:00	mainboard	remove	Squelch
+2023-07-31T04:05:48.299+00:00	mainboard	remove	Ordeal of Heliod
+2023-07-31T04:05:48.299+00:00	mainboard	add	Gilded Drake
+2023-07-31T04:05:48.299+00:00	maybeboard	add	Ordeal of Heliod
+2023-07-31T04:05:48.299+00:00	maybeboard	add	Squelch
