@@ -94,7 +94,6 @@ Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
-Remand	rav	63	Not Owned	core,aggrocontrol,smoothing,flash,spells,aggro,control	Non-foil	2	U	~~	~~	Instant
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Not Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
@@ -995,7 +994,6 @@ Soul of Shandalar	m15	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clay Revenant	bro	118	Not Owned	artifacts,repeatable,durable,graveyard_hate,flash,sacrifice	~~	"""~~"""	~~	~~	~~	~~
 Descendants' Path	avr	173	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment
 Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Frost Titan	m11	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cradle of Vitality	ala	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elves of Deep Shadow	gk1	56	Not Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf Druid
