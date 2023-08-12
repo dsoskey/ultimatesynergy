@@ -705,7 +705,6 @@ Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ordeal of Erebos	ths	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Squirrel	mh2	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Pollenbright Druid	war	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Go-Shintai of Ancient Wars	neo	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Go-Shintai of Boundless Vigor	neo	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Animal Sanctuary	m21	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -949,7 +948,6 @@ Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Raffine's Informant	snc	26	Not Owned	blink,aggro,aggrocontrol,smoothing	~~	"""~~"""	~~	~~	~~	~~
 Artificer's Assistant	dom	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witching Well	eld	74	Not Owned	~~	Non-foil	1	U	~~	~~	Artifact
-Expendable Lackey	snc	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Grifter	snc	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overwhelmed Apprentice	eld	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mothdust Changeling	mor	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1293,7 +1291,10 @@ Viridian Corrupter	mbs	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Endless Detour	snc	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Impact Tremors	dtk	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ossification	one	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blacksmith's Skill	mh2	381	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Dragonsguard Elite	stx	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nomad	jud	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archaeomancer	m13	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
