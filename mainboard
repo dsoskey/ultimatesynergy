@@ -187,7 +187,6 @@ Goblin Guide	2xm	127	Not Owned	core,aggrocontrol,burn,wide,aggro	Non-foil	1	R	~~
 Dreadhorde Arcanist	war	125	Not Owned	core,spells,graveyard,heroic,burn,aggro	Non-foil	2	R	~~	~~	Creature — Zombie Wizard
 Primal Empathy	iko	200	Not Owned	occasional	Non-foil	3	G,U	~~	~~	Enchantment
 Elder of Laurels	isd	177	Not Owned	wide,tokens,manasink,flash,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
-Cage of Hands	pca	4	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Ghirapur Aether Grid	ori	148	Not Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
 Necromantic Summons	ori	110	Not Owned	core,spells,reanimator,graveyard,mill,control	Non-foil	5	B	~~	~~	Sorcery
 Wishclaw Talisman	eld	110	Not Owned	occasional	Non-foil	2	B	~~	~~	Artifact
@@ -311,7 +310,6 @@ Kazandu Mammoth	znr	189	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elephant
 Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Llanowar Reborn	c21	296	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
-Spontaneous Mutation	cmr	100	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
 Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Memorial to Unity	dom	245	Not Owned	~~	Non-foil	0	G	Green	~~	Land
@@ -1299,7 +1297,21 @@ Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Persistent Specimen	vow	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Bond-Kin	ktk	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syndic of Tithes	gtc	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Basilica Screecher	gtc	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Coalition Honor Guard	apc	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cruel Witness	vow	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gideon's Lawkeeper	m12	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gods Willing	ths	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temporal Isolation	tsp	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bind the Monster	khm	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nomad	jud	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phantom Nomad	jud	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gnarlid Colony	znr	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phantom Tiger	jud	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Body Dropper	snc	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodwater Entity	hou	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Infuse with Vitality	stx	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wrangle	aer	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archaeomancer	m13	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
