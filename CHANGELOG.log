@@ -9166,3 +9166,7 @@ Timestamp	Board	ChangeType	Name
 2023-08-14T05:46:37.053+00:00	mainboard	edit	Dauthi Voidwalker
 2023-08-14T05:46:37.053+00:00	mainboard	remove	Ledger Shredder
 2023-08-14T05:46:37.053+00:00	maybeboard	add	Ledger Shredder
+2023-08-14T17:02:42.851+00:00	mainboard	remove	Sea Gate Oracle
+2023-08-14T17:02:42.851+00:00	mainboard	remove	Nest Invader
+2023-08-14T17:02:42.851+00:00	maybeboard	add	Sea Gate Oracle
+2023-08-14T17:02:42.851+00:00	maybeboard	add	Nest Invader
