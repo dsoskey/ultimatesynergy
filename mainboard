@@ -127,7 +127,6 @@ Quirion Dryad	m13	184	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	
 Squirrel Nest	mh1	182	Not Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
-Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
@@ -147,7 +146,6 @@ Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature �
 Snakeform	eve	161	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Tymaret, the Murder King	ths	207	Not Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
-Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
 Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
@@ -1257,7 +1255,7 @@ Primal Adversary	mid	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Falkenrath Pit Fighter	mid	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Intrepid Adversary	mid	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightmare Shepherd	thb	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Damn	mh2	396	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Damn	mh2	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dauthi Voidwalker	mh2	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

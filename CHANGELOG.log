@@ -9174,3 +9174,9 @@ Timestamp	Board	ChangeType	Name
 2023-08-14T17:35:32.490+00:00	mainboard	remove	Struggle for Skemfar
 2023-08-14T17:35:32.490+00:00	maybeboard	add	Scorched Rusalka
 2023-08-14T17:35:32.490+00:00	maybeboard	add	Struggle for Skemfar
+2023-08-14T18:17:51.118+00:00	mainboard	edit	Nivmagus Elemental
+2023-08-14T18:17:51.118+00:00	mainboard	edit	Damn
+2023-08-14T18:17:51.118+00:00	mainboard	remove	Void
+2023-08-14T18:17:51.118+00:00	mainboard	remove	Blightning
+2023-08-14T18:17:51.118+00:00	maybeboard	add	Void
+2023-08-14T18:17:51.118+00:00	maybeboard	add	Blightning
