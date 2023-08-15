@@ -184,7 +184,6 @@ Song-Mad Treachery	znr	165	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Memorial to Glory	40k	283	Not Owned	~~	Non-foil	0	W	~~	~~	Land
 Orzhov Enforcer	rna	79	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Rogue
 Merfolk Spy	m14	62	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Rogue
-Expendable Lackey	snc	43	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Citizen
 Dark Confidant	mm2	75	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Wizard
 Stirge	clb	150	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Insect Bat
 Vampire Neonate	m19	124	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Vampire
@@ -1126,7 +1125,6 @@ Pelakka Wurm	roe	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireblast	vis	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torment of Venom	hou	79	Not Owned	~~	Non-foil	4	B	~~	~~	Instant
 Undead Butler	vow	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sultai Emissary	frf	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ultimate Price	gk2	36	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Bloodghast	zen	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiery Impulse	ori	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1875,4 +1873,6 @@ Scorched Rusalka	gpt	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Struggle for Skemfar	khm	196	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
 Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
+Wire Surgeons	brc	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
