@@ -147,7 +147,6 @@ Snakeform	eve	161	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybri
 Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Tymaret, the Murder King	ths	207	Not Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
-Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Icy Manipulator	dom	219	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Nevinyrral's Disk	c17	217	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
@@ -169,7 +168,6 @@ Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — 
 Hurricane	30a	196	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	1	G	~~	~~	Sorcery
 Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Icon of Ancestry	m20	229	Not Owned	core,tribal_payoff,tribal,manasink	Non-foil	3	~~	~~	~~	Artifact
-Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifice	Non-foil	1	W	~~	~~	Creature — Human Knight
 Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
@@ -835,7 +833,6 @@ Danitha Capashen, Paragon	plst	DOM-12	Not Owned	~~	Non-foil	3	W	~~	~~	Legendary 
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Excise the Imperfect	moc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	91	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Go for the Throat	mbs	43	Owned	artifacts,control,aggrocontrol,aggro,flash,removal	~~	"""~~"""	~~	~~	~~	~~
@@ -1282,7 +1279,7 @@ Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dragonsguard Elite	stx	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Callous Dismissal	war	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mold Folk	clb	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nivmagus Elemental	rtr	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Persistent Specimen	vow	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ainok Bond-Kin	ktk	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syndic of Tithes	gtc	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
