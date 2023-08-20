@@ -232,7 +232,7 @@ Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggr
 Syr Konrad, the Grim	znc	56	Not Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Not Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
-Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control,graveyard_hate	Non-foil	6	R	~~	~~	Sorcery
+Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control,graveyard_hate	Non-foil	"""5"""	R	~~	~~	Sorcery
 Cave of the Frost Dragon	afr	253	Not Owned	core,manasink,fliers	Non-foil	0	W	White	~~	Land
 Hall of Storm Giants	afr	257	Not Owned	core,manasink	Non-foil	0	U	Blue	~~	Land
 Hive of the Eye Tyrant	afr	258	Not Owned	core,manasink	Non-foil	0	B	Black	~~	Land
@@ -714,7 +714,6 @@ Dreadhorde Butcher	war	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lorescale Coatl	arb	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patchwork Automaton	neo	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clown Car	unf	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Explosive Entry	neo	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ecologist's Terrarium	neo	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ingenious Smith	afr	21	Not Owned	artifacts,control,aggrocontrol,counters,repeatable,heroic,tokens,blink,aggro	~~	"""~~"""	~~	~~	~~	~~
 Mukotai Soulripper	neo	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
