@@ -9223,3 +9223,7 @@ Timestamp	Board	ChangeType	Name
 2023-08-20T21:23:59.600+00:00	mainboard	edit	Disintegrate
 2023-08-20T21:23:59.600+00:00	mainboard	remove	Explosive Entry
 2023-08-20T21:23:59.600+00:00	maybeboard	add	Explosive Entry
+2023-08-21T07:49:09.195+00:00	mainboard	edit	Doomskar Oracle
+2023-08-21T07:49:09.195+00:00	mainboard	edit	Cankerbloom
+2023-08-21T07:49:09.195+00:00	mainboard	remove	Doomskar Oracle
+2023-08-21T07:49:09.195+00:00	mainboard	remove	Cankerbloom

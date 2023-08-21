@@ -563,8 +563,7 @@ Animating Faerie	eld	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kari Zev, Skyship Raider	plst	AER-87	Not Owned	~~	Non-foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Fae of Wishes	eld	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrummingbird	ncc	236	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Phyrexian Bird Horror
-Cankerbloom	one	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cankerbloom	one	161	Not Owned	beats,artifact removal,enchantment removal,counters,poison,sacrifice	Non-foil	5	G	~~	~~	Creature — Elemental Knight
+Cankerbloom	one	161	Not Owned	beats,artifact removal,enchantment removal,counters,poison,sacrifice	Non-foil	"""2"""	G	~~	~~	Creature — Elemental Knight
 Cavalier of Night	plst	M20-94	Not Owned	~~	Non-foil	5	B	~~	~~	Creature — Elemental Knight
 Cavalier of Dawn	m20	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavalier of Flame	m20	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1133,8 +1132,7 @@ Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spike Feeder	cmd	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vermin Gorger	mh2	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomskar Oracle	khm	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	2	W	~~	~~	Creature — Phyrexian Cleric
+Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	"""3"""	W	~~	~~	Creature — Phyrexian Cleric
 Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inspiring Overseer	snc	18	Not Owned	blink,fliers,lifegain,aggrocontrol	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Voice of the Blessed	vow	44	Not Owned	lifegain_payoff,heroic,fliers	~~	"""~~"""	~~	~~	~~	~~
