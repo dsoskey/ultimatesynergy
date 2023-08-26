@@ -1,5 +1,4 @@
 Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	TypeLine
-Imperious Perfect	plst	PCMP-9	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Warrior
 Nahiri, Heir of the Ancients	znr	230	Not Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Planeswalker — Nahiri
 Nissa of Shadowed Boughs	znr	231	Not Owned	~~	Non-foil	4	B,G	~~	~~	Legendary Planeswalker — Nissa
 Brushfire Elemental	znr	221	Not Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Elemental
@@ -167,7 +166,6 @@ Huatli's Raptor	war	200	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Dinosaur
 Deadbridge Goliath	j22	645	Not Owned	~~	Non-foil	4	G	~~	~~	Creature — Insect
 Collective Effort	onc	61	Not Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Rishkar, Peema Renegade	ncc	305	Not Owned	~~	Non-foil	3	G	~~	~~	Legendary Creature — Elf Druid
-Jiang Yanggu, Wildcrafter	war	164	Not Owned	~~	Non-foil	3	G	~~	~~	Legendary Planeswalker — Yanggu
 Swarm Shambler	j22	734	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus Beast
 Vigor Mortis	ddj	74	Not Owned	~~	Non-foil	4	B,G	~~	~~	Sorcery
 Regrowth	sum	214	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
@@ -682,7 +680,6 @@ Diluvian Primordial	gtc	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulcaller's Bell	isd	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lyra Dawnbringer	dom	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witness Protection	snc	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kenrith's Transformation	eld	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Professional Face-Breaker	snc	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cursed Mirror	c21	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Hireling	afc	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1862,7 +1859,6 @@ Dancing Sword	afr	8	Not Owned	heroic,artifacts,aggrocontrol,aggro	~~	"""~~"""	~~
 Healing Grace	dom	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	snc	46	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Sea Gate Oracle	roe	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nest Invader	plst	PCA-69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scorched Rusalka	gpt	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Struggle for Skemfar	khm	196	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
 Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
@@ -1890,4 +1886,10 @@ Soul Parry	som	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Tempest	gn3	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal from Existence	mom	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karn, Legacy Reforged	mat	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deglamer	mor	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mulch	c15	191	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ridgescale Tusker	aer	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silverback Shaman	m20	195	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Adventurous Impulse	dom	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nessian Hornbeetle	thb	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
