@@ -123,7 +123,7 @@ Collected Company	dtk	177	Not Owned	occasional	Non-foil	4	G	~~	~~	Instant
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
 Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
 Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
-Quirion Dryad	m13	184	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
+Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
 Squirrel Nest	mh1	182	Not Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
@@ -817,7 +817,6 @@ Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Who // What // When // Where // Why	unh	120	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ol' Buzzbark	ust	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Deglamer	mor	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unravel the Aether	bng	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyhan, Last of the Abzan	c16	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raven's Crime	mma	95	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
@@ -947,11 +946,10 @@ Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Magmatic Sinkhole	mh1	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rigo, Streetwise Mentor	psnc	215p	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Toluz, Clever Conductor	psnc	228p	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Nature's Chant	mh1	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nature's Chant	mh1	210	Not Owned	artifact_removal,enchantment_removal	Non-foil	3	W,G	Hybrid	~~	Creature — Human Cleric
+Nature's Chant	mh1	210	Not Owned	artifact_removal,enchantment_removal	Non-foil	"""2"""	W,G	Hybrid	~~	Creature — Human Cleric
 Changeling Berserker	lrw	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth's Smite	mom	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reality Shift	frf	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1333,6 +1331,14 @@ Dusk Legion Zealot	rix	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orzhov Enforcer	rna	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanitarium Skeleton	soi	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prince Imrahil the Fair	ltr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hooting Mandrills	uma	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Imperious Perfect	plst	PCMP-9	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Warrior
+Whisperwood Elemental	frf	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vengevine	2xm	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Untamed Kavu	dom	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jiang Yanggu, Wildcrafter	war	164	Not Owned	~~	Non-foil	3	G	~~	~~	Legendary Planeswalker — Yanggu
+Kenrith's Transformation	eld	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nest Invader	plst	PCA-69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~

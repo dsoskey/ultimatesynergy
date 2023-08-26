@@ -9274,3 +9274,25 @@ Timestamp	Board	ChangeType	Name
 2023-08-26T03:47:46.393+00:00	mainboard	add	Orzhov Enforcer
 2023-08-26T03:47:46.393+00:00	mainboard	add	Sanitarium Skeleton
 2023-08-26T05:15:58.525+00:00	mainboard	add	Prince Imrahil the Fair
+2023-08-26T05:21:20.512+00:00	mainboard	edit	Nature's Chant
+2023-08-26T05:21:20.512+00:00	mainboard	edit	Quirion Dryad
+2023-08-26T05:21:20.512+00:00	mainboard	remove	Nature's Chant
+2023-08-26T05:21:20.512+00:00	mainboard	remove	Deglamer
+2023-08-26T05:21:20.512+00:00	mainboard	add	Hooting Mandrills
+2023-08-26T05:21:20.512+00:00	mainboard	add	Imperious Perfect
+2023-08-26T05:21:20.512+00:00	mainboard	add	Whisperwood Elemental
+2023-08-26T05:21:20.512+00:00	mainboard	add	Vengevine
+2023-08-26T05:21:20.512+00:00	mainboard	add	Untamed Kavu
+2023-08-26T05:21:20.512+00:00	mainboard	add	Jiang Yanggu, Wildcrafter
+2023-08-26T05:21:20.512+00:00	mainboard	add	Kenrith's Transformation
+2023-08-26T05:21:20.512+00:00	mainboard	add	Nest Invader
+2023-08-26T05:21:20.512+00:00	maybeboard	remove	Nest Invader
+2023-08-26T05:21:20.512+00:00	maybeboard	remove	Kenrith's Transformation
+2023-08-26T05:21:20.512+00:00	maybeboard	remove	Jiang Yanggu, Wildcrafter
+2023-08-26T05:21:20.512+00:00	maybeboard	remove	Imperious Perfect
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Deglamer
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Mulch
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Ridgescale Tusker
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Silverback Shaman
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Adventurous Impulse
+2023-08-26T05:21:20.512+00:00	maybeboard	add	Nessian Hornbeetle
