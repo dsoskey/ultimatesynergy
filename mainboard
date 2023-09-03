@@ -338,7 +338,7 @@ Wolfir Avenger	avr	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Wolf Warrior
 Deep Forest Hermit	mh1	161	Not Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
 Thragtusk	2xm	183	Not Owned	~~	Non-foil	5	G	~~	~~	Creature — Beast
 Signal Pest	mbs	131	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Pest
-Endless One	bfz	8	Not Owned	~~	Non-foil	0	~~	~~	~~	Creature — Eldrazi
+Endless One	bfz	8	Not Owned	~~	Non-foil	"""1"""	~~	~~	~~	Creature — Eldrazi
 Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mind Stone	afc	211	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Incubation // Incongruity	c21	219	Not Owned	~~	Non-foil	"""3"""	G,U	Hybrid	~~	Sorcery
@@ -906,7 +906,7 @@ Omen	por	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Strategic Planning	khm	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	mm3	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
-Arcbound Worker	ddf	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcbound Worker	mma	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fulminator Mage	2xm	196	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Saw in Half	unf	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1186,7 +1186,7 @@ Arcane Savant	cn2	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Will	hou	49	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Pack Rat	sld	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lava Dart	mh1	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stonecoil Serpent	eld	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stonecoil Serpent	eld	235	Not Owned	~~	~~	"""1"""	~~	~~	~~	~~
 Meteor Golem	c21	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adorned Pouncer	plst	HOU-2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flourishing Strike	mh2	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
