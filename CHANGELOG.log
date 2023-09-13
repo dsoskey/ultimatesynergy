@@ -9562,3 +9562,20 @@ Timestamp	Board	ChangeType	Name
 2023-09-03T21:44:48.424+00:00	mainboard	edit	Arcbound Worker
 2023-09-04T21:06:01.302+00:00	mainboard	edit	Momentary Blink
 2023-09-09T02:56:39.251+00:00	maybeboard	add	Unctus, Grand Metatect
+2023-09-13T19:25:34.450+00:00	mainboard	edit	Diffusion Sliver
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Ratcatcher Trainee
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Mocking Sprite
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Blood Aspirant
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Marauding Blight-Priest
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Shrapnel Slinger
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Angelic Purge
+2023-09-13T19:25:34.450+00:00	mainboard	remove	Dark-Dweller Oracle
+2023-09-13T19:25:34.450+00:00	mainboard	add	Burn Down the House
+2023-09-13T19:25:34.450+00:00	mainboard	add	Crypt Rats
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Mocking Sprite
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Angelic Purge
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Dark-Dweller Oracle
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Shrapnel Slinger
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Blood Aspirant
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Ratcatcher Trainee
+2023-09-13T19:25:34.450+00:00	maybeboard	add	Marauding Blight-Priest

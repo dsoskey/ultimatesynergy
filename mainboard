@@ -32,7 +32,6 @@ Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,co
 Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Lavamancer	2xm	129	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	mm2	127	Owned	heroic,manasink,flash,wide,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
-Dark-Dweller Oracle	m19	134	Not Owned	sacrifice,tokens,burn,smoothing,core,aggro	Non-foil	2	R	~~	~~	Creature — Goblin Shaman
 Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Goblin Cratermaker	grn	103	Not Owned	artifact_removal,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional	Non-foil	3	R	~~	~~	Creature — Imp
@@ -200,7 +199,6 @@ Ministrant of Obligation	rna	16	Not Owned	core,sacrifice,tokens,fliers,control	N
 Thalia's Lieutenant	soi	43	Not Owned	core,counters,aggro,tribal_payoff,wide	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Seasoned Hallowblade	m21	34	Not Owned	graveyard,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Seeker of the Way	ktk	22	Not Owned	core,spells,lifegain,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
-Angelic Purge	soi	3	Not Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
 Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
 Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
@@ -453,7 +451,6 @@ Dryad Arbor	fut	174	Not Owned	~~	Non-foil	0	G	Green	~~	Land Creature — Forest 
 Luminarch Aspirant	ncc	205	Not Owned	aggrocontrol,aggro,counters,repeatable	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Titan's Strength	2x2	128	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Assassin's Trophy	2x2	175	Not Owned	~~	Non-foil	2	B,G	~~	~~	Instant
-Shrapnel Slinger	one	148	Not Owned	~~	Non-foil	2	R	~~	~~	Artifact Creature — Phyrexian Beast
 Unnatural Restoration	one	191	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Security Bypass	snc	59	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Defabricate	bro	45	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
@@ -607,7 +604,6 @@ Righteous Valkyrie	khm	24	Not Owned	tribal_payoff,tribal,lifegain,lifegain_payof
 Ajani, Strength of the Pride	m20	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Celestial Unicorn	afr	5	Not Owned	lifegain_payoff,heroic	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Marauding Blight-Priest	znr	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dina, Soul Steeper	stx	178	Not Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
 Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Champion of the Perished	mid	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1289,7 +1285,6 @@ Moria Marauder	ltr	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scorching Dragonfire	m21	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jaya, Venerated Firemage	war	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silverfur Partisan	soi	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blood Aspirant	cmm	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian of Faith	afr	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the White Orchid	c20	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Behold the Multiverse	khm	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1333,7 +1328,6 @@ Virtue of Knowledge	woe	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Water Wings	woe	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Freeze in Place	woe	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Icewrought Sentry	woe	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mocking Sprite	woe	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Goose Mother	woe	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Likeness Looter	woe	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1361,7 +1355,6 @@ Virtue of Persistence	woe	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goddric, Cloaked Reveler	woe	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hearth Elemental	woe	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kindled Heroism	woe	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ratcatcher Trainee	woe	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Redcap Gutter-Dweller	woe	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realm-Scorcher Hellkite	woe	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1382,6 +1375,8 @@ Tough Cookie	woe	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Werefox Bodyguard	woe	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Mantle	cmr	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dregscape Sliver	mh1	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Burn Down the House	mid	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Crypt Rats	mh1	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
