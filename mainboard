@@ -381,12 +381,6 @@ Haunted Fengraf	a25	240	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Jungle Basin	cma	258	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
-Branchloft Pathway	znr	284	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
-Brightclimb Pathway	slu	14	Not Owned	~~	Non-foil	0	W,B	~~	~~	Land
-Clearwater Pathway	znr	286	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
-Cragcrown Pathway	znr	287	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Needleverge Pathway	znr	288	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Riverglide Pathway	znr	289	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Fearless Fledgling	znr	15	Not Owned	lands,heroic,fliers,fliers_payoff,aggro,aggrocontrol	Non-foil	2	W	~~	~~	Creature — Griffin
 Thieving Skydiver	znr	85	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Nullpriest of Oblivion	znr	118	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire Cleric
@@ -412,16 +406,6 @@ Moorland Haunt	scd	310	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
-Seachrome Coast	one	258	Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Razorverge Thicket	som	228	Owned	~~	Non-foil	0	W,G	~~	~~	Land
-Darkslick Shores	one	250	Not Owned	~~	Non-foil	0	U,B	~~	~~	Land
-Blackcleave Cliffs	one	248	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Copperline Gorge	som	225	Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Concealed Courtyard	kld	245	Not Owned	~~	Non-foil	0	B,W	~~	~~	Land
-Inspiring Vantage	kld	246	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Spirebluff Canal	kld	249	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Botanical Sanctum	kld	244	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
-Blooming Marsh	kld	243	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Shivan Gorge	dmc	232	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Blinkmoth Well	mrd	279	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Blossoming Sands	c19	231	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
@@ -973,10 +957,6 @@ Xantid Swarm	ema	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swarm Shambler	znr	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
-Barkchannel Pathway	khm	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blightstep Pathway	slu	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Darkbore Pathway	slu	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hengegate Pathway	slu	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
