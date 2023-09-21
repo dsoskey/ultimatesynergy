@@ -9629,3 +9629,8 @@ Timestamp	Board	ChangeType	Name
 2023-09-21T04:03:40.222+00:00	mainboard	edit	Ajani's Pridemate
 2023-09-21T04:03:40.222+00:00	mainboard	remove	Stone Haven Pilgrim
 2023-09-21T04:03:40.222+00:00	maybeboard	add	Stone Haven Pilgrim
+2023-09-21T22:32:28.056+00:00	mainboard	edit	Nest Invader
+2023-09-21T22:32:28.056+00:00	mainboard	remove	Stitched Drake
+2023-09-21T22:32:28.056+00:00	mainboard	remove	Sanctify
+2023-09-21T22:32:28.056+00:00	maybeboard	add	Stitched Drake
+2023-09-21T22:32:28.056+00:00	maybeboard	add	Sanctify

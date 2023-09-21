@@ -1089,7 +1089,6 @@ Alchemist's Gift	m21	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beloved Princess	eld	7	Not Owned	aggro,lifegain,evasion,aggrocontrol,heroic,core,control,pingers	~~	"""~~"""	~~	~~	~~	~~
 Blacklance Paragon	eld	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sorin, Imperious Bloodlord	m20	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sanctify	vow	33	Not Owned	artifact_removal,enchantment_removal,lifegain	~~	"""~~"""	~~	~~	~~	~~
 Bond of Flourishing	war	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1211,7 +1210,6 @@ Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chatterstorm	mh2	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Apprentice	stx	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gilded Drake	usg	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stitched Drake	uma	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	cn2	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	j22	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Protector	vow	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1293,7 +1291,7 @@ Vengevine	2xm	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Untamed Kavu	dom	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jiang Yanggu, Wildcrafter	war	164	Not Owned	~~	Non-foil	3	G	~~	~~	Legendary Planeswalker — Yanggu
 Kenrith's Transformation	eld	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nest Invader	plst	PCA-69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nest Invader	pca	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Briarbridge Tracker	mid	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Scrying	mrd	130	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stroke of Midnight	woe	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
