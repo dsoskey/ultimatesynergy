@@ -364,7 +364,7 @@ Ravenous Chupacabra	rix	82	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Ho
 Rhizome Lurcher	grn	196	Not Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
 Celestial Colonnade	uma	238	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Third Path Iconoclast	bro	223	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
-Ajani's Pridemate	c13	3	Owned	lifegain_payoff,core,aggrocontrol,heroic	Non-foil	2	W	~~	~~	Creature — Cat Soldier
+Ajani's Pridemate	j22	142	Owned	lifegain_payoff,core,aggrocontrol,heroic	Non-foil	2	W	~~	~~	Creature — Cat Soldier
 Lava Coil	2x2	116	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Planar Disruption	one	28	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura
 Blazing Crescendo	one	123	Not Owned	~~	Non-foil	2	R	~~	~~	Instant
@@ -1146,7 +1146,6 @@ Boros Guildmage	cma	199	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Aethertow	mm3	205	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Blistercoil Weird	rtr	211	Not Owned	~~	Non-foil	1	R,U	Hybrid	~~	Creature — Weird
-Stone Haven Pilgrim	jmp	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia's Geistcaller	c19	7	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Siege Veteran	bro	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nils, Discipline Enforcer	c21	20	Not Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
