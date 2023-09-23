@@ -9634,3 +9634,5 @@ Timestamp	Board	ChangeType	Name
 2023-09-21T22:32:28.056+00:00	mainboard	remove	Sanctify
 2023-09-21T22:32:28.056+00:00	maybeboard	add	Stitched Drake
 2023-09-21T22:32:28.056+00:00	maybeboard	add	Sanctify
+2023-09-23T17:52:34.468+00:00	mainboard	remove	Burning Prophet
+2023-09-23T17:52:34.468+00:00	maybeboard	add	Burning Prophet
