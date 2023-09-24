@@ -9637,3 +9637,7 @@ Timestamp	Board	ChangeType	Name
 2023-09-23T17:52:34.468+00:00	mainboard	remove	Burning Prophet
 2023-09-23T17:52:34.468+00:00	maybeboard	add	Burning Prophet
 2023-09-23T19:26:47.242+00:00	mainboard	add	Dreamshackle Geist
+2023-09-24T11:38:04.036+00:00	mainboard	remove	Virtue of Persistence
+2023-09-24T11:38:04.036+00:00	mainboard	remove	Virtue of Loyalty
+2023-09-24T11:38:04.036+00:00	maybeboard	add	Virtue of Loyalty
+2023-09-24T11:38:04.036+00:00	maybeboard	add	Virtue of Persistence
