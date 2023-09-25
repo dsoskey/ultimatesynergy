@@ -50,7 +50,6 @@ Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_rem
 Vines of Vastwood	mm2	168	Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,smoothing,core,aggro,control,tokens,graveyard,repeatable	Non-foil	2	G	~~	~~	Enchantment
 Growing Ranks	c19	193	Not Owned	tokens,stax,u3.5,sacrifice,occasional	Non-foil	4	W,G	Hybrid	~~	Enchantment
-Firemane Avenger	gk1	89	Not Owned	tokens,fliers,lifegain,evasion,wide,u4.6.4,occasional	Non-foil	4	W,R	~~	~~	Creature — Angel
 Spitemare	ddh	16	Not Owned	enrage,aggrocontrol,occasional,removal,pingers,heroic	Non-foil	4	W,R	Hybrid	~~	Creature — Elemental
 Brittle Effigy	ddt	56	Owned	artifacts,flash,u2.0,removal,core,control	Non-foil	1	~~	~~	~~	Artifact
 Pacification Array	aer	168	Not Owned	artifacts,manasink,tappers,u2.92,core,removal,control	Non-foil	1	~~	~~	~~	Artifact
@@ -143,7 +142,6 @@ Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	No
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature — Specter
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
-Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Tymaret, the Murder King	ths	207	Not Owned	occasional	Non-foil	2	B,R	~~	~~	Legendary Creature — Zombie Warrior
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
@@ -440,7 +438,6 @@ Security Bypass	snc	59	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Defabricate	bro	45	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Gix's Command	bro	97	Not Owned	~~	Non-foil	5	B	~~	~~	Sorcery
 Coffin Queen	tpr	87	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Wizard
-Crystalline Giant	iko	234	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Giant
 Vastwood Fortification	znr	216	Not Owned	~~	Non-foil	1	G	~~	~~	Instant
 Stealth Mission	war	70	Not Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Restoration Specialist	aer	21	Not Owned	tutor,graveyard,heroic,control	Non-foil	2	W	~~	~~	Creature — Dwarf Artificer
@@ -681,7 +678,6 @@ Guardian Gladewalker	khm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sage of Hours	jou	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Armory of Iroas	cmr	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abzan Ascendancy	ktk	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Anafenza, the Foremost	ktk	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Scrapling	mh2	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dromoka's Command	2x2	206	Not Owned	~~	Non-foil	2	G,W	~~	~~	Instant
 Unbounded Potential	mh2	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -801,7 +797,6 @@ Spikefield Hazard	znr	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Putrid Goblin	mh1	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Belcher	akh	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Danitha Capashen, Paragon	woc	64	Not Owned	~~	Non-foil	3	W	~~	~~	Legendary Creature — Human Knight
-Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Excise the Imperfect	moc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -943,7 +938,6 @@ Soul of Zendikar	m15	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul of Shandalar	m15	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clay Revenant	bro	118	Not Owned	artifacts,repeatable,durable,graveyard_hate,flash,sacrifice	~~	"""~~"""	~~	~~	~~	~~
 Descendants' Path	avr	173	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment
-Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trudge Garden	c21	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cradle of Vitality	jmp	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elves of Deep Shadow	gk1	56	Not Owned	occasional	Non-foil	1	G	~~	~~	Creature — Elf Druid
@@ -1096,7 +1090,6 @@ Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	"""3"""	W	~~
 Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inspiring Overseer	snc	18	Not Owned	blink,fliers,lifegain,aggrocontrol	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Voice of the Blessed	vow	44	Not Owned	lifegain_payoff,heroic,fliers	~~	"""~~"""	~~	~~	~~	~~
-Cliffhaven Vampire	ogw	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twinblade Paladin	m20	285	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serene Steward	bfz	46	Not Owned	lifegain_payoff,aggro,repeatable,counters	~~	"""~~"""	~~	~~	~~	~~
 Sling-Gang Lieutenant	j22	469	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1241,7 +1234,6 @@ Bind the Monster	khm	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nomad	vma	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gnarlid Colony	znr	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Tiger	ima	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Body Dropper	snc	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodwater Entity	hou	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infuse with Vitality	stx	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrangle	aer	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1266,7 +1258,6 @@ Behold the Multiverse	khm	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clockspinning	tsp	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Countryside Crusher	mma	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expedite	cmr	413	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Yavimaya Iconoclast	dmu	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glissa, the Traitor	v16	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jor Kadeen, First Goldwarden	one	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brago, King Eternal	khc	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1282,7 +1273,6 @@ Knight of the Ebon Legion	m20	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dusk Legion Zealot	rix	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orzhov Enforcer	rna	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanitarium Skeleton	soi	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Prince Imrahil the Fair	ltr	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hooting Mandrills	uma	170	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Imperious Perfect	khc	64	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Warrior
 Whisperwood Elemental	frf	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
