@@ -402,7 +402,7 @@ Hissing Quagmire	ogw	171	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Ruins of Oran-Rief	ogw	176	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Moorland Haunt	scd	310	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
-Vesuva	tsr	289	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Vesuva	tsr	289	Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Shivan Gorge	dmc	232	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Blinkmoth Well	mrd	279	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -1360,17 +1360,17 @@ Buried Ruin	2xm	312	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guildless Commons	cmm	1003	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drownyard Temple	soi	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Coral Atoll	cmr	480	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to War	cmr	486	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Petrified Field	ody	323	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dormant Volcano	cm2	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Everglades	c14	294	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Coral Atoll	cmr	480	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
+Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Memorial to War	cmr	486	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
+Petrified Field	ody	323	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Dormant Volcano	cm2	246	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
+Everglades	c14	294	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
