@@ -880,7 +880,7 @@ Etchings of the Chosen	mh1	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Echoes	ons	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skemfar Shadowsage	khm	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Radiant Destiny	rix	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chainer, Dementia Master	tor	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chainer, Dementia Master	cmm	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Folk Hero	clb	650	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 New Blood	c17	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Riders of Gavony	avr	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1640,7 +1640,6 @@ Aetherborn Marauder	kld	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voracious Hatchling	eve	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Secluded Courtyard	neo	275	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Unclaimed Territory	xln	258	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Twilight Drover	rav	33	Not Owned	occasional	Non-foil	3	W	~~	~~	Creature — Spirit
 Smallpox	tsp	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1953,7 +1952,6 @@ Body Dropper	snc	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Iconoclast	dmu	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Bolt	2x2	117	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Threadbind Clique	woe	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Temple of the False God	c20	319	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thaumatic Compass	xln	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sliver Hive	m15	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Madblind Mountain	shm	274	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1966,4 +1964,5 @@ Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bant Charm	c18	169	Not Owned	~~	Non-foil	3	G,U,W	~~	~~	Instant
 Fertile Thicket	ddr	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ally Encampment	bfz	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancient Tomb	uma	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
