@@ -9790,3 +9790,5 @@ Timestamp	Board	ChangeType	Name
 2023-09-27T08:27:03.623+00:00	mainboard	add	Staggershock
 2023-09-27T08:27:03.623+00:00	maybeboard	remove	Staggershock
 2023-09-27T08:27:03.623+00:00	maybeboard	add	Reckless Charge
+2023-09-27T08:32:47.973+00:00	mainboard	remove	Memorial to War
+2023-09-27T08:32:47.973+00:00	maybeboard	add	Memorial to War
