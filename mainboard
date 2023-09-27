@@ -159,7 +159,6 @@ Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	Green	~~	Land
 Pteramander	rna	47	Not Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Meadowboon	mma	22	Not Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
 Irencrag Pyromancer	eld	128	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Human Wizard
-Reckless Charge	ema	144	Not Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
 Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	30a	196	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	1	G	~~	~~	Sorcery
@@ -302,7 +301,6 @@ Llanowar Reborn	c21	296	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
-Memorial to Unity	dom	245	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Grind // Dust	hou	155	Not Owned	~~	Non-foil	"""2"""	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
 Fumigate	onc	69	Not Owned	wrath,lifegain	Non-foil	5	W	~~	~~	Sorcery
@@ -1359,7 +1357,6 @@ Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Buried Ruin	2xm	312	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guildless Commons	cmm	1003	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drownyard Temple	soi	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Coral Atoll	cmr	480	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
@@ -1371,15 +1368,16 @@ Petrified Field	ody	323	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Dormant Volcano	cm2	246	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Everglades	c14	294	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Temple of the False God	c20	319	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-City of Ass	unh	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+City of Ass	unh	134	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Blast from the Past	unh	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Staggershock	2x2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
