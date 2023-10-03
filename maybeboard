@@ -104,7 +104,6 @@ Ichormoon Gauntlet	one	56	Not Owned	~~	Non-foil	3	U	~~	~~	Artifact
 Ezuri, Stalker of Spheres	one	201	Not Owned	~~	Non-foil	4	G,U	~~	~~	Legendary Creature — Phyrexian Elf Warrior
 Cauldron Familiar	jmp	216	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Cat
 Howling Mine	brr	83	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
-Goblin Wizardry	m21	148	Not Owned	~~	Non-foil	4	R	~~	~~	Instant
 Manabarbs	10e	218	Not Owned	~~	Non-foil	4	R	~~	~~	Enchantment
 Giant's Skewer	eld	91	Not Owned	~~	Non-foil	2	B	~~	~~	Artifact — Equipment
 Liliana's Mastery	gnt	32	Not Owned	~~	Non-foil	5	B	~~	~~	Enchantment
@@ -296,7 +295,6 @@ Tana, the Bloodsower	c16	45	Not Owned	~~	Non-foil	4	G,R	~~	~~	Legendary Creature
 Maelstrom Colossus	cmr	322	Not Owned	~~	Non-foil	8	~~	~~	~~	Artifact Creature — Golem
 Squee, the Immortal	dom	146	Not Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
 Gavony Township	ncc	406	Not Owned	~~	Non-foil	0	W,G	~~	~~	Land
-Deeproot Champion	plst	XLN-185	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Merfolk Shaman
 Bloodline Shaman	ons	249	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Wizard Shaman
 Majestic Myriarch	c20	182	Not Owned	~~	Non-foil	5	G	~~	~~	Creature — Chimera
 Moritte of the Frost	khm	223	Not Owned	~~	Non-foil	5	G,U	~~	~~	Legendary Snow Creature — Shapeshifter
@@ -841,7 +839,6 @@ Duelist of Deep Faith	one	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stinging Hivemaster	one	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unctus's Retrofitter	one	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unctus, Grand Metatect	one	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloated Contaminator	one	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venerated Rotpriest	one	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blightbelly Rat	one	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jawbone Duelist	one	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -991,7 +988,6 @@ Trygon Prime	40k	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Mantle	ths	119	Not Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Goblin Banneret	grn	102	Not Owned	core,manasink,counters,aggro,heroic	Non-foil	1	R	~~	~~	Creature — Goblin Soldier
 Basalt Ravager	khm	122	Not Owned	~~	Non-foil	4	R	~~	~~	Creature — Giant Wizard
-Shimmerdrift Vale	khm	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bramble Sovereign	bbd	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lockjaw Snapper	shm	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyav, Master Smith	cmr	290	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1768,7 +1764,6 @@ Reflecting Pool	clb	358	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Tithe	tsr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Taranika, Akroan Veteran	thb	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oketra's Monument	akh	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pilgrim's Eye	bfz	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax and Cymede	ddl	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Poison-Tip Archer	m19	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slimefoot, the Stowaway	dom	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1787,7 +1782,6 @@ Bannerhide Krushok	mh2	149	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kari Zev's Expertise	aer	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Light 'Em Up	snc	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Borrowed Hostility	emn	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Goblin Wizardry	m21	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Merchant of the Vale	eld	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ahn-Crop Crasher	plst	AKH-117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rix Maadi Reveler	rna	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1969,7 +1963,6 @@ Bonescythe Sliver	cmm	815	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spiteful Sliver	cmm	881	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manaweft Sliver	cmm	900	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Predatory Sliver	m14	189	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tempered Sliver	mh1	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realmbreaker's Grasp	mom	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 See Double	mom	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1981,4 +1974,6 @@ Silverquill Pledgemage	stx	233	Not Owned	~~	Non-foil	3	W,B	Hybrid	~~	Creature �
 Deranged Assistant	2x2	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakashima's Protege	cmr	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archive Dragon	woe	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voracious Wurm	m14	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ageless Entity	c21	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
