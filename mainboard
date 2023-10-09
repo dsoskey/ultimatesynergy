@@ -162,13 +162,11 @@ Irencrag Pyromancer	eld	128	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature —
 Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
 Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	30a	196	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	1	G	~~	~~	Sorcery
-Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Icon of Ancestry	m20	229	Not Owned	core,tribal_payoff,tribal,manasink	Non-foil	3	~~	~~	~~	Artifact
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifice	Non-foil	1	W	~~	~~	Creature — Human Knight
 Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
-Noyan Dar, Roil Shaper	bfz	216	Not Owned	occasional	Non-foil	5	W,U	~~	~~	Legendary Creature — Merfolk Ally
 Fire // Ice	mh2	290	Not Owned	tappers,burn,removal,spells,flash,aggro,control,occasional	Non-foil	2	U,R	Hybrid	~~	Instant
 Flooded Strand	ktk	233	Owned	core,gold_land	Non-foil	0	W,U	~~	~~	Land
 Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
@@ -1255,7 +1253,6 @@ Countryside Crusher	mma	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expedite	cmr	413	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glissa, the Traitor	v16	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jor Kadeen, First Goldwarden	one	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Brago, King Eternal	khc	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Giada, Font of Hope	snc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krydle of Baldur's Gate	afr	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raging River	30a	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1395,6 +1392,7 @@ Efreet Flamepainter	stx	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Draconic Intervention	stx	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Devastating Mastery	stx	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Storm-Kiln Artist	stx	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
