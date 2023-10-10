@@ -322,7 +322,6 @@ Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Incubation Druid	rna	131	Not Owned	ramp,counters	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Lovestruck Beast	eld	165	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Beast Noble
-Return to Nature	war	175	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Reclamation Sage	scd	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
 Wolfir Avenger	avr	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Wolf Warrior
 Deep Forest Hermit	mh1	161	Not Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
@@ -352,7 +351,6 @@ Arc Lightning	ktk	97	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Knight of Autumn	grn	183	Not Owned	~~	Non-foil	3	G,W	~~	~~	Creature — Dryad Knight
 Bonecrusher Giant	eld	115	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
 Ravenous Chupacabra	rix	82	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
-Rhizome Lurcher	grn	196	Not Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Fungus Zombie
 Celestial Colonnade	uma	238	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Third Path Iconoclast	bro	223	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
 Ajani's Pridemate	j22	142	Owned	lifegain_payoff,core,aggrocontrol,heroic	Non-foil	2	W	~~	~~	Creature — Cat Soldier
@@ -850,7 +848,6 @@ Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	pz1	105	Not Owned	artifact removal,enchantment_removal	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Fa'adiyah Seer	dmr	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Emerald Charm	dmr	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Verdant Command	mh2	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mishra's Foundry	bro	265	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1377,13 +1374,15 @@ Goblin Grenade	ddt	45	Not Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
 Thud	m19	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	2xm	284	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Flamespeaker	jou	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blade Historian	stx	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Blade Historian	stx	165	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Efreet Flamepainter	stx	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Draconic Intervention	stx	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Devastating Mastery	stx	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Storm-Kiln Artist	stx	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Standard Bearer	apc	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shadow Rift	tpr	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Apostle's Blessing	plst	MM2-8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
