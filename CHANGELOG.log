@@ -9879,3 +9879,6 @@ Timestamp	Board	ChangeType	Name
 2023-10-13T21:48:35.577+00:00	mainboard	edit	Kolaghan's Command
 2023-10-13T21:48:35.577+00:00	maybeboard	remove	Rite of Oblivion
 2023-10-13T21:53:46.466+00:00	mainboard	add	Mycoloth
+2023-10-14T15:21:03.961+00:00	mainboard	add	Darksteel Ingot
+2023-10-14T15:21:03.961+00:00	maybeboard	remove	Darksteel Ingot
+2023-10-14T15:21:03.961+00:00	maybeboard	add	Skyclave Relic
