@@ -9885,3 +9885,14 @@ Timestamp	Board	ChangeType	Name
 2023-10-16T01:48:52.109+00:00	mainboard	add	Rat Out
 2023-10-16T01:48:52.109+00:00	mainboard	add	Levitating Statue
 2023-10-18T05:29:28.599+00:00	mainboard	add	Undead Butler
+2023-10-18T10:52:07.304+00:00	mainboard	add	Rishkar, Peema Renegade
+2023-10-18T10:52:07.304+00:00	mainboard	add	Oran-Rief Ooze
+2023-10-18T10:52:07.304+00:00	mainboard	add	Gonti, Lord of Luxury
+2023-10-18T10:52:07.304+00:00	mainboard	add	Goreclaw, Terror of Qal Sisma
+2023-10-18T10:52:07.304+00:00	mainboard	add	Insolent Neonate
+2023-10-18T10:52:07.304+00:00	mainboard	add	Sigrid, God-Favored
+2023-10-18T10:52:07.304+00:00	maybeboard	remove	Glistening Oil
+2023-10-18T10:52:07.304+00:00	maybeboard	remove	Gonti, Lord of Luxury
+2023-10-18T10:52:07.304+00:00	maybeboard	remove	Rishkar, Peema Renegade
+2023-10-18T10:52:07.304+00:00	maybeboard	remove	Oran-Rief Ooze
+2023-10-18T10:52:07.304+00:00	maybeboard	add	Usher of the Fallen
