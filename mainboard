@@ -20,7 +20,6 @@ Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	
 Murmuring Mystic	grn	45	Not Owned	spells,tokens,enrage,evasion,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	1	U	~~	~~	Instant
 Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
-Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,core,aggro,sacrifice	Non-foil	2	U,G	Multicolored	~~	Enchantment
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
@@ -500,7 +499,6 @@ Aether Channeler	dmu	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Experiment One	gk2	111	Not Owned	counters,aggro,aggrocontrol,durable	~~	"""~~"""	~~	~~	~~	~~
 Bala Ged Recovery	znr	180	Not Owned	~~	Non-foil	3	G	~~	~~	Sorcery
-Brokers Ascendancy	snc	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Conclave Mentor	2x2	195	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Centaur Cleric
 Skyship Plunderer	aer	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Good-Fortune Unicorn	mh1	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -573,7 +571,6 @@ Righteous Valkyrie	khm	24	Not Owned	tribal_payoff,tribal,lifegain,lifegain_payof
 Ajani, Strength of the Pride	m20	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Celestial Unicorn	afr	5	Not Owned	lifegain_payoff,heroic	~~	"""~~"""	~~	~~	~~	~~
 Light of Promise	m21	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dina, Soul Steeper	stx	178	Not Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
 Deathgreeter	gvl	33	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Shaman
 Champion of the Perished	mid	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spark Double	war	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -693,7 +690,6 @@ Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Giant Cindermaw	bro	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Squee, Dubious Monarch	dmu	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tainted Observer	one	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necrogen Communion	one	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidwing Hybrid	one	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	2x2	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -830,7 +826,7 @@ Stifle	cns	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pithing Needle	2x2	312	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Suffer the Past	c21	155	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Suffer the Past	c21	155	Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Telling Time	gk1	4	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Quicksand	a25	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	ddf	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1196,7 +1192,6 @@ Teferi's Time Twist	war	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Acquisition Octopus	neo	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Otherworldly Gaze	mid	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viridian Corrupter	onc	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Endless Detour	snc	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Impact Tremors	dtk	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ossification	one	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blacksmith's Skill	mh2	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1218,7 +1213,6 @@ Phantom Nomad	vma	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gnarlid Colony	znr	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Tiger	ima	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodwater Entity	hou	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Infuse with Vitality	stx	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrangle	aer	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ardent Elementalist	mid	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archaeomancer	uma	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1280,7 +1274,6 @@ Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Questing Druid	woe	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scalding Viper	woe	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tempest Hart	woe	238	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twining Twins	woe	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Irencrag	woe	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syr Ginger, the Meal Ender	woe	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1396,7 +1389,10 @@ Goreclaw, Terror of Qal Sisma	cmm	293	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigrid, God-Favored	khm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
+Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

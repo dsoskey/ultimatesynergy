@@ -48,7 +48,7 @@ Emmara, Soul of the Accord	grn	168	Not Owned	~~	Non-foil	2	G,W	~~	~~	Legendary C
 Strict Proctor	stx	33	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
 Niambi, Esteemed Speaker	m21	222	Not Owned	~~	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
 Boneknitter	ons	128	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie Cleric
-Shaile, Dean of Radiance	stx	158	Not Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Bird Cleric
+Shaile, Dean of Radiance	stx	158	Not Owned	~~	Non-foil	2	B,W	Hybrid	~~	Legendary Creature — Bird Cleric
 Remorseful Cleric	scd	31	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
 Temmet, Vizier of Naktamun	akh	207	Not Owned	~~	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
 Withered Wretch	hop	45	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie Cleric
@@ -137,7 +137,7 @@ Conjurer's Closet	c13	239	Not Owned	~~	Non-foil	5	~~	~~	~~	Artifact
 Gerrard's Verdict	apc	102	Not Owned	~~	Non-foil	2	B,W	~~	~~	Sorcery
 Soul of Windgrace	dmu	220	Not Owned	~~	Non-foil	4	B,G,R	~~	~~	Legendary Creature — Cat Avatar
 Juri, Master of the Revue	cmr	282	Not Owned	~~	Non-foil	2	B,R	~~	~~	Legendary Creature — Human Shaman
-Orcish Lumberjack	plst	DDL-44	Not Owned	~~	Non-foil	1	G,R	~~	~~	Creature — Orc
+Orcish Lumberjack	vma	179	Not Owned	~~	Non-foil	1	G,R	~~	~~	Creature — Orc
 Mindlink Mech	neo	62	Not Owned	~~	Non-foil	3	U	~~	~~	Artifact — Vehicle
 Deafening Clarion	grn	165	Not Owned	~~	Non-foil	3	R,W	~~	~~	Sorcery
 Zirda, the Dawnwaker	iko	233	Not Owned	~~	Non-foil	3	R,W	Hybrid	~~	Legendary Creature — Elemental Fox
@@ -145,7 +145,7 @@ Captain N'ghathrod	clb	646	Not Owned	~~	Non-foil	5	B,U	~~	~~	Legendary Creature 
 Aerial Extortionist	ncc	11	Not Owned	~~	Non-foil	5	W	~~	~~	Creature — Bird Soldier
 The First Iroan Games	thb	170	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment — Saga
 Forced Adaptation	gtc	120	Not Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
-Ajani, Sleeper Agent	dmu	375	Not Owned	~~	Non-foil	4	G,W	~~	~~	Legendary Planeswalker — Ajani
+Ajani, Sleeper Agent	dmu	192	Not Owned	~~	Non-foil	4	G,W	~~	~~	Legendary Planeswalker — Ajani
 Shabraz, the Skyshark	plst	C20-14	Not Owned	~~	Non-foil	5	U,W	~~	~~	Legendary Creature — Shark Bird
 Elsha of the Infinite	c19	40	Not Owned	~~	Non-foil	5	R,U,W	~~	~~	Legendary Creature — Djinn Monk
 Elephant Guide	ema	163	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment — Aura
@@ -171,7 +171,6 @@ Ishkanah, Grafwidow	emn	162	Not Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature
 Nyx Weaver	jou	153	Not Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
 Firemind's Research	grn	171	Not Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
 Vapor Snag	mm2	66	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
-Fire // Ice	mh2	290	Not Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Firebolt	dd2	49	Not Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Collective Defiance	emn	123	Not Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Song-Mad Treachery	znr	165	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
@@ -188,8 +187,6 @@ Gnarled Scarhide	jou	72	Not Owned	~~	Non-foil	1	B	~~	~~	Enchantment Creature —
 Prickly Boggart	mor	74	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Goblin Rogue
 Angler Turtle	scd	43	Not Owned	~~	Non-foil	7	U	~~	~~	Creature — Turtle
 Medomai's Prophecy	thb	53	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Saga
-Winding Constrictor	aer	140	Not Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Snake
-Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
 Flaxen Intruder	eld	155	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Human Berserker
 Wolfbitten Captive	dka	133	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Human Werewolf
 Mold Adder	m10	194	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus Snake
@@ -241,7 +238,6 @@ Profane Memento	m15	226	Not Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Retreat to Hagra	bfz	121	Not Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Simic Manipulator	gtc	50	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Mutant Wizard
 Sphinx of Magosi	c14	127	Not Owned	~~	Non-foil	6	U	~~	~~	Creature — Sphinx
-Give // Take	dgm	129	Not Owned	~~	Non-foil	6	G,U	~~	~~	Sorcery
 Chandra, Flamecaller	ogw	104	Not Owned	~~	Non-foil	6	R	~~	~~	Legendary Planeswalker — Chandra
 Chandra, Torch of Defiance	ss3	1	Not Owned	~~	Non-foil	4	R	~~	~~	Legendary Planeswalker — Chandra
 Soldevi Adnate	all	60a	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
@@ -274,7 +270,7 @@ Bojuka Bog	c20	259	Owned	~~	Non-foil	0	B	~~	~~	Land
 Cabal Stronghold	dom	238	Not Owned	~~	Non-foil	0	B	~~	~~	Land
 Agadeem's Awakening	znr	90	Not Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Decimate	dmr	356	Not Owned	~~	Non-foil	4	G,R	~~	~~	Sorcery
-Deus of Calamity	shm	204	Not Owned	~~	Non-foil	5	G,R	~~	~~	Creature — Spirit Avatar
+Deus of Calamity	shm	204	Not Owned	~~	Non-foil	5	G,R	Hybrid	~~	Creature — Spirit Avatar
 Devastate	pcy	87	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
 Dire-Strain Rampage	mid	219	Not Owned	~~	Non-foil	3	G,R	~~	~~	Sorcery
 Drain the Well	eve	121	Not Owned	~~	Non-foil	4	B,G	Hybrid	~~	Sorcery
@@ -324,7 +320,6 @@ Monster Manual	clb	242	Not Owned	~~	Non-foil	4	G	~~	~~	Artifact
 Bedevil	ncc	331	Not Owned	~~	Non-foil	3	B,R	~~	~~	Instant
 Enter the God-Eternals	scd	227	Not Owned	~~	Non-foil	5	B,U	~~	~~	Sorcery
 Drake Haven	akh	51	Not Owned	~~	Non-foil	3	U	~~	~~	Enchantment
-Ol' Buzzbark	ust	134	Not Owned	~~	Non-foil	2	G,R	~~	~~	Legendary Creature — Goblin Warrior
 Doomed Artisan	c19	3	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Artificer
 Thorn Mammoth	eld	323	Not Owned	~~	Non-foil	7	G	~~	~~	Creature — Elephant
 Niv-Mizzet, Parun	clb	851	Not Owned	~~	Non-foil	6	R,U	~~	~~	Legendary Creature — Dragon Wizard
@@ -481,7 +476,6 @@ Flameblast Dragon	c18	123	Not Owned	core,fliers,ramp,reanimator,removal,burn,con
 Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
 Burnished Hart	ths	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundry Inspector	kld	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Baleful Strix	pc2	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	nph	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Etherium Sculptor	ala	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Manufactor	mh2	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -527,7 +521,6 @@ Dreams of Steel and Oil	bro	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostile Negotiations	bro	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bushwhack	bro	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Suffocating Blast	apc	124	Not Owned	~~	Non-foil	4	R,U	~~	~~	Instant
 Scavenged Brawler	brc	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	nph	104	Not Owned	occasional	Non-foil	4	G	Colorless	~~	Artifact
 Purphoros's Intervention	thb	151	Not Owned	occasional	Non-foil	1	R	~~	~~	Sorcery
@@ -663,7 +656,6 @@ Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~
 Keldon Flamesage	dmu	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Defiler of Faith	dmu	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Tireless Provisioner	mh2	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retreat to Coralhelm	bfz	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Watcher of the Spheres	m21	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1155,7 +1147,7 @@ Plow Under	uds	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	iko	232	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Murktide Regent	mh2	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Woebringer Demon	rav	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mystic Snake	apc	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystic Snake	c15	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Weathered Wayfarer	ons	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Volcanic Fallout	con	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Paleoloth	con	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1210,7 +1202,7 @@ Spell Blast	tmp	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Index	apc	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Counterspell	tmp	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serpent Skin	chk	240	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Living Lands	lea	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Living Lands	30a	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thieving Magpie	uds	49	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalakos Dreamsower	tmp	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazuul, Tyrant of the Cliffs	wwk	84	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1244,9 +1236,8 @@ Qasali Pridemage	arb	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Guildmage	gpt	145	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nivix, Aerie of the Firemind	gpt	160	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vithian Renegades	arb	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pure // Simple	dis	154	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pillory of the Sleepless	gpt	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Edge of the Divinity	eve	87	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Edge of the Divinity	eve	87	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Daru Encampment	ons	315	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger of Eos	ala	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Cocoon	5dn	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1315,7 +1306,7 @@ Jace Beleren	m11	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Tracker	moc	314	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
-Wilt-Leaf Liege	2x2	294	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wilt-Leaf Liege	2x2	294	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Temple Acolyte	ddf	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brimstone Volley	isd	132	Not Owned	flash,sacrifice,spells,burn,u2.0,u2.92,removal,core,aggro,control	Non-foil	3	R	~~	~~	Instant
 Vine Trellis	ddd	4	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant Wall
@@ -1365,7 +1356,6 @@ Tajuru Paragon	znr	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orzhov Pontiff	gpt	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wild Shape	afr	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Damn	mh2	449	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Etched Familiar	mom	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nagging Thoughts	soi	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Truth or Tale	tsp	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1427,55 +1417,54 @@ Shatterskull Smashing	znr	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Primordial Mist	c18	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	mh2	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Steel of the Godhead	shm	150	Not Owned	~~	~~	"""~~"""	~~	Multicolored	~~	~~
-Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steel of the Godhead	shm	150	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shielding Plax	uma	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Spitting Image	cm2	166	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Biomass Mutation	c21	209	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dovin, Hand of Control	war	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Trace of Abundance	arb	142	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Deathbringer Liege	2x2	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deathbringer Liege	2x2	200	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Repudiate // Replicate	rna	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Daemogoth Woe-Eater	stx	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Waves of Aggression	eve	148	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Connive // Concoct	grn	222	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Connive // Concoct	grn	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Clout of the Dominus	eve	99	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dramatic Finale	pstx	180p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Evelyn, the Covetous	psnc	184p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dramatic Finale	stx	180	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Evelyn, the Covetous	snc	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Samut, Tyrant Smasher	war	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Everlasting Torment	c16	233	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Batwing Brume	eve	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Batwing Brume	eve	81	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Double Cleave	uma	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Boartusk Liege	2x2	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Boartusk Liege	2x2	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Quillspike	eve	126	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Thistledown Liege	2x2	285	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thistledown Liege	2x2	285	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Status // Statue	grn	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fracturing Gust	shm	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pest Summoning	stx	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kaya, Bane of the Dead	war	231	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Gilder Bairn	eve	152	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Torrent of Souls	mm3	213	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Ashenmoor Liege	2x2	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Oakhame Ranger	eld	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashenmoor Liege	2x2	174	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Oakhame Ranger	eld	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Call the Skybreaker	ncc	333	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Selesnya Guildmage	2xm	217	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Scourge of the Nobilis	eve	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scourge of the Nobilis	eve	146	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Witherbloom Pledgemage	stx	249	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Seedcradle Witch	shm	241	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cemetery Puca	shm	158	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cryptic Command	ima	48	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
-Deathless Knight	eld	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deathless Knight	eld	208	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Moonhold	eve	143	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flame Javelin	jvc	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Worldpurge	shm	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Worldpurge	shm	156	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rhys the Redeemed	2xm	213	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Loch Dragon	eld	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Sarkhan Vol	ala	191	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sarkhan the Mad	roe	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Toxicrene	40k	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beast Attack	ddd	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fists of the Demigod	shm	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fists of the Demigod	shm	187	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rubblebelt Raiders	dds	57	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ghostly Pilferer	m21	52	Not Owned	core,graveyard,aggrocontrol,rogues,tappers,manasink,aggro	Non-foil	2	U	~~	~~	Creature — Spirit Rogue
 Daring Saboteur	xln	49	Not Owned	core,aggrocontrol,graveyard,manasink,tappers,aggro	Non-foil	2	U	~~	~~	Creature — Human Pirate
@@ -1520,7 +1509,6 @@ Marshal of Zhalfir	mom	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angelic Shield	ddi	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Meddling Mage	2xm	210	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ardent Plea	arb	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Noyan Dar, Roil Shaper	bfz	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tura Kennerüd, Skyknight	dmu	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lukka, Bound to Ruin	one	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidding Watchtower	td2	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1530,9 +1518,8 @@ Mobilized District	dmc	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidslime	dis	137	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Courier	ncc	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Courier Bat	vow	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chrome Courier	mh2	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shadow Guildmage	tsb	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nightscape Apprentice	inv	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shadow Guildmage	tsb	46	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Nightscape Apprentice	inv	112	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Rattleclaw Mystic	ktk	144	Not Owned	~~	Non-foil	2	U,R,G	Green	~~	Creature — Human Shaman
 Thopter Spy Network	ori	79	Not Owned	artifacts,stax,artifacts_payoff,evasion,u2.0,core	Non-foil	4	U	~~	~~	Enchantment
 The Antiquities War	dom	42	Not Owned	core,artifacts_payoff,artifacts	Non-foil	4	U	~~	~~	Enchantment — Saga
@@ -1610,7 +1597,6 @@ Vishgraz, the Doomhive	onc	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hide // Seek	dis	151	Not Owned	~~	Non-foil	4	B,R,W	~~	~~	Instant
 Raffine, Scheming Seer	snc	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Intrepid Hero	m13	20	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Soldier
-Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magus of the Order	cmr	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chronomancer	40k	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotleth Troll	2x2	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1622,7 +1608,7 @@ Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Equal Treatment	tor	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cheatyface	und	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aetherborn Marauder	kld	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Voracious Hatchling	eve	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Voracious Hatchling	eve	97	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Secluded Courtyard	neo	275	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Unclaimed Territory	xln	258	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Ancient Ziggurat	con	141	Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
@@ -1678,7 +1664,7 @@ Karlov of the Ghost Council	c15	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rhys the Exiled	khc	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gorging Vulture	m20	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soldier of the Pantheon	ths	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Six-Sided Die	unf	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kytheon, Hero of Akros	ori	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
@@ -1719,8 +1705,8 @@ Hero of Precinct One	rna	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pact of the Titan	fut	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Intervention Pact	fut	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Juvenile Gloomwidow	shm	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arsenal Thresher	hop	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Crackleburr	eve	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arsenal Thresher	hop	96	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Crackleburr	eve	100	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Coalition Construct	ydmu	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirit of the Hearth	c17	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 World Queller	zen	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1747,7 +1733,6 @@ Boon Satyr	c18	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal of Primordium	mm3	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Alchemy	2x2	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lutri, the Spellchaser	iko	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bruse Tarl, Boorish Herder	c16	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spare Supplies	znr	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mimic Vat	c20	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1757,11 +1742,9 @@ Taranika, Akroan Veteran	thb	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oketra's Monument	akh	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax and Cymede	ddl	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Poison-Tip Archer	m19	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Slimefoot, the Stowaway	dom	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corpse Knight	m20	206	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prepare // Fight	akh	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hackrobat	rna	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blazing Specter	ddh	52	Not Owned	occasional	Non-foil	4	B,R	~~	~~	Creature — Specter
 Sphinx Summoner	2xm	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Diviner	pwar	218p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrash // Threat	rna	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1834,7 +1817,6 @@ Ledger Shredder	snc	46	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Sea Gate Oracle	roe	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scorched Rusalka	gpt	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Struggle for Skemfar	khm	196	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
-Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
 Wire Surgeons	brc	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
@@ -1842,7 +1824,7 @@ Void	ema	211	Owned	occasional	Non-foil	5	B,R	~~	~~	Sorcery
 Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Rite of Oblivion	mid	237	Not Owned	occasional,sacrifice,enchantment_removal,artifact_removal,graveyard,graveyard_hate,tokens,durable	~~	"""~~"""	~~	~~	~~	~~
 Godo, Bandit Warlord	2xm	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Balefire Liege	2x2	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Balefire Liege	2x2	180	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flame Jab	eve	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Explosive Entry	neo	139	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Demonic Embrace	gn3	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1873,7 +1855,7 @@ Cheeky House-Mouse	woe	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Discerning Financier	woe	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Three Blind Mice	woe	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grasp of Darkness	ogw	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Inside Out	eve	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inside Out	eve	103	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Boundary Lands Ranger	woe	123	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Totentanz, Swarm Piper	woe	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unravel the Aether	bng	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1972,7 +1954,6 @@ Thrilling Discovery	stx	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flamescroll Celebrant	stx	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brago, King Eternal	khc	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Noyan Dar, Roil Shaper	bfz	216	Not Owned	occasional	Non-foil	5	W,U	~~	~~	Legendary Creature — Merfolk Ally
-Rielle, the Everwise	iko	203	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Brighthearth Banneret	mor	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Narnam Renegade	aer	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goldberry, River-Daughter	ltr	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1989,4 +1970,11 @@ Ancestral Anger	vow	142	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer's Edict	vma	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Relic	znr	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Usher of the Fallen	khm	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Infuse with Vitality	stx	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dina, Soul Steeper	stx	178	Not Owned	~~	Non-foil	2	B,G	~~	~~	Legendary Creature — Dryad Druid
+Ongoing Investigation	soi	77	Not Owned	artifacts,manasink,fliers,lifegain,graveyard,tokens,tappers,wide,stax,fliers_payoff,tappers_payoff,aggrocontrol,core,aggro,sacrifice	Non-foil	2	U,G	Multicolored	~~	Enchantment
+Tainted Observer	one	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tempest Hart	woe	238	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Endless Detour	snc	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brokers Ascendancy	snc	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
