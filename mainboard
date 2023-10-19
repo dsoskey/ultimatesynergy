@@ -125,7 +125,6 @@ Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legen
 Bituminous Blast	pca	83	Owned	occasional	Non-foil	5	B,R	~~	~~	Instant
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
-Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
@@ -432,7 +431,6 @@ Vastwood Fortification	znr	216	Not Owned	~~	Non-foil	1	G	~~	~~	Instant
 Stealth Mission	war	70	Not Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Restoration Specialist	aer	21	Not Owned	tutor,graveyard,heroic,control	Non-foil	2	W	~~	~~	Creature — Dwarf Artificer
 Ghired, Conclave Exile	oc19	42	Not Owned	~~	Non-foil	5	G,R,W	~~	~~	Legendary Creature — Human Shaman
-Ancient Grudge	mm3	88	Not Owned	~~	Non-foil	2	G,R	~~	~~	Instant
 Kolaghan's Command	dtk	224	Not Owned	~~	Non-foil	3	B,R	~~	~~	Instant
 Arcanist's Owl	nec	135	Not Owned	~~	Non-foil	4	U,W	Hybrid	~~	Artifact Creature — Bird
 Wingcrafter	mm3	58	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
@@ -720,7 +718,6 @@ Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adeliz, the Cinder Wind	dom	190	Not Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Sedgemoor Witch	stx	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellgorger Weird	war	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wandering Mind	vow	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Slash	cn2	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Windrider Wizard	znr	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
@@ -839,7 +836,6 @@ Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imprisoned in the Moon	emn	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hull Breach	pz1	105	Not Owned	artifact removal,enchantment_removal	~~	"""~~"""	~~	~~	~~	~~
 Castle Embereth	eld	239	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Fa'adiyah Seer	dmr	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Verdant Command	mh2	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1162,7 +1158,6 @@ Watcher for Tomorrow	mh1	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Indulgent Aristocrat	soi	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cordial Vampire	mh1	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Eternal	war	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fblthp, the Lost	war	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shipwreck Dowser	m21	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Old Rutstein	vow	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manaform Hellkite	vow	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1397,6 +1392,9 @@ Eliminate	m21	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangled Florahedron	znr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Witness	mh2	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smoke Shroud	mh1	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skyshroud Ranger	10e	297	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Weeping Angel	who	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hada Freeblade	wwk	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
