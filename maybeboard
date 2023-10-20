@@ -435,10 +435,6 @@ Lutri, the Spellchaser	iko	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pink Horror	40k	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Uro, Titan of Nature's Wrath	thb	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kaldra Compleat	mh2	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Seat of the Synod	mrd	283	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ancient Den	mrd	278	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Great Furnace	mrd	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vault of Whispers	mrd	286	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wild Mongrel	plst	DDD-5	Not Owned	core,graveyard,aggro	Non-foil	2	G	~~	~~	Creature — Dog
 Amethyst Dragon	clb	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emerald Dragon	clb	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -713,7 +709,6 @@ Secluded Steppe	c20	307	Not Owned	~~	Non-foil	0	W	~~	~~	Land
 New Benalia	fut	172	Not Owned	~~	Non-foil	0	W	~~	~~	Land
 Lonely Sandbar	mh1	242	Not Owned	~~	Non-foil	0	U	~~	~~	Land
 Forgotten Cave	c20	274	Not Owned	~~	Non-foil	0	R	~~	~~	Land
-Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Game Trail	clb	894	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
 Port Town	ncc	420	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Kazandu Refuge	scd	307	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
@@ -1860,7 +1855,6 @@ Cogwork Librarian	cns	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Branching Bolt	arc	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hollowhead Sliver	mh1	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lavabelly Sliver	mh1	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tempered Sliver	mh1	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Natural End	m20	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mocking Sprite	woe	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angelic Purge	soi	3	Not Owned	core,removal,sacrifice,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
@@ -1986,4 +1980,7 @@ Wandering Mind	vow	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Enigma Drake	akh	198	Not Owned	core,spells,graveyard,fliers,aggrocontrol,aggro,control	Non-foil	3	U,R	~~	~~	Creature — Drake
 Return the Past	who	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	gk1	90	Not Owned	core,lifegain,burn,spells,flash,removal,aggro,control	Non-foil	2	W,R	~~	~~	Instant
+Unmarked Grave	mh2	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hall of Heliod's Generosity	mh1	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Treasure Vault	afr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
