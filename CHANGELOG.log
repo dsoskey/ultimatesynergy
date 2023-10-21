@@ -10040,3 +10040,6 @@ Timestamp	Board	ChangeType	Name
 2023-10-20T23:56:46.368+00:00	maybeboard	add	Unmarked Grave
 2023-10-20T23:56:46.368+00:00	maybeboard	add	Hall of Heliod's Generosity
 2023-10-20T23:56:46.368+00:00	maybeboard	add	Treasure Vault
+2023-10-21T01:53:51.634+00:00	mainboard	remove	Tori D'Avenant, Fury Rider
+2023-10-21T01:53:51.634+00:00	mainboard	add	Cloudshredder Sliver
+2023-10-21T01:53:51.634+00:00	maybeboard	add	Tori D'Avenant, Fury Rider
