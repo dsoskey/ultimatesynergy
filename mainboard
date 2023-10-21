@@ -365,7 +365,6 @@ Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	Green	~~	Land
 Ghost Quarter	cm2	253	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Haunted Fengraf	a25	240	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Jungle Basin	cma	258	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Fearless Fledgling	znr	15	Not Owned	lands,heroic,fliers,fliers_payoff,aggro,aggrocontrol	Non-foil	2	W	~~	~~	Creature — Griffin
 Thieving Skydiver	znr	85	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
@@ -972,7 +971,6 @@ Razortide Bridge	mh2	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mistvault Bridge	mh2	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goldmire Bridge	mh2	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silverbluff Bridge	mh2	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Karoo	c14	303	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Raugrin Triome	iko	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Savai Triome	iko	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raffine's Tower	snc	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1323,13 +1321,10 @@ Guildless Commons	cmm	1003	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drownyard Temple	soi	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
-Coral Atoll	cmr	480	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Petrified Field	ody	323	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Dormant Volcano	cm2	246	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
-Everglades	c14	294	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
@@ -1400,10 +1395,9 @@ Liquimetal Torque	mh2	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tempered Sliver	mh1	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Cat	dka	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Warp	e02	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Seat of the Synod	mrd	283	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Great Furnace	mrd	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Seat of the Synod	mrd	283	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Great Furnace	mrd	282	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Darksteel Citadel	dst	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vault of Whispers	mrd	286	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slagwoods Bridge	mh2	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thornglint Bridge	mh2	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tanglepool Bridge	mh2	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
