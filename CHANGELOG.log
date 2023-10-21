@@ -10062,3 +10062,7 @@ Timestamp	Board	ChangeType	Name
 2023-10-21T18:49:16.658+00:00	maybeboard	add	Everglades
 2023-10-21T18:49:16.658+00:00	maybeboard	add	Dormant Volcano
 2023-10-21T18:49:16.658+00:00	maybeboard	add	Jungle Basin
+2023-10-21T19:06:59.344+00:00	mainboard	remove	Territorial Kavu
+2023-10-21T19:06:59.344+00:00	maybeboard	remove	Stone Haven Pilgrim
+2023-10-21T19:06:59.344+00:00	maybeboard	remove	Watcher of the Spheres
+2023-10-21T19:06:59.344+00:00	maybeboard	add	Territorial Kavu
