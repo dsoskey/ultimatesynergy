@@ -136,7 +136,6 @@ Mirrorweave	cm2	162	Not Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Instant
 Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
-Sedraxis Specter	mm3	181	Not Owned	occasional	Non-foil	3	B,R,U	~~	~~	Creature — Specter
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
@@ -1410,6 +1409,7 @@ Double Vision	ncc	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magical Hacker	unh	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staying Power	und	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vorapede	dka	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kess, Dissident Mage	c17	39	Not Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Creature — Human Wizard
 Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
