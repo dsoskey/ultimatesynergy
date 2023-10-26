@@ -10116,3 +10116,6 @@ Timestamp	Board	ChangeType	Name
 2023-10-25T04:26:52.627+00:00	maybeboard	remove	Wandering Fumarole
 2023-10-25T04:26:52.627+00:00	maybeboard	remove	Surtland Frostpyre
 2023-10-25T19:58:39.463+00:00	mainboard	add	Talent of the Telepath
+2023-10-26T22:39:25.893+00:00	mainboard	remove	Ravenous Rats
+2023-10-26T22:39:25.893+00:00	mainboard	add	Nezumi Informant
+2023-10-26T22:39:25.893+00:00	maybeboard	add	Ravenous Rats
