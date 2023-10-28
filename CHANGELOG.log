@@ -10144,3 +10144,9 @@ Timestamp	Board	ChangeType	Name
 2023-10-28T21:28:58.584+00:00	mainboard	add	Illuminator Virtuoso
 2023-10-28T21:28:58.584+00:00	mainboard	add	Saddled Rimestag
 2023-10-28T21:28:58.584+00:00	maybeboard	add	Ivy, Gleeful Spellthief
+2023-10-28T23:20:23.589+00:00	mainboard	add	Moon-Blessed Cleric
+2023-10-28T23:20:23.589+00:00	mainboard	add	Arcbound Prototype
+2023-10-28T23:20:23.589+00:00	mainboard	add	Rout
+2023-10-28T23:20:23.589+00:00	maybeboard	remove	Moon-Blessed Cleric
+2023-10-28T23:20:23.589+00:00	maybeboard	remove	Moon-Blessed Cleric
+2023-10-28T23:20:23.589+00:00	maybeboard	add	Odric's Outrider
