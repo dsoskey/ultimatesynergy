@@ -946,7 +946,7 @@ Hinder	chk	65	Not Owned	core,control,aggrocontrol,spells,flash	Non-foil	3	U	~~	~
 Misdirection	ddt	15	Not Owned	occasional	Non-foil	5	U	~~	~~	Instant
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Umara Mystic	znr	238	Not Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
-Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Funeral Charm	vis	61	Not Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
 Bane of Progress	plst	C15-175	Not Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
 Skinshifter	m12	195	Not Owned	core,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Darkblast	rav	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
