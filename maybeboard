@@ -757,7 +757,6 @@ Mark of Mutiny	zen	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightshade Harvester	cmr	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skullbriar, the Walking Grave	pcmd	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slurrk, All-Ingesting	cmr	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Necrosynthesis	mid	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unexpected Fangs	iko	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Essence Capture	rna	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bess, Soul Nourisher	ncc	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1378,7 +1377,6 @@ Trash for Treasure	2xm	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sokenzan Smelter	neo	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voltage Surge	neo	171	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Descent into Avernus	clb	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Trigger Happy	unf	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Woodfall Primus	ncc	322	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spiteful Visions	scd	245	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Thopter Foundry	2xm	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1411,7 +1409,6 @@ Evelyn, the Covetous	snc	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Samut, Tyrant Smasher	war	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Everlasting Torment	c16	233	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Batwing Brume	eve	81	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Double Cleave	uma	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Boartusk Liege	2x2	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Quillspike	eve	126	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Thistledown Liege	2x2	285	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -2036,3 +2033,5 @@ Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halls of Mist	ice	354	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
 Felidar Umbra	pca	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kindled Heroism	woe	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sure Strike	bfz	157	Not Owned	removal,heroic,aggro,beats,burn	~~	"""~~"""	~~	~~	~~	~~
