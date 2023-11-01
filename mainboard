@@ -493,7 +493,6 @@ Barrin, Tolarian Archmage	m21	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Experiment One	gk2	111	Not Owned	counters,aggro,aggrocontrol,durable	~~	"""~~"""	~~	~~	~~	~~
 Bala Ged Recovery	znr	180	Not Owned	~~	Non-foil	3	G	~~	~~	Sorcery
 Conclave Mentor	2x2	195	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Centaur Cleric
-Skyship Plunderer	aer	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Good-Fortune Unicorn	mh1	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Renata, Called to the Hunt	thb	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ascendant Packleader	vow	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -704,7 +703,7 @@ Mirror of the Forebears	c17	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Return from Extinction	mh1	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Volatile Claws	mh1	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Vengeance	eld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Selective Snare	grn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Selective Snare	grn	53	Not Owned	~~	~~	"""3NaN"""	~~	~~	~~	~~
 Wings of Velis Vel	mm2	70	Not Owned	tribal,tribal_payoff,control,aggrocontrol,aggro,core,fliers	~~	"""~~"""	~~	~~	~~	~~
 Cavern of Souls	2x2	320	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Zephyr Boots	stx	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1266,7 +1265,6 @@ Restless Spire	woe	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Restless Vinestalk	woe	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sleight of Hand	uma	70	Not Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Snaremaster Sprite	woe	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Succumb to the Cold	woe	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Dreamthief	woe	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fell Horseman	woe	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goddric, Cloaked Reveler	woe	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1437,5 +1435,6 @@ Merfolk Windrobber	znr	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infectious Bite	one	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Advocate	ogw	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lash of Malice	stx	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gamekeeper	uds	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
