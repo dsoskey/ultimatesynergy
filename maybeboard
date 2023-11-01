@@ -642,7 +642,6 @@ Moment's Peace	td0	A80	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Inniaz, the Gale Force	jmp	12	Not Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
 Temple of Mystery	m20	255	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
-Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Keldon Flamesage	dmu	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Defiler of Faith	dmu	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -791,7 +790,6 @@ Contortionist Troupe	mid	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Opposition Agent	cmr	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Banshee	shm	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kulrath Knight	shm	190	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Withering Wisps	ice	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tower Above	shm	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2038,3 +2036,5 @@ Walking Atlas	wwk	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thawing Glaciers	vma	318	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glacial Chasm	v12	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inevitable Betrayal	mh2	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Halls of Mist	ice	354	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
