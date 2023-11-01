@@ -10212,3 +10212,10 @@ Timestamp	Board	ChangeType	Name
 2023-11-01T20:29:51.457+00:00	maybeboard	remove	Sea Gate Oracle
 2023-11-01T20:29:51.457+00:00	maybeboard	add	Desert
 2023-11-01T20:29:51.457+00:00	maybeboard	add	Halls of Mist
+2023-11-01T20:37:45.085+00:00	mainboard	remove	Jubilant Skybonder
+2023-11-01T20:37:45.085+00:00	mainboard	remove	Felidar Umbra
+2023-11-01T20:37:45.085+00:00	mainboard	remove	Swords to Plowshares
+2023-11-01T20:37:45.085+00:00	maybeboard	edit	Benthic Biomancer
+2023-11-01T20:37:45.085+00:00	maybeboard	remove	Galerider Sliver
+2023-11-01T20:37:45.085+00:00	maybeboard	add	Swords to Plowshares
+2023-11-01T20:37:45.085+00:00	maybeboard	add	Felidar Umbra

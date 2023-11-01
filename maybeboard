@@ -1084,7 +1084,7 @@ Bookwurm	stx	123	Not Owned	occasional	Non-foil	8	G	~~	~~	Creature — Wurm
 Captivating Crew	xln	137	Not Owned	sacrifice,manasink,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
 Izzet Chemister	a25	138	Not Owned	spells,burn,graveyard,core,manasink,control	Non-foil	3	R	~~	~~	Creature — Goblin Wizard
 Crystalline Crawler	c16	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Benthic Biomancer	rna	32	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard Mutant
+Benthic Biomancer	rna	32	Not Owned	broken	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard Mutant
 Exhume	jmp	230	Not Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Stupor	tsb	48	Not Owned	spells,aggrocontrol,u2.0,core,aggro	Non-foil	3	B	~~	~~	Sorcery
 Komainu Battle Armor	nec	21	Not Owned	~~	Non-foil	3	R	~~	~~	Artifact Creature — Equipment Dog
@@ -1365,7 +1365,6 @@ Brinebarrow Intruder	khm	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gift of Tusks	ogw	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ascendant Spirit	khm	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Siren Stormtamer	xln	79	Not Owned	fliers,flash,wide,heroic,evasion,aggrocontrol,u3.3,core,aggro	Non-foil	1	U	~~	~~	Creature — Siren Pirate Wizard
-Galerider Sliver	m14	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slither Blade	akh	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wash Away	vow	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2038,3 +2037,5 @@ Glacial Chasm	v12	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inevitable Betrayal	mh2	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halls of Mist	ice	354	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
+Felidar Umbra	pca	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
