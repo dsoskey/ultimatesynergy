@@ -91,7 +91,6 @@ Body Launderer	snc	68	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Ogre Rogue
 Clone Shell	2xm	241	Not Owned	~~	Non-foil	5	~~	~~	~~	Artifact Creature — Shapeshifter
 The Cauldron of Eternity	eld	82	Not Owned	~~	Non-foil	12	B	~~	~~	Legendary Artifact
 Zhalfirin Void	afc	273	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Alesha, Who Smiles at Death	c20	143	Not Owned	~~	Non-foil	3	B,R,W	~~	~~	Legendary Creature — Human Warrior
 Twilight Prophet	plst	RIX-88	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Vampire Cleric
 Triskelion	plst	M11-218	Owned	~~	Non-foil	6	~~	~~	~~	Artifact Creature — Construct
 Priest of Urabrask	nph	90	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Phyrexian Human Cleric
@@ -479,7 +478,6 @@ Ethersworn Canonist	ala	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Junk Diver	c14	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	c18	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief of the Foundry	ori	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Enthusiastic Mechanaut	neo	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scion of Draco	mh2	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kappa Cannoneer	nec	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Traxos, Scourge of Kroog	dom	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1342,7 +1340,6 @@ Truth or Tale	tsp	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreg Mangler	rtr	158	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plant Zombie
 Leyline Prowler	war	202	Not Owned	~~	Non-foil	3	B,G	~~	~~	Creature — Nightmare Beast
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
-Frilled Mystic	rna	174	Not Owned	flash,aggrocontrol,blink,core,aggro,control	Non-foil	4	U,G	~~	~~	Creature — Elf Lizard Wizard
 Bounding Krasis	ori	212	Not Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Fish Lizard
 Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
 Siege Rhino	cp3	5	Not Owned	occasional	Non-foil	4	B,G,W	~~	~~	Creature — Rhino

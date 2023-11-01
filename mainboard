@@ -87,7 +87,6 @@ Legion's Landing	xln	22	Not Owned	lifegain,tokens,control,aggrocontrol,repeatabl
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Not Owned	core,lifegain,spells,burn,aggro,control,aggrocontrol,repeatable,manasink	Non-foil	2	W	White	~~	Creature — Human Monk
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
-Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
@@ -1059,7 +1058,6 @@ Diamond Mare	m19	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inventors' Fair	kld	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	lands,lifegain,repeatable,ramp	~~	"""~~"""	~~	~~	~~	~~
 Abiding Grace	mh2	1	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment
-Felidar Umbra	pca	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 GO TO JAIL	und	6	Not Owned	aggro,removal	~~	"""~~"""	~~	~~	~~	~~
 Psychomancer	40k	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filter Out	mat	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1362,7 +1360,6 @@ Gonti, Lord of Luxury	jmp	240	Not Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature
 Goreclaw, Terror of Qal Sisma	cmm	293	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigrid, God-Favored	khm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
 Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Footlight Fiend	rna	216	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
