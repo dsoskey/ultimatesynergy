@@ -71,8 +71,8 @@ Viconia, Drow Apostate	clb	156	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Creatur
 Emissary of Sunrise	xln	10	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Sower of Temptation	bbd	131	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
 Strip Mine	v09	13	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Mana Confluence	jou	163	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Warped Landscape	soi	280	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
+Mana Confluence	jou	163	Not Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
+Warped Landscape	soi	280	Not Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Sequestered Stash	kld	248	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Throat Slitter	pc2	37	Not Owned	~~	Non-foil	5	B	~~	~~	Creature — Rat Ninja
 Wild Nacatl	ddh	4	Owned	~~	Non-foil	1	W,R,G	~~	~~	Creature — Cat Warrior
@@ -339,7 +339,6 @@ Tolarian Terror	dmu	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manamorphose	shm	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Faithless Looting	dka	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abomination of Gudul	ktk	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Humility	tmp	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selvala, Explorer Returned	cns	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunset Revelry	mid	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timely Reinforcements	m12	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -394,7 +393,6 @@ Tezzeret, Betrayer of Flesh	neo	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hapless Researcher	jud	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emry, Lurker of the Loch	eld	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Academy Ruins	tsp	269	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Displacer Kitten	clb	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stinkweed Imp	rav	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -464,7 +462,6 @@ Kuldotha Forgemaster	som	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Millikin	ody	302	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angel of the Ruins	c21	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bronze Guardian	c21	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Duplicant	mrd	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethersworn Canonist	ala	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Junk Diver	c14	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	c18	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -920,7 +917,6 @@ Breakthrough	2x2	41	Not Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Preordain	m11	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Curiosity	isd	49	Not Owned	heroic,fliers,pingers,tappers,fliers_payoff,tappers_payoff,aggrocontrol,u3.8,occasional	Non-foil	1	U	~~	~~	Enchantment — Aura
 Abzan Charm	2x2	166	Not Owned	~~	Non-foil	3	B,G,W	~~	~~	Instant
-Dakmor Salvage	ddj	79	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Blighted Cataract	ddt	26	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
 Blighted Steppe	bfz	232	Not Owned	~~	Non-foil	0	W	White	~~	Land
 Giant Solifuge	gpt	143	Not Owned	occasional	Non-foil	4	R,G	Hybrid	~~	Creature — Insect
@@ -1080,7 +1076,7 @@ Embolden	ody	22	Not Owned	~~	Non-foil	3	W	~~	~~	Instant
 Tide Shaper	mh2	72	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Merfolk Wizard
 Fleetfoot Dancer	snc	188	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nykthos Paragon	mh2	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nykthos, Shrine to Nyx	ths	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nykthos, Shrine to Nyx	ths	223	Not Owned	~~	~~	"""~~"""	W,U,B,G,R	~~	~~	~~
 Bone Shards	mh2	395	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Valorous Stance	j22	263	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Ethereal Armor	q06	2	Not Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
@@ -1762,7 +1758,6 @@ Leonin Bola	dst	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dancing Sword	afr	8	Not Owned	heroic,artifacts,aggrocontrol,aggro	~~	"""~~"""	~~	~~	~~	~~
 Healing Grace	dom	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	snc	46	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
-Sea Gate Oracle	roe	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scorched Rusalka	gpt	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Struggle for Skemfar	khm	196	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
 Blightning	ala	156	Not Owned	core,aggrocontrol,burn,spells,aggro	Non-foil	3	B,R	~~	~~	Sorcery
@@ -2013,3 +2008,4 @@ Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional
 Felidar Umbra	pca	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kindled Heroism	woe	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sure Strike	bfz	157	Not Owned	removal,heroic,aggro,beats,burn	~~	"""~~"""	~~	~~	~~	~~
+Swift Justice	ddn	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
