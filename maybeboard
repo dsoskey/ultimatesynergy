@@ -82,7 +82,6 @@ Brigid, Hero of Kinsbaile	lrw	6	Not Owned	~~	Non-foil	4	W	~~	~~	Legendary Creatu
 Fateful Absence	mid	328	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Inexorable Blob	soi	212	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Ooze
 Blight Mound	c21	36	Not Owned	~~	Non-foil	3	B	~~	~~	Enchantment
-Fateful Absence	mid	328	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Scavenging Ooze	m21	318	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Ooze
 Body Launderer	snc	68	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Ogre Rogue
 Clone Shell	2xm	241	Not Owned	~~	Non-foil	5	~~	~~	~~	Artifact Creature — Shapeshifter
@@ -195,7 +194,6 @@ Koll, the Forgemaster	khm	220	Not Owned	~~	Non-foil	2	R,W	~~	~~	Legendary Creatu
 Heroic Reinforcements	onc	118	Not Owned	~~	Non-foil	4	R,W	~~	~~	Sorcery
 Aurelia, Exemplar of Justice	grn	153	Not Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Creature — Angel
 Flame-Kin Zealot	rav	206	Not Owned	~~	Non-foil	4	R,W	~~	~~	Creature — Elemental Berserker
-Nobilis of War	mm2	195	Not Owned	~~	Non-foil	5	R,W	~~	~~	Creature — Spirit Avatar
 Spear of Heliod	ths	33	Not Owned	~~	Non-foil	3	W	~~	~~	Legendary Enchantment Artifact
 Rally the Peasants	uma	28	Not Owned	~~	Non-foil	3	R,W	~~	~~	Instant
 Bring to Light	bfz	209	Not Owned	~~	Non-foil	5	G,U	~~	~~	Sorcery
@@ -360,7 +358,6 @@ Beast Within	nph	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zuran Orb	mh2	300	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flagstones of Trokair	tsp	272	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Weaponcraft Enthusiast	kld	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gisa and Geralf	emn	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kiora, the Crashing Wave	bng	149	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Satyr Wayfinder	bng	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1155,7 +1152,7 @@ Resurrection	tsb	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drudge Skeletons	8ed	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise Dead	cn2	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Disenchant	lea	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Muddle the Mixture	rav	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Compulsive Research	rav	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sage Owl	wth	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1397,7 +1394,7 @@ Connive // Concoct	grn	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Clout of the Dominus	eve	99	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dramatic Finale	stx	180	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Evelyn, the Covetous	snc	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Samut, Tyrant Smasher	war	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Samut, Tyrant Smasher	war	235	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Everlasting Torment	c16	233	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Batwing Brume	eve	81	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Boartusk Liege	2x2	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1581,7 +1578,6 @@ Temple of Epiphany	m20	253	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
 Temple of Deceit	scd	324	Not Owned	~~	Non-foil	0	U,B	~~	~~	Land
 Temple of Mystery	m20	255	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Fallen Askari	vma	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Violent Eruption	tor	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Angelfire Ignition	mid	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alabaster Mage	2xm	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aerial Responder	c20	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1701,7 +1697,6 @@ Corpse Knight	m20	206	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prepare // Fight	akh	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hackrobat	rna	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sphinx Summoner	2xm	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Soul Diviner	pwar	218p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrash // Threat	rna	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Band Together	clb	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ferropede	5dn	122	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Insect
@@ -1989,7 +1984,7 @@ Rocco, Cabaretti Caterer	snc	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Basri's Solidarity	m21	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Incubation Druid	rna	131	Not Owned	ramp,counters	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Disciple of the Vault	2xm	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ognis, the Dragon's Lash	snc	210	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Odric's Outrider	mid	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zur, Eternal Schemer	dmu	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Diviner	war	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
