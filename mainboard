@@ -585,7 +585,6 @@ Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
 Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
 Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
-Swift Justice	ddn	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divine Reckoning	c19	62	Not Owned	wrath,heroic,graveyard	~~	"""~~"""	~~	~~	~~	~~
 No One Left Behind	bro	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1435,7 +1434,7 @@ Tower of the Magistrate	mmq	330	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myriad Landscape	onc	159	Not Owned	~~	Non-foil	0	W,B,R,U,G	~~	~~	Land
 Krosan Verge	dmc	216	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
 Nesting Grounds	c20	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Spawning Pool	10e	358	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spawning Pool	10e	358	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Emergence Zone	war	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Orchard	chk	276	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Trigger Happy	unf	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1446,10 +1445,12 @@ Cabal Pit	ody	315	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Guildmages' Forum	grn	250	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Cathedral of War	m13	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
-Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hall of Heliod's Generosity	mh1	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Hall of Heliod's Generosity	mh1	241	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Mikokoro, Center of the Sea	sok	162	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fateful Absence	mid	328	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
-Violent Eruption	c19	154	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
+Violent Eruption	c19	154	Not Owned	~~	Non-foil	0	R	Red	~~	Land
+Dakmor Salvage	ddj	79	Not Owned	~~	Non-foil	0	B	Black	~~	Land
+Academy Ruins	tsp	269	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

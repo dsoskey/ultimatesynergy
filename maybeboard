@@ -61,7 +61,7 @@ Force of Virtue	mh1	10	Not Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Toolcraft Exemplar	kld	32	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Dwarf Artificer
 Nikara, Lair Scavenger	c20	3	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
 Jerren, Corrupted Bishop	mid	109	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
-Torens, Fist of the Angels	vow	344	Not Owned	~~	Non-foil	3	G,W	~~	~~	Legendary Creature — Human Cleric
+Torens, Fist of the Angels	vow	249	Not Owned	~~	Non-foil	3	G,W	~~	~~	Legendary Creature — Human Cleric
 Geist of Saint Traft	ddq	1	Not Owned	~~	Non-foil	3	U,W	~~	~~	Legendary Creature — Spirit Cleric
 Runo Stromkirk	vow	246	Not Owned	~~	Non-foil	3	B,U	~~	~~	Legendary Creature — Vampire Cleric
 Extricator of Sin	emn	23	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
@@ -123,7 +123,7 @@ Park Heights Maverick	ncc	63	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Human 
 Draconic Destiny	bro	130	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Aura
 Mechanized Warfare	bro	139	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Gaea's Gift	bro	182	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
-Shadrix Silverquill	stx	280	Not Owned	~~	Non-foil	5	B,W	~~	~~	Legendary Creature — Elder Dragon
+Shadrix Silverquill	stx	230	Not Owned	~~	Non-foil	5	B,W	~~	~~	Legendary Creature — Elder Dragon
 Viashino Heretic	ulg	95	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Viashino
 Industrial Advancement	ncc	47	Not Owned	~~	Non-foil	4	R	~~	~~	Enchantment
 Dulcet Sirens	c14	14	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Siren
@@ -1693,7 +1693,7 @@ Corpse Knight	m20	206	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prepare // Fight	akh	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hackrobat	rna	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sphinx Summoner	2xm	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Thrash // Threat	rna	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thrash // Threat	rna	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Band Together	clb	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ferropede	5dn	122	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Insect
 Nishoba Brawler	dmu	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1850,7 +1850,6 @@ Crystalline Giant	iko	234	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature —
 Firemane Avenger	gk1	89	Not Owned	tokens,fliers,lifegain,evasion,wide,u4.6.4,occasional	Non-foil	4	W,R	~~	~~	Creature — Angel
 Cliffhaven Vampire	ogw	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolf-Skull Shaman	mor	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sprouting Thrinax	mm3	189	Not Owned	occasional	Non-foil	3	B,G,R	~~	~~	Creature — Lizard
 Anafenza, the Foremost	ktk	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Body Dropper	snc	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Iconoclast	dmu	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
