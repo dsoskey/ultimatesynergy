@@ -29,7 +29,7 @@ Skinrender	2x2	91	Owned	zombies,counters,blink,aggrocontrol,removal,core,aggro,c
 Tragic Slip	cmm	192	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
 Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,occasional	Non-foil	4	B	~~	~~	Sorcery
-Grim Lavamancer	2xm	129	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
+Grim Lavamancer	dmr	126	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	mm2	127	Owned	heroic,manasink,flash,wide,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
 Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Goblin Cratermaker	grn	103	Not Owned	artifact_removal,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
@@ -1454,4 +1454,8 @@ Violent Eruption	c19	154	Not Owned	~~	Non-foil	0	R	Red	~~	Land
 Dakmor Salvage	ddj	79	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Academy Ruins	tsp	269	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Pollenbright Druid	war	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Monk of the Open Hand	afr	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Recruitment Officer	bro	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cemetery Gatekeeper	vow	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+River of Tears	clb	912	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
