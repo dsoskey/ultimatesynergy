@@ -10366,3 +10366,17 @@ Timestamp	Board	ChangeType	Name
 2023-11-10T19:42:09.545+00:00	maybeboard	add	Skemfar Elderhall
 2023-11-10T19:42:09.545+00:00	maybeboard	add	Desolate Lighthouse
 2023-11-10T19:42:09.545+00:00	maybeboard	add	Yarok's Fenlurker
+2023-11-12T01:57:24.358+00:00	mainboard	edit	Fertile Ground
+2023-11-12T01:57:24.358+00:00	mainboard	remove	Ainok Guide
+2023-11-12T01:57:24.358+00:00	mainboard	remove	Blessed Respite
+2023-11-12T01:57:24.358+00:00	mainboard	remove	Ashiok, Dream Render
+2023-11-12T01:57:24.358+00:00	mainboard	add	Corrosive Mentor
+2023-11-12T01:57:24.358+00:00	mainboard	add	Sunhome Stalwart
+2023-11-12T01:57:24.358+00:00	mainboard	add	Cemetery Prowler
+2023-11-12T01:57:24.358+00:00	maybeboard	remove	Corrosive Mentor
+2023-11-12T01:57:24.358+00:00	maybeboard	remove	Disenchant
+2023-11-12T01:57:24.358+00:00	maybeboard	remove	Castle Embereth
+2023-11-12T01:57:24.358+00:00	maybeboard	remove	Sea Gate Oracle
+2023-11-12T01:57:24.358+00:00	maybeboard	add	Ainok Guide
+2023-11-12T01:57:24.358+00:00	maybeboard	add	Blessed Respite
+2023-11-12T01:57:24.358+00:00	maybeboard	add	Ashiok, Dream Render
