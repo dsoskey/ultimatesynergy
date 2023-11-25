@@ -655,7 +655,6 @@ Vohar, Vodalian Desecrator	dmu	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Indulgence	snc	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snapcaster Mage	isd	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oust	roe	40	Not Owned	~~	Non-foil	1	W	~~	~~	Sorcery
-Skemfar Elderhall	khm	268	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Oust	roe	40	Not Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Edge of Autumn	fut	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venerated Loxodon	grn	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -877,7 +876,6 @@ Kessig Flamebreather	vow	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wee Dragonauts	gpt	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismari Apprentice	stx	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ethereal Forager	c20	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Confluence	c15	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sweltering Suns	akh	149	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vraska's Contempt	xln	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -924,7 +922,7 @@ Hinder	chk	65	Not Owned	core,control,aggrocontrol,spells,flash	Non-foil	3	U	~~	~
 Misdirection	ddt	15	Not Owned	occasional	Non-foil	5	U	~~	~~	Instant
 Funeral Charm	vis	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Umara Mystic	znr	238	Not Owned	~~	Non-foil	3	R,U	~~	~~	Creature — Merfolk Wizard
-Funeral Charm	vis	61	Not Owned	occasional	Non-foil	3	G	~~	~~	Creature — Troll Shaman
+Funeral Charm	vis	61	Not Owned	occasional	Non-foil	3	B	~~	~~	Creature — Troll Shaman
 Bane of Progress	plst	C15-175	Not Owned	~~	Non-foil	6	G	~~	~~	Creature — Elemental
 Skinshifter	m12	195	Not Owned	core,aggro,fliers,control	Non-foil	2	G	~~	~~	Creature — Human Shaman
 Darkblast	rav	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1168,7 +1166,6 @@ Thalakos Dreamsower	tmp	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazuul, Tyrant of the Cliffs	wwk	84	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contested War Zone	mbs	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystifying Maze	m11	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sunblast Angel	som	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 White Sun's Zenith	mbs	19	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grand Architect	som	33	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cryptoplasm	mbs	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1228,7 +1225,6 @@ Plummet	arc	65	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magma Rift	zen	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Relic Crush	zen	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Stinger	som	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Raise the Alarm	mrd	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kasmina, Enigmatic Mentor	war	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kasmina's Transmutation	war	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Radiant Purge	dtk	31	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1368,7 +1364,7 @@ Carnifex Demon	som	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Nabber	c18	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer, Nightmare Adept	c19	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forked Bolt	roe	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shatterskull Smashing	znr	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shatterskull Smashing	znr	161	Not Owned	~~	~~	"""8"""	~~	~~	~~	~~
 Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Primordial Mist	c18	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	mh2	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2016,3 +2012,13 @@ Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Springjack Shepherd	eve	15	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wear // Tear	dgm	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Angel of Suffering	snc	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prosper, Tome-Bound	afc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gilded Drake	usg	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flame of Anor	ltr	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mishra's Research Desk	bro	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cumber Stone	con	24	Not Owned	~~	Non-foil	4	U	~~	~~	Artifact
+Unbounded Potential	mh2	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
+Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery

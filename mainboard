@@ -188,7 +188,6 @@ Seasoned Hallowblade	m21	34	Not Owned	graveyard,aggrocontrol,reanimator,aggro,oc
 Seeker of the Way	ktk	22	Not Owned	core,spells,lifegain,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
 Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
-Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
 Blazing Rootwalla	mh2	115	Not Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
@@ -275,7 +274,6 @@ Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Doomskar	khm	9	Not Owned	wrath,ramp,control	Non-foil	5	W	~~	~~	Sorcery
 Port of Karfell	clb	908	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Subtle Strike	znr	128	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
-Cumber Stone	con	24	Not Owned	~~	Non-foil	4	U	~~	~~	Artifact
 Riptide Laboratory	mh2	303	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
 Masked Vandal	khm	184	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Shapeshifter
 Incremental Blight	arc	17	Owned	~~	Non-foil	5	B	~~	~~	Sorcery
@@ -284,7 +282,6 @@ Kulrath Knight	shm	190	Not Owned	~~	Non-foil	5	B,R	Hybrid	~~	Creature — Elemen
 Ojutai's Breath	ima	68	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Rushing River	pls	30	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Kazandu Mammoth	znr	189	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elephant
-Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Llanowar Reborn	c21	296	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Fight as One	iko	12	Not Owned	~~	Non-foil	1	W	~~	~~	Instant
 Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
@@ -648,7 +645,6 @@ Armory of Iroas	cmr	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abzan Ascendancy	ktk	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Scrapling	mh2	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dromoka's Command	2x2	206	Not Owned	~~	Non-foil	2	G,W	~~	~~	Instant
-Unbounded Potential	mh2	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lorescale Coatl	m21	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patchwork Automaton	neo	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clown Car	unf	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -761,7 +757,7 @@ Spikefield Hazard	znr	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Putrid Goblin	mh1	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Belcher	akh	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Danitha Capashen, Paragon	woc	64	Not Owned	~~	Non-foil	3	W	~~	~~	Legendary Creature — Human Knight
-Wizard Class	plst	AFR-81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
+Wizard Class	afr	81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Excise the Imperfect	moc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	91	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
@@ -1150,7 +1146,6 @@ Flametongue Yearling	mh2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chatterstorm	mh2	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Apprentice	stx	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gilded Drake	usg	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	cn2	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	j22	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Protector	vow	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1335,7 +1330,6 @@ Blade Historian	stx	165	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Efreet Flamepainter	stx	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Draconic Intervention	stx	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Devastating Mastery	stx	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Standard Bearer	apc	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow Rift	tpr	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Apostle's Blessing	mm2	8	Not Owned	~~	~~	"""~~"""	~~	Colorless	~~	~~
@@ -1414,7 +1408,6 @@ Arcbound Prototype	mh2	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rout	inv	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avatar of the Resolute	dtk	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flux Channeler	war	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Emergent Sequence	stx	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Night Incarnate	c18	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jeskai Elder	ddn	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Merfolk Windrobber	znr	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1443,8 +1436,8 @@ Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Hall of Heliod's Generosity	mh1	241	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Mikokoro, Center of the Sea	sok	162	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fateful Absence	mid	328	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
-Violent Eruption	c19	154	Not Owned	~~	Non-foil	0	R	Red	~~	Land
+Fateful Absence	mid	18	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
+Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Land
 Dakmor Salvage	ddj	79	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Academy Ruins	tsp	269	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Pollenbright Druid	war	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1464,4 +1457,13 @@ Sakura-Tribe Elder	c16	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunhome Stalwart	grn	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Prowler	vow	191	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+New Horizons	xln	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lunar Frenzy	mid	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Feast of the Victorious Dead	mat	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cenote Scout	lci	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hope of Ghirapur	aer	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Slogurk, the Overslime	mid	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethereal Forager	c20	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wrath of God	10e	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raise the Alarm	ddf	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
