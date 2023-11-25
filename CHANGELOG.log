@@ -10418,3 +10418,10 @@ Timestamp	Board	ChangeType	Name
 2023-11-25T00:36:26.077+00:00	maybeboard	add	Guided Strike
 2023-11-25T00:36:26.077+00:00	maybeboard	add	Dawn Charm
 2023-11-25T00:36:26.077+00:00	maybeboard	add	Deep Analysis
+2023-11-25T11:41:07.421+00:00	mainboard	edit	Violent Eruption
+2023-11-25T11:41:07.421+00:00	mainboard	remove	The Meathook Massacre
+2023-11-25T11:41:07.421+00:00	mainboard	remove	Gifted Aetherborn
+2023-11-25T11:41:07.421+00:00	maybeboard	remove	Outpost Siege
+2023-11-25T11:41:07.421+00:00	maybeboard	remove	Manabarbs
+2023-11-25T11:41:07.421+00:00	maybeboard	add	Gifted Aetherborn
+2023-11-25T11:41:07.421+00:00	maybeboard	add	The Meathook Massacre

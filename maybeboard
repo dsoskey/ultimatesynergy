@@ -97,7 +97,6 @@ Ichormoon Gauntlet	one	56	Not Owned	~~	Non-foil	3	U	~~	~~	Artifact
 Ezuri, Stalker of Spheres	one	201	Not Owned	~~	Non-foil	4	G,U	~~	~~	Legendary Creature — Phyrexian Elf Warrior
 Cauldron Familiar	jmp	216	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Cat
 Howling Mine	brr	83	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
-Manabarbs	10e	218	Not Owned	~~	Non-foil	4	R	~~	~~	Enchantment
 Giant's Skewer	eld	91	Not Owned	~~	Non-foil	2	B	~~	~~	Artifact — Equipment
 Liliana's Mastery	gnt	32	Not Owned	~~	Non-foil	5	B	~~	~~	Enchantment
 Ensoul Artifact	m15	54	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
@@ -1282,7 +1281,6 @@ Djinn of Wishes	m10	50	Owned	occasional	Non-foil	5	U	~~	~~	Creature — Djinn
 Llanowar Elves	m19	314	Not Owned	ramp,wide,aggrocontrol,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Wellwisher	cma	166	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf
 Outpost Siege	afc	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Outpost Siege	afc	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hunted Nightmare	iko	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alela, Artful Provocateur	eld	324	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deathrite Shaman	gk1	59	Not Owned	occasional	Non-foil	1	B,G	Hybrid	~~	Creature — Elf Shaman
@@ -2022,3 +2020,5 @@ Unbounded Potential	mh2	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
+Gifted Aetherborn	aer	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Meathook Massacre	mid	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
