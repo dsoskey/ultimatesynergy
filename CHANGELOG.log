@@ -10434,3 +10434,9 @@ Timestamp	Board	ChangeType	Name
 2023-11-30T21:18:17.778+00:00	maybeboard	add	T.A.P.P.E.R.
 2023-11-30T21:18:17.778+00:00	maybeboard	add	Sidisi, Brood Tyrant
 2023-11-30T21:18:17.778+00:00	maybeboard	add	Heartmender
+2023-11-30T22:40:02.474+00:00	mainboard	edit	Rout
+2023-11-30T22:40:02.474+00:00	mainboard	remove	Devastating Mastery
+2023-11-30T22:40:02.474+00:00	mainboard	remove	Akroma's Vengeance
+2023-11-30T22:40:02.474+00:00	maybeboard	add	Akroma's Vengeance
+2023-11-30T22:40:02.474+00:00	maybeboard	add	Devastating Mastery
+2023-11-30T22:40:02.474+00:00	maybeboard	add	Diviner's Wand
