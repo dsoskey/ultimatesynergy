@@ -10430,3 +10430,7 @@ Timestamp	Board	ChangeType	Name
 2023-11-25T22:54:11.385+00:00	maybeboard	add	T.A.P.P.E.R.
 2023-11-28T04:25:00.031+00:00	mainboard	add	Reciprocate
 2023-11-28T04:25:00.031+00:00	maybeboard	remove	Disenchant
+2023-11-30T21:18:17.778+00:00	mainboard	remove	T.A.P.P.E.R.
+2023-11-30T21:18:17.778+00:00	maybeboard	add	T.A.P.P.E.R.
+2023-11-30T21:18:17.778+00:00	maybeboard	add	Sidisi, Brood Tyrant
+2023-11-30T21:18:17.778+00:00	maybeboard	add	Heartmender
