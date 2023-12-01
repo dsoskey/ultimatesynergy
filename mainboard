@@ -79,7 +79,6 @@ Order of Midnight	eld	99	Not Owned	fliers,spells,graveyard,aggrocontrol,manasink
 Beanstalk Giant	eld	149	Not Owned	u4.9.3,ramp,control,core	Non-foil	"""7"""	G	~~	~~	Creature — Giant
 Saheeli, Sublime Artificer	war	234	Not Owned	artifacts,counters,spells,tokens,occasional	Non-foil	3	U,R	Hybrid	~~	Legendary Planeswalker — Saheeli
 Soul Warden	mm3	24	Not Owned	lifegain,core,repeatable	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Akroma's Vengeance	c20	74	Not Owned	occasional,wrath,artifact_removal,enchantment_removal,flash	Non-foil	6	W	~~	~~	Sorcery
 Angel of Serenity	cm2	16	Not Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Griffin Guide	dmr	8	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Hour of Reckoning	c19	65	Not Owned	occasional,tokens,wrath	Non-foil	7	W	~~	~~	Sorcery
@@ -1327,7 +1326,6 @@ Prophetic Flamespeaker	jou	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Historian	stx	165	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Efreet Flamepainter	stx	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Draconic Intervention	stx	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Devastating Mastery	stx	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Standard Bearer	apc	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow Rift	tpr	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Apostle's Blessing	mm2	8	Not Owned	~~	~~	"""~~"""	~~	Colorless	~~	~~
@@ -1403,7 +1401,7 @@ Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Saddled Rimestag	mh1	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moon-Blessed Cleric	afr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Prototype	mh2	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rout	inv	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rout	c21	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avatar of the Resolute	dtk	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flux Channeler	war	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Night Incarnate	c18	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
