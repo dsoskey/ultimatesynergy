@@ -10463,3 +10463,7 @@ Timestamp	Board	ChangeType	Name
 2023-12-01T23:08:47.158+00:00	mainboard	edit	Whisper Agent
 2023-12-01T23:08:47.158+00:00	mainboard	remove	Phyrexian Metamorph
 2023-12-01T23:08:47.158+00:00	maybeboard	add	Phyrexian Metamorph
+2023-12-01T23:09:48.356+00:00	mainboard	remove	Laelia, the Blade Reforged
+2023-12-01T23:09:48.356+00:00	mainboard	add	Soul Sculptor
+2023-12-01T23:09:48.356+00:00	maybeboard	add	Laelia, the Blade Reforged
+2023-12-01T23:09:48.356+00:00	maybeboard	add	Twinferno
