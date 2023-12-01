@@ -10460,3 +10460,6 @@ Timestamp	Board	ChangeType	Name
 2023-12-01T12:13:04.467+00:00	maybeboard	remove	Collective Brutality
 2023-12-01T12:13:04.467+00:00	maybeboard	remove	Vapor Snag
 2023-12-01T12:13:04.467+00:00	maybeboard	remove	Collective Effort
+2023-12-01T23:08:47.158+00:00	mainboard	edit	Whisper Agent
+2023-12-01T23:08:47.158+00:00	mainboard	remove	Phyrexian Metamorph
+2023-12-01T23:08:47.158+00:00	maybeboard	add	Phyrexian Metamorph
