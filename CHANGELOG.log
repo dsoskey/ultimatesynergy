@@ -10456,3 +10456,7 @@ Timestamp	Board	ChangeType	Name
 2023-12-01T12:10:01.672+00:00	maybeboard	add	Malcolm, Alluring Scoundrel
 2023-12-01T12:10:01.672+00:00	maybeboard	add	Fretwork Colony
 2023-12-01T12:10:01.672+00:00	maybeboard	add	Stalactite Stalker
+2023-12-01T12:13:04.467+00:00	mainboard	add	Vapor Snag
+2023-12-01T12:13:04.467+00:00	maybeboard	remove	Collective Brutality
+2023-12-01T12:13:04.467+00:00	maybeboard	remove	Vapor Snag
+2023-12-01T12:13:04.467+00:00	maybeboard	remove	Collective Effort

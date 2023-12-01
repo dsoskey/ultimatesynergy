@@ -154,7 +154,6 @@ Banisher Priest	m14	7	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Pledge of Unity	war	210	Not Owned	~~	Non-foil	3	G,W	~~	~~	Instant
 Huatli's Raptor	war	200	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Dinosaur
 Deadbridge Goliath	j22	645	Not Owned	~~	Non-foil	4	G	~~	~~	Creature — Insect
-Collective Effort	onc	61	Not Owned	~~	Non-foil	3	W	~~	~~	Sorcery
 Swarm Shambler	j22	734	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus Beast
 Vigor Mortis	ddj	74	Not Owned	~~	Non-foil	4	B,G	~~	~~	Sorcery
 Regrowth	sum	214	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
@@ -163,7 +162,6 @@ Golgari Findbroker	khc	86	Not Owned	~~	Non-foil	4	B,G	~~	~~	Creature — Elf Sha
 Ishkanah, Grafwidow	emn	162	Not Owned	~~	Non-foil	5	B,G	~~	~~	Legendary Creature — Spider
 Nyx Weaver	jou	153	Not Owned	~~	Non-foil	3	B,G	~~	~~	Enchantment Creature — Spider
 Firemind's Research	grn	171	Not Owned	~~	Non-foil	2	R,U	~~	~~	Enchantment
-Vapor Snag	mm2	66	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Firebolt	dd2	49	Not Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Collective Defiance	emn	123	Not Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Song-Mad Treachery	znr	165	Not Owned	~~	Non-foil	5	R	~~	~~	Sorcery
@@ -926,7 +924,6 @@ Skinshifter	m12	195	Not Owned	core,aggro,fliers,control	Non-foil	2	G	~~	~~	Creat
 Darkblast	rav	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Karakas	leg	303	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Reanimate	tmp	151	Not Owned	core,graveyard,spells,lifegain,reanimator,aggro	Non-foil	1	B	~~	~~	Sorcery
-Collective Brutality	emn	85	Not Owned	occasional	Non-foil	2	B	~~	~~	Sorcery
 Persist	mh2	96	Not Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Basking Rootwalla	gvl	2	Not Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Trygon Prime	40k	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
