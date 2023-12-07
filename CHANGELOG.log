@@ -10493,3 +10493,16 @@ Timestamp	Board	ChangeType	Name
 2023-12-07T12:59:57.085+00:00	mainboard	add	Attempted Murder
 2023-12-07T12:59:57.085+00:00	maybeboard	add	Warden of the Inner Sky
 2023-12-07T12:59:57.085+00:00	maybeboard	add	Lightning Blow
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Sakura-Tribe Elder
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Aspiring Champion
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Violent Eruption
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Unruly Catapult
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Volatile Claws
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Fertile Ground
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Brute Force
+2023-12-07T13:08:52.602+00:00	mainboard	remove	Risk Factor
+2023-12-07T13:08:52.602+00:00	maybeboard	add	Unruly Catapult
+2023-12-07T13:08:52.602+00:00	maybeboard	add	Aspiring Champion
+2023-12-07T13:08:52.602+00:00	maybeboard	add	Brute Force
+2023-12-07T13:08:52.602+00:00	maybeboard	add	Volatile Claws
+2023-12-07T13:08:52.602+00:00	maybeboard	add	Risk Factor
