@@ -130,7 +130,6 @@ Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-f
 Mirrorweave	cm2	162	Not Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Instant
 Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
-Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
@@ -1065,7 +1064,6 @@ Pit Fight	gk2	93	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cryptborn Horror	rtr	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scar	shm	194	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Augury Adept	c13	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1471,4 +1469,5 @@ Easy Prey	iko	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Postmortem Lunge	nph	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Attempted Murder	unf	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Riftwatcher	plc	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prosper, Tome-Bound	afc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
