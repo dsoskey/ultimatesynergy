@@ -10526,3 +10526,10 @@ Timestamp	Board	ChangeType	Name
 2023-12-09T23:02:41.250+00:00	maybeboard	remove	Silverfur Partisan
 2023-12-09T23:02:41.250+00:00	maybeboard	add	Wargate
 2023-12-11T09:07:44.184+00:00	mainboard	add	Stonecloaker
+2023-12-12T05:47:07.533+00:00	mainboard	remove	Temple of the False God
+2023-12-12T05:47:07.533+00:00	mainboard	add	Lesser Masticore
+2023-12-12T05:47:07.533+00:00	mainboard	add	Emergency Weld
+2023-12-12T05:47:07.533+00:00	maybeboard	remove	Lesser Masticore
+2023-12-12T05:47:07.533+00:00	maybeboard	add	Harmonic Sliver
+2023-12-12T05:47:07.533+00:00	maybeboard	add	Cavalier of Thorns
+2023-12-12T05:47:07.533+00:00	maybeboard	add	Temple of the False God

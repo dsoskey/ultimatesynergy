@@ -1290,7 +1290,6 @@ Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
-Temple of the False God	c20	319	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 City of Ass	unh	134	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
@@ -1471,4 +1470,6 @@ Aven Riftwatcher	plc	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosper, Tome-Bound	afc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silverfur Partisan	soi	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stonecloaker	ddn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lesser Masticore	mh1	225	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Masticore
+Emergency Weld	bro	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
