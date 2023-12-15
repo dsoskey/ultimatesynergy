@@ -356,10 +356,8 @@ Flagstones of Trokair	tsp	272	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Weaponcraft Enthusiast	kld	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gisa and Geralf	emn	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kiora, the Crashing Wave	bng	149	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Satyr Wayfinder	bng	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nyx-Fleece Ram	jou	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dack's Duplicate	cns	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worldknit	cns	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sagu Mauler	ktk	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sorin, Solemn Visitor	ktk	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -616,7 +614,7 @@ All That Glitters	eld	2	Not Owned	core,artifacts,heroic,aggro	Non-foil	2	W	~~	~~
 Planar Outburst	ncc	209	Not Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 The Mending of Dominaria	dom	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balance	ema	2	Not Owned	occasional	Non-foil	2	W	~~	~~	Sorcery
-Mystic Retrieval	dka	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystic Retrieval	uma	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fae Offering	mh2	158	Not Owned	occasional	Non-foil	3	G	~~	~~	Enchantment
 Auramancer	ody	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moment's Peace	td0	A80	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
@@ -2045,3 +2043,10 @@ Temple of the False God	c20	319	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Icon of Ancestry	m20	229	Not Owned	core,tribal_payoff,tribal,manasink	Non-foil	3	~~	~~	~~	Artifact
 Time Sieve	2xm	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	lands,lifegain,repeatable,ramp	~~	"""~~"""	~~	~~	~~	~~
+Embodiment of Insight	ogw	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sproutback Trudge	c21	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
+Madcap Skills	gtc	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thought Monitor	mh2	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temur Battle Rage	2xm	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gryff's Boon	soi	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
