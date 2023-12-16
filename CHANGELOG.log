@@ -10710,3 +10710,13 @@ Timestamp	Board	ChangeType	Name
 2023-12-16T23:42:33.667+00:00	maybeboard	add	Debtors' Knell
 2023-12-16T23:42:33.667+00:00	maybeboard	add	Obscura Confluence
 2023-12-16T23:49:39.221+00:00	mainboard	edit	Yahenni's Expertise
+2023-12-16T23:54:48.734+00:00	mainboard	remove	Toxic Deluge
+2023-12-16T23:54:48.734+00:00	mainboard	remove	Necromantic Summons
+2023-12-16T23:54:48.734+00:00	mainboard	remove	Collected Company
+2023-12-16T23:54:48.734+00:00	mainboard	remove	Vines of Vastwood
+2023-12-16T23:54:48.734+00:00	mainboard	remove	Dread Return
+2023-12-16T23:54:48.734+00:00	maybeboard	add	Collected Company
+2023-12-16T23:54:48.734+00:00	maybeboard	add	Vines of Vastwood
+2023-12-16T23:54:48.734+00:00	maybeboard	add	Dread Return
+2023-12-16T23:54:48.734+00:00	maybeboard	add	Toxic Deluge
+2023-12-16T23:54:48.734+00:00	maybeboard	add	Necromantic Summons

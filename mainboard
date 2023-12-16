@@ -27,7 +27,6 @@ Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,agg
 Skinrender	2x2	91	Owned	zombies,counters,blink,aggrocontrol,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
 Tragic Slip	cmm	192	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
-Dread Return	c14	142	Not Owned	graveyard,sacrifice,spells,reanimator,occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Lavamancer	dmr	126	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	mm2	127	Owned	heroic,manasink,flash,wide,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
 Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
@@ -44,7 +43,6 @@ Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Cr
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
 Ohran Viper	c15	194	Not Owned	tappers,aggrocontrol,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
 Thrashing Brontodon	rix	148	Not Owned	dinosaurs,artifact_removal,enchantment_removal,u4.6,core,aggro,control	Non-foil	3	G	~~	~~	Creature — Dinosaur
-Vines of Vastwood	mm2	168	Owned	heroic,flash,ramp,spells,aggrocontrol,u2.0,aggro,occasional	Non-foil	1	G	~~	~~	Instant
 Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,smoothing,core,aggro,control,tokens,graveyard,repeatable	Non-foil	2	G	~~	~~	Enchantment
 Growing Ranks	c19	193	Not Owned	tokens,stax,u3.5,sacrifice,occasional	Non-foil	4	W,G	Hybrid	~~	Enchantment
 Spitemare	ddh	16	Not Owned	enrage,aggrocontrol,occasional,removal,pingers,heroic	Non-foil	4	W,R	Hybrid	~~	Creature — Elemental
@@ -109,7 +107,6 @@ Satyr Firedancer	bng	108	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Cre
 Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
 Blossoming Defense	kld	146	Not Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
-Collected Company	dtk	177	Not Owned	occasional	Non-foil	4	G	~~	~~	Instant
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
 Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
@@ -161,7 +158,6 @@ Dreadhorde Arcanist	war	125	Not Owned	core,spells,graveyard,heroic,burn,aggro	No
 Primal Empathy	iko	200	Not Owned	occasional	Non-foil	3	G,U	~~	~~	Enchantment
 Elder of Laurels	isd	177	Not Owned	wide,tokens,manasink,flash,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
 Ghirapur Aether Grid	ori	148	Not Owned	occasional	Non-foil	3	R	~~	~~	Enchantment
-Necromantic Summons	ori	110	Not Owned	core,spells,reanimator,graveyard,mill,control	Non-foil	5	B	~~	~~	Sorcery
 Wishclaw Talisman	eld	110	Not Owned	occasional	Non-foil	2	B	~~	~~	Artifact
 Glass Casket	eld	15	Not Owned	artifacts,removal,core,aggro,control,aggrocontrol	Non-foil	2	W	~~	~~	Artifact
 Geralf's Mindcrusher	scd	53	Not Owned	ramp,mill,control,zombies,core,blink	Non-foil	6	U	~~	~~	Creature — Zombie Horror
@@ -1151,7 +1147,6 @@ Giada, Font of Hope	snc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krydle of Baldur's Gate	afr	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raging River	30a	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Fireweaver	kld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Toxic Deluge	2xm	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodsky Berserker	khm	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodghast	ima	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
