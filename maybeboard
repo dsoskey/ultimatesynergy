@@ -516,7 +516,6 @@ Fyndhorn Elves	ice	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Accomplished Alchemist	stx	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serra Ascendant	m11	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Castigate	gpt	106	Owned	occasional	Non-foil	2	B,W	~~	~~	Sorcery
-Hallowed Priest	anb	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hogaak, Arisen Necropolis	mh1	202	Not Owned	occasional	Non-foil	7	B,G	Hybrid	~~	Legendary Creature — Avatar
 Accorder Paladin	mbs	1	Not Owned	tokens,wide,aggrocontrol,core,aggro	Non-foil	2	W	~~	~~	Creature — Human Knight
 Nezumi Graverobber	chk	129	Not Owned	core,rogues,graveyard,manasink,reanimator,aggro,control	Non-foil	2	B	~~	~~	Creature — Rat Rogue
@@ -648,7 +647,6 @@ Queen Allenal of Ruadach	dmu	210	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vohar, Vodalian Desecrator	dmu	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Indulgence	snc	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snapcaster Mage	isd	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Oust	roe	40	Not Owned	~~	Non-foil	1	W	~~	~~	Sorcery
 Edge of Autumn	fut	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venerated Loxodon	grn	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Eldest Reborn	dom	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -819,7 +817,6 @@ Mana Echoes	ons	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skemfar Shadowsage	khm	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Radiant Destiny	rix	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer, Dementia Master	cmm	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Folk Hero	clb	650	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 New Blood	c17	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Riders of Gavony	avr	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steely Resolve	ons	286	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1004,7 +1001,6 @@ Simic Sky Swallower	dis	130	Not Owned	u2.0,u4.9.3,ramp,graveyard,reanimator,core
 Simic Guildmage	dis	148	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Elf Wizard
 Yet Another Aether Vortex	unh	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Charm School	ugl	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Staying Power	unh	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmquake	onc	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Citadel of Pain	pcy	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Essence Harvest	avr	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1841,7 +1837,6 @@ Bonescythe Sliver	cmm	815	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spiteful Sliver	cmm	881	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Manaweft Sliver	cmm	900	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Predatory Sliver	m14	189	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Realmbreaker's Grasp	mom	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 See Double	mom	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urabrask	mom	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1930,7 +1925,6 @@ Kaza, Roil Chaser	znr	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rootha, Mercurial Artist	stx	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Enthusiastic Mechanaut	neo	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Markov Purifier	vow	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hopeful Vigil	woe	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lord Skitter's Butcher	woe	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voracious Vermin	woe	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imodane's Recruiter	woe	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2068,3 +2062,4 @@ Manaform Hellkite	vow	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hieroglyphic Illumination	akh	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sicarian Infiltrator	40k	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Braids, Cabal Minion	mh2	273	Not Owned	tokens,sacrifice,core,artifacts,control	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
+Freeze in Place	woe	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

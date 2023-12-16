@@ -10597,3 +10597,14 @@ Timestamp	Board	ChangeType	Name
 2023-12-16T13:19:45.081+00:00	maybeboard	add	Hieroglyphic Illumination
 2023-12-16T13:19:45.081+00:00	maybeboard	add	Sicarian Infiltrator
 2023-12-16T13:19:45.081+00:00	maybeboard	add	Braids, Cabal Minion
+2023-12-16T13:21:19.499+00:00	mainboard	remove	Freeze in Place
+2023-12-16T13:21:19.499+00:00	mainboard	add	Hopeful Vigil
+2023-12-16T13:21:19.499+00:00	mainboard	add	Realmbreaker's Grasp
+2023-12-16T13:21:19.499+00:00	mainboard	add	Hallowed Priest
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Hopeful Vigil
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Realmbreaker's Grasp
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Staying Power
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Folk Hero
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Oust
+2023-12-16T13:21:19.499+00:00	maybeboard	remove	Hallowed Priest
+2023-12-16T13:21:19.499+00:00	maybeboard	add	Freeze in Place
