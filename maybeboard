@@ -120,7 +120,6 @@ Neyali, Suns' Vanguard	onc	2	Not Owned	~~	Non-foil	4	R,W	~~	~~	Legendary Creatur
 Park Heights Maverick	ncc	63	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Soldier
 Draconic Destiny	bro	130	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Aura
 Mechanized Warfare	bro	139	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment
-Gaea's Gift	bro	182	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Shadrix Silverquill	stx	230	Not Owned	~~	Non-foil	5	B,W	~~	~~	Legendary Creature — Elder Dragon
 Viashino Heretic	ulg	95	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Viashino
 Industrial Advancement	ncc	47	Not Owned	~~	Non-foil	4	R	~~	~~	Enchantment
@@ -703,7 +702,6 @@ Slip Out the Back	snc	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ivy Lane Denizen	gtc	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani, the Greathearted	war	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Immaculate Magistrate	lrw	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Silkguard	nec	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duskshell Crawler	mh2	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Surly Badgersaur	c20	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Edgar Markov	oc17	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2067,3 +2065,34 @@ Smuggler's Copter	kld	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadowspear	thb	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Overseer	j22	798	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Arcbound Ravager	ppro	2019	Not Owned	core,artifacts,counters	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
+Humility	tpr	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sylvan Advocate	ogw	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Evacuation	cmm	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Perplexing Test	c21	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghostly Flicker	khc	39	Not Owned	occasional	Non-foil	3	U	~~	~~	Instant
+Rushing River	pls	30	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
+Stifle	cns	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Behold the Multiverse	khm	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wave Goodbye	lcc	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Time Warp	e02	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+New Horizons	xln	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Haunting Voyage	khm	98	Not Owned	~~	Non-foil	6	B	~~	~~	Sorcery
+Glistening Dawn	mom	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gix's Command	bro	97	Not Owned	~~	Non-foil	5	B	~~	~~	Sorcery
+Fiery Confluence	cm2	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Turntimber Symbiosis	znr	215	Not Owned	~~	Non-foil	7	G	~~	~~	Sorcery
+Roar of the Wurm	dds	49	Not Owned	core,spells,tokens,ramp,graveyard,control	Non-foil	7	G	~~	~~	Sorcery
+Edge of Autumn	tsr	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Caravan Vigil	isd	173	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magmatic Sinkhole	mh1	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Violent Eruption	c19	154	Not Owned	~~	Non-foil	"""4"""	R	Red	~~	Instant
+Witchstalker Frenzy	woe	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mine Collapse	mh2	135	Not Owned	core,removal,spells,flash	Non-foil	4	R	~~	~~	Instant
+Divine Reckoning	c19	62	Not Owned	wrath,heroic,graveyard	~~	"""~~"""	~~	~~	~~	~~
+Sinkhole	ema	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
+Toluz, Clever Conductor	snc	228	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Experimental Overload	m21	218	Not Owned	~~	Non-foil	4	R,U	~~	~~	Sorcery
+Debtors' Knell	c21	215	Not Owned	core,control,graveyard	Non-foil	7	W,B	Hybrid	~~	Enchantment
+Obscura Confluence	ncc	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
