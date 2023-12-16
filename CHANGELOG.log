@@ -10608,3 +10608,5 @@ Timestamp	Board	ChangeType	Name
 2023-12-16T13:21:19.499+00:00	maybeboard	remove	Oust
 2023-12-16T13:21:19.499+00:00	maybeboard	remove	Hallowed Priest
 2023-12-16T13:21:19.499+00:00	maybeboard	add	Freeze in Place
+2023-12-16T13:29:07.511+00:00	mainboard	add	Traveling Minister
+2023-12-16T13:29:07.511+00:00	maybeboard	remove	Traveling Minister
