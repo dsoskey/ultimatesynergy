@@ -597,7 +597,7 @@ Drossforge Bridge	mh2	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murmuring Bosk	dmc	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolved Sleeper	dmu	93	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human
 Nezumi Prowler	neo	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tainted Adversary	pmid	124p	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
+Tainted Adversary	mid	124	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Vampire Hexmage	2xm	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avacyn's Pilgrim	mic	132	Not Owned	~~	~~	"""~~"""	G	Green	~~	~~
 Willow Geist	mid	207	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Treefolk Spirit
@@ -801,7 +801,7 @@ Cruel Celebrant	war	188	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lampad of Death's Vigil	thb	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	plst	MM3-12	Not Owned	graveyard,durable,tokens	Non-foil	3	B,W	~~	~~	Sorcery
 Hidden Stockpile	aer	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Workshop Warchief	psnc	165p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Workshop Warchief	snc	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glory-Bound Initiate	akh	16	Not Owned	aggro,lifegain,aggrocontrol	~~	"""~~"""	~~	~~	~~	~~
 Leonin Warleader	m19	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -838,7 +838,7 @@ Triarch Praetorian	40k	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Magmatic Sinkhole	mh1	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rigo, Streetwise Mentor	snc	215	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Toluz, Clever Conductor	psnc	228p	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Toluz, Clever Conductor	snc	228	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -858,7 +858,7 @@ Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Witherbloom Command	pstx	248p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Witherbloom Command	stx	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Super-Duper Death Ray	ust	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 More or Less	ust	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skullcrack	gtc	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1276,7 +1276,7 @@ Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Blast from the Past	unh	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	2x2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Amoeboid Changeling	j22	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Geralf, Visionary Stitcher	pvow	61s	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Geralf, Visionary Stitcher	vow	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vizier of Many Faces	akh	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ingenious Prodigy	woe	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloated Contaminator	one	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1349,7 +1349,7 @@ Kess, Dissident Mage	c17	39	Not Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Creatu
 Brave the Wilds	woe	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eriette's Tempting Apple	woe	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kellan's Lightblades	woe	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Phoenix of Ash	pthb	148p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phoenix of Ash	thb	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Canoptek Tomb Sentinel	40k	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Canoptek Wraith	40k	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Fumarole	plst	OGW-182	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
