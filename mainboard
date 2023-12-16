@@ -24,7 +24,6 @@ Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
 Bone Picker	akh	81	Not Owned	sacrifice,fliers,evasion,aggrocontrol,u3.0,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Bird
-Braids, Cabal Minion	mh2	273	Not Owned	tokens,sacrifice,core,artifacts,control	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
 Skinrender	2x2	91	Owned	zombies,counters,blink,aggrocontrol,removal,core,aggro,control	Non-foil	4	B	~~	~~	Creature — Zombie
 Tragic Slip	cmm	192	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,control	Non-foil	1	B	~~	~~	Instant
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
@@ -75,7 +74,6 @@ Bygone Bishop	soi	8	Not Owned	u4.9.3,u2.77,fliers,artifacts,aggrocontrol,manasin
 Emeria Angel	ima	20	Owned	fliers,tokens,ramp,wide,repeatable,lands	Non-foil	4	W	~~	~~	Creature — Angel
 Changeling Outcast	mh1	82	Not Owned	u4.9.3,tribal,zombies,rogues,occasional	Non-foil	1	B	~~	~~	Creature — Shapeshifter
 Order of Midnight	eld	99	Not Owned	fliers,spells,graveyard,aggrocontrol,manasink,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Knight
-Beanstalk Giant	eld	149	Not Owned	u4.9.3,ramp,control,core	Non-foil	"""7"""	G	~~	~~	Creature — Giant
 Saheeli, Sublime Artificer	war	234	Not Owned	artifacts,counters,spells,tokens,occasional	Non-foil	3	U,R	Hybrid	~~	Legendary Planeswalker — Saheeli
 Soul Warden	mm3	24	Not Owned	lifegain,core,repeatable	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Angel of Serenity	cm2	16	Not Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
@@ -238,7 +236,7 @@ Misty Rainforest	mh2	250	Owned	core,gold_land	Non-foil	0	U,G	~~	~~	Land
 Scalding Tarn	mh2	254	Not Owned	core,gold_land	Non-foil	0	U,R	~~	~~	Land
 Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Not Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
-Field of the Dead	m20	247	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
+Field of the Dead	m20	247	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Emergent Sequence	stx	129	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Runed Crown	khm	245	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
@@ -645,7 +643,6 @@ Venomcrawler	40k	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anointer Priest	plst	AKH-3	Not Owned	lifegain,tokens,repeatable,core,durable,graveyard	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Obsessive Skinner	soi	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow-Rite Priest	dmu	106	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
-Fists of the Demigod	shm	187	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Blight Sickle	shm	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Puncture Blast	eve	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rendclaw Trow	eve	127	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -701,7 +698,6 @@ Tyranid Prime	40k	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eel Umbra	c18	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grismold, the Dreadsower	c19	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necron Deathmark	40k	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sicarian Infiltrator	40k	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skorpekh Lord	40k	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	107	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Royal Warden	40k	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -826,7 +822,6 @@ Fulminator Mage	2xm	196	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Saw in Half	unf	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Raptor	mom	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rakdos Shred-Freak	gk2	70	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
 Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	B,U	~~	~~	~~
 Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	B,R	~~	~~	~~
@@ -1117,7 +1112,6 @@ Cordial Vampire	mh1	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Eternal	war	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shipwreck Dowser	m21	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Old Rutstein	vow	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Manaform Hellkite	vow	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Primal Adversary	mid	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Falkenrath Pit Fighter	mid	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Intrepid Adversary	mid	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1235,11 +1229,9 @@ Fell Horseman	woe	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goddric, Cloaked Reveler	woe	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hearth Elemental	woe	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Redcap Gutter-Dweller	woe	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Realm-Scorcher Hellkite	woe	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Virtue of Courage	woe	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witchstalker Frenzy	woe	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blossoming Tortoise	woe	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bramble Familiar	woe	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1472,4 +1464,7 @@ Fortifying Draught	stx	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faithless Salvaging	mh2	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cartouche of Strength	akh	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Vandal	eld	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stalactite Stalker	lci	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Breeches, Eager Pillager	lci	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glint-Horn Buccaneer	m20	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
