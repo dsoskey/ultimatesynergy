@@ -1161,7 +1161,6 @@ Umbra Mystic	roe	52	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Consuming Vapors	roe	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chain Reaction	wwk	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Terminate	dmc	172	Owned	~~	Non-foil	2	B,R	~~	~~	Instant
-Ornithopter	atq	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Panic Spellbomb	som	191	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expedition Map	zen	201	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rise from the Grave	m10	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2062,3 +2061,9 @@ Hieroglyphic Illumination	akh	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sicarian Infiltrator	40k	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Braids, Cabal Minion	mh2	273	Not Owned	tokens,sacrifice,core,artifacts,control	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
 Freeze in Place	woe	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Retrofitter Foundry	c18	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Currency Converter	ncc	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smuggler's Copter	kld	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Shadowspear	thb	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Steel Overseer	j22	798	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
+Arcbound Ravager	ppro	2019	Not Owned	core,artifacts,counters	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
