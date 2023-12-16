@@ -10559,3 +10559,7 @@ Timestamp	Board	ChangeType	Name
 2023-12-15T23:18:29.083+00:00	maybeboard	add	Thought Monitor
 2023-12-15T23:18:29.083+00:00	maybeboard	add	Temur Battle Rage
 2023-12-15T23:18:29.083+00:00	maybeboard	add	Gryff's Boon
+2023-12-16T08:47:39.557+00:00	mainboard	add	Cartouche of Strength
+2023-12-16T08:47:39.557+00:00	mainboard	add	Faerie Vandal
+2023-12-16T08:47:39.557+00:00	maybeboard	remove	Faerie Vandal
+2023-12-16T08:47:39.557+00:00	maybeboard	add	Bloodrage Brawler
