@@ -173,7 +173,6 @@ Collision // Colossus	rna	223	Not Owned	removal,spells,flash,core,aggro	Non-foil
 Supernatural Stamina	akh	111	Not Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Mutilate	gvl	55	Owned	occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Affliction	mm2	84	Not Owned	occasional,counters,poison,removal,control	Non-foil	3	B	~~	~~	Instant
-Arcbound Ravager	ppro	2019	Not Owned	core,artifacts,counters	Non-foil	2	~~	~~	~~	Artifact Creature — Beast
 Ministrant of Obligation	rna	16	Not Owned	core,sacrifice,tokens,fliers,control	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Thalia's Lieutenant	soi	43	Not Owned	core,counters,aggro,tribal_payoff,wide	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Seasoned Hallowblade	m21	34	Not Owned	graveyard,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
@@ -572,11 +571,9 @@ Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Edge of Autumn	tsr	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	dmu	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Managorger Hydra	ori	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Smuggler's Copter	kld	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	Not Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Cathar Commando	mid	10	Not Owned	artifact_removal,enchantment_removal,flash,aggrocontrol,aggro,sacrifice	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Codex Shredder	cmr	304	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Steel Overseer	j22	798	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Gravedigger	j22	424	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blackbloom Rogue	znr	91	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Rogue
 Languish	ori	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -703,8 +700,6 @@ Infernal Grasp	mid	107	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Royal Warden	40k	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Ferocidon	xln	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 General Kudro of Drannith	iko	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shadowspear	thb	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Retrofitter Foundry	c18	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Croaking Counterpart	mid	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brotherhood's End	bro	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Innocent Blood	e02	19	Not Owned	occasional	Non-foil	1	B	~~	~~	Sorcery
@@ -1104,7 +1099,6 @@ Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nested Shambler	mh2	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cleric Class	afr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	woc	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Currency Converter	ncc	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Watcher for Tomorrow	mh1	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Indulgent Aristocrat	soi	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1470,4 +1464,5 @@ Hopeful Vigil	woe	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realmbreaker's Grasp	mom	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hallowed Priest	anb	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Traveling Minister	vow	39	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
+Ornithopter	dmr	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

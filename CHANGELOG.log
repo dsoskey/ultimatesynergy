@@ -10610,3 +10610,17 @@ Timestamp	Board	ChangeType	Name
 2023-12-16T13:21:19.499+00:00	maybeboard	add	Freeze in Place
 2023-12-16T13:29:07.511+00:00	mainboard	add	Traveling Minister
 2023-12-16T13:29:07.511+00:00	maybeboard	remove	Traveling Minister
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Currency Converter
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Retrofitter Foundry
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Shadowspear
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Steel Overseer
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Smuggler's Copter
+2023-12-16T13:45:06.232+00:00	mainboard	remove	Arcbound Ravager
+2023-12-16T13:45:06.232+00:00	mainboard	add	Ornithopter
+2023-12-16T13:45:06.232+00:00	maybeboard	remove	Ornithopter
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Retrofitter Foundry
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Currency Converter
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Smuggler's Copter
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Shadowspear
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Steel Overseer
+2023-12-16T13:45:06.232+00:00	maybeboard	add	Arcbound Ravager
