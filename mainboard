@@ -118,7 +118,6 @@ Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
 Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
 Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
-Mirrorweave	cm2	162	Not Owned	occasional	Non-foil	4	W,U	Hybrid	~~	Instant
 Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
@@ -142,7 +141,7 @@ Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spell
 Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	10e	270	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	"""3"""	G	~~	~~	Sorcery
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifice	Non-foil	1	W	~~	~~	Creature — Human Knight
-Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro	Non-foil	3	W	~~	~~	Sorcery
+Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro,danger: arcane savant	Non-foil	3	W	~~	~~	Sorcery
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Fire // Ice	mh2	290	Not Owned	tappers,burn,removal,spells,flash,aggro,control,occasional	Non-foil	2	U,R	Hybrid	~~	Instant
@@ -267,7 +266,6 @@ Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Grind // Dust	hou	155	Not Owned	~~	Non-foil	"""2"""	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
 Fumigate	onc	69	Not Owned	wrath,lifegain	Non-foil	5	W	~~	~~	Sorcery
-Sram's Expertise	aer	24	Not Owned	danger: arcane savant	Non-foil	4	W	~~	~~	Sorcery
 Looter il-Kor	tsr	74	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Kor Rogue
 Nadir Kraken	thb	55	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Kraken
 Censor	akh	46	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
@@ -329,7 +327,6 @@ Blighted Woodland	mic	166	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Kjeldoran Outpost	vma	301	Not Owned	~~	Non-foil	0	W	White	~~	Land
 Oran-Rief, the Vastwood	ddu	28	Owned	~~	Non-foil	0	G	Green	~~	Land
 Ghost Quarter	cm2	253	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Haunted Fengraf	a25	240	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Fearless Fledgling	znr	15	Not Owned	lands,heroic,fliers,fliers_payoff,aggro,aggrocontrol	Non-foil	2	W	~~	~~	Creature — Griffin
@@ -352,12 +349,10 @@ Shambling Vent	clb	914	Not Owned	~~	Non-foil	0	B,W	~~	~~	Land
 Needle Spires	ogw	175	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Lumbering Falls	c21	299	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Ruins of Oran-Rief	ogw	176	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Moorland Haunt	scd	310	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Shivan Gorge	dmc	232	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
-Blinkmoth Well	mrd	279	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Blossoming Sands	c19	231	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Graypelt Refuge	c19	249	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Scoured Barrens	neo	274	Not Owned	~~	Non-foil	0	B,W	~~	~~	Land
@@ -378,7 +373,6 @@ Silundi Vision	znr	80	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Kazuul's Fury	znr	146	Not Owned	~~	Non-foil	3	R	~~	~~	Instant
 Castle Garenbrig	eld	240	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Radha, Heart of Keld	m21	224	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
-Tezzeret's Gambit	cm2	51	Not Owned	~~	Non-foil	4	U	Colorless	~~	Sorcery
 Merfolk Skydiver	war	205	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
 Dryad Arbor	v12	5	Not Owned	~~	Non-foil	0	G	Green	~~	Land Creature — Forest Dryad
 Titan's Strength	2x2	128	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
@@ -687,7 +681,6 @@ Booster Tutor	und	33	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Young Wolf	j22	746	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodchief's Thirst	znr	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magmatic Channeler	j22	571	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Wizard
-Wasteland	ema	248	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Mirran Banesplitter	mom	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Host Seedshark	mom	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quickling	m15	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1048,11 +1041,9 @@ Flourishing Strike	mh2	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cast into the Fire	ltr	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blinkmoth Nexus	2xm	311	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filigree Familiar	cmr	308	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Fox
-Graceful Restoration	mh2	201	Not Owned	danger: arcane savant	~~	"""~~"""	~~	~~	~~	~~
 Chrome Courier	mh2	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raff Capashen, Ship's Mage	dom	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Warrant // Warden	rna	230	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Tor Wauki the Younger	dmc	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hurl Through Hell	afc	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1162,7 +1153,6 @@ Bellowing Bruiser	woe	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Specter of Mortality	woe	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Picklock Prankster	woe	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talion's Messenger	woe	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Virtue of Knowledge	woe	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Water Wings	woe	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Goose Mother	woe	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1391,8 +1381,6 @@ Ramunap Ruins	hou	181	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Vapor Snag	mm2	66	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Spitting Dilophosaurus	rex	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flesh Duplicate	who	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Phantasmal Image	m12	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zoetic Glyph	lci	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corpse Churn	iko	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Easy Prey	iko	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1429,4 +1417,5 @@ Royal Treatment	woe	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sheltering Word	avr	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lazotep Plating	scd	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shore Up	dmu	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cogwork Wrestler	lci	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
