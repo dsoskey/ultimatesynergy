@@ -75,7 +75,6 @@ Saheeli, Sublime Artificer	war	234	Not Owned	artifacts,counters,spells,tokens,oc
 Soul Warden	mm3	24	Not Owned	lifegain,core,repeatable	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Angel of Serenity	cm2	16	Not Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Griffin Guide	dmr	8	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
-Hour of Reckoning	c19	65	Not Owned	occasional,tokens,wrath	Non-foil	7	W	~~	~~	Sorcery
 Legion's Landing	xln	22	Not Owned	lifegain,tokens,control,aggrocontrol,repeatable	Non-foil	1	W	~~	~~	Creature
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Soulfire Grand Master	frf	27	Not Owned	core,lifegain,spells,burn,aggro,control,aggrocontrol,repeatable,manasink	Non-foil	2	W	White	~~	Creature — Human Monk
@@ -416,7 +415,7 @@ Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin 
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
 Gala Greeters	snc	148	Not Owned	lifegain,artifacts,ramp,counters,repeatable,heroic	Non-foil	2	G	~~	~~	Creature — Elf Druid
-Obscura Charm	snc	208	Not Owned	~~	Non-foil	3	B,U,W	~~	~~	Instant
+Obscura Charm	snc	208	Not Owned	danger: arcane savant	Non-foil	3	B,U,W	~~	~~	Instant
 Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-foil	2	W	~~	~~	Creature — Human Noble
 Novijen, Heart of Progress	c15	296	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Alchemist's Refuge	avr	225	Not Owned	~~	Non-foil	0	U,G	~~	~~	Land
@@ -579,7 +578,6 @@ Scrapwork Mutt	bro	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Tracker	mh2	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	eld	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	mm2	219	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
-Turn // Burn	dgm	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magma Spray	akh	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame-Blessed Bolt	vow	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blur of Blades	hou	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -756,7 +754,6 @@ Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kabira Crossroads	c17	259	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unmake	arc	98	Owned	graveyard_hate,aggro,aggroconntrol,removal,flash,control	~~	"""~~"""	~~	Hybrid	~~	~~
 Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -819,7 +816,7 @@ Moon-Circuit Hacker	neo	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malefic Scythe	m21	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsettled Mariner	mh1	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	afc	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memory Plunder	clb	849	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Memory Plunder	clb	849	Not Owned	danger: arcane savant	~~	"""~~"""	~~	Hybrid	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1044,7 +1041,6 @@ Filigree Familiar	cmr	308	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Fox
 Chrome Courier	mh2	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raff Capashen, Ship's Mage	dom	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Tor Wauki the Younger	dmc	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hurl Through Hell	afc	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Way	mh1	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1295,7 +1291,6 @@ Double Vision	ncc	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magical Hacker	unh	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staying Power	und	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vorapede	dka	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kess, Dissident Mage	c17	39	Not Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Creature — Human Wizard
 Brave the Wilds	woe	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eriette's Tempting Apple	woe	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kellan's Lightblades	woe	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1325,7 +1320,6 @@ Gamekeeper	c16	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drannith Ruins	mat	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tower of the Magistrate	mmq	330	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Myriad Landscape	onc	159	Not Owned	~~	Non-foil	0	W,B,R,U,G	~~	~~	Land
 Krosan Verge	dmc	216	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
 Nesting Grounds	c20	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spawning Pool	10e	358	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~

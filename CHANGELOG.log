@@ -10770,3 +10770,17 @@ Timestamp	Board	ChangeType	Name
 2023-12-17T06:18:25.271+00:00	maybeboard	add	Flesh Duplicate
 2023-12-17T06:18:25.271+00:00	maybeboard	add	Virtue of Knowledge
 2023-12-17T06:18:25.271+00:00	maybeboard	add	Mirrorweave
+2023-12-17T06:24:08.011+00:00	mainboard	edit	Memory Plunder
+2023-12-17T06:24:08.011+00:00	mainboard	edit	Obscura Charm
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Myriad Landscape
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Kess, Dissident Mage
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Depose // Deploy
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Unmake
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Turn // Burn
+2023-12-17T06:24:08.011+00:00	mainboard	remove	Hour of Reckoning
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Depose // Deploy
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Unmake
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Turn // Burn
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Kess, Dissident Mage
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Hour of Reckoning
+2023-12-17T06:24:08.011+00:00	maybeboard	add	Myriad Landscape
