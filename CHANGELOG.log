@@ -10735,3 +10735,11 @@ Timestamp	Board	ChangeType	Name
 2023-12-17T01:02:19.991+00:00	maybeboard	add	Yahenni's Expertise
 2023-12-17T01:43:16.190+00:00	mainboard	remove	Witchstalker Frenzy
 2023-12-17T01:43:16.190+00:00	maybeboard	remove	Violent Eruption
+2023-12-17T06:12:49.572+00:00	mainboard	remove	Discovery // Dispersal
+2023-12-17T06:12:49.572+00:00	mainboard	remove	Rending Flame
+2023-12-17T06:12:49.572+00:00	mainboard	remove	No One Left Behind
+2023-12-17T06:12:49.572+00:00	mainboard	remove	Rescue from the Underworld
+2023-12-17T06:12:49.572+00:00	maybeboard	add	Rending Flame
+2023-12-17T06:12:49.572+00:00	maybeboard	add	Discovery // Dispersal
+2023-12-17T06:12:49.572+00:00	maybeboard	add	No One Left Behind
+2023-12-17T06:12:49.572+00:00	maybeboard	add	Rescue from the Underworld

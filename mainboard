@@ -91,7 +91,6 @@ Dusk Urchins	shm	65	Not Owned	core,counters,sacrifice,smoothing,aggro,control	No
 Last Gasp	uma	103	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
-Rescue from the Underworld	ths	102	Not Owned	occasional	Non-foil	5	B	~~	~~	Instant
 Sudden Death	tsr	143	Not Owned	occasional	Non-foil	3	B	~~	~~	Instant
 Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Hybrid	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
@@ -549,7 +548,6 @@ Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
 Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
 Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
-No One Left Behind	bro	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	dmu	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Managorger Hydra	ori	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -590,7 +588,6 @@ Lodestone Golem	mm2	219	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
 Turn // Burn	dgm	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Magma Spray	akh	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame-Blessed Bolt	vow	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rending Flame	vow	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blur of Blades	hou	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malakir Rebirth	znr	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rustvale Bridge	mh2	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1057,7 +1054,6 @@ Raff Capashen, Ship's Mage	dom	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning-Tree Emissary	2x2	189	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Warrant // Warden	rna	230	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Depose // Deploy	rna	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Discovery // Dispersal	grn	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Tor Wauki the Younger	dmc	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hurl Through Hell	afc	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winding Way	mh1	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
