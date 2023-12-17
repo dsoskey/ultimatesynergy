@@ -10720,3 +10720,14 @@ Timestamp	Board	ChangeType	Name
 2023-12-16T23:54:48.734+00:00	maybeboard	add	Dread Return
 2023-12-16T23:54:48.734+00:00	maybeboard	add	Toxic Deluge
 2023-12-16T23:54:48.734+00:00	maybeboard	add	Necromantic Summons
+2023-12-17T00:00:29.972+00:00	mainboard	edit	Flash
+2023-12-17T00:00:29.972+00:00	mainboard	remove	Talent of the Telepath
+2023-12-17T00:00:29.972+00:00	mainboard	remove	Blast from the Past
+2023-12-17T00:00:29.972+00:00	mainboard	remove	Step Through
+2023-12-17T00:00:29.972+00:00	mainboard	remove	Irenicus's Vile Duplication
+2023-12-17T00:00:29.972+00:00	mainboard	remove	Rise from the Tides
+2023-12-17T00:00:29.972+00:00	maybeboard	add	Rise from the Tides
+2023-12-17T00:00:29.972+00:00	maybeboard	add	Step Through
+2023-12-17T00:00:29.972+00:00	maybeboard	add	Irenicus's Vile Duplication
+2023-12-17T00:00:29.972+00:00	maybeboard	add	Talent of the Telepath
+2023-12-17T00:00:29.972+00:00	maybeboard	add	Blast from the Past

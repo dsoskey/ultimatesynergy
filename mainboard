@@ -19,7 +19,6 @@ Trinket Mage	plst	DDU-41	Not Owned	artifacts,blink,stax,core,aggro,control	Non-f
 Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
 Murmuring Mystic	grn	45	Not Owned	spells,tokens,enrage,evasion,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	1	U	~~	~~	Instant
-Rise from the Tides	soi	83	Not Owned	spells,u2.80,core,graveyard,zombies,tokens,control	Non-foil	6	U	~~	~~	Sorcery
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
 Necroskitter	mm2	88	Not Owned	counters,counters_payoff,u4.7,core,control	Non-foil	3	B	~~	~~	Creature — Elemental
@@ -646,7 +645,6 @@ Myr Convert	one	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inkmoth Nexus	mbs	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necropede	som	185	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Amphin Mutineer	cmr	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Irenicus's Vile Duplication	clb	78	Not Owned	~~	Non-foil	4	U	~~	~~	Sorcery
 Resculpt	stx	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skeletal Changeling	lrw	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Runed Stalactite	lrw	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1220,7 +1218,6 @@ Search for Azcanta	xln	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple of the Dragon Queen	afr	260	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Flamekin Village	cm2	251	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Rustic Clachan	ddf	34	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
-Step Through	mh2	392	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vodalian Wave-Knight	moc	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slimefoot and Squee	moc	447	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slimefoot, the Stowaway	dom	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1244,7 +1241,6 @@ Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 City of Ass	unh	134	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
-Blast from the Past	unh	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	2x2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Amoeboid Changeling	j22	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Geralf, Visionary Stitcher	vow	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1306,7 +1302,7 @@ Thornglint Bridge	mh2	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tanglepool Bridge	mh2	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cloudshredder Sliver	cmm	919	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tragic Fall	mh2	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flash	a25	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flash	a25	57	Not Owned	danger	~~	"""~~"""	~~	~~	~~	~~
 Oubliette	2xm	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cyber Conversion	who	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yahenni's Expertise	aer	75	Not Owned	danger: arcane savant	~~	"""~~"""	~~	~~	~~	~~
@@ -1323,7 +1319,6 @@ Phoenix of Ash	thb	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Canoptek Tomb Sentinel	40k	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Canoptek Wraith	40k	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Fumarole	plst	OGW-182	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Talent of the Telepath	ori	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nezumi Informant	mom	120	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blisterpod	bfz	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flicker of Fate	thb	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
