@@ -10804,3 +10804,9 @@ Timestamp	Board	ChangeType	Name
 2023-12-17T08:20:17.832+00:00	maybeboard	add	Hurl Through Hell
 2023-12-17T08:20:17.832+00:00	maybeboard	add	Bituminous Blast
 2023-12-17T08:20:17.832+00:00	maybeboard	add	Quandrix Command
+2023-12-22T01:43:47.310+00:00	mainboard	remove	Hixus, Prison Warden
+2023-12-22T01:43:47.310+00:00	mainboard	remove	Constable of the Realm
+2023-12-22T01:43:47.310+00:00	mainboard	remove	Angel of Serenity
+2023-12-22T01:43:47.310+00:00	maybeboard	add	Angel of Serenity
+2023-12-22T01:43:47.310+00:00	maybeboard	add	Hixus, Prison Warden
+2023-12-22T01:43:47.310+00:00	maybeboard	add	Constable of the Realm

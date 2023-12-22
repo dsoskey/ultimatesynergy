@@ -73,7 +73,6 @@ Changeling Outcast	mh1	82	Not Owned	u4.9.3,tribal,zombies,rogues,occasional	Non-
 Order of Midnight	eld	99	Not Owned	fliers,spells,graveyard,aggrocontrol,manasink,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Knight
 Saheeli, Sublime Artificer	war	234	Not Owned	artifacts,counters,spells,tokens,occasional	Non-foil	3	U,R	Hybrid	~~	Legendary Planeswalker — Saheeli
 Soul Warden	mm3	24	Not Owned	lifegain,core,repeatable	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Angel of Serenity	cm2	16	Not Owned	core,control,reanimator,ramp,fliers,removal	Non-foil	7	W	~~	~~	Creature — Angel
 Griffin Guide	dmr	8	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Legion's Landing	xln	22	Not Owned	lifegain,tokens,control,aggrocontrol,repeatable	Non-foil	1	W	~~	~~	Creature
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
@@ -204,7 +203,6 @@ Bloodbraid Marauder	mh2	116	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature —
 Stromkirk Occultist	emn	146	Not Owned	core,reanimator,graveyard,aggro,aggrocontrol	Non-foil	3	R	~~	~~	Creature — Vampire Horror
 Tireless Provisioner	mh2	180	Not Owned	core,artifacts,lifegain,ramp,control	Non-foil	3	G	~~	~~	Creature — Elf Scout
 Doomed Traveler	cmr	19	Not Owned	core,sacrifice,tokens,fliers,wide,aggro,control,heroic	Non-foil	1	W	~~	~~	Creature — Human Soldier
-Constable of the Realm	mh2	10	Not Owned	core,counters_payoff,counters	Non-foil	5	W	~~	~~	Creature — Giant Soldier
 Weaponize the Monsters	iko	140	Not Owned	core,sacrifice,burn	Non-foil	1	R	~~	~~	Enchantment
 Jadar, Ghoulcaller of Nephalia	mid	108	Not Owned	core,tokens,sacrifice,aggro	Non-foil	2	B	~~	~~	Legendary Creature — Human Wizard
 Strixhaven Stadium	stx	259	Not Owned	occasional	Non-foil	3	~~	~~	~~	Artifact
@@ -1179,7 +1177,6 @@ Dragon Mantle	cmr	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dregscape Sliver	mh1	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burn Down the House	mid	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crypt Rats	mh1	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hixus, Prison Warden	ori	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreamshackle Geist	vow	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spire of Industry	nec	178	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Lair of the Hydra	afr	259	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
