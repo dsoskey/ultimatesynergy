@@ -10824,3 +10824,7 @@ Timestamp	Board	ChangeType	Name
 2023-12-22T03:02:47.700+00:00	maybeboard	add	Merchant's Dockhand
 2023-12-22T03:02:47.700+00:00	maybeboard	add	Heap Doll
 2023-12-22T08:45:45.791+00:00	maybeboard	add	Brightling
+2023-12-22T12:11:18.878+00:00	mainboard	remove	Mawloc
+2023-12-22T12:11:18.878+00:00	maybeboard	remove	Castle Embereth
+2023-12-22T12:11:18.878+00:00	maybeboard	add	Savageborn Hydra
+2023-12-22T12:11:18.878+00:00	maybeboard	add	Mawloc
