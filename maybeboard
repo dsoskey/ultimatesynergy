@@ -1292,7 +1292,6 @@ Dreg Mangler	rtr	158	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Creature — Plan
 Leyline Prowler	war	202	Not Owned	~~	Non-foil	3	B,G	~~	~~	Creature — Nightmare Beast
 Incendiary Command	c13	113	Owned	occasional	Non-foil	5	R	~~	~~	Sorcery
 Bounding Krasis	ori	212	Not Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Fish Lizard
-Jeskai Ascendancy	ktk	180	Owned	occasional	Non-foil	3	R,U,W	~~	~~	Enchantment
 Siege Rhino	cp3	5	Not Owned	occasional	Non-foil	4	B,G,W	~~	~~	Creature — Rhino
 Kiora's Follower	ddo	52	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk
 Creeping Corrosion	mbs	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2040,7 +2039,6 @@ Cartouche of Knowledge	akh	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Open the Armory	cmr	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phalanx Leader	uma	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Shred-Freak	gk2	70	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Fists of the Demigod	shm	187	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Souls of the Lost	lci	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anoint with Affliction	one	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kirtar's Wrath	cmm	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2152,3 +2150,6 @@ Heap Doll	uma	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brightling	bbd	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Savageborn Hydra	2xm	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mawloc	40k	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cleric of Life's Bond	znr	222	Not Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vampire Cleric
+Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Littjara Mirrorlake	khm	264	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
