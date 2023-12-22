@@ -90,10 +90,10 @@ Last Gasp	uma	103	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
 Sudden Death	tsr	143	Not Owned	occasional	Non-foil	3	B	~~	~~	Instant
-Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Hybrid	~~	Legendary Creature — Human Shaman
+Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Black	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
-Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Hybrid	~~	Legendary Creature — Human Warrior
+Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Horror
 Chandra's Phoenix	e01	44	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Phoenix
 Eidolon of the Great Revel	a25	128	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
@@ -687,7 +687,7 @@ Ol' Buzzbark	ust	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyhan, Last of the Abzan	c16	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raven's Crime	mma	95	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 The Modern Age	neo	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Warden of the First Tree	frf	143	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Warden of the First Tree	frf	143	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Eternal Scourge	emn	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spikefield Hazard	znr	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Putrid Goblin	mh1	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -788,7 +788,7 @@ Journey to Nowhere	zen	14	Not Owned	heroic,aggrocontrol,aggro,beats	~~	"""~~"""	
 Oni-Cult Anvil	neo	230	Not Owned	sacrifice,artifacts,tokens,lifegain,repeatable	~~	"""~~"""	~~	~~	~~	~~
 Triarch Praetorian	40k	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Rigo, Streetwise Mentor	snc	215	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Rigo, Streetwise Mentor	snc	215	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Deathcult Rogue	gtc	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Shattering Blow	gtc	225	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Nightpack Ambusher	m20	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1237,7 +1237,7 @@ Goreclaw, Terror of Qal Sisma	cmm	293	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigrid, God-Favored	khm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
-Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Footlight Fiend	rna	216	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Sakura-Tribe Elder	c20	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
