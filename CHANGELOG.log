@@ -10865,3 +10865,8 @@ Timestamp	Board	ChangeType	Name
 2023-12-23T01:02:01.215+00:00	maybeboard	add	Port of Karfell
 2023-12-23T01:02:01.215+00:00	maybeboard	add	Moorland Haunt
 2023-12-23T01:02:01.215+00:00	maybeboard	add	Gnottvold Slumbermound
+2023-12-23T12:13:33.281+00:00	mainboard	edit	Scrapwork Mutt
+2023-12-23T12:13:33.281+00:00	mainboard	edit	Aether Spellbomb
+2023-12-23T12:13:33.281+00:00	mainboard	remove	Deep Forest Hermit
+2023-12-23T12:13:33.281+00:00	mainboard	add	Torch Courier
+2023-12-23T12:13:33.281+00:00	maybeboard	add	Deep Forest Hermit

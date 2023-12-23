@@ -167,7 +167,7 @@ Thalia's Lieutenant	soi	43	Not Owned	core,counters,aggro,tribal_payoff,wide	Non-
 Seasoned Hallowblade	m21	34	Not Owned	graveyard,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Seeker of the Way	ktk	22	Not Owned	core,spells,lifegain,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
-Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	U	~~	~~	Artifact
+Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	~~	Blue	~~	Artifact
 Blazing Rootwalla	mh2	115	Not Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
@@ -275,7 +275,6 @@ Fertile Ground	plst	C18-147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Lovestruck Beast	eld	165	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Beast Noble
 Reclamation Sage	scd	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
 Wolfir Avenger	avr	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Wolf Warrior
-Deep Forest Hermit	mh1	161	Not Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
 Signal Pest	mbs	131	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Pest
 Endless One	bfz	8	Not Owned	~~	Non-foil	"""1"""	~~	~~	~~	Creature — Eldrazi
 Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
@@ -556,7 +555,7 @@ Tainted Adversary	mid	124	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Zombie
 Vampire Hexmage	2xm	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avacyn's Pilgrim	mic	132	Not Owned	~~	~~	"""~~"""	G	Green	~~	~~
 Willow Geist	mid	207	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Treefolk Spirit
-Scrapwork Mutt	bro	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scrapwork Mutt	bro	164	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Arcbound Tracker	mh2	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	eld	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	mm2	219	Owned	~~	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
@@ -1391,4 +1390,5 @@ Zabaz, the Glimmerwasp	mh2	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chronomaton	ddm	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inquisitive Puppet	eld	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Torch Courier	grn	119	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
