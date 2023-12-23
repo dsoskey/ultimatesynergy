@@ -10851,3 +10851,17 @@ Timestamp	Board	ChangeType	Name
 2023-12-22T12:23:56.136+00:00	mainboard	edit	Slave of Bolas
 2023-12-22T12:23:56.136+00:00	mainboard	edit	Rigo, Streetwise Mentor
 2023-12-22T19:55:40.257+00:00	mainboard	edit	Beast Within
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Moorland Haunt
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Port of Karfell
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Surtland Frostpyre
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Axgard Armory
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Gnottvold Slumbermound
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Immersturm Skullcairn
+2023-12-23T01:02:01.215+00:00	mainboard	remove	Bretagard Stronghold
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Bretagard Stronghold
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Surtland Frostpyre
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Axgard Armory
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Immersturm Skullcairn
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Port of Karfell
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Moorland Haunt
+2023-12-23T01:02:01.215+00:00	maybeboard	add	Gnottvold Slumbermound
