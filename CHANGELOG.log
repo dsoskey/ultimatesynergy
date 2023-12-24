@@ -10888,3 +10888,15 @@ Timestamp	Board	ChangeType	Name
 2023-12-24T01:02:44.013+00:00	maybeboard	add	Avatar of the Resolute
 2023-12-24T01:02:44.013+00:00	maybeboard	add	Werewolf Pack Leader
 2023-12-24T01:02:44.013+00:00	maybeboard	add	Wildborn Preserver
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Mold Folk
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Dauthi Voidwalker
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Indulgent Aristocrat
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Butcher Ghoul
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Nezumi Prowler
+2023-12-24T03:32:00.453+00:00	mainboard	remove	Festering Mummy
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Nezumi Prowler
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Mold Folk
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Butcher Ghoul
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Indulgent Aristocrat
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Festering Mummy
+2023-12-24T03:32:00.453+00:00	maybeboard	add	Dauthi Voidwalker
