@@ -10870,3 +10870,11 @@ Timestamp	Board	ChangeType	Name
 2023-12-23T12:13:33.281+00:00	mainboard	remove	Deep Forest Hermit
 2023-12-23T12:13:33.281+00:00	mainboard	add	Torch Courier
 2023-12-23T12:13:33.281+00:00	maybeboard	add	Deep Forest Hermit
+2023-12-24T00:45:26.512+00:00	mainboard	remove	Wargate
+2023-12-24T00:45:26.512+00:00	mainboard	remove	Witch's Vengeance
+2023-12-24T00:45:26.512+00:00	mainboard	remove	Crippling Fear
+2023-12-24T00:45:26.512+00:00	mainboard	remove	Obscura Charm
+2023-12-24T00:45:26.512+00:00	maybeboard	add	Wargate
+2023-12-24T00:45:26.512+00:00	maybeboard	add	Obscura Charm
+2023-12-24T00:45:26.512+00:00	maybeboard	add	Crippling Fear
+2023-12-24T00:45:26.512+00:00	maybeboard	add	Witch's Vengeance
