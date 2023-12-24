@@ -10878,3 +10878,13 @@ Timestamp	Board	ChangeType	Name
 2023-12-24T00:45:26.512+00:00	maybeboard	add	Obscura Charm
 2023-12-24T00:45:26.512+00:00	maybeboard	add	Crippling Fear
 2023-12-24T00:45:26.512+00:00	maybeboard	add	Witch's Vengeance
+2023-12-24T01:02:44.013+00:00	mainboard	remove	Avatar of the Resolute
+2023-12-24T01:02:44.013+00:00	mainboard	remove	Tangled Florahedron
+2023-12-24T01:02:44.013+00:00	mainboard	remove	Werewolf Pack Leader
+2023-12-24T01:02:44.013+00:00	mainboard	remove	Wildborn Preserver
+2023-12-24T01:02:44.013+00:00	mainboard	remove	Strangleroot Geist
+2023-12-24T01:02:44.013+00:00	maybeboard	add	Tangled Florahedron
+2023-12-24T01:02:44.013+00:00	maybeboard	add	Strangleroot Geist
+2023-12-24T01:02:44.013+00:00	maybeboard	add	Avatar of the Resolute
+2023-12-24T01:02:44.013+00:00	maybeboard	add	Werewolf Pack Leader
+2023-12-24T01:02:44.013+00:00	maybeboard	add	Wildborn Preserver

@@ -37,7 +37,6 @@ Galvanic Blast	2xm	125	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,ag
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
 Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
 Birds of Paradise	gk2	82	Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
-Strangleroot Geist	dka	127	Not Owned	counters,sacrifice,enrage,blink,aggrocontrol,u2.0,core,aggro,control	Non-foil	2	G	~~	~~	Creature — Spirit
 Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
 Ohran Viper	c15	194	Not Owned	tappers,aggrocontrol,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
@@ -544,7 +543,6 @@ Simian Simulacrum	bro	205	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Eternal Witness	cma	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	thb	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stitcher's Supplier	m19	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wildborn Preserver	eld	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Scour	2x2	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drossforge Bridge	mh2	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murmuring Bosk	dmc	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -966,7 +964,6 @@ Saiba Cryptomancer	mom	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger-Captain of Eos	mh1	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contentious Plan	war	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Werewolf Pack Leader	afr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Rector	uds	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1234,7 +1231,6 @@ Fyndhorn Elves	cmr	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	dom	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Mystic	khc	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eliminate	m21	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tangled Florahedron	znr	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Witness	mh2	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smoke Shroud	mh1	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyshroud Ranger	10e	297	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1279,7 +1275,6 @@ Saddled Rimestag	mh1	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moon-Blessed Cleric	afr	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Prototype	mh2	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rout	c21	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Avatar of the Resolute	dtk	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flux Channeler	war	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Night Incarnate	c18	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jeskai Elder	ddn	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
