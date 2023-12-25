@@ -10901,3 +10901,12 @@ Timestamp	Board	ChangeType	Name
 2023-12-24T03:32:00.453+00:00	maybeboard	add	Festering Mummy
 2023-12-24T03:32:00.453+00:00	maybeboard	add	Dauthi Voidwalker
 2023-12-25T11:30:55.754+00:00	mainboard	edit	Hangarback Walker
+2023-12-25T12:15:30.571+00:00	mainboard	edit	Fire Imp
+2023-12-25T12:15:30.571+00:00	mainboard	remove	Stealth Mission
+2023-12-25T12:15:30.571+00:00	mainboard	remove	Merfolk Skydiver
+2023-12-25T12:15:30.571+00:00	mainboard	remove	Fall of the Impostor
+2023-12-25T12:15:30.571+00:00	mainboard	remove	Thalia's Lieutenant
+2023-12-25T12:15:30.571+00:00	maybeboard	add	Fall of the Impostor
+2023-12-25T12:15:30.571+00:00	maybeboard	add	Stealth Mission
+2023-12-25T12:15:30.571+00:00	maybeboard	add	Thalia's Lieutenant
+2023-12-25T12:15:30.571+00:00	maybeboard	add	Merfolk Skydiver

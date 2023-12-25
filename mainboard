@@ -162,7 +162,6 @@ Supernatural Stamina	akh	111	Not Owned	occasional	Non-foil	1	B	~~	~~	Instant
 Mutilate	gvl	55	Owned	occasional	Non-foil	4	B	~~	~~	Sorcery
 Grim Affliction	mm2	84	Not Owned	occasional,counters,poison,removal,control	Non-foil	3	B	~~	~~	Instant
 Ministrant of Obligation	rna	16	Not Owned	core,sacrifice,tokens,fliers,control	Non-foil	3	W	~~	~~	Creature — Human Cleric
-Thalia's Lieutenant	soi	43	Not Owned	core,counters,aggro,tribal_payoff,wide	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Seasoned Hallowblade	m21	34	Not Owned	graveyard,aggrocontrol,reanimator,aggro,occasional	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Seeker of the Way	ktk	22	Not Owned	core,spells,lifegain,aggrocontrol,aggro,control	Non-foil	2	W	~~	~~	Creature — Human Warrior
 Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,graveyard,aggro	Non-foil	2	U	~~	~~	Creature — Faerie Rogue
@@ -227,7 +226,6 @@ Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Wa
 Elvish Warmaster	j22	654	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Warrior
 Rune of Speed	khm	148	Not Owned	~~	Non-foil	2	R	~~	~~	Enchantment — Aura Rune
 Rune of Flight	khm	75	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura Rune
-Fall of the Impostor	khm	208	Not Owned	~~	Non-foil	3	G,W	~~	~~	Enchantment — Saga
 Maskwood Nexus	clb	865	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Rune of Might	khm	191	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura Rune
 Rune of Sustenance	khm	25	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura Rune
@@ -354,7 +352,6 @@ Kabira Takedown	znr	19	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Kazuul's Fury	znr	146	Not Owned	~~	Non-foil	3	R	~~	~~	Instant
 Castle Garenbrig	eld	240	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Radha, Heart of Keld	m21	224	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
-Merfolk Skydiver	war	205	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Merfolk Mutant
 Dryad Arbor	v12	5	Not Owned	~~	Non-foil	0	G	Green	~~	Land Creature — Forest Dryad
 Titan's Strength	2x2	128	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Assassin's Trophy	2x2	175	Not Owned	~~	Non-foil	2	B,G	~~	~~	Instant
@@ -363,7 +360,6 @@ Security Bypass	snc	59	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Defabricate	bro	45	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Coffin Queen	tpr	87	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Wizard
 Vastwood Fortification	znr	216	Not Owned	~~	Non-foil	1	G	~~	~~	Instant
-Stealth Mission	war	70	Not Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Restoration Specialist	aer	21	Not Owned	tutor,graveyard,heroic,control	Non-foil	2	W	~~	~~	Creature — Dwarf Artificer
 Ghired, Conclave Exile	c19	42	Not Owned	~~	Non-foil	5	G,R,W	~~	~~	Legendary Creature — Human Shaman
 Arcanist's Owl	nec	135	Not Owned	~~	Non-foil	4	U,W	Hybrid	~~	Artifact Creature — Bird
