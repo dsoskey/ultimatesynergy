@@ -10922,3 +10922,5 @@ Timestamp	Board	ChangeType	Name
 2023-12-25T20:31:11.715+00:00	mainboard	edit	Standard Bearer
 2023-12-26T06:49:42.716+00:00	mainboard	remove	Primal Cocoon
 2023-12-26T06:49:42.716+00:00	maybeboard	add	Primal Cocoon
+2023-12-27T12:51:34.312+00:00	mainboard	remove	Incremental Blight
+2023-12-27T12:51:34.312+00:00	maybeboard	add	Incremental Blight
