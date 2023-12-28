@@ -10924,3 +10924,8 @@ Timestamp	Board	ChangeType	Name
 2023-12-26T06:49:42.716+00:00	maybeboard	add	Primal Cocoon
 2023-12-27T12:51:34.312+00:00	mainboard	remove	Incremental Blight
 2023-12-27T12:51:34.312+00:00	maybeboard	add	Incremental Blight
+2023-12-28T09:53:48.891+00:00	mainboard	edit	Spitting Dilophosaurus
+2023-12-28T09:53:48.891+00:00	mainboard	remove	Seasoned Pyromancer
+2023-12-28T09:53:48.891+00:00	mainboard	remove	Kari Zev, Skyship Raider
+2023-12-28T09:53:48.891+00:00	maybeboard	add	Kari Zev, Skyship Raider
+2023-12-28T09:53:48.891+00:00	maybeboard	add	Seasoned Pyromancer
