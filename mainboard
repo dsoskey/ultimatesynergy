@@ -249,7 +249,6 @@ Twinblade Slasher	eve	79	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrio
 Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Grind // Dust	hou	155	Not Owned	~~	Non-foil	"""2"""	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
-Fumigate	onc	69	Not Owned	wrath,lifegain	Non-foil	5	W	~~	~~	Sorcery
 Looter il-Kor	tsr	74	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Kor Rogue
 Nadir Kraken	thb	55	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Kraken
 Censor	akh	46	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
@@ -371,7 +370,6 @@ Pelt Collector	grn	141	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Chainweb Aracnir	thb	167	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Spider
 Deathbonnet Sprout	mid	181	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus
 Unlucky Witness	snc	128	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Citizen
-Goblin Rabblemaster	j22	545	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Warrior
 Legion Warboss	grn	109	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Soldier
 Showdown of the Skalds	khm	229	Not Owned	~~	Non-foil	4	R,W	~~	~~	Enchantment — Saga
 Grumgully, the Generous	clb	847	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Goblin Shaman
@@ -1031,7 +1029,7 @@ Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chatterstorm	mh2	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Apprentice	stx	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	cn2	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Spellstutter Sprite	j22	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spellstutter Sprite	mma	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Protector	vow	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patchwork Crawler	vow	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Enduring Bondwarden	mom	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1334,7 +1332,6 @@ Attempted Murder	unf	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Riftwatcher	plc	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosper, Tome-Bound	afc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silverfur Partisan	soi	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stonecloaker	ddn	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lesser Masticore	mh1	225	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Masticore
 Emergency Weld	bro	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Anarchomancer	mh2	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1363,7 +1360,7 @@ Sheltering Word	avr	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lazotep Plating	scd	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shore Up	dmu	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cogwork Wrestler	lci	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Zabaz, the Glimmerwasp	mh2	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zabaz, the Glimmerwasp	mh2	243	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Chronomaton	ddm	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inquisitive Puppet	eld	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
