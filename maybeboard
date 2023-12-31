@@ -1119,7 +1119,7 @@ Yamabushi's Storm	chk	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scalding Tongs	tmp	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Island Sanctuary	lea	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Resurrection	tsb	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Drudge Skeletons	8ed	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drudge Skeletons	gvl	36	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise Dead	cn2	146	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disenchant	scd	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Muddle the Mixture	rav	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2191,3 +2191,5 @@ Saw in Half	unf	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burn Down the House	mid	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Booster Tutor	und	33	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Collective Effort	emn	17	Not Owned	tokens,wide,enchantment_removal,removal,counters	~~	"""~~"""	~~	~~	~~	~~
+Shinka, the Bloodsoaked Keep	chk	282	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hedron Archive	bfz	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
