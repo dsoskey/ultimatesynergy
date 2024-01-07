@@ -10972,3 +10972,5 @@ Timestamp	Board	ChangeType	Name
 2024-01-05T09:13:55.824+00:00	mainboard	remove	Ardent Elementalist
 2024-01-06T19:02:52.666+00:00	mainboard	remove	Ichorclaw Myr
 2024-01-06T19:02:52.666+00:00	maybeboard	add	Ichorclaw Myr
+2024-01-07T06:46:57.810+00:00	maybeboard	remove	Brightling
+2024-01-07T06:46:57.810+00:00	maybeboard	remove	Vorapede
