@@ -10982,3 +10982,14 @@ Timestamp	Board	ChangeType	Name
 2024-01-12T08:15:24.520+00:00	maybeboard	add	Deputy of Acquittals
 2024-01-16T00:03:40.516+00:00	mainboard	remove	Torch Courier
 2024-01-16T00:03:40.516+00:00	maybeboard	add	Torch Courier
+2024-01-25T07:23:06.797+00:00	mainboard	remove	Slave of Bolas
+2024-01-25T07:23:06.797+00:00	mainboard	remove	Manamorphose
+2024-01-25T07:23:06.797+00:00	mainboard	remove	Pithing Needle
+2024-01-25T07:23:06.797+00:00	mainboard	remove	Croaking Counterpart
+2024-01-25T07:23:06.797+00:00	mainboard	remove	Syphon Essence
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Pithing Needle
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Assure // Assemble
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Croaking Counterpart
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Manamorphose
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Slave of Bolas
+2024-01-25T07:23:06.797+00:00	maybeboard	add	Syphon Essence

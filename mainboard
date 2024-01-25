@@ -209,7 +209,6 @@ Scrabbling Claws	rna	238	Not Owned	core,artifacts	Non-foil	1	~~	~~	~~	Artifact
 Clear Shot	emn	152	Not Owned	core,spells,flash,removal,heroic,aggro,aggrocontrol	Non-foil	3	G	~~	~~	Instant
 Mind Flayer	afr	63	Not Owned	core,removal,blink,aggro,aggrocontrol	Non-foil	5	U	~~	~~	Creature — Horror
 Monoskelion	mh2	229	Not Owned	core,artifacts,counters,sacrifice,removal,pingers,wide,aggro,control,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Syphon Essence	vow	84	Not Owned	core,spells,aggrocontrol,control,flash,artifacts,graveyard	Non-foil	3	U	~~	~~	Instant
 Rabbit Battery	neo	157	Not Owned	core,artifacts,heroic,manasink	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
 Marsh Flats	mh2	248	Not Owned	core,gold_land	Non-foil	0	W,B	~~	~~	Land
 Verdant Catacombs	mh2	260	Not Owned	core,gold_land	Non-foil	0	B,G	~~	~~	Land
@@ -634,7 +633,6 @@ Infernal Grasp	mid	107	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Royal Warden	40k	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampaging Ferocidon	xln	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 General Kudro of Drannith	iko	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Croaking Counterpart	mid	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brotherhood's End	bro	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Innocent Blood	e02	19	Not Owned	occasional	Non-foil	1	B	~~	~~	Sorcery
 Diregraf Colossus	soi	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -702,7 +700,6 @@ Sudden Spoiling	tsr	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	moc	188	Owned	tokens,aggro,aggrocontrol,beats	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	uma	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pithing Needle	2x2	312	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suffer the Past	c21	155	Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Telling Time	gk1	4	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
@@ -1059,7 +1056,6 @@ Bloodwater Entity	hou	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrangle	aer	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archaeomancer	uma	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Radagast, Wizard of Wilds	ltc	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Manamorphose	2xm	208	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kessig Flamebreather	vow	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dire Fleet Daredevil	rix	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1202,7 +1198,6 @@ Goreclaw, Terror of Qal Sisma	cmm	293	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Insolent Neonate	soi	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigrid, God-Favored	khm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
-Slave of Bolas	arb	136	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Footlight Fiend	rna	216	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Sakura-Tribe Elder	c20	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
