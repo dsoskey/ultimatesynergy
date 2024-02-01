@@ -11042,3 +11042,13 @@ Timestamp	Board	ChangeType	Name
 2024-02-01T17:53:04.386+00:00	maybeboard	add	Bellowing Bruiser
 2024-02-01T17:53:04.386+00:00	maybeboard	add	Kazuul's Fury
 2024-02-01T17:53:04.386+00:00	maybeboard	add	Arc Lightning
+2024-02-01T21:17:36.028+00:00	mainboard	remove	Mycoloth
+2024-02-01T21:17:36.028+00:00	mainboard	remove	Noxious Gearhulk
+2024-02-01T21:17:36.028+00:00	mainboard	remove	Verdurous Gearhulk
+2024-02-01T21:17:36.028+00:00	mainboard	remove	Blessed Respite
+2024-02-01T21:17:36.028+00:00	mainboard	remove	Light Up the Stage
+2024-02-01T21:17:36.028+00:00	maybeboard	add	Light Up the Stage
+2024-02-01T21:17:36.028+00:00	maybeboard	add	Blessed Respite
+2024-02-01T21:17:36.028+00:00	maybeboard	add	Mycoloth
+2024-02-01T21:17:36.028+00:00	maybeboard	add	Noxious Gearhulk
+2024-02-01T21:17:36.028+00:00	maybeboard	add	Verdurous Gearhulk

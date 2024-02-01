@@ -35,7 +35,6 @@ Tuktuk the Explorer	roe	169	Not Owned	artifacts,sacrifice,tokens,enrage,pingers,
 Zealous Conscripts	mm3	116	Not Owned	blink,sacrifice,burn,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	2xm	125	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
-Light Up the Stage	rna	107	Not Owned	burn,spells,pingers,aggrocontrol,u4.6.4,smoothing,core,aggro	Non-foil	3	R	~~	~~	Sorcery
 Birds of Paradise	gk2	82	Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
 Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
@@ -272,7 +271,6 @@ Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mind Stone	afc	211	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Incubation // Incongruity	c21	219	Not Owned	~~	Non-foil	"""3"""	G,U	Hybrid	~~	Sorcery
 Judith, the Scourge Diva	rna	185	Not Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Creature — Human Shaman
-Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Shatter the Sky	thb	37	Not Owned	wrath,smoothing	Non-foil	4	W	~~	~~	Sorcery
 Storm's Wrath	thb	157	Not Owned	~~	Non-foil	4	R	~~	~~	Sorcery
 Paradise Druid	afc	165	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
@@ -445,7 +443,6 @@ Hangarback Walker	ori	229	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Liberator, Urza's Battlethopter	bro	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Circuit Mender	neo	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breya's Apprentice	mh2	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Verdurous Gearhulk	kld	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duplicant	cmm	946	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Splicer	moc	175	Not Owned	tokens,artifacts,blink,heroic,aggro,aggrocontrol	~~	"""~~"""	~~	~~	~~	~~
 Bladecoil Serpent	bro	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -472,7 +469,6 @@ Pest Infestation	c21	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Aerialist	m20	91	Not Owned	lifegain_payoff,fliers	~~	"""~~"""	~~	~~	~~	~~
 Blood Researcher	stx	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silversmote Ghoul	m21	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Noxious Gearhulk	kld	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tivash, Gloom Summoner	c21	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Righteous Valkyrie	khm	24	Not Owned	tribal_payoff,tribal,lifegain,lifegain_payoff,fliers	~~	"""~~"""	~~	~~	~~	~~
 Ajani, Strength of the Pride	m20	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1171,7 +1167,6 @@ Standard Bearer	apc	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow Rift	tpr	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Apostle's Blessing	mm2	8	Not Owned	~~	~~	"""~~"""	~~	Colorless	~~	~~
 Crash Through	hou	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mycoloth	pca	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	dst	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rat Out	woe	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Levitating Statue	bro	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
