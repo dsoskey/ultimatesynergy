@@ -284,7 +284,6 @@ Dungeon Geists	cma	39	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
 Dread Wanderer	akh	88	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie Jackal
 Gutterbones	rna	76	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
 Brazen Borrower	sld	234	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
-Arc Lightning	ktk	97	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Knight of Autumn	grn	183	Not Owned	~~	Non-foil	3	G,W	~~	~~	Creature — Dryad Knight
 Ravenous Chupacabra	rix	82	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Celestial Colonnade	uma	238	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
@@ -341,7 +340,6 @@ Eiganjo, Seat of the Empire	neo	268	Not Owned	~~	Non-foil	0	W	White	~~	Legendary
 Takenuma, Abandoned Mire	neo	278	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
 Sokenzan, Crucible of Defiance	neo	276	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Kabira Takedown	znr	19	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
-Kazuul's Fury	znr	146	Not Owned	~~	Non-foil	3	R	~~	~~	Instant
 Castle Garenbrig	eld	240	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Radha, Heart of Keld	m21	224	Not Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Creature — Elf Warrior
 Dryad Arbor	v12	5	Not Owned	~~	Non-foil	0	G	Green	~~	Land Creature — Forest Dryad
@@ -1080,7 +1078,6 @@ Nest Invader	pca	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Briarbridge Tracker	mid	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Scrying	mrd	130	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stroke of Midnight	woe	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bellowing Bruiser	woe	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Specter of Mortality	woe	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Picklock Prankster	woe	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talion's Messenger	woe	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1358,4 +1355,5 @@ Darkblast	gk1	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scout's Warning	fut	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imp's Mischief	plc	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Twin Bolt	dtk	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb1	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
