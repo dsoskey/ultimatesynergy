@@ -11122,3 +11122,9 @@ Timestamp	Board	ChangeType	Name
 2024-02-02T20:05:20.697+00:00	mainboard	edit	Pick Your Poison
 2024-02-02T20:05:20.697+00:00	mainboard	remove	The Ancient One
 2024-02-02T20:05:20.697+00:00	maybeboard	add	The Ancient One
+2024-02-02T20:24:51.242+00:00	mainboard	remove	Cemetery Prowler
+2024-02-02T20:24:51.242+00:00	mainboard	remove	Rishkar, Peema Renegade
+2024-02-02T20:24:51.242+00:00	mainboard	remove	Courser of Kruphix
+2024-02-02T20:24:51.242+00:00	maybeboard	add	Rishkar, Peema Renegade
+2024-02-02T20:24:51.242+00:00	maybeboard	add	Courser of Kruphix
+2024-02-02T20:24:51.242+00:00	maybeboard	add	Cemetery Prowler
