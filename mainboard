@@ -1261,7 +1261,6 @@ Monk of the Open Hand	afr	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Recruitment Officer	bro	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Gatekeeper	vow	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 River of Tears	clb	912	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-The Ancient One	lci	222	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Whisper Agent	grn	220	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Seal of Fire	jvc	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valorous Stance	afc	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1359,7 +1358,7 @@ Leering Onlooker	mkm	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snarling Gorehound	mkm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aftermath Analyst	mkm	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard-Hitting Question	mkm	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pick Your Poison	cmb1	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pick Your Poison	mkm	170	Not Owned	~~	~~	"""1NaN"""	G	~~	~~	~~
 Rubblebelt Maverick	mkm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Break Out	mkm	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drag the Canal	mkm	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1375,9 +1374,9 @@ Thundering Falls	mkm	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Undercity Sewers	mkm	270	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Underground Mortuary	mkm	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Escape Tunnel	mkm	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Afterlife Insurance	clu	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Afterlife Insurance	clu	23	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ecstatic Electromancer	clu	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Furious Spinesplitter	clu	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Furious Spinesplitter	clu	33	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scuttling Sentinel	clu	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tribune of Rot	clu	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tribune of Rot	clu	48	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Fang of Shigeki	neo	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
