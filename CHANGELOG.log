@@ -11052,3 +11052,7 @@ Timestamp	Board	ChangeType	Name
 2024-02-01T21:17:36.028+00:00	maybeboard	add	Mycoloth
 2024-02-01T21:17:36.028+00:00	maybeboard	add	Noxious Gearhulk
 2024-02-01T21:17:36.028+00:00	maybeboard	add	Verdurous Gearhulk
+2024-02-02T18:20:52.822+00:00	mainboard	remove	Soul of Shandalar
+2024-02-02T18:20:52.822+00:00	mainboard	remove	Lukka, Coppercoat Outcast
+2024-02-02T18:20:52.822+00:00	maybeboard	add	Lukka, Coppercoat Outcast
+2024-02-02T18:20:52.822+00:00	maybeboard	add	Soul of Shandalar
