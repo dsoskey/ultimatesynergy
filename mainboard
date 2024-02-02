@@ -1334,7 +1334,7 @@ Arcbound Stinger	mma	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Slith	hop	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tin Street Dodger	rna	120	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Distortion Strike	ima	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Expansion // Explosion	grn	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Expansion // Explosion	grn	224	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Thopter Mechanic	bro	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Khalni Ambush	znr	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overcharged Amalgam	vow	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1372,8 +1372,18 @@ Undercity Sewers	mkm	270	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Underground Mortuary	mkm	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Escape Tunnel	mkm	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Afterlife Insurance	clu	23	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Ecstatic Electromancer	clu	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ecstatic Electromancer	clu	31	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Furious Spinesplitter	clu	33	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Scuttling Sentinel	clu	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scuttling Sentinel	clu	42	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Tribune of Rot	clu	48	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Fang of Shigeki	neo	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Canyon Slough	akh	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fetid Pools	akh	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Irrigated Farmland	akh	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scattered Groves	akh	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sheltered Thicket	akh	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cinder Glade	bfz	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Canopy Vista	bfz	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prairie Stream	bfz	241	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smoldering Marsh	bfz	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sunken Hollow	bfz	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
