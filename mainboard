@@ -112,7 +112,7 @@ Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
 Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
 Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
-Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	~~	~~	Instant
+Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	White	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
@@ -1078,11 +1078,11 @@ Water Wings	woe	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Goose Mother	woe	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Likeness Looter	woe	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Questing Druid	woe	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Scalding Viper	woe	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Twining Twins	woe	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
+Questing Druid	woe	234	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Scalding Viper	woe	235	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
+Twining Twins	woe	240	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 The Irencrag	woe	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syr Ginger, the Meal Ender	woe	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Grotto	dmu	246	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
@@ -1278,7 +1278,7 @@ Phantom Nantuko	jud	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Helping Hand	lci	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruin-Lurker Bat	lci	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bitter Triumph	lci	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Geological Appraiser	lci	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Confounding Riddle	lci	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spyglass Siren	lci	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
