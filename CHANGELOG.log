@@ -11143,3 +11143,7 @@ Timestamp	Board	ChangeType	Name
 2024-02-02T21:19:48.247+00:00	mainboard	add	Smoldering Marsh
 2024-02-02T21:19:48.247+00:00	mainboard	add	Sunken Hollow
 2024-02-02T23:40:12.420+00:00	mainboard	edit	Escape Tunnel
+2024-02-03T03:55:38.055+00:00	mainboard	remove	Break Out
+2024-02-03T03:55:38.055+00:00	mainboard	remove	Expansion // Explosion
+2024-02-03T03:55:38.055+00:00	maybeboard	add	Expansion // Explosion
+2024-02-03T03:55:38.055+00:00	maybeboard	add	Break Out
