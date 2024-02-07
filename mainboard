@@ -376,7 +376,6 @@ Malicious Affliction	ema	96	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
-Gala Greeters	snc	148	Not Owned	lifegain,artifacts,ramp,counters,repeatable,heroic	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-foil	2	W	~~	~~	Creature — Human Noble
 Novijen, Heart of Progress	c15	296	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Alchemist's Refuge	avr	225	Not Owned	~~	Non-foil	0	U,G	~~	~~	Land
@@ -498,7 +497,6 @@ Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	dmu	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Managorger Hydra	ori	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	Not Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Cathar Commando	mid	10	Not Owned	artifact_removal,enchantment_removal,flash,aggrocontrol,aggro,sacrifice	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Codex Shredder	cmr	304	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -715,7 +713,6 @@ Arcbound Javelineer	mh2	2	Not Owned	counters,counters_payoff,removal,aggrocontro
 Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen	por	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Strategic Planning	khm	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	mm3	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Arcbound Worker	mma	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
