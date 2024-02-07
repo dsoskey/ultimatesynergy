@@ -35,7 +35,6 @@ Tuktuk the Explorer	roe	169	Not Owned	artifacts,sacrifice,tokens,enrage,pingers,
 Zealous Conscripts	mm3	116	Not Owned	blink,sacrifice,burn,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	2xm	125	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
-Birds of Paradise	gk2	82	Owned	ramp,wide,evasion,aggrocontrol,u2.0,smoothing,core,aggro,control	Non-foil	1	G	~~	~~	Creature — Bird
 Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Creature — Elf Scout
 Evolution Sage	war	159	Not Owned	counters,ramp,counters_payoff,core,aggro,poison	Non-foil	3	G	~~	~~	Creature — Elf Druid
 Ohran Viper	c15	194	Not Owned	tappers,aggrocontrol,core,aggro,control	Non-foil	3	G	~~	~~	Snow Creature — Snake
@@ -91,7 +90,7 @@ Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Black	~~	Legen
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
 Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
-Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	8	R	~~	~~	Creature — Devil Horror
+Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	"""5"""	R	~~	~~	Creature — Devil Horror
 Chandra's Phoenix	e01	44	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Phoenix
 Eidolon of the Great Revel	a25	128	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
@@ -448,7 +447,7 @@ Staff of Compleation	one	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Consider	mid	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Play with Fire	mid	154	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Fading Hope	mid	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Timeless Dragon	mh2	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Timeless Dragon	mh2	35	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Merfolk Branchwalker	xln	197	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unearth	2x2	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Recommission	bro	22	Not Owned	tutor,graveyard,counters,blink,aggrocontrol,aggro,artifacts_payoff	~~	"""~~"""	~~	~~	~~	~~
@@ -1093,7 +1092,7 @@ Snaremaster Sprite	woe	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Dreamthief	woe	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fell Horseman	woe	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goddric, Cloaked Reveler	woe	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hearth Elemental	woe	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hearth Elemental	woe	136	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Redcap Gutter-Dweller	woe	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1174,9 +1173,6 @@ Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Cr
 Footlight Fiend	rna	216	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Sakura-Tribe Elder	c20	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Fyndhorn Elves	cmr	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Llanowar Elves	dom	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Elvish Mystic	khc	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eliminate	m21	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Witness	mh2	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smoke Shroud	mh1	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1267,7 +1263,7 @@ Feast of the Victorious Dead	mat	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cenote Scout	lci	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hope of Ghirapur	aer	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slogurk, the Overslime	mid	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ethereal Forager	c20	34	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethereal Forager	c20	34	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Wrath of God	10e	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise the Alarm	ddf	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reciprocate	ddg	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1276,7 +1272,6 @@ Helping Hand	lci	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruin-Lurker Bat	lci	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bitter Triumph	lci	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
-Geological Appraiser	lci	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Confounding Riddle	lci	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spyglass Siren	lci	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ramunap Ruins	hou	181	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
