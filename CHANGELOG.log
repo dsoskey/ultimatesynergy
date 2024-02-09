@@ -11187,3 +11187,5 @@ Timestamp	Board	ChangeType	Name
 2024-02-08T05:46:50.125+00:00	mainboard	add	Dead Weight
 2024-02-08T05:47:14.388+00:00	mainboard	add	Dead Weight
 2024-02-08T23:31:32.593+00:00	mainboard	remove	Dead Weight
+2024-02-09T12:16:56.905+00:00	mainboard	remove	Zoetic Glyph
+2024-02-09T12:16:56.905+00:00	maybeboard	add	Zoetic Glyph
