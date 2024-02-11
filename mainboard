@@ -169,7 +169,7 @@ Fiery Temper	plst	SOI-156	Not Owned	core,graveyard,removal,burn,spells,flash,agg
 Deadbridge Goliath	gk1	55	Not Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Farseek	dmc	133	Not Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Dimir Guildmage	uma	213	Owned	core,manasink,aggro,aggrocontrol,control	Non-foil	2	U,B	Hybrid	~~	Creature — Human Wizard
-Chimeric Mass	mm2	204	Not Owned	core,artifacts,counters,manasink,ramp,control	Non-foil	0	~~	~~	~~	Artifact
+Chimeric Mass	mm2	204	Not Owned	core,artifacts,counters,manasink,ramp,control	Non-foil	"""2"""	~~	~~	~~	Artifact
 Engineered Explosives	2xm	252	Not Owned	core,removal,artifact_removal,enchantment_removal,wrath,control	Non-foil	0	~~	~~	~~	Artifact
 Azorius Chancery	c18	233	Not Owned	core,gold_land	Non-foil	0	U,W	~~	~~	Land
 Dimir Aqueduct	2x2	322	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
@@ -551,7 +551,7 @@ Myr Scrapling	mh2	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dromoka's Command	2x2	206	Not Owned	~~	Non-foil	2	G,W	~~	~~	Instant
 Lorescale Coatl	m21	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patchwork Automaton	neo	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Clown Car	unf	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clown Car	unf	186	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Ecologist's Terrarium	neo	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ingenious Smith	afr	21	Not Owned	artifacts,control,aggrocontrol,counters,repeatable,heroic,tokens,blink,aggro	~~	"""~~"""	~~	~~	~~	~~
 Mukotai Soulripper	neo	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
