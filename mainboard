@@ -301,7 +301,6 @@ Ghost Quarter	cm2	253	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 High Market	2xm	321	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Fearless Fledgling	znr	15	Not Owned	lands,heroic,fliers,fliers_payoff,aggro,aggrocontrol	Non-foil	2	W	~~	~~	Creature — Griffin
-Thieving Skydiver	znr	85	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Nullpriest of Oblivion	znr	118	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire Cleric
 Chaplain of Alms	mid	13	Not Owned	graveyard,aggrocontrol,aggro,heroic	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Mikaeus, the Lunarch	jmp	123	Not Owned	~~	Non-foil	"""3"""	W	~~	~~	Legendary Creature — Human Cleric
@@ -461,7 +460,6 @@ Arcbound Crusher	dst	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	afc	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valentin, Dean of the Vein	stx	161	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Spectrum Sentinel	bro	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pest Infestation	c21	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Aerialist	m20	91	Not Owned	lifegain_payoff,fliers	~~	"""~~"""	~~	~~	~~	~~
 Blood Researcher	stx	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silversmote Ghoul	m21	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -571,7 +569,6 @@ Falkenrath Gorger	soi	155	Not Owned	tribal,aggro,discard,graveyard	~~	"""~~"""	~
 Abbot of Keral Keep	ori	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Giant Cindermaw	bro	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Squee, Dubious Monarch	dmu	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necrogen Communion	one	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voidwing Hybrid	one	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	2x2	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1342,7 +1339,6 @@ Festerleech	mkm	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leering Onlooker	mkm	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snarling Gorehound	mkm	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aftermath Analyst	mkm	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hard-Hitting Question	mkm	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pick Your Poison	mkm	170	Not Owned	~~	~~	"""1NaN"""	G	~~	~~	~~
 Rubblebelt Maverick	mkm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drag the Canal	mkm	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

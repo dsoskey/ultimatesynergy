@@ -11194,3 +11194,11 @@ Timestamp	Board	ChangeType	Name
 2024-02-09T12:22:40.714+00:00	maybeboard	add	Ghired, Conclave Exile
 2024-02-11T01:03:40.806+00:00	mainboard	edit	Chimeric Mass
 2024-02-11T01:03:40.806+00:00	mainboard	edit	Clown Car
+2024-02-12T09:10:53.853+00:00	mainboard	remove	Hard-Hitting Question
+2024-02-12T09:10:53.853+00:00	mainboard	remove	Squee, Dubious Monarch
+2024-02-12T09:10:53.853+00:00	mainboard	remove	Pest Infestation
+2024-02-12T09:10:53.853+00:00	mainboard	remove	Thieving Skydiver
+2024-02-12T09:10:53.853+00:00	maybeboard	add	Thieving Skydiver
+2024-02-12T09:10:53.853+00:00	maybeboard	add	Pest Infestation
+2024-02-12T09:10:53.853+00:00	maybeboard	add	Hard-Hitting Question
+2024-02-12T09:10:53.853+00:00	maybeboard	add	Squee, Dubious Monarch
