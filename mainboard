@@ -184,7 +184,6 @@ Cursed Mirror	c21	50	Not Owned	occasional	Non-foil	3	R	~~	~~	Artifact
 Grazilaxx, Illithid Scholar	afr	60	Not Owned	aggrocontrol,blink,fliers,core,aggro	Non-foil	3	U	~~	~~	Legendary Creature — Horror
 Shambling Ghast	afr	119	Not Owned	artifacts,removal,sacrifice,zombies,core,ramp,control	Non-foil	1	B	~~	~~	Creature — Zombie
 Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
-Syr Konrad, the Grim	znc	56	Not Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Not Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
 Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control,graveyard_hate,url	Non-foil	"""5"""	R	~~	~~	Sorcery
@@ -314,7 +313,6 @@ Needle Spires	ogw	175	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Lumbering Falls	c21	299	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Vesuva	tsr	289	Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
-Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Shivan Gorge	dmc	232	Not Owned	~~	Non-foil	0	R	Red	~~	Legendary Land
 Blossoming Sands	c19	231	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Graypelt Refuge	c19	249	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
@@ -382,7 +380,6 @@ Rotting Rats	con	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindshrieker	isd	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Tank	war	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unholy Heat	mh2	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Incinerate	jvc	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Rage	rix	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	frf	72	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
@@ -698,7 +695,7 @@ Glory-Bound Initiate	akh	16	Not Owned	aggro,lifegain,aggrocontrol	~~	"""~~"""	~~
 Arcbound Javelineer	mh2	2	Not Owned	counters,counters_payoff,removal,aggrocontrol,aggro,artifacts,durable	~~	"""~~"""	~~	~~	~~	~~
 Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Omen	por	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Omen	por	62	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	mm3	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Arcbound Worker	mma	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -909,7 +906,7 @@ Saiba Cryptomancer	mom	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger-Captain of Eos	mh1	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contentious Plan	war	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Academy Rector	uds	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Academy Rector	uds	1	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -934,7 +931,6 @@ Boros Guildmage	cma	199	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Aethertow	mm3	205	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Blistercoil Weird	rtr	211	Not Owned	~~	Non-foil	1	R,U	Hybrid	~~	Creature — Weird
-Siege Veteran	bro	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nils, Discipline Enforcer	c21	20	Not Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
 Elspeth, Sun's Nemesis	thb	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harm's Way	ddg	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1082,7 +1078,6 @@ Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Blossoming Tortoise	woe	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bramble Familiar	woe	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Archivist	woe	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lord Skitter, Sewer King	woe	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rowan, Scion of War	woe	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
