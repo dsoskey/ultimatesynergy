@@ -4,7 +4,6 @@ Healer's Hawk	grn	14	Not Owned	fliers,lifegain,heroic,wide,evasion,aggrocontrol,
 Thraben Inspector	soi	44	Not Owned	artifacts,flash,stax,blink,sacrifice,tokens,manasink,wide,soldiers,aggrocontrol,smoothing,core,aggro,control	Non-foil	1	W	~~	~~	Creature — Human Soldier
 Relic Seeker	ori	29	Not Owned	artifacts,counters,aggrocontrol,core,aggro,heroic	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Porcelain Legionnaire	nph	19	Not Owned	artifacts,soldiers,aggrocontrol,u2.0,occasional	Non-foil	2	W	Colorless	~~	Artifact Creature — Soldier
-Attended Knight	mm3	1	Not Owned	blink,tokens,sacrifice,wide,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Human Knight
 Flickerwisp	cmr	374	Not Owned	fliers,blink,evasion,aggrocontrol,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Elemental
 Day of Judgment	e02	2	Not Owned	control,wrath,removal,core,control	Non-foil	4	W	~~	~~	Sorcery
 Recumbent Bliss	ddh	26	Not Owned	lifegain,u2.0,u3.4,removal,core,aggro,control	Non-foil	3	W	~~	~~	Enchantment — Aura
@@ -211,7 +210,6 @@ Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Not Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
 Field of the Dead	m20	247	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Emergent Sequence	stx	129	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
-Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Runed Crown	khm	245	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Spirit of the Season	und	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Treefolk Spirit
 Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
@@ -657,7 +655,7 @@ Kami of Transience	neo	197	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Ranger	woc	134	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Recruit	rav	243	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Fowl Play	ugl	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mesa Chicken	ugl	9	Owned	fliers,aggro,heroic,aggrocontrol,core	~~	"""~~"""	~~	~~	~~	~~
+Mesa Chicken	ugl	9	Owned	fliers,aggro,heroic,aggrocontrol,core,custom,url	~~	"""~~"""	~~	~~	~~	~~
 Plague Myr	onc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Servant of the Scale	dtk	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	scd	99	Owned	~~	~~	"""3"""	~~	~~	~~	~~
@@ -693,7 +691,7 @@ Biogenic Ooze	rna	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glory-Bound Initiate	akh	16	Not Owned	aggro,lifegain,aggrocontrol	~~	"""~~"""	~~	~~	~~	~~
 Arcbound Javelineer	mh2	2	Not Owned	counters,counters_payoff,removal,aggrocontrol,aggro,artifacts,durable	~~	"""~~"""	~~	~~	~~	~~
 Serum Visions	5dn	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mental Note	jud	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mental Note	jud	46	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Omen	por	62	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	mm3	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	gk2	67	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
@@ -954,7 +952,6 @@ Fungal Rebirth	m21	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embodiment of Agonies	m20	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Embodiment of Fury	ogw	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundation Breaker	mh2	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cut Down	dmu	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fungal Infection	dom	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	Creature
 Graveshifter	mh1	94	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
 Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1356,3 +1353,14 @@ Reckless Detective	mkm	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Circular Logic	dmr	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dead Weight	soi	106	Owned	~~	Non-foil	1	B	~~	~~	Enchantment — Aura
 Obuun, Mul Daya Ancestor	znc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url,watch	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	ori	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
