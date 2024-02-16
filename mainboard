@@ -74,7 +74,7 @@ Legion's Landing	xln	22	Not Owned	lifegain,tokens,control,aggrocontrol,repeatabl
 Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
-Careful Study	ody	70	Not Owned	occasional	Non-foil	1	U	~~	~~	Sorcery
+Careful Study	ody	70	Not Owned	occasional,url	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
@@ -260,7 +260,6 @@ Reclamation Sage	scd	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
 Wolfir Avenger	avr	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Wolf Warrior
 Signal Pest	mbs	131	Owned	~~	Non-foil	1	~~	~~	~~	Artifact Creature — Pest
 Endless One	bfz	8	Not Owned	~~	Non-foil	"""1"""	~~	~~	~~	Creature — Eldrazi
-Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mind Stone	afc	211	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Incubation // Incongruity	c21	219	Not Owned	~~	Non-foil	"""3"""	G,U	Hybrid	~~	Sorcery
 Judith, the Scourge Diva	rna	185	Not Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Creature — Human Shaman
@@ -365,7 +364,7 @@ Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-fo
 Novijen, Heart of Progress	c15	296	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Alchemist's Refuge	avr	225	Not Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Mortuary Mire	clb	900	Not Owned	~~	Non-foil	0	B	Black	~~	Land
-Soldevi Excavations	me2	236	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
+Soldevi Excavations	me2	236	Not Owned	url	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -1211,7 +1210,7 @@ Trigger Happy	unf	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Double Cleave	uma	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Thespian's Stage	uma	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glimmerpost	som	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cabal Pit	ody	315	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Cabal Pit	ody	315	Not Owned	url	~~	"""~~"""	~~	Black	~~	~~
 Guildmages' Forum	grn	250	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Cathedral of War	m13	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
