@@ -11286,3 +11286,9 @@ Timestamp	Board	ChangeType	Name
 2024-02-16T08:06:20.696+00:00	mainboard	edit	Raging River
 2024-02-16T08:06:20.696+00:00	mainboard	remove	Worn Powerstone
 2024-02-16T08:06:20.696+00:00	maybeboard	add	Worn Powerstone
+2024-02-16T08:11:46.441+00:00	mainboard	remove	Stonecoil Serpent
+2024-02-16T08:11:46.441+00:00	mainboard	remove	Venser, Shaper Savant
+2024-02-16T08:11:46.441+00:00	mainboard	remove	Hangarback Walker
+2024-02-16T08:11:46.441+00:00	maybeboard	add	Venser, Shaper Savant
+2024-02-16T08:11:46.441+00:00	maybeboard	add	Hangarback Walker
+2024-02-16T08:11:46.441+00:00	maybeboard	add	Stonecoil Serpent
