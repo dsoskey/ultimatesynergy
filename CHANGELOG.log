@@ -11320,3 +11320,9 @@ Timestamp	Board	ChangeType	Name
 2024-02-18T05:05:00.288+00:00	maybeboard	add	Felidar Retreat
 2024-02-18T05:05:00.288+00:00	maybeboard	add	Go-Shintai of Boundless Vigor
 2024-02-18T05:05:00.288+00:00	maybeboard	add	Squirrel Nest
+2024-02-18T11:52:19.949+00:00	mainboard	remove	Redcap Gutter-Dweller
+2024-02-18T11:52:19.949+00:00	mainboard	remove	Magmatic Channeler
+2024-02-18T11:52:19.949+00:00	mainboard	remove	Ravenous Chupacabra
+2024-02-18T11:52:19.949+00:00	maybeboard	add	Magmatic Channeler
+2024-02-18T11:52:19.949+00:00	maybeboard	add	Redcap Gutter-Dweller
+2024-02-18T11:52:19.949+00:00	maybeboard	add	Ravenous Chupacabra
