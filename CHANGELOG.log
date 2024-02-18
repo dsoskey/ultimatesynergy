@@ -11307,3 +11307,16 @@ Timestamp	Board	ChangeType	Name
 2024-02-17T20:19:55.359+00:00	mainboard	remove	Spark Double
 2024-02-17T20:19:55.359+00:00	maybeboard	add	Spark Double
 2024-02-18T04:28:13.760+00:00	mainboard	add	Syndicate Heavy
+2024-02-18T05:05:00.288+00:00	mainboard	edit	Syndicate Heavy
+2024-02-18T05:05:00.288+00:00	mainboard	edit	Lashknife Barrier
+2024-02-18T05:05:00.288+00:00	mainboard	edit	Fowl Play
+2024-02-18T05:05:00.288+00:00	mainboard	edit	Ranger Class
+2024-02-18T05:05:00.288+00:00	mainboard	edit	Pendrell Flux
+2024-02-18T05:05:00.288+00:00	mainboard	remove	Hero of Bladehold
+2024-02-18T05:05:00.288+00:00	mainboard	remove	Go-Shintai of Boundless Vigor
+2024-02-18T05:05:00.288+00:00	mainboard	remove	Felidar Retreat
+2024-02-18T05:05:00.288+00:00	mainboard	remove	Squirrel Nest
+2024-02-18T05:05:00.288+00:00	maybeboard	add	Hero of Bladehold
+2024-02-18T05:05:00.288+00:00	maybeboard	add	Felidar Retreat
+2024-02-18T05:05:00.288+00:00	maybeboard	add	Go-Shintai of Boundless Vigor
+2024-02-18T05:05:00.288+00:00	maybeboard	add	Squirrel Nest

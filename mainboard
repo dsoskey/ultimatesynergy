@@ -75,7 +75,7 @@ Shelter	mh1	28	Not Owned	occasional	Non-foil	2	W	~~	~~	Instant
 Sunscorch Regent	dtk	41	Not Owned	occasional	Non-foil	5	W	~~	~~	Creature — Dragon
 Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Careful Study	ody	70	Not Owned	occasional,url	Non-foil	1	U	~~	~~	Sorcery
-Pendrell Flux	usg	87	Not Owned	occasional	Non-foil	2	U	~~	~~	Enchantment — Aura
+Pendrell Flux	usg	87	Not Owned	occasional,url	Non-foil	2	U	~~	~~	Enchantment — Aura
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
 Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Not Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
@@ -101,7 +101,6 @@ Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	No
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
 Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
-Squirrel Nest	mh1	182	Not Owned	core,tokens,sacrifice,control	Non-foil	3	G	~~	~~	Enchantment — Aura
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
@@ -222,7 +221,7 @@ Rune of Mortality	khm	108	Not Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura R
 Realmwalker	khm	188	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Shapeshifter
 Cosmos Elixir	khm	237	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Armix, Filigree Thrasher	cmr	108	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Artifact Creature — Golem
-Lashknife Barrier	pls	9	Not Owned	~~	Non-foil	3	W	~~	~~	Enchantment
+Lashknife Barrier	pls	9	Not Owned	url	Non-foil	3	W	~~	~~	Enchantment
 Doomskar	khm	9	Not Owned	wrath,ramp,control	Non-foil	5	W	~~	~~	Sorcery
 Subtle Strike	znr	128	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Riptide Laboratory	mh2	303	Not Owned	~~	Non-foil	0	U	Blue	~~	Land
@@ -474,7 +473,6 @@ Arid Mesa	mh2	244	Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Misty Rainforest	mh2	250	Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
 Serra Paragon	dmu	32	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	dmu	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Felidar Retreat	j22	184	Not Owned	~~	Non-foil	4	W	~~	~~	Enchantment
 Cathar Commando	mid	10	Not Owned	artifact_removal,enchantment_removal,flash,aggrocontrol,aggro,sacrifice	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Codex Shredder	cmr	304	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravedigger	j22	424	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -517,9 +515,8 @@ Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Squirrel	mh2	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Go-Shintai of Ancient Wars	neo	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Go-Shintai of Boundless Vigor	neo	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Animal Sanctuary	m21	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ranger Class	afr	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger Class	afr	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	Enchantment Creature — Class
 Hall of Oracles	stx	267	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Roaring Earth	neo	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Gladewalker	khm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -648,13 +645,12 @@ March of Otherworldly Light	neo	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kami of Transience	neo	197	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Ranger	woc	134	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Recruit	rav	243	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Fowl Play	ugl	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fowl Play	ugl	24	Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Mesa Chicken	ugl	9	Owned	fliers,aggro,heroic,aggrocontrol,core,custom,url	~~	"""~~"""	~~	~~	~~	~~
 Plague Myr	onc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Servant of the Scale	dtk	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	scd	99	Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Sudden Spoiling	tsr	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hero of Bladehold	moc	188	Owned	tokens,aggro,aggrocontrol,beats	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	uma	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1353,4 +1349,4 @@ Sword of the Animist	ori	240	Not Owned	custom,url,watch	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Syndicate Heavy	clu	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Syndicate Heavy	clu	47	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
