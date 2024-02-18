@@ -890,7 +890,7 @@ Saiba Cryptomancer	mom	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger-Captain of Eos	mh1	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Contentious Plan	war	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Academy Rector	uds	1	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
+Academy Rector	uds	1	Not Owned	url,build-around	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -919,7 +919,7 @@ Elspeth, Sun's Nemesis	thb	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harm's Way	ddg	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal Away	dom	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arcane Savant	cn2	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Savant	cn2	27	Not Owned	build-around	~~	"""~~"""	~~	~~	~~	~~
 Supreme Will	hou	49	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Lava Dart	mh1	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Meteor Golem	c21	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1030,7 +1030,6 @@ Sylvan Scrying	mrd	130	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stroke of Midnight	woe	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Specter of Mortality	woe	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Picklock Prankster	woe	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talion's Messenger	woe	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Water Wings	woe	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Goose Mother	woe	204	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
@@ -1155,7 +1154,7 @@ Oubliette	2xm	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cyber Conversion	who	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning Vengeance	c19	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Double Vision	ncc	267	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Magical Hacker	unh	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magical Hacker	unh	37	Not Owned	url,custom	~~	"""~~"""	~~	~~	~~	~~
 Staying Power	und	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vorapede	dka	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brave the Wilds	woe	165	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
