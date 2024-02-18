@@ -14,7 +14,7 @@ Brineborn Cutthroat	m20	50	Not Owned	flash,aggrocontrol,u4.7.7,core,aggro	Non-fo
 Merfolk Trickster	dom	56	Not Owned	flash,blink,tappers,aggrocontrol,core,aggro,control	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Champion of Wits	hou	31	Not Owned	graveyard,heroic,manasink,blink,tokens,reanimator,smoothing	Non-foil	3	U	~~	~~	Creature — Naga Wizard
 Nimble Obstructionist	hou	40	Not Owned	fliers,flash,evasion,aggrocontrol,core,aggro,control	Non-foil	3	U	~~	~~	Creature — Bird Wizard
-Trinket Mage	ddu	41	Not Owned	artifacts,blink,stax,core,aggro,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
+Trinket Mage	ddu	41	Not Owned	artifacts,blink,stax,core,aggro,control,build-around	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
 Murmuring Mystic	grn	45	Not Owned	spells,tokens,enrage,evasion,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	1	U	~~	~~	Instant
@@ -455,7 +455,7 @@ Renegade Krasis	dgm	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Change of Plans	ncc	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Carnivorous Canopy	one	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reject Imperfection	one	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stoneforge Mystic	2xm	31	Not Owned	flash,tutor,heroic,blink,aggro,aggrocontrol,control,tokens	~~	"""~~"""	~~	~~	~~	~~
+Stoneforge Mystic	2xm	31	Not Owned	flash,tutor,heroic,blink,aggro,aggrocontrol,control,tokens,build-around	~~	"""~~"""	~~	~~	~~	~~
 Flayer Husk	2xm	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jwari Disruption	znr	64	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Dream Fracture	eve	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
