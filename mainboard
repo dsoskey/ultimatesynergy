@@ -16,7 +16,6 @@ Champion of Wits	hou	31	Not Owned	graveyard,heroic,manasink,blink,tokens,reanima
 Nimble Obstructionist	hou	40	Not Owned	fliers,flash,evasion,aggrocontrol,core,aggro,control	Non-foil	3	U	~~	~~	Creature — Bird Wizard
 Trinket Mage	ddu	41	Not Owned	artifacts,blink,stax,core,aggro,control,build-around	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
-Murmuring Mystic	grn	45	Not Owned	spells,tokens,enrage,evasion,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	1	U	~~	~~	Instant
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
@@ -486,7 +485,7 @@ Baird, Argivian Recruiter	dmu	195	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balmor, Battlemage Captain	dmu	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dress Down	mh2	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Otawara, Soaring City	neo	271	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
-Jadelight Ranger	plst	RIX-136	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
+Jadelight Ranger	rix	136	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
 Simian Simulacrum	bro	205	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Eternal Witness	cma	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	thb	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -581,7 +580,6 @@ Skyclave Shade	znr	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tyranid Prime	40k	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Eel Umbra	c18	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grismold, the Dreadsower	c19	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Necron Deathmark	40k	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skorpekh Lord	40k	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	107	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Royal Warden	40k	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1058,7 +1056,6 @@ Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Blossoming Tortoise	woe	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Archivist	woe	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lord Skitter, Sewer King	woe	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rowan, Scion of War	woe	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Will, Scion of Peace	woe	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tough Cookie	woe	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1230,7 +1227,6 @@ Confounding Riddle	lci	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spyglass Siren	lci	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ramunap Ruins	hou	181	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Vapor Snag	mm2	66	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
-Spitting Dilophosaurus	rex	3	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Corpse Churn	iko	81	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Easy Prey	iko	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
