@@ -451,7 +451,6 @@ Champion of the Perished	mid	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smell Fear	mh2	173	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Renegade Krasis	dgm	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Change of Plans	ncc	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Carnivorous Canopy	one	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reject Imperfection	one	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoneforge Mystic	2xm	31	Not Owned	flash,tutor,heroic,blink,aggro,aggrocontrol,control,tokens,build-around	~~	"""~~"""	~~	~~	~~	~~
 Flayer Husk	2xm	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -482,7 +481,6 @@ Wilt	iko	176	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Greatsword of Tyr	clb	22	Not Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
 Baird, Argivian Recruiter	dmu	195	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balmor, Battlemage Captain	dmu	196	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dress Down	mh2	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Otawara, Soaring City	neo	271	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Jadelight Ranger	rix	136	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Merfolk Scout Ranger
 Simian Simulacrum	bro	205	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
@@ -864,7 +862,6 @@ Alchemist's Gift	m21	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beloved Princess	eld	7	Not Owned	aggro,lifegain,evasion,aggrocontrol,heroic,core,control,pingers	~~	"""~~"""	~~	~~	~~	~~
 Blacklance Paragon	eld	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bond of Flourishing	war	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Serrated Scorpion	iko	99	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Oracle	khm	10	Not Owned	lifegain,repeatable,tempo	Non-foil	"""3"""	W	~~	~~	Creature — Phyrexian Cleric
 Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1084,7 +1081,7 @@ Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
-Petrified Field	ody	323	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Petrified Field	ody	323	Not Owned	url	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
