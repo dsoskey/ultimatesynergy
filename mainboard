@@ -180,7 +180,6 @@ Cursed Mirror	c21	50	Not Owned	occasional	Non-foil	3	R	~~	~~	Artifact
 Grazilaxx, Illithid Scholar	afr	60	Not Owned	aggrocontrol,blink,fliers,core,aggro	Non-foil	3	U	~~	~~	Legendary Creature — Horror
 Shambling Ghast	afr	119	Not Owned	artifacts,removal,sacrifice,zombies,core,ramp,control	Non-foil	1	B	~~	~~	Creature — Zombie
 Plundering Barbarian	afr	158	Not Owned	artifacts,artifact_removal,ramp,core,aggro,control,blink	Non-foil	3	R	~~	~~	Creature — Dwarf Barbarian
-Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant
 Mire Triton	thb	105	Not Owned	core,zombies,lifegain,graveyard,blink,aggro,control	Non-foil	2	B	~~	~~	Creature — Zombie Merfolk
 Disintegrate	30a	137	Owned	core,burn,spells,ramp,removal,aggro,control,graveyard_hate,url	Non-foil	"""5"""	R	~~	~~	Sorcery
 Cave of the Frost Dragon	afr	253	Not Owned	core,manasink,fliers	Non-foil	0	W	White	~~	Land
@@ -922,7 +921,6 @@ Supreme Will	hou	49	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Lava Dart	mh1	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Meteor Golem	c21	250	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adorned Pouncer	plst	HOU-2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flourishing Strike	mh2	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cast into the Fire	ltr	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blinkmoth Nexus	2xm	311	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Filigree Familiar	cmr	308	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Fox
@@ -1008,7 +1006,6 @@ Jor Kadeen, First Goldwarden	one	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Giada, Font of Hope	snc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krydle of Baldur's Gate	afr	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raging River	30a	164	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
-Reckless Fireweaver	kld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodsky Berserker	khm	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodghast	ima	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1342,3 +1339,4 @@ Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Syndicate Heavy	clu	47	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Ruthless Sniper	akh	105	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer

@@ -1670,7 +1670,6 @@ Mnemonic Sphere	neo	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scour All Possibilities	mh1	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rain of Revelation	mh1	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quicken	dds	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ruthless Sniper	akh	105	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
 Wingmate Roc	c19	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tamiyo, Collector of Tales	pwar	220p	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Empyrean Eagle	scd	226	Not Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Bird Spirit
@@ -2330,3 +2329,11 @@ Lord Skitter, Sewer King	woe	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spitting Dilophosaurus	rex	3	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Necron Deathmark	40k	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Murmuring Mystic	grn	45	Not Owned	spells,tokens,enrage,evasion,core	Non-foil	4	U	~~	~~	Creature — Human Wizard
+Reckless Fireweaver	kld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Promise of Aclazotz	lcc	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clowning Around	unf	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tinker's Tote	lci	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Illustrious Wanderglyph	lcc	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rootborn Defenses	mm3	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flourishing Strike	mh2	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Path to Exile	con	15	Owned	core,removal,spells,flash,aggro,control	Non-foil	1	W	~~	~~	Instant

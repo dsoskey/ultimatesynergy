@@ -11354,3 +11354,16 @@ Timestamp	Board	ChangeType	Name
 2024-02-19T02:04:57.310+00:00	mainboard	edit	Sword of the Animist
 2024-02-19T02:04:57.310+00:00	mainboard	edit	Sword of the Animist
 2024-02-19T08:17:24.827+00:00	mainboard	edit	Phantom Nantuko
+2024-02-19T20:28:55.542+00:00	mainboard	remove	Reckless Fireweaver
+2024-02-19T20:28:55.542+00:00	mainboard	remove	Flourishing Strike
+2024-02-19T20:28:55.542+00:00	mainboard	remove	Path to Exile
+2024-02-19T20:28:55.542+00:00	mainboard	add	Ruthless Sniper
+2024-02-19T20:28:55.542+00:00	maybeboard	remove	Ruthless Sniper
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Reckless Fireweaver
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Promise of Aclazotz
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Clowning Around
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Tinker's Tote
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Illustrious Wanderglyph
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Rootborn Defenses
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Flourishing Strike
+2024-02-19T20:28:55.542+00:00	maybeboard	add	Path to Exile
