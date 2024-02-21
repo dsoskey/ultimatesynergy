@@ -160,7 +160,7 @@ Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,grav
 Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	~~	Blue	~~	Artifact
 Blazing Rootwalla	mh2	115	Not Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
-Fiery Temper	plst	SOI-156	Not Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
+Fiery Temper	uma	129	Not Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
 Deadbridge Goliath	gk1	55	Not Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Farseek	dmc	133	Not Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Dimir Guildmage	uma	213	Owned	core,manasink,aggro,aggrocontrol,control	Non-foil	2	U,B	Hybrid	~~	Creature — Human Wizard
@@ -566,7 +566,6 @@ Darksteel Axe	som	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Adeliz, the Cinder Wind	dom	190	Not Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Human Wizard
 Sedgemoor Witch	stx	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellgorger Weird	war	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flame Slash	cn2	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Windrider Wizard	znr	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Anger of the Gods	2x2	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1280,7 +1279,7 @@ Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twin Bolt	dtk	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Call a Surprise Witness	mkm	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Not on My Watch	mkm	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Transcantation	cmb1	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burden of Proof	mkm	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fae Flight	mkm	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Festerleech	mkm	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
