@@ -916,7 +916,6 @@ Persist	mh2	96	Not Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Basking Rootwalla	gvl	2	Not Owned	core,aggro,aggrocontrol,graveyard,manasink	Non-foil	1	G	~~	~~	Creature — Lizard
 Trygon Prime	40k	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Mantle	ths	119	Not Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
-Goblin Banneret	grn	102	Not Owned	core,manasink,counters,aggro,heroic	Non-foil	1	R	~~	~~	Creature — Goblin Soldier
 Basalt Ravager	khm	122	Not Owned	~~	Non-foil	4	R	~~	~~	Creature — Giant Wizard
 Bramble Sovereign	bbd	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lockjaw Snapper	shm	255	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2341,3 +2340,5 @@ Time to Feed	ddo	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Carnivorous Canopy	one	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dress Down	mh2	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Slash	cn2	157	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro,danger: arcane savant	Non-foil	3	W	~~	~~	Sorcery
+Monastery Mentor	frf	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

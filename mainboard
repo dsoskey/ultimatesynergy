@@ -98,7 +98,7 @@ Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Hu
 Blossoming Defense	kld	146	Not Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
-Moment's Peace	ody	251	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
+Moment's Peace	ody	251	Not Owned	occasional,url	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
@@ -130,7 +130,6 @@ Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spell
 Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	10e	270	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	"""3"""	G	~~	~~	Sorcery
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifice	Non-foil	1	W	~~	~~	Creature — Human Knight
-Sevinne's Reclamation	c19	5	Not Owned	core,manasink,graveyard,spells,aggro,danger: arcane savant	Non-foil	3	W	~~	~~	Sorcery
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Fire // Ice	mh2	290	Not Owned	tappers,burn,removal,spells,flash,aggro,control,occasional	Non-foil	2	U,R	Hybrid	~~	Instant
@@ -504,7 +503,6 @@ Flame-Blessed Bolt	vow	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blur of Blades	hou	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malakir Rebirth	znr	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rustvale Bridge	mh2	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Monastery Mentor	frf	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	25	Not Owned	control,aggrocontrol,enchantment_removal,artifact_removal,removal	~~	"""2"""	~~	~~	~~	~~
 Prosperous Innkeeper	afr	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -947,7 +945,7 @@ Intrepid Adversary	mid	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightmare Shepherd	thb	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Damn	mh2	80	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flametongue Yearling	mh2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Abundant Harvest	mh2	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Abundant Harvest	mh2	147	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Chatterstorm	mh2	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Apprentice	stx	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deceiver Exarch	cn2	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1334,5 @@ Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Syndicate Heavy	clu	47	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Ruthless Sniper	akh	105	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
+Commune with the Gods	ema	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goblin Bushwhacker	zen	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
