@@ -525,7 +525,7 @@ Ecologist's Terrarium	neo	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ingenious Smith	afr	21	Not Owned	artifacts,control,aggrocontrol,counters,repeatable,heroic,tokens,blink,aggro	~~	"""~~"""	~~	~~	~~	~~
 Mukotai Soulripper	neo	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venomcrawler	40k	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Anointer Priest	plst	AKH-3	Not Owned	lifegain,tokens,repeatable,core,durable,graveyard	Non-foil	2	W	~~	~~	Creature — Human Cleric
+Anointer Priest	akh	3	Not Owned	lifegain,tokens,repeatable,core,durable,graveyard	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Obsessive Skinner	soi	220	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shadow-Rite Priest	dmu	106	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Cleric
 Blight Sickle	shm	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1211,7 +1211,7 @@ Raise the Alarm	ddf	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reciprocate	ddg	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nantuko	jud	128	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Helping Hand	lci	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ruin-Lurker Bat	lci	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ruin-Lurker Bat	lci	33	Not Owned	custom	~~	"""~~"""	~~	~~	~~	~~
 Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Confounding Riddle	lci	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spyglass Siren	lci	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1238,7 +1238,7 @@ Stalactite Stalker	lci	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glint-Horn Buccaneer	m20	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hopeful Vigil	woe	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realmbreaker's Grasp	mom	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hallowed Priest	anb	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hallowed Priest	anb	9	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Traveling Minister	vow	39	Not Owned	~~	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Ornithopter	dmr	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Silkguard	nec	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
