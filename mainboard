@@ -613,7 +613,7 @@ Wizard Class	afr	81	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Class
 Iron Apprentice	neo	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Excise the Imperfect	moc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	91	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
-Go for the Throat	2x2	76	Owned	artifacts,control,aggrocontrol,aggro,flash,removal	~~	"""~~"""	~~	~~	~~	~~
+Go for the Throat	2x2	76	Owned	artifacts,control,aggrocontrol,aggro,flash,removal,watch	~~	"""~~"""	~~	~~	~~	~~
 Vraan, Executioner Thane	one	114	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Earl of Squirrel	ust	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawling Chorus	one	8	Not Owned	poison,counters_payoff,tokens,artifacts,sacrifice	~~	"""~~"""	~~	~~	~~	~~
@@ -1315,7 +1315,7 @@ Sunken Hollow	bfz	249	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawling Barrens	znr	262	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Collector's Vault	woe	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Detective	mkm	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Circular Logic	dmr	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Circular Logic	dmr	42	Not Owned	watch	~~	"""1"""	~~	~~	~~	~~
 Dead Weight	soi	106	Owned	~~	Non-foil	1	B	~~	~~	Enchantment — Aura
 Obuun, Mul Daya Ancestor	znc	2	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
@@ -1330,7 +1330,7 @@ Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Animist	ori	240	Not Owned	custom,url	~~	"""~~"""	~~	~~	~~	~~
 Syndicate Heavy	clu	47	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Ruthless Sniper	akh	105	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Archer
+Ruthless Sniper	akh	105	Not Owned	watch	Non-foil	1	B	~~	~~	Creature — Human Archer
 Commune with the Gods	ema	162	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Bushwhacker	zen	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawl from the Cellar	mid	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
