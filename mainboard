@@ -76,14 +76,14 @@ Baral, Chief of Compliance	aer	28	Not Owned	occasional	Non-foil	2	U	~~	~~	Legend
 Careful Study	ody	70	Not Owned	occasional,url	Non-foil	1	U	~~	~~	Sorcery
 Pendrell Flux	usg	87	Not Owned	occasional,url	Non-foil	2	U	~~	~~	Enchantment — Aura
 Shu Yun, the Silent Tempest	frf	52	Owned	occasional	Non-foil	3	U	Blue	~~	Legendary Creature — Human Monk
-Triton Tactics	ddt	23	Not Owned	occasional	Non-foil	1	U	~~	~~	Instant
+Triton Tactics	ddt	23	Not Owned	occasional,watch	Non-foil	1	U	~~	~~	Instant
 Gravecrawler	ddq	59	Not Owned	core,zombies,tribal_payoff,sacrifice,graveyard,aggro	Non-foil	1	B	~~	~~	Creature — Zombie
 Cemetery Reaper	mic	108	Not Owned	core,zombies,graveyard,tokens	Non-foil	3	B	~~	~~	Creature — Zombie
 Dusk Urchins	shm	65	Not Owned	core,counters,sacrifice,smoothing,aggro,control	Non-foil	3	B	~~	~~	Creature — Ouphe
 Last Gasp	uma	103	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	~~	Instant
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
-Sudden Death	tsr	143	Not Owned	occasional	Non-foil	3	B	~~	~~	Instant
+Sudden Death	tsr	143	Not Owned	~~	Non-foil	3	B	~~	~~	Instant
 Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Black	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
@@ -416,7 +416,7 @@ Liberator, Urza's Battlethopter	bro	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Circuit Mender	neo	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breya's Apprentice	mh2	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duplicant	cmm	946	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blade Splicer	moc	175	Not Owned	tokens,artifacts,blink,heroic,aggro,aggrocontrol	~~	"""~~"""	~~	~~	~~	~~
+Blade Splicer	moc	175	Not Owned	tokens,artifacts,blink,heroic,aggro,aggrocontrol,watch	~~	"""~~"""	~~	~~	~~	~~
 Bladecoil Serpent	bro	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Staff of Compleation	one	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Consider	mid	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1296,7 +1296,7 @@ Thundering Falls	mkm	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Undercity Sewers	mkm	270	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Underground Mortuary	mkm	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Escape Tunnel	mkm	261	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Afterlife Insurance	clu	23	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Afterlife Insurance	clu	23	Not Owned	watch	~~	"""~~"""	~~	Hybrid	~~	~~
 Ecstatic Electromancer	clu	31	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Furious Spinesplitter	clu	33	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scuttling Sentinel	clu	42	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
