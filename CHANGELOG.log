@@ -11426,3 +11426,19 @@ Timestamp	Board	ChangeType	Name
 2024-03-06T21:03:14.356+00:00	mainboard	edit	Circular Logic
 2024-03-06T21:03:14.356+00:00	mainboard	edit	Go for the Throat
 2024-03-08T02:55:30.749+00:00	mainboard	edit	Fiery Temper
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Fearless Fledgling
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Adorned Pouncer
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Ruin-Lurker Bat
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Solemn Simulacrum
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Hollow One
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Grateful Apparition
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Seasoned Hallowblade
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Ranger-Captain of Eos
+2024-03-08T07:55:19.277+00:00	mainboard	edit	Moon-Blessed Cleric
+2024-03-08T07:55:19.277+00:00	mainboard	remove	Hopeful Vigil
+2024-03-08T07:55:19.277+00:00	mainboard	remove	Double Vision
+2024-03-08T07:55:19.277+00:00	mainboard	add	Astrid Peth
+2024-03-08T07:55:19.277+00:00	mainboard	add	Earthshaker Khenra
+2024-03-08T07:55:19.277+00:00	maybeboard	remove	Earthshaker Khenra
+2024-03-08T07:55:19.277+00:00	maybeboard	add	Hopeful Vigil
+2024-03-08T07:55:19.277+00:00	maybeboard	add	Double Vision
