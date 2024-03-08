@@ -159,7 +159,7 @@ Nightveil Sprite	grn	48	Not Owned	core,rogues,fliers,aggrocontrol,smoothing,grav
 Aether Spellbomb	j22	752	Owned	core,artifacts,aggrocontrol,aggro	Non-foil	1	~~	Blue	~~	Artifact
 Blazing Rootwalla	mh2	115	Not Owned	core,graveyard,manasink,aggro,aggrocontrol	Non-foil	1	R	~~	~~	Creature — Lizard
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
-Fiery Temper	uma	129	Not Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	3	R	~~	~~	Instant
+Fiery Temper	uma	129	Not Owned	core,graveyard,removal,burn,spells,flash,aggro,control	Non-foil	"""1"""	R	~~	~~	Instant
 Deadbridge Goliath	gk1	55	Not Owned	core,counters,graveyard,manasink,ramp,aggro,control	Non-foil	4	G	~~	~~	Creature — Insect
 Farseek	dmc	133	Not Owned	core,ramp,spells,control	Non-foil	2	G	~~	~~	Sorcery
 Dimir Guildmage	uma	213	Owned	core,manasink,aggro,aggrocontrol,control	Non-foil	2	U,B	Hybrid	~~	Creature — Human Wizard
