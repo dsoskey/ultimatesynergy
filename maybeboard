@@ -152,7 +152,6 @@ Banisher Priest	m14	7	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Pledge of Unity	war	210	Not Owned	~~	Non-foil	3	G,W	~~	~~	Instant
 Huatli's Raptor	war	200	Not Owned	~~	Non-foil	2	G,W	~~	~~	Creature — Dinosaur
 Deadbridge Goliath	j22	645	Not Owned	~~	Non-foil	4	G	~~	~~	Creature — Insect
-Swarm Shambler	j22	734	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Fungus Beast
 Vigor Mortis	ddj	74	Not Owned	~~	Non-foil	4	B,G	~~	~~	Sorcery
 Regrowth	sum	214	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Den Protector	c16	147	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Human Warrior
@@ -617,7 +616,6 @@ Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~
 Keldon Flamesage	dmu	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Defiler of Faith	dmu	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tireless Provisioner	mh2	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retreat to Coralhelm	bfz	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diluvian Primordial	gtc	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulcaller's Bell	isd	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -748,7 +746,6 @@ Song of the Dryads	c14	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fecundity	uma	165	Not Owned	sacrifice,u2.62,u4.9,occasional	Non-foil	3	G	~~	~~	Enchantment
 Rot Shambler	bfz	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prowl, Stoic Strategist	bot	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Contortionist Troupe	mid	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Opposition Agent	cmr	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Banshee	shm	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kulrath Knight	shm	190	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1460,7 +1457,6 @@ Defiler of Vigor	dmu	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cosi's Trickster	zen	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arboreal Grazer	war	149	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Veteran Explorer	2xm	186	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Utopia Mycon	tsr	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Statuary	wwk	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glacial Fortress	xln	255	Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Drowned Catacomb	e01	94	Owned	~~	Non-foil	0	B,U	~~	~~	Land
@@ -1958,7 +1954,6 @@ Wreath of Geists	isd	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skemfar Elderhall	khm	268	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Yarok's Fenlurker	m20	123	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ainok Guide	frf	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Springjack Shepherd	eve	15	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2344,3 +2339,5 @@ Hancock, Ghoulish Mayor	pip	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crimson Caravaneer	pip	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drownyard Temple	soi	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nils, Discipline Enforcer	c21	20	Not Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
+Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
+Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
