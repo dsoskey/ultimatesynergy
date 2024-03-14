@@ -248,7 +248,6 @@ Magma Jet	jvc	52	Not Owned	~~	Non-foil	2	R	~~	~~	Instant
 Skarrgan Hellkite	rna	114	Not Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Arbor Elf	a25	160	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Wild Growth	afc	174	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
-Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
 Fertile Ground	c18	147	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura
 Lovestruck Beast	eld	165	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Beast Noble
 Reclamation Sage	scd	205	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Shaman
@@ -350,7 +349,6 @@ Oust	ddp	7	Owned	aggrocontrol,aggro,removal	Non-foil	1	W	~~	~~	Sorcery
 Condemn	cmr	369	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Opt	sld	111	Not Owned	~~	Non-foil	1	U	~~	~~	Instant
 Malicious Affliction	ema	96	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
-Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
 Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-foil	2	W	~~	~~	Creature — Human Noble
@@ -1336,3 +1334,5 @@ Earthshaker Khenra	hou	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightpack Ambusher	j22	696	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diamond City	pip	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brotherhood Outcast	pip	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sakura-Tribe Scout	sok	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Contortionist Troupe	mid	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
