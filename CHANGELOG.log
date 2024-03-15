@@ -11484,3 +11484,7 @@ Timestamp	Board	ChangeType	Name
 2024-03-15T03:56:02.031+00:00	maybeboard	remove	Fiery Confluence
 2024-03-15T03:56:02.031+00:00	maybeboard	add	Contortionist Troupe
 2024-03-15T03:56:02.031+00:00	maybeboard	add	Elder of Laurels
+2024-03-15T04:23:46.953+00:00	mainboard	remove	Search for Azcanta
+2024-03-15T04:23:46.953+00:00	mainboard	add	Overwhelmed Apprentice
+2024-03-15T04:23:46.953+00:00	maybeboard	remove	Overwhelmed Apprentice
+2024-03-15T04:23:46.953+00:00	maybeboard	add	Search for Azcanta
