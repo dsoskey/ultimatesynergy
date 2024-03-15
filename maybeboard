@@ -344,7 +344,6 @@ Furnace Strider	one	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flurry of Horns	jou	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jewel Thief	snc	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Visionary	m21	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fiery Confluence	c15	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beast Within	nph	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zuran Orb	mh2	300	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -630,7 +629,6 @@ Spawn of Mayhem	rna	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of Dawn's Light	dmu	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rona's Vortex	dmu	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bog Badger	dmu	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ram Through	iko	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tail Swipe	dmu	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thunderclap Wyvern	ori	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oblivion Ring	arc	3	Not Owned	artifact_removal,enchantment_removal,u2.0,removal,occasional	Non-foil	3	W	~~	~~	Enchantment
@@ -1271,7 +1269,6 @@ Nahiri, the Harbinger	c20	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archmage's Charm	mh1	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tajuru Paragon	znr	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Orzhov Pontiff	gpt	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wild Shape	afr	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Etched Familiar	mom	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nagging Thoughts	soi	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Truth or Tale	tsp	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1954,7 +1951,6 @@ Wreath of Geists	isd	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Skemfar Elderhall	khm	268	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Desolate Lighthouse	clb	890	Not Owned	~~	Non-foil	0	U,R	~~	~~	Land
 Yarok's Fenlurker	m20	123	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blessed Respite	mh2	150	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Ashiok, Dream Render	war	228	Not Owned	occasional	Non-foil	3	B,U	Hybrid	~~	Legendary Planeswalker — Ashiok
 Springjack Shepherd	eve	15	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wear // Tear	dgm	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2341,3 +2337,5 @@ Drownyard Temple	soi	271	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nils, Discipline Enforcer	c21	20	Not Owned	occasional	Non-foil	3	W	~~	~~	Legendary Creature — Human Cleric
 Noble Hierarch	2xm	177	Owned	~~	Non-foil	1	G	Green	~~	Creature — Human Druid
 Ignoble Hierarch	mh2	166	Not Owned	~~	Non-foil	1	G	Green	~~	Creature — Goblin Shaman
+Contortionist Troupe	mid	178	Not Owned	watch	~~	"""3"""	~~	~~	~~	~~
+Elder of Laurels	isd	177	Not Owned	wide,tokens,manasink,flash,occasional	Non-foil	3	G	~~	~~	Creature — Human Advisor
