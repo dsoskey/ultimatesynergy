@@ -11496,3 +11496,7 @@ Timestamp	Board	ChangeType	Name
 2024-03-16T06:53:59.335+00:00	maybeboard	remove	Infest
 2024-03-16T06:53:59.335+00:00	maybeboard	remove	Feed the Swarm
 2024-03-16T06:53:59.335+00:00	maybeboard	add	Tyranid Prime
+2024-03-16T17:36:31.204+00:00	mainboard	remove	Nekrataal
+2024-03-16T17:36:31.204+00:00	mainboard	add	Blight Mound
+2024-03-16T17:36:31.204+00:00	maybeboard	remove	Blight Mound
+2024-03-16T17:36:31.204+00:00	maybeboard	add	Nekrataal
