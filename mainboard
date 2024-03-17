@@ -15,7 +15,7 @@ Merfolk Trickster	dom	56	Not Owned	flash,blink,tappers,aggrocontrol,core,aggro,c
 Champion of Wits	hou	31	Not Owned	graveyard,heroic,manasink,blink,tokens,reanimator,smoothing	Non-foil	3	U	~~	~~	Creature — Naga Wizard
 Nimble Obstructionist	hou	40	Not Owned	fliers,flash,evasion,aggrocontrol,core,aggro,control	Non-foil	3	U	~~	~~	Creature — Bird Wizard
 Trinket Mage	ddu	41	Not Owned	artifacts,blink,stax,core,aggro,control,build-around	Non-foil	3	U	~~	~~	Creature — Human Wizard
-Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
+Wake Thrasher	eve	31	Not Owned	soldiers,aggrocontrol,u2.0,occasional,watch	Non-foil	3	U	~~	~~	Creature — Merfolk Soldier
 Dive Down	xln	53	Not Owned	heroic,flash,spells,aggrocontrol,core,aggro	Non-foil	1	U	~~	~~	Instant
 Bloodsoaked Champion	ktk	66	Not Owned	sacrifice,stax,graveyard,wide,aggrocontrol	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Vault Skirge	nph	76	Not Owned	artifacts,fliers,lifegain,evasion,aggrocontrol,core,aggro	Non-foil	1	B	Colorless	~~	Artifact Creature — Imp
@@ -647,7 +647,7 @@ Kor Skyfisher	ddo	16	Owned	core,blink,fliers,wide,aggro	Non-foil	2	W	~~	~~	Creat
 Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kabira Crossroads	c17	259	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Eye of Nowhere	chk	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eye of Nowhere	chk	59	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Razor Barrier	ddf	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prosperous Thief	neo	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravelighter	neo	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
