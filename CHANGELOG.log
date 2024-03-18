@@ -11522,3 +11522,10 @@ Timestamp	Board	ChangeType	Name
 2024-03-18T21:01:44.403+00:00	maybeboard	add	Legion Loyalist
 2024-03-18T21:01:44.403+00:00	maybeboard	add	Goblin Banneret
 2024-03-18T21:01:44.403+00:00	maybeboard	add	Shivan Devastator
+2024-03-18T21:02:35.670+00:00	mainboard	edit	Benalish Hero
+2024-03-18T21:02:35.670+00:00	mainboard	remove	Falkenrath Pit Fighter
+2024-03-18T21:02:35.670+00:00	mainboard	add	Exuberant Fuseling
+2024-03-18T21:02:35.670+00:00	maybeboard	edit	Shivan Devastator
+2024-03-18T21:02:35.670+00:00	maybeboard	remove	Exuberant Fuseling
+2024-03-18T21:02:35.670+00:00	maybeboard	remove	Flamekin Harbinger
+2024-03-18T21:02:35.670+00:00	maybeboard	add	Falkenrath Pit Fighter
