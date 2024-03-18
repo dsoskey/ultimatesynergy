@@ -259,7 +259,6 @@ Judith, the Scourge Diva	rna	185	Not Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Cre
 Shatter the Sky	thb	37	Not Owned	wrath,smoothing	Non-foil	4	W	~~	~~	Sorcery
 Storm's Wrath	thb	157	Not Owned	~~	Non-foil	4	R	~~	~~	Sorcery
 Angel of Invention	kld	4	Not Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel
-Cleansing Nova	c21	86	Not Owned	wrath,artifact_removal,enchantment_removal	Non-foil	5	W	~~	~~	Sorcery
 Faerie Seer	j22	295	Not Owned	~~	Non-foil	1	U	~~	~~	Creature — Faerie Wizard
 Mardu Woe-Reaper	frf	18	Not Owned	graveyard_hate,lifegain,aggro,aggrocontrol	Non-foil	1	W	~~	~~	Creature — Human Warrior
 Dungeon Geists	cma	39	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Spirit
@@ -286,7 +285,7 @@ Grasping Dunes	akh	244	Not Owned	~~	Non-foil	0	~~	~~	~~	Land — Desert
 Fearless Fledgling	znr	15	Not Owned	lands,heroic,fliers,fliers_payoff,aggro,aggrocontrol,url	Non-foil	2	W	~~	~~	Creature — Griffin
 Nullpriest of Oblivion	znr	118	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire Cleric
 Chaplain of Alms	mid	13	Not Owned	graveyard,aggrocontrol,aggro,heroic	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Mikaeus, the Lunarch	jmp	123	Not Owned	~~	Non-foil	"""3"""	W	~~	~~	Legendary Creature — Human Cleric
+Mikaeus, the Lunarch	jmp	123	Not Owned	watch	Non-foil	"""2"""	W	~~	~~	Legendary Creature — Human Cleric
 Soul's Attendant	roe	44	Owned	lifegain,core,repeatable,tokens,blink	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Elas il-Kor, Sadistic Pilgrim	dmu	198	Not Owned	~~	Non-foil	2	B,W	~~	~~	Legendary Creature — Phyrexian Kor Cleric
 Phyrexian Missionary	dmu	27	Not Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Phyrexian Human Cleric
@@ -390,7 +389,7 @@ Thundering Raiju	neo	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hellrider	mm3	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning Inquiry	m10	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fervent Champion	eld	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Biophagus	40k	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Biophagus	40k	87	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Jinnie Fay, Jetmir's Second	snc	195	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Kykar, Wind's Fury	m20	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urborg Lhurgoyf	dmu	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -505,7 +504,7 @@ Patron of the Vein	c17	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Squirrel	mh2	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Go-Shintai of Ancient Wars	neo	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Animal Sanctuary	m21	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ranger Class	afr	202	Not Owned	~~	~~	"""~~"""	~~	~~	~~	Enchantment Creature — Class
+Ranger Class	afr	202	Not Owned	watch	~~	"""~~"""	~~	~~	~~	Enchantment Creature — Class
 Hall of Oracles	stx	267	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Roaring Earth	neo	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Gladewalker	khm	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1036,7 +1035,7 @@ Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Blossoming Tortoise	woe	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Elvish Archivist	woe	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elvish Archivist	woe	168	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Rowan, Scion of War	woe	211	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Will, Scion of Peace	woe	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tough Cookie	woe	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1323,7 +1322,7 @@ Goblin Bushwhacker	zen	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crawl from the Cellar	mid	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Lantern	clb	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Homestead Courage	mid	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Astrid Peth	who	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Astrid Peth	who	11	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Earthshaker Khenra	hou	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightpack Ambusher	j22	696	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Diamond City	pip	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1335,4 @@ Wormfang Drake	dmr	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infest	cn2	139	Not Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
 Blight Mound	c21	36	Not Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Knight-Errant of Eos	mom	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Benalish Hero	30a	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
