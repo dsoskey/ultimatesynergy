@@ -11532,3 +11532,9 @@ Timestamp	Board	ChangeType	Name
 2024-03-18T21:50:23.951+00:00	mainboard	edit	Exuberant Fuseling
 2024-03-24T15:56:00.807+00:00	maybeboard	add	Jackknight
 2024-03-24T15:56:00.807+00:00	maybeboard	add	Ordinary Pony
+2024-03-24T16:05:34.265+00:00	mainboard	remove	Suffer the Past
+2024-03-24T16:05:34.265+00:00	mainboard	remove	Bygone Bishop
+2024-03-24T16:05:34.265+00:00	mainboard	add	Deadly Riposte
+2024-03-24T16:05:34.265+00:00	mainboard	add	Whisper of the Dross
+2024-03-24T16:05:34.265+00:00	maybeboard	add	Bygone Bishop
+2024-03-24T16:05:34.265+00:00	maybeboard	add	Suffer the Past

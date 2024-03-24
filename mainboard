@@ -62,7 +62,6 @@ Grateful Apparition	war	17	Not Owned	fliers,counters,core,watch	Non-foil	2	W	~~	
 Thought Courier	5dn	38	Not Owned	graveyard,control,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Monastery Swiftspear	ktk	118	Not Owned	spells,burn,aggrocontrol,aggro	Non-foil	1	R	~~	~~	Creature — Human Monk
 Ash Barrens	a25	236	Not Owned	graveyard,u4.9,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
-Bygone Bishop	soi	8	Not Owned	u4.9.3,u2.77,fliers,artifacts,aggrocontrol,manasink,core,aggro	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
 Emeria Angel	ima	20	Owned	fliers,tokens,ramp,wide,repeatable,lands	Non-foil	4	W	~~	~~	Creature — Angel
 Changeling Outcast	mh1	82	Not Owned	u4.9.3,tribal,zombies,rogues,occasional	Non-foil	1	B	~~	~~	Creature — Shapeshifter
 Order of Midnight	eld	99	Not Owned	fliers,spells,graveyard,aggrocontrol,manasink,core,aggro	Non-foil	2	B	~~	~~	Creature — Human Knight
@@ -637,7 +636,6 @@ Sudden Spoiling	tsr	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	uma	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Suffer the Past	c21	155	Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Telling Time	gk1	4	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Quicksand	a25	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	ddf	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1334,5 @@ Blight Mound	c21	36	Not Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Knight-Errant of Eos	mom	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Benalish Hero	30a	4	Not Owned	url,watch	~~	"""~~"""	~~	~~	~~	~~
 Exuberant Fuseling	one	129	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
+Deadly Riposte	bro	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Whisper of the Dross	one	117	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
