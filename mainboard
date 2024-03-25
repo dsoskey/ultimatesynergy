@@ -102,7 +102,7 @@ Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	
 Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
-Evil Twin	bbd	222	Not Owned	occasional	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
+Evil Twin	bbd	222	Not Owned	occasional,watch	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
 Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
@@ -1257,7 +1257,7 @@ Imp's Mischief	plc	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twin Bolt	dtk	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Call a Surprise Witness	mkm	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Transcantation	cmb2	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Transcantation	cmb2	67	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Burden of Proof	mkm	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fae Flight	mkm	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Festerleech	mkm	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
