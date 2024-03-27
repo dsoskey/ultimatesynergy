@@ -11569,3 +11569,5 @@ Timestamp	Board	ChangeType	Name
 2024-03-27T20:27:37.427+00:00	mainboard	add	Candy Trail
 2024-03-27T20:27:37.427+00:00	maybeboard	add	Shipwreck Dowser
 2024-03-27T20:27:37.427+00:00	maybeboard	add	Embodiment of Fury
+2024-03-27T20:38:01.074+00:00	mainboard	remove	Brave the Wilds
+2024-03-27T20:38:01.074+00:00	maybeboard	add	Brave the Wilds
