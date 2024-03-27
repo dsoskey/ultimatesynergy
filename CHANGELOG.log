@@ -11561,3 +11561,11 @@ Timestamp	Board	ChangeType	Name
 2024-03-27T14:53:34.224+00:00	mainboard	edit	Sword of the Animist
 2024-03-27T14:53:34.224+00:00	mainboard	edit	Sword of the Animist
 2024-03-27T20:24:19.374+00:00	mainboard	add	Vesperlark
+2024-03-27T20:27:37.427+00:00	mainboard	remove	Transcantation
+2024-03-27T20:27:37.427+00:00	mainboard	remove	Shipwreck Dowser
+2024-03-27T20:27:37.427+00:00	mainboard	remove	Embodiment of Fury
+2024-03-27T20:27:37.427+00:00	mainboard	add	Channeler Initiate
+2024-03-27T20:27:37.427+00:00	mainboard	add	Goblin Dark-Dwellers
+2024-03-27T20:27:37.427+00:00	mainboard	add	Candy Trail
+2024-03-27T20:27:37.427+00:00	maybeboard	add	Shipwreck Dowser
+2024-03-27T20:27:37.427+00:00	maybeboard	add	Embodiment of Fury
