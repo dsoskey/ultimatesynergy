@@ -11576,3 +11576,7 @@ Timestamp	Board	ChangeType	Name
 2024-03-27T20:38:20.129+00:00	maybeboard	remove	Phyrexian Metamorph
 2024-03-27T20:38:20.129+00:00	maybeboard	remove	Glasspool Mimic
 2024-04-01T08:14:33.683+00:00	mainboard	edit	Glasspool Mimic
+2024-04-01T08:17:19.859+00:00	mainboard	remove	Strixhaven Stadium
+2024-04-01T08:17:19.859+00:00	mainboard	add	Junk Diver
+2024-04-01T08:17:19.859+00:00	maybeboard	remove	Junk Diver
+2024-04-01T08:17:19.859+00:00	maybeboard	add	Strixhaven Stadium
