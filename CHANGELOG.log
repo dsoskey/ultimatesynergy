@@ -11580,3 +11580,6 @@ Timestamp	Board	ChangeType	Name
 2024-04-01T08:17:19.859+00:00	mainboard	add	Junk Diver
 2024-04-01T08:17:19.859+00:00	maybeboard	remove	Junk Diver
 2024-04-01T08:17:19.859+00:00	maybeboard	add	Strixhaven Stadium
+2024-04-03T23:08:02.876+00:00	mainboard	remove	Canoptek Wraith
+2024-04-03T23:08:02.876+00:00	mainboard	add	Relic Amulet
+2024-04-03T23:08:02.876+00:00	maybeboard	add	Canoptek Wraith
