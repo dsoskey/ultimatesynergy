@@ -52,7 +52,6 @@ Metallic Mimic	aer	164	Not Owned	artifacts,tribal,tokens,counters,blink,tribal_p
 Scrapheap Scrounger	kld	231	Not Owned	artifacts,graveyard,aggrocontrol,u2.89,occasional	Non-foil	2	~~	Black	~~	Artifact Creature — Construct
 Adaptive Automaton	2xm	231	Not Owned	artifacts,tribal,tokens,tribal_payoff,u2.0,u4.6.2,occasional	Non-foil	3	~~	~~	~~	Artifact Creature — Construct
 Scuttling Doom Engine	m15	229	Not Owned	artifacts,ramp,reanimator,enrage,u2.72,u2.91,occasional	Non-foil	6	~~	~~	~~	Artifact Creature — Construct
-Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
 Mutavault	clb	903	Not Owned	tribal,manasink,u4.7.7,core	Non-foil	0	~~	~~	~~	Land
 Giant Killer	eld	14	Not Owned	tappers,spells,removal,core,manasink,aggro,control,aggrocontrol,heroic	Non-foil	1	W	~~	~~	Creature — Human Peasant 
 Pashalik Mons	mh1	138	Not Owned	sacrifice,tokens,wide,manasink,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
@@ -347,7 +346,6 @@ Malicious Affliction	ema	96	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Harsh Mentor	akh	135	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Cleric
 Essence Warden	cma	106	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Shaman
 Charming Prince	eld	8	Not Owned	aggrocontrol,aggro,lifegain,blink,control	Non-foil	2	W	~~	~~	Creature — Human Noble
-Novijen, Heart of Progress	c15	296	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Mortuary Mire	clb	900	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Soldevi Excavations	me2	236	Not Owned	url	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -1063,7 +1061,6 @@ Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
-Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Staggershock	2x2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Amoeboid Changeling	j22	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1144,7 +1141,6 @@ Merfolk Windrobber	znr	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infectious Bite	one	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lash of Malice	stx	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gamekeeper	c16	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drannith Ruins	mat	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tower of the Magistrate	mmq	330	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Krosan Verge	dmc	216	Not Owned	~~	~~	"""~~"""	W,G	~~	~~	~~
@@ -1154,14 +1150,12 @@ Emergence Zone	war	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Orchard	chk	276	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Trigger Happy	unf	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Double Cleave	uma	214	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Thespian's Stage	uma	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glimmerpost	som	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cabal Pit	ody	315	Not Owned	url	~~	"""~~"""	~~	Black	~~	~~
 Guildmages' Forum	grn	250	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Cathedral of War	m13	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pendelhaven	a25	244	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Hall of Heliod's Generosity	mh1	241	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
-Mikokoro, Center of the Sea	sok	162	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Generous Gift	mh1	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fateful Absence	mid	18	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Dakmor Salvage	ddj	79	Not Owned	~~	Non-foil	0	B	Black	~~	Land
@@ -1321,7 +1315,6 @@ Wild Shape	afr	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ram Through	iko	170	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overwhelmed Apprentice	eld	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wormfang Drake	dmr	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Infest	cn2	139	Not Owned	occasional	Non-foil	3	B	~~	~~	Sorcery
 Blight Mound	c21	36	Not Owned	~~	Non-foil	3	B	~~	~~	Enchantment
 Knight-Errant of Eos	mom	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Benalish Hero	30a	4	Not Owned	url,watch	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1329,19 @@ Glasspool Mimic	znr	60	Not Owned	watch	Non-foil	3	U	~~	~~	Creature — Shapeshif
 Junk Diver	c14	244	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Relic Amulet	znr	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Norika Yamazaki, the Poet	neo	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Take Up the Shield	dmu	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Final Showdown	otj	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Malcolm, the Eyes	otj	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sandstorm Verge	otj	263	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Requisition Raid	otj	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Holy Cow	otj	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reckless Lackey	otj	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Demonic Ruckus	otj	120	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Haunt of the Dead Marshes	ltr	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fleeting Reflection	otj	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Raucous Entertainer	otj	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nurturing Pixie	otj	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Resilient Roadrunner	otj	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Conduit Pylons	otj	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Harrier Strix	otj	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Highway Robbery	otj	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
