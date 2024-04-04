@@ -87,7 +87,6 @@ Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Hum
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
 Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	"""5"""	R	~~	~~	Creature — Devil Horror
-Chandra's Phoenix	e01	44	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Phoenix
 Eidolon of the Great Revel	a25	128	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
@@ -676,7 +675,7 @@ Artificer's Assistant	dom	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witching Well	eld	74	Not Owned	~~	Non-foil	1	U	~~	~~	Artifact
 Hypnotic Grifter	snc	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mothdust Changeling	mma	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Journey to Nowhere	zen	14	Not Owned	heroic,aggrocontrol,aggro,beats	~~	"""~~"""	~~	~~	~~	~~
+Journey to Nowhere	ddf	23	Not Owned	heroic,aggrocontrol,aggro,beats	~~	"""~~"""	~~	~~	~~	~~
 Oni-Cult Anvil	neo	230	Not Owned	sacrifice,artifacts,tokens,lifegain,repeatable	~~	"""~~"""	~~	~~	~~	~~
 Triarch Praetorian	40k	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quandrix Pledgemage	stx	219	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -1017,7 +1016,6 @@ Snaremaster Sprite	woe	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Dreamthief	woe	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fell Horseman	woe	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goddric, Cloaked Reveler	woe	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hearth Elemental	woe	136	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Song of Totentanz	woe	150	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torch the Tower	woe	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
@@ -1172,7 +1170,7 @@ Cenote Scout	lci	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hope of Ghirapur	aer	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slogurk, the Overslime	mid	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethereal Forager	c20	34	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
-Wrath of God	10e	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wrath of God	dmr	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise the Alarm	ddf	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reciprocate	ddg	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nantuko	jud	128	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
