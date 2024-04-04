@@ -11689,3 +11689,9 @@ Timestamp	Board	ChangeType	Name
 2024-04-04T23:39:03.694+00:00	mainboard	remove	Chandra's Phoenix
 2024-04-04T23:39:03.694+00:00	maybeboard	add	Hearth Elemental
 2024-04-04T23:39:03.694+00:00	maybeboard	add	Chandra's Phoenix
+2024-04-04T23:54:01.203+00:00	mainboard	remove	Arcbound Mouser
+2024-04-04T23:54:01.203+00:00	mainboard	remove	Chaplain of Alms
+2024-04-04T23:54:01.203+00:00	mainboard	remove	Griffin Guide
+2024-04-04T23:54:01.203+00:00	maybeboard	add	Griffin Guide
+2024-04-04T23:54:01.203+00:00	maybeboard	add	Arcbound Mouser
+2024-04-04T23:54:01.203+00:00	maybeboard	add	Chaplain of Alms
