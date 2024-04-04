@@ -41,7 +41,7 @@ Evolutionary Leap	ori	176	Not Owned	sacrifice,manasink,smoothing,core,aggro,cont
 Growing Ranks	c19	193	Not Owned	tokens,stax,u3.5,sacrifice,occasional	Non-foil	4	W,G	Hybrid	~~	Enchantment
 Spitemare	ddh	16	Not Owned	enrage,aggrocontrol,occasional,removal,pingers,heroic	Non-foil	4	W,R	Hybrid	~~	Creature — Elemental
 Brittle Effigy	ddt	56	Owned	artifacts,flash,u2.0,removal,core,control	Non-foil	1	~~	~~	~~	Artifact
-Pacification Array	aer	168	Not Owned	artifacts,manasink,tappers,u2.92,core,removal,control	Non-foil	1	~~	~~	~~	Artifact
+Pacification Array	aer	168	Not Owned	artifacts,manasink,tappers,u2.92,core,removal,control,watch	Non-foil	1	~~	~~	~~	Artifact
 Stoneforge Masterwork	ogw	166	Not Owned	tribal,tokens,tribal_payoff,heroic,u4.4,core,artifacts	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Sylvok Lifestaff	som	209	Owned	artifacts,sacrifice,lifegain,heroic,u2.60,core,aggro,control	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Contagion Clasp	onc	129	Owned	counters,artifacts,counters_payoff,u2.60,u3.9,removal,core	Non-foil	2	~~	~~	~~	Artifact
@@ -1334,5 +1334,5 @@ Channeler Initiate	akh	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Dark-Dwellers	c20	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Candy Trail	woe	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glasspool Mimic	znr	60	Not Owned	watch	Non-foil	3	U	~~	~~	Creature — Shapeshifter Rogue
-Junk Diver	c14	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Junk Diver	c14	244	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Relic Amulet	znr	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
