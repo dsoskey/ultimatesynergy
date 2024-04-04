@@ -11672,3 +11672,8 @@ Timestamp	Board	ChangeType	Name
 2024-04-04T19:02:11.822+00:00	mainboard	add	Neutralize the Guards
 2024-04-04T19:02:11.822+00:00	maybeboard	remove	Neutralize the Guards
 2024-04-04T19:02:11.822+00:00	maybeboard	remove	Demonic Embrace
+2024-04-04T19:09:03.944+00:00	mainboard	edit	Demolition Field
+2024-04-04T19:09:03.944+00:00	mainboard	remove	Exotic Orchard
+2024-04-04T19:09:03.944+00:00	mainboard	remove	Icy Manipulator
+2024-04-04T19:09:03.944+00:00	maybeboard	add	Exotic Orchard
+2024-04-04T19:09:03.944+00:00	maybeboard	add	Icy Manipulator

@@ -110,7 +110,6 @@ Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	No
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
 Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro,control	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
-Icy Manipulator	dom	219	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Nevinyrral's Disk	c17	217	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Perilous Myr	cmr	330	Owned	core,artifacts,sacrifice,wide,removal,control	Non-foil	2	~~	~~	~~	Artifact Creature — Myr
 Powder Keg	p04	1	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact
@@ -351,7 +350,7 @@ Soldevi Excavations	me2	236	Not Owned	url	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
 Field of Ruin	thb	242	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
-Demolition Field	bro	260	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
+Demolition Field	bro	260	Not Owned	url	Non-foil	0	~~	~~	~~	Land
 Beast Within	clb	820	Not Owned	danger: arcane savant	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
 Taurean Mauler	nec	111	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
@@ -1057,7 +1056,6 @@ Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Petrified Field	ody	323	Not Owned	url	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Exotic Orchard	afc	236	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Urborg, Tomb of Yawgmoth	plst	UMA-254	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Yavimaya, Cradle of Growth	mh2	261	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
