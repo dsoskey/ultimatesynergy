@@ -11677,3 +11677,9 @@ Timestamp	Board	ChangeType	Name
 2024-04-04T19:09:03.944+00:00	mainboard	remove	Icy Manipulator
 2024-04-04T19:09:03.944+00:00	maybeboard	add	Exotic Orchard
 2024-04-04T19:09:03.944+00:00	maybeboard	add	Icy Manipulator
+2024-04-04T22:24:56.795+00:00	mainboard	remove	Circular Logic
+2024-04-04T22:24:56.795+00:00	mainboard	remove	Myr Sire
+2024-04-04T22:24:56.795+00:00	mainboard	remove	Arcane Adaptation
+2024-04-04T22:24:56.795+00:00	maybeboard	add	Myr Sire
+2024-04-04T22:24:56.795+00:00	maybeboard	add	Arcane Adaptation
+2024-04-04T22:24:56.795+00:00	maybeboard	add	Circular Logic
