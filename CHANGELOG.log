@@ -11587,3 +11587,6 @@ Timestamp	Board	ChangeType	Name
 2024-04-04T00:27:52.010+00:00	mainboard	edit	Pacification Array
 2024-04-04T00:27:52.010+00:00	mainboard	edit	Junk Diver
 2024-04-04T00:27:52.010+00:00	mainboard	edit	Chief of the Foundry
+2024-04-04T05:05:06.788+00:00	mainboard	remove	Doomskar Oracle
+2024-04-04T05:05:06.788+00:00	mainboard	add	Norika Yamazaki, the Poet
+2024-04-04T05:05:06.788+00:00	maybeboard	add	Doomskar Oracle
