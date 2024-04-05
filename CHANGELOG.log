@@ -11699,3 +11699,10 @@ Timestamp	Board	ChangeType	Name
 2024-04-05T00:22:34.178+00:00	mainboard	add	Master of Etherium
 2024-04-05T00:22:34.178+00:00	maybeboard	remove	Master of Etherium
 2024-04-05T00:22:34.178+00:00	maybeboard	add	Crystal Vein
+2024-04-05T00:26:45.533+00:00	mainboard	remove	Two-Headed Hunter
+2024-04-05T00:26:45.533+00:00	mainboard	add	Flameblade Adept
+2024-04-05T00:26:45.533+00:00	maybeboard	edit	Sparksmith
+2024-04-05T00:26:45.533+00:00	maybeboard	remove	Daemogoth Woe-Eater
+2024-04-05T00:26:45.533+00:00	maybeboard	remove	Harmonic Prodigy
+2024-04-05T00:26:45.533+00:00	maybeboard	remove	Flameblade Adept
+2024-04-05T00:26:45.533+00:00	maybeboard	add	Two-Headed Hunter
