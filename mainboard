@@ -96,7 +96,7 @@ Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	No
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
 Moment's Peace	ody	251	Not Owned	occasional,url	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
-Bloodbraid Elf	c16	184	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
+Bloodbraid Elf	pca	84	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Evil Twin	bbd	222	Not Owned	occasional,watch	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
@@ -1029,7 +1029,7 @@ Lair of the Hydra	afr	259	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Cryptic Caves	khc	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rivendell	ltr	259	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Sapseep Forest	shm	279	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
-Temple of the Dragon Queen	afr	260	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Temple of the Dragon Queen	afr	260	Not Owned	watch	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Flamekin Village	cm2	251	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Rustic Clachan	ddf	34	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Vodalian Wave-Knight	moc	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
