@@ -358,7 +358,6 @@ Flesh Carver	c14	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ninja of the Deep Hours	bok	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Force Spike	ddj	14	Not Owned	flash,aggrocontrol,spells,occasional	Non-foil	1	U	~~	~~	Instant
 Street Wraith	plst	A25-108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flameblade Adept	akh	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Engineer	mh1	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Reclaimer	m20	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Astor, Bearer of Blades	dmu	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -667,7 +666,7 @@ Choked Estuary	40k	268	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Beetleback Chief	c14	171	Not Owned	blink,tokens,sacrifice,wide,stax,aggro,control,occasional	Non-foil	4	R	~~	~~	Creature — Goblin Warrior
 Krenko, Mob Boss	ddt	52	Not Owned	tokens,wide,occasional	Non-foil	4	R	~~	~~	Legendary Creature — Goblin Warrior
 Goblin Grappler	lgn	100	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin
-Sparksmith	ons	235	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Goblin
+Sparksmith	ons	235	Not Owned	occasional,url	Non-foil	2	R	~~	~~	Creature — Goblin
 Condescend	dd2	28	Not Owned	core,spells,smoothing,flash,aggrocontrol,aggro,control	Non-foil	1	U	~~	~~	Instant
 Shimmer Myr	mbs	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Reality Chip	neo	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -837,7 +836,6 @@ Clever Impersonator	ktk	34	Not Owned	core,aggro,control	Non-foil	4	U	~~	~~	Creat
 Harmonize	ncc	295	Not Owned	core,spells,control,aggro	Non-foil	4	G	~~	~~	Sorcery
 Arcane Denial	all	22a	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrostatic Field	grn	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Harmonic Prodigy	mh2	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kessig Flamebreather	vow	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wee Dragonauts	gpt	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1327,7 +1325,6 @@ Dovin, Hand of Control	war	229	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Trace of Abundance	arb	142	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Deathbringer Liege	2x2	200	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Repudiate // Replicate	rna	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Daemogoth Woe-Eater	stx	175	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Waves of Aggression	eve	148	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Connive // Concoct	grn	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Clout of the Dominus	eve	99	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -2418,3 +2415,4 @@ Griffin Guide	dmr	8	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Arcbound Mouser	mh2	3	Not Owned	counters,artifacts,lifegain,durable	~~	"""~~"""	~~	~~	~~	~~
 Chaplain of Alms	mid	13	Not Owned	graveyard,aggrocontrol,aggro,heroic	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
