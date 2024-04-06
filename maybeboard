@@ -8,7 +8,6 @@ Platinum Angel	v15	13	Not Owned	~~	Non-foil	7	~~	~~	~~	Artifact Creature — Ang
 Ancient Stone Idol	c18	53	Not Owned	~~	Non-foil	10	~~	~~	~~	Artifact Creature — Golem
 Jinxed Idol	tmp	293	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Strionic Resonator	a25	232	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
-Sword of the Animist	afc	218	Not Owned	~~	Non-foil	2	~~	~~	~~	Legendary Artifact — Equipment
 Ashnod's Altar	brr	4	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Crystal Ball	m11	203	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Goblin Charbelcher	ddt	57	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
@@ -544,7 +543,6 @@ Complicate	ons	76	Not Owned	core,smoothing,aggrocontrol,flash,spells,control	Non
 Exclude	plst	MH1-48	Not Owned	flash,spells,aggrocontrol,u2.0,u4.8.2,occasional	Non-foil	3	U	~~	~~	Instant
 Scatter to the Winds	bfz	85	Not Owned	occasional	Non-foil	3	U	~~	~~	Instant
 Dismiss	cn2	108	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
-Sigiled Sword of Valeron	m19	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leather Armor	afr	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Team Pennant	stx	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Citizen's Crowbar	snc	8	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1387,7 +1385,6 @@ The Ozolith	iko	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Liliana, Heretical Healer	ori	106	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
 Blade of the Oni	neo	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Precinct Captain	e01	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bonesplitter	mrd	146	Not Owned	core,artifacts,heroic,aggro,aggrocontrol,manasink,fliers	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Witch's Oven	eld	237	Not Owned	sacrifice,lifegain,tokens,artifacts,occasional	Non-foil	1	~~	~~	~~	Artifact
 Goldvein Pick	khm	239	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Amorphous Axe	mh1	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2417,3 +2414,6 @@ Chaplain of Alms	mid	13	Not Owned	graveyard,aggrocontrol,aggro,heroic	Non-foil	1
 Crystal Vein	cma	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Headed Hunter	woe	155	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
+Ol' Buzzbark	ust	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Final Showdown	otj	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Goose Mother	woe	204	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~

@@ -584,7 +584,6 @@ Godless Shrine	sld	128	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
 Overgrown Tomb	grn	253	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
 Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ol' Buzzbark	ust	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyhan, Last of the Abzan	c16	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raven's Crime	mma	95	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 The Modern Age	neo	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -992,7 +991,6 @@ Specter of Mortality	woe	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Picklock Prankster	woe	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Water Wings	woe	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-The Goose Mother	woe	204	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Likeness Looter	woe	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""2"""	~~	Red	~~	~~
@@ -1317,7 +1315,6 @@ Junk Diver	c14	244	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Relic Amulet	znr	247	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Norika Yamazaki, the Poet	neo	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Take Up the Shield	dmu	35	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Final Showdown	otj	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malcolm, the Eyes	otj	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sandstorm Verge	otj	263	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Requisition Raid	otj	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1333,6 @@ Neutralize the Guards	otj	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	Owned	~~	Non-foil	3	U	~~	~~	Artifact Creature — Vedalken Wizard
 Flameblade Adept	akh	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Novice Inspector	mkm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sigiled Sword of Valeron	m19	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Animist	afc	218	Not Owned	~~	Non-foil	2	~~	~~	~~	Legendary Artifact — Equipment
+Bonesplitter	mrd	146	Not Owned	core,artifacts,heroic,aggro,aggrocontrol,manasink,fliers	Non-foil	1	~~	~~	~~	Artifact — Equipment

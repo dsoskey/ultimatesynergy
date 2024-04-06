@@ -11712,3 +11712,15 @@ Timestamp	Board	ChangeType	Name
 2024-04-06T06:55:04.599+00:00	mainboard	remove	Memorial to Glory
 2024-04-06T06:55:04.599+00:00	mainboard	add	Novice Inspector
 2024-04-06T06:55:04.599+00:00	maybeboard	add	Memorial to Glory
+2024-04-06T09:05:55.298+00:00	mainboard	remove	Final Showdown
+2024-04-06T09:05:55.298+00:00	mainboard	remove	The Goose Mother
+2024-04-06T09:05:55.298+00:00	mainboard	remove	Ol' Buzzbark
+2024-04-06T09:05:55.298+00:00	mainboard	add	Sigiled Sword of Valeron
+2024-04-06T09:05:55.298+00:00	mainboard	add	Sword of the Animist
+2024-04-06T09:05:55.298+00:00	mainboard	add	Bonesplitter
+2024-04-06T09:05:55.298+00:00	maybeboard	remove	Bonesplitter
+2024-04-06T09:05:55.298+00:00	maybeboard	remove	Sigiled Sword of Valeron
+2024-04-06T09:05:55.298+00:00	maybeboard	remove	Sword of the Animist
+2024-04-06T09:05:55.298+00:00	maybeboard	add	Ol' Buzzbark
+2024-04-06T09:05:55.298+00:00	maybeboard	add	Final Showdown
+2024-04-06T09:05:55.298+00:00	maybeboard	add	The Goose Mother
