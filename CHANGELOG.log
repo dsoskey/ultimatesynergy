@@ -11709,3 +11709,6 @@ Timestamp	Board	ChangeType	Name
 2024-04-05T00:33:50.174+00:00	mainboard	edit	Temple of the Dragon Queen
 2024-04-05T00:33:50.174+00:00	mainboard	edit	Bloodbraid Elf
 2024-04-05T19:42:14.771+00:00	mainboard	edit	Imp's Mischief
+2024-04-06T06:55:04.599+00:00	mainboard	remove	Memorial to Glory
+2024-04-06T06:55:04.599+00:00	mainboard	add	Novice Inspector
+2024-04-06T06:55:04.599+00:00	maybeboard	add	Memorial to Glory
