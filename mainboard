@@ -87,7 +87,6 @@ Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Gob
 Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	"""5"""	R	~~	~~	Creature — Devil Horror
 Eidolon of the Great Revel	a25	128	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
-Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Satyr Firedancer	bng	108	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
@@ -1184,7 +1183,6 @@ Goblin Anarchomancer	mh2	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormblood Berserker	e01	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Satyr Wayfinder	bng	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fortifying Draught	stx	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Faithless Salvaging	mh2	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cartouche of Strength	akh	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Vandal	eld	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stalactite Stalker	lci	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1322,7 +1320,6 @@ Haunt of the Dead Marshes	ltr	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fleeting Reflection	otj	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raucous Entertainer	otj	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nurturing Pixie	otj	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Resilient Roadrunner	otj	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Conduit Pylons	otj	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harrier Strix	otj	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Highway Robbery	otj	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,4 +1333,6 @@ Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vulshok Morningstar	ddi	66	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Sword of the Meek	2xm	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Burst Lightning	mm2	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Avacyn's Judgment	soi	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant

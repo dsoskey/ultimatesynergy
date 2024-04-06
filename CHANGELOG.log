@@ -11745,3 +11745,15 @@ Timestamp	Board	ChangeType	Name
 2024-04-06T09:25:28.220+00:00	maybeboard	add	Bone Saw
 2024-04-06T09:25:28.220+00:00	maybeboard	add	Livewire Lash
 2024-04-06T09:25:28.220+00:00	maybeboard	add	Sigil of Distinction
+2024-04-06T20:12:51.366+00:00	mainboard	remove	Ceremonial Knife
+2024-04-06T20:12:51.366+00:00	mainboard	remove	Resilient Roadrunner
+2024-04-06T20:12:51.366+00:00	mainboard	remove	Faithless Salvaging
+2024-04-06T20:12:51.366+00:00	mainboard	remove	Goblin Chieftain
+2024-04-06T20:12:51.366+00:00	mainboard	add	Burst Lightning
+2024-04-06T20:12:51.366+00:00	mainboard	add	Avacyn's Judgment
+2024-04-06T20:12:51.366+00:00	mainboard	add	Fire Prophecy
+2024-04-06T20:12:51.366+00:00	maybeboard	remove	Fire Prophecy
+2024-04-06T20:12:51.366+00:00	maybeboard	add	Faithless Salvaging
+2024-04-06T20:12:51.366+00:00	maybeboard	add	Resilient Roadrunner
+2024-04-06T20:12:51.366+00:00	maybeboard	add	Ceremonial Knife
+2024-04-06T20:12:51.366+00:00	maybeboard	add	Goblin Chieftain
