@@ -490,7 +490,6 @@ Pyrite Spellbomb	2xm	283	Owned	core,artifacts,burn,flash,removal,aggro,control	N
 Words of War	ons	244	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment
 Howl of the Horde	ktk	112	Not Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
 Ghostfire Blade	ktk	220	Not Owned	occasional	Non-foil	1	~~	~~	~~	Artifact — Equipment
-Vulshok Morningstar	ddi	66	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Hornet Queen	cmd	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Battlesphere	som	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krosan Tusker	plst	DDU-14	Not Owned	reanimator,ramp,smoothing,occasional	Non-foil	7	G	~~	~~	Creature — Boar Beast
@@ -1209,7 +1208,6 @@ Harsh Mercy	ons	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abolish	ddf	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	m11	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Rebuttal	som	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Tracker	moc	314	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Scout
 Wilt-Leaf Liege	2x2	294	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Temple Acolyte	ddf	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2258,7 +2256,6 @@ Shriekmaw	c20	136	Not Owned	~~	Non-foil	"""2"""	B	~~	~~	Creature — Elemental
 Flash	a25	57	Not Owned	danger	~~	"""~~"""	~~	~~	~~	~~
 Paradise Druid	afc	165	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Cemetery Gatekeeper	vow	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Twinshot Sniper	neo	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	grn	109	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Soldier
 Bramble Familiar	woe	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege Veteran	bro	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2266,7 +2263,6 @@ Fatal Push	sld	112	Not Owned	~~	Non-foil	1	B	~~	~~	Instant
 Unholy Heat	mh2	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syr Konrad, the Grim	znc	56	Not Owned	occasional	Non-foil	5	B	~~	~~	Legendary Creature — Human Knight
 Hanweir Militia Captain	soi	21	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
-Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Attended Knight	mm3	1	Not Owned	blink,tokens,sacrifice,wide,core,aggro,control	Non-foil	3	W	~~	~~	Creature — Human Knight
 Cut Down	dmu	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	c18	230	Not Owned	~~	Non-foil	3	~~	~~	~~	Artifact
@@ -2417,3 +2413,11 @@ Memorial to Glory	dom	244	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Ol' Buzzbark	ust	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Final Showdown	otj	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Goose Mother	woe	204	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
+Bonesplitter	mrd	146	Not Owned	core,artifacts,heroic,aggro,aggrocontrol,manasink,fliers	Non-foil	1	~~	~~	~~	Artifact — Equipment
+Cloud of Faeries	moc	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Clown Car	unf	186	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
+Burning Vengeance	c19	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Viridian Longbow	afc	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Saw	ogw	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Livewire Lash	2x2	307	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sigil of Distinction	ala	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
