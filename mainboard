@@ -26,7 +26,6 @@ Tragic Slip	cmm	192	Not Owned	sacrifice,spells,flash,u2.0,removal,core,aggro,con
 Undying Evil	dka	77	Not Owned	blink,heroic,counters,spells,flash,aggrocontrol,core,aggro	Non-foil	1	B	~~	~~	Instant
 Grim Lavamancer	dmr	126	Not Owned	graveyard,burn,core,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Spikeshot Elder	mm2	127	Owned	heroic,manasink,flash,wide,core,pingers,removal,aggro,control	Non-foil	1	R	~~	~~	Creature — Goblin Shaman
-Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Goblin Cratermaker	grn	103	Not Owned	artifact_removal,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional,url	Non-foil	3	R	~~	~~	Creature — Imp
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,sacrifice,tokens,enrage,pingers,wide,stax,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
@@ -263,7 +262,6 @@ Ajani's Pridemate	j22	142	Owned	lifegain_payoff,core,aggrocontrol,heroic	Non-foi
 Lava Coil	2x2	116	Not Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Planar Disruption	one	28	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura
 Blazing Crescendo	one	123	Not Owned	~~	Non-foil	2	R	~~	~~	Instant
-Firebrand Archer	hou	92	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Archer
 Clay Champion	bro	230	Not Owned	counters	Non-foil	4	G,W	Hybrid	~~	Artifact Creature — Construct
 Surge Engine	bro	81	Not Owned	artifacts,control,evasion,aggrocontrol	Non-foil	2	~~	Blue	~~	Artifact Creature — Construct
 Haughty Djinn	dmu	52	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Djinn
@@ -1336,3 +1334,5 @@ Sword of the Meek	2xm	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	mm2	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avacyn's Judgment	soi	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
+Kaleidoscorch	mh2	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lightning Strike	m19	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
