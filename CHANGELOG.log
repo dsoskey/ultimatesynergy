@@ -11761,3 +11761,16 @@ Timestamp	Board	ChangeType	Name
 2024-04-06T23:00:45.998+00:00	mainboard	edit	Urborg, Tomb of Yawgmoth
 2024-04-06T23:00:45.998+00:00	mainboard	edit	Deeproot Champion
 2024-04-06T23:00:45.998+00:00	mainboard	edit	Lingering Souls
+2024-04-07T00:00:16.782+00:00	mainboard	remove	Firebrand Archer
+2024-04-07T00:00:16.782+00:00	mainboard	remove	Fireslinger
+2024-04-07T00:00:16.782+00:00	mainboard	add	Kaleidoscorch
+2024-04-07T00:00:16.782+00:00	mainboard	add	Lightning Strike
+2024-04-07T00:00:16.782+00:00	maybeboard	remove	Ranger of Eos
+2024-04-07T00:00:16.782+00:00	maybeboard	remove	Manamorphose
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Devil's Play
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Wild Slash
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Flame Discharge
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Nezumi Linkbreaker
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Purphoros's Intervention
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Fireslinger
+2024-04-07T00:00:16.782+00:00	maybeboard	add	Firebrand Archer

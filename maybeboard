@@ -323,7 +323,6 @@ Ilharg, the Raze-Boar	war	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tezzeret, Artifice Master	m19	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ob Nixilis's Cruelty	war	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tolarian Terror	dmu	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Manamorphose	shm	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Faithless Looting	dka	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abomination of Gudul	ktk	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selvala, Explorer Returned	cns	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1145,7 +1144,6 @@ Vithian Renegades	arb	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pillory of the Sleepless	gpt	125	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Edge of the Divinity	eve	87	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Daru Encampment	ons	315	Owned	~~	~~	"""~~"""	~~	White	~~	~~
-Ranger of Eos	ala	21	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Cocoon	5dn	18	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halimar Depths	wwk	137	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Mana Leak	m11	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2424,3 +2422,10 @@ Faithless Salvaging	mh2	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Resilient Roadrunner	otj	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Chieftain	ddt	41	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin
+Devil's Play	c19	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wild Slash	frf	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flame Discharge	neo	142	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nezumi Linkbreaker	otj	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Purphoros's Intervention	thb	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
+Firebrand Archer	hou	92	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Archer
