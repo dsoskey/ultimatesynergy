@@ -1302,7 +1302,6 @@ Sword of the Animist	afc	218	Not Owned	~~	Non-foil	2	~~	~~	~~	Legendary Artifact
 Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vulshok Morningstar	ddi	66	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
-Sword of the Meek	2xm	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	mm2	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avacyn's Judgment	soi	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire Prophecy	iko	116	Not Owned	smoothing,spells,flash,removal,aggro,control,occasional	Non-foil	2	R	~~	~~	Instant
@@ -1336,3 +1335,4 @@ Primal Might	m21	197	Not Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
 Drown in Ichor	one	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tail Swipe	dmu	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
