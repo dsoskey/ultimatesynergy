@@ -62,7 +62,6 @@ Geist of Saint Traft	ddq	1	Not Owned	~~	Non-foil	3	U,W	~~	~~	Legendary Creature 
 Runo Stromkirk	vow	246	Not Owned	~~	Non-foil	3	B,U	~~	~~	Legendary Creature — Vampire Cleric
 Extricator of Sin	emn	23	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Order of Whiteclay	shm	16	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Kithkin Cleric
-Bygone Bishop	voc	80	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Spirit Cleric
 Viconia, Drow Apostate	clb	156	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Elf Cleric
 Emissary of Sunrise	xln	10	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Sower of Temptation	bbd	131	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
@@ -431,7 +430,6 @@ Dictate of Kruphix	c18	86	Not Owned	occasional	Non-foil	3	U	~~	~~	Enchantment
 Serra Angel	gnt	16	Owned	occasional	Non-foil	5	W	~~	~~	Creature — Angel
 Flameblast Dragon	c18	123	Not Owned	core,fliers,ramp,reanimator,removal,burn,control	Non-foil	6	R	~~	~~	Creature — Dragon
 Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
-Burnished Hart	ths	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundry Inspector	kld	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Manufactor	mh2	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kuldotha Forgemaster	som	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -653,7 +651,6 @@ Krenko, Mob Boss	ddt	52	Not Owned	tokens,wide,occasional	Non-foil	4	R	~~	~~	Lege
 Goblin Grappler	lgn	100	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Goblin
 Sparksmith	ons	235	Not Owned	occasional,url	Non-foil	2	R	~~	~~	Creature — Goblin
 Condescend	dd2	28	Not Owned	core,spells,smoothing,flash,aggrocontrol,aggro,control	Non-foil	1	U	~~	~~	Instant
-Shimmer Myr	mbs	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Reality Chip	neo	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	kld	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cyberdrive Awakener	nec	12	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2430,3 +2427,4 @@ Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Tower of the Magistrate	mmq	330	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Aspirant's Ascent	one	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	2xm	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jinnie Fay, Jetmir's Second	snc	195	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
