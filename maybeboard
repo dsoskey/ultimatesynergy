@@ -407,7 +407,6 @@ Emerald Dragon	clb	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Naga	clb	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sapphire Dragon	clb	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tlincalli Hunter	clb	682	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Two-Handed Axe	clb	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Omniclown Colossus	unf	116	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Realm-Cloaked Giant	eld	26	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hanweir Militia Captain	soi	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -561,12 +560,7 @@ Skycloud Expanse	nec	177	Not Owned	~~	Non-foil	0	W,U	~~	~~	Land
 Darkwater Catacombs	c19	238	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Shadowblood Ridge	ncc	426	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Mossfire Valley	nec	171	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Mystic Gate	shm	277	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land
-Sunken Ruins	2xm	326	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land
-Graven Cairns	2xm	320	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Fetid Heath	ncc	401	Not Owned	~~	Non-foil	0	W,B	~~	~~	Land
 Cascade Bluffs	a25	237	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Rugged Prairie	2xm	325	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Cabal Coffers	tor	139	Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Oona's Gatewarden	shm	173	Not Owned	~~	Non-foil	1	U,B	Hybrid	~~	Creature — Faerie Soldier
 Oona, Queen of the Fae	shm	172	Not Owned	occasional	Non-foil	6	U,B	Hybrid	~~	Legendary Creature — Faerie Wizard
@@ -598,7 +592,6 @@ Fae Offering	mh2	158	Not Owned	occasional	Non-foil	3	G	~~	~~	Enchantment
 Auramancer	ody	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moment's Peace	td0	A80	Not Owned	occasional	Non-foil	2	G	~~	~~	Instant
 Inniaz, the Gale Force	jmp	12	Not Owned	~~	Non-foil	5	U	Blue	~~	Legendary Creature — Djinn
-Temple of Mystery	m20	255	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Sea Gate Oracle	roe	85	Not Owned	blink,smoothing,core,control	Non-foil	3	U	~~	~~	Creature — Human Wizard
 Keldon Flamesage	dmu	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
@@ -947,7 +940,6 @@ Repulse	cn2	119	Not Owned	spells,aggrocontrol,control,occasional	Non-foil	3	U	~~
 Conspiracy Theorist	pstx	94s	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Shaman
 Hushbringer	eld	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Foulmire Knight	eld	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Genju of the Spires	a25	132	Not Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Banefire	m19	130	Not Owned	occasional	Non-foil	"""6"""	R	~~	~~	Sorcery
@@ -962,7 +954,6 @@ Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,agg
 Blink of an Eye	dom	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gilded Goose	eld	160	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Bird
 Castle Vantress	eld	242	Not Owned	core,manasink,control	Non-foil	0	U	Blue	~~	Land
-Faerie Conclave	woc	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Royal Scions	eld	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cinderbones	shm	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Simic Sky Swallower	dis	130	Not Owned	u2.0,u4.9.3,ramp,graveyard,reanimator,core,control	Non-foil	7	U,G	~~	~~	Creature — Leviathan
@@ -1244,7 +1235,6 @@ Outlaws' Merriment	eld	198	Not Owned	~~	Non-foil	4	R,W	~~	~~	Enchantment
 Midnight Reaper	grn	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gleeful Demolition	one	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bake into a Pie	eld	76	Not Owned	artifacts,spells,lifegain,flash,u4.8,removal,core,control	Non-foil	4	B	~~	~~	Instant
-Obscura Storefront	snc	252	Not Owned	~~	~~	"""~~"""	W,U,B	~~	~~	~~
 Kazandu Blademaster	zen	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	emn	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mist-Syndicate Naga	mh1	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1544,7 +1534,6 @@ Kytheon, Hero of Akros	ori	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Divinity of Pride	c13	228	Owned	lifegain,lifegain_payoff,fliers,occasional	Non-foil	5	W,B	Hybrid	~~	Creature — Spirit Avatar
 Skyclave Cleric	znr	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Riveteers Overlook	snc	255	Not Owned	~~	~~	"""~~"""	B,R,G	~~	~~	~~
-Cabaretti Courtyard	snc	249	Not Owned	~~	~~	"""~~"""	R,G,W	~~	~~	~~
 Maestros Theater	snc	251	Not Owned	~~	~~	"""~~"""	U,B,R	~~	~~	~~
 Vampiric Rites	2x2	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Game of Chaos	5ed	232	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1675,7 +1664,6 @@ Blossoming Calm	mh2	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cage of Hands	pca	4	Not Owned	occasional	Non-foil	3	W	~~	~~	Enchantment — Aura
 Spontaneous Mutation	cmr	100	Not Owned	~~	Non-foil	1	U	~~	~~	Enchantment — Aura
 Leonin Bola	dst	127	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dancing Sword	afr	8	Not Owned	heroic,artifacts,aggrocontrol,aggro	~~	"""~~"""	~~	~~	~~	~~
 Healing Grace	dom	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	snc	46	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Scorched Rusalka	gpt	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1914,7 +1902,6 @@ Walking Atlas	wwk	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thawing Glaciers	vma	318	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Glacial Chasm	v12	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inevitable Betrayal	mh2	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Halls of Mist	ice	354	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swords to Plowshares	bbd	110	Owned	spells,control,flash,removal,aggro,occasional	Non-foil	1	W	~~	~~	Instant
 Felidar Umbra	pca	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1976,7 +1963,6 @@ Dack's Duplicate	2x2	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Decadent Dragon	woe	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Augury Adept	c13	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Pernicious Deed	a25	212	Not Owned	occasional	Non-foil	3	B,G	~~	~~	Enchantment
-Wargate	arb	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Harmonic Sliver	cmm	924	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cavalier of Thorns	m20	167	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple of the False God	c20	319	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2351,7 +2337,6 @@ Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non
 Desert	afc	233	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thespian's Stage	uma	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Novijen, Heart of Progress	c15	296	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
-Mana Confluence	jou	163	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Lavaspur Boots	otj	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Honest Rutstein	otj	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Taii Wakeen, Perfect Shot	otj	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2430,3 +2415,28 @@ Purphoros's Intervention	thb	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Firebrand Archer	hou	92	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Archer
 Chandra's Pyrohelix	kld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Metallic Mimic	aer	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Taurean Mauler	nec	111	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
+Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	W,U	~~	~~	~~
+Watery Grave	grn	259	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ktk	239	Not Owned	~~	~~	"""~~"""	U,B	~~	~~	~~
+Blood Crypt	rna	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	ktk	230	Not Owned	~~	~~	"""~~"""	B,R	~~	~~	~~
+Stomping Ground	sld	126	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	ktk	249	Not Owned	~~	~~	"""~~"""	R,G	~~	~~	~~
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	ktk	248	Not Owned	~~	~~	"""~~"""	G,W	~~	~~	~~
+Godless Shrine	sld	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Marsh Flats	mh2	248	Not Owned	~~	~~	"""~~"""	W,B	~~	~~	~~
+Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	mh2	254	Not Owned	~~	~~	"""~~"""	U,R	~~	~~	~~
+Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	mh2	260	Not Owned	~~	~~	"""~~"""	B,G	~~	~~	~~
+Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
+Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	G,U	~~	~~	~~
+Tormentor's Helm	khm	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
