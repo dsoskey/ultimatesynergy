@@ -532,7 +532,7 @@ Skeletal Changeling	lrw	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Runed Stalactite	lrw	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	voc	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raise the Draugr	khm	105	Not Owned	flash,durable,reanimator,graveyard	~~	"""~~"""	~~	~~	~~	~~
-Mirror of the Forebears	c17	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirror of the Forebears	c17	54	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Return from Extinction	mh1	104	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Selective Snare	grn	53	Not Owned	~~	~~	"""3NaN"""	~~	~~	~~	~~
 Wings of Velis Vel	mm2	70	Not Owned	tribal,tribal_payoff,control,aggrocontrol,aggro,core,fliers	~~	"""~~"""	~~	~~	~~	~~
@@ -1324,7 +1324,7 @@ Obsidian Battle-Axe	mor	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Handed Axe	clb	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Livewire Lash	2x2	307	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gold Pan	otj	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gold Pan	otj	242	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Goldvein Pick	khm	239	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Etherium Sculptor	ala	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
