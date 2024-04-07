@@ -373,7 +373,6 @@ Portable Hole	afr	33	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Urza, Lord High Artificer	mh1	75	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tezzeret, Betrayer of Flesh	neo	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hapless Researcher	jud	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hedron Crab	zen	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emry, Lurker of the Loch	eld	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Displacer Kitten	clb	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -435,7 +434,6 @@ Flameblast Dragon	c18	123	Not Owned	core,fliers,ramp,reanimator,removal,burn,con
 Ball Lightning	pd2	12	Owned	occasional	Non-foil	3	R	~~	~~	Creature — Elemental
 Burnished Hart	ths	213	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundry Inspector	kld	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Etherium Sculptor	ala	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Manufactor	mh2	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kuldotha Forgemaster	som	169	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Millikin	ody	302	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -669,7 +667,6 @@ Saw It Coming	khm	76	Not Owned	~~	Non-foil	3	U	~~	~~	Instant
 Dawn of Hope	grn	8	Not Owned	flash,lifegain,tokens,sacrifice,manasink,wide,soldiers,u4.6.1,core,lifegain_payoff,control	Non-foil	2	W	~~	~~	Enchantment
 Containment Priest	m21	13	Not Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Simic Ascendancy	rna	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Slip Out the Back	snc	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ivy Lane Denizen	gtc	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani, the Greathearted	war	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Immaculate Magistrate	lrw	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -772,7 +769,6 @@ Throne of the God-Pharaoh	akh	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Venomous Changeling	mh1	114	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Avian Changeling	lrw	4	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Webweaver Changeling	mh1	192	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Maskwood Nexus	khm	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vanquisher's Banner	xln	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Door of Destinies	mor	143	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Molten Echoes	c20	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -944,7 +940,6 @@ Foulmire Knight	eld	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Genju of the Spires	a25	132	Not Owned	occasional	Non-foil	1	R	~~	~~	Enchantment — Aura
 Banefire	m19	130	Not Owned	occasional	Non-foil	"""6"""	R	~~	~~	Sorcery
 Browbeat	a25	123	Not Owned	occasional	Non-foil	3	R	~~	~~	Sorcery
-Smoldering Egg	mid	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hobgoblin Captain	afr	148	Not Owned	core,aggro,heroic	Non-foil	2	R	~~	~~	Creature — Goblin Barbarian
 Horned Stoneseeker	bro	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Battle Cry Goblin	afr	132	Not Owned	core,tokens,aggro,manasink,tribal_payoff	Non-foil	2	R	~~	~~	Creature — Goblin
@@ -1372,7 +1367,6 @@ Liliana, Heretical Healer	ori	106	Not Owned	~~	Non-foil	3	B	~~	~~	Legendary Crea
 Blade of the Oni	neo	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Precinct Captain	e01	18	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Oven	eld	237	Not Owned	sacrifice,lifegain,tokens,artifacts,occasional	Non-foil	1	~~	~~	~~	Artifact
-Goldvein Pick	khm	239	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Amorphous Axe	mh1	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Raven's Warning	khm	227	Not Owned	~~	Non-foil	3	U,W	~~	~~	Enchantment — Saga
 Edgar, Charmed Groom	vow	236	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2354,7 +2348,6 @@ Getaway Glamer	otj	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rooftop Assassin	otj	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shackle Slinger	otj	65	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Outlaws' Fury	otj	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gold Pan	otj	242	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razzle-Dazzler	otj	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cunning Coyote	otj	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Discerning Peddler	otj	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2374,7 +2367,6 @@ Vengeful Townsfolk	otj	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blacksnag Buzzard	otj	79	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Desert's Due	otj	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Geyser Drake	otj	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Phantom Interference	otj	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Prairie Dog	otj	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quick Draw	otj	138	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Sphinx	otj	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2401,7 +2393,6 @@ Clown Car	unf	186	Not Owned	~~	~~	"""2"""	~~	~~	~~	~~
 Burning Vengeance	c19	135	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Viridian Longbow	afc	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bone Saw	ogw	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Livewire Lash	2x2	307	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of Distinction	ala	219	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faithless Salvaging	mh2	122	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Resilient Roadrunner	otj	141	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
