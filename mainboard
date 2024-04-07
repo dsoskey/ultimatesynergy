@@ -1199,7 +1199,6 @@ Imp's Mischief	cmm	167	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Twin Bolt	dtk	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Call a Surprise Witness	mkm	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Transcantation	cmb2	67	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
-Burden of Proof	mkm	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fae Flight	mkm	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Festerleech	mkm	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leering Onlooker	mkm	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1294,7 +1293,7 @@ Haunt of the Dead Marshes	ltr	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fleeting Reflection	otj	49	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Raucous Entertainer	otj	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nurturing Pixie	otj	20	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Conduit Pylons	otj	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Conduit Pylons	otj	254	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Harrier Strix	otj	52	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Highway Robbery	otj	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Neutralize the Guards	otj	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1317,7 +1316,7 @@ Dancing Sword	afr	8	Not Owned	heroic,artifacts,aggrocontrol,aggro	~~	"""~~"""	~~
 Hexgold Halberd	one	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Spear	mh2	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Obscura Storefront	snc	252	Not Owned	~~	~~	"""~~"""	W,U,B	~~	~~	~~
-Faerie Conclave	woc	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Faerie Conclave	woc	160	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Barrow-Blade	ltr	237	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireshrieker	cmm	949	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ninja's Kunai	neo	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1335,3 +1334,5 @@ Etherium Sculptor	ala	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Interference	otj	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slip Out the Back	snc	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Riveteers Overlook	snc	255	Not Owned	~~	~~	"""~~"""	B,R,G	~~	~~	~~
+Primal Might	m21	197	Not Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
