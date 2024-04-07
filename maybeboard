@@ -302,7 +302,6 @@ Niv-Mizzet, Parun	clb	851	Not Owned	~~	Non-foil	6	R,U	~~	~~	Legendary Creature �
 Blast Zone	slu	504	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
 Thundermaw Hellkite	scd	164	Not Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Oath of Nissa	ogw	140	Not Owned	~~	Non-foil	1	G	~~	~~	Legendary Enchantment
-Abundant Harvest	mh2	147	Not Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Grist, the Hunger Tide	mh2	202	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Vraska, Relic Seeker	xln	232	Not Owned	~~	Non-foil	6	B,G	~~	~~	Legendary Planeswalker — Vraska
 Natural Order	vis	114	Not Owned	~~	Non-foil	4	G	~~	~~	Sorcery
@@ -608,7 +607,6 @@ Spawn of Mayhem	rna	85	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of Dawn's Light	dmu	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rona's Vortex	dmu	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bog Badger	dmu	156	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tail Swipe	dmu	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thunderclap Wyvern	ori	218	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oblivion Ring	arc	3	Not Owned	artifact_removal,enchantment_removal,u2.0,removal,occasional	Non-foil	3	W	~~	~~	Enchantment
 Lagomos, Hand of Hatred	dmu	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1121,7 +1119,6 @@ Rise from the Grave	m10	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Discovery	zen	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gatekeeper of Malakir	zen	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ichor Rats	som	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cultivate	m11	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sejiri Steppe	wwk	142	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Qasali Pridemage	arb	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Guildmage	gpt	145	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -2149,7 +2146,6 @@ Sprouting Goblin	dmu	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Warbriar Blessing	thb	204	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Visitor	neo	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Jab	ema	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Drown in Ichor	one	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rune of Sustenance	khm	25	Not Owned	~~	Non-foil	2	W	~~	~~	Enchantment — Aura Rune
 Archangel of Thune	2xm	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Warleader	m19	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2431,3 +2427,6 @@ Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	G,U	~~	~~	~~
 Tormentor's Helm	khm	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vessel of Nascency	soi	237	Owned	~~	Non-foil	1	G	~~	~~	Enchantment
 Burden of Proof	mkm	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Tower of the Magistrate	mmq	330	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
+Aspirant's Ascent	one	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
