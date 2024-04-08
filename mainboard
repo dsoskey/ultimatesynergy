@@ -92,7 +92,6 @@ Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Hu
 Blossoming Defense	kld	146	Not Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
-Moment's Peace	ody	251	Not Owned	occasional,url	Non-foil	2	G	~~	~~	Instant
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
 Bloodbraid Elf	pca	84	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
@@ -685,7 +684,7 @@ Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Super-Duper Death Ray	ust	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 More or Less	ust	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Skullcrack	gtc	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skullcrack	gtc	106	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Soul of Zendikar	m15	201	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clay Revenant	bro	118	Not Owned	artifacts,repeatable,durable,graveyard_hate,flash,sacrifice	~~	"""~~"""	~~	Black	~~	~~
 Descendants' Path	lcc	238	Not Owned	~~	Non-foil	3	G	~~	~~	Enchantment
@@ -1336,3 +1335,4 @@ Tail Swipe	dmu	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
 Shimmer Myr	mbs	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Explorer's Cache	lci	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
