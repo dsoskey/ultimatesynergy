@@ -98,7 +98,6 @@ Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	
 Evil Twin	bbd	222	Not Owned	occasional,watch	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
-Juniper Order Ranger	cm2	158	Not Owned	occasional	Non-foil	5	G,W	~~	~~	Creature — Human Knight
 Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
 Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	White	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
@@ -108,7 +107,6 @@ Epochrasite	c14	238	Not Owned	core,sacrifice,counters,artifacts,reanimator,aggro
 Nevinyrral's Disk	c17	217	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Perilous Myr	cmr	330	Owned	core,artifacts,sacrifice,wide,removal,control	Non-foil	2	~~	~~	~~	Artifact Creature — Myr
 Powder Keg	p04	1	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact
-Solemn Simulacrum	onc	141	Owned	control,watch	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
 Spellskite	mm2	230	Not Owned	occasional	Non-foil	2	U	Colorless	~~	Artifact Creature — Horror
 Trading Post	cm2	225	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact
 Untethered Express	aer	179	Not Owned	occasional	Non-foil	4	~~	~~	~~	Artifact — Vehicle
@@ -355,7 +353,6 @@ Reckless Rage	rix	110	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	frf	72	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Ancient Stirrings	2xm	151	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hollow One	hou	163	Not Owned	~~	~~	"""3"""	~~	~~	~~	~~
-Slippery Bogle	uma	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Snakeskin Veil	khm	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firespout	shm	205	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Dryad Militant	rtr	214	Not Owned	graveyard_hate,aggro,aggrocontrol	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -431,7 +428,6 @@ Renegade Krasis	dgm	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Change of Plans	ncc	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reject Imperfection	one	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoneforge Mystic	2xm	31	Not Owned	flash,tutor,heroic,blink,aggro,aggrocontrol,control,tokens,build-around	~~	"""~~"""	~~	~~	~~	~~
-Flayer Husk	2xm	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jwari Disruption	znr	64	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Dream Fracture	eve	19	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	grn	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -575,7 +571,7 @@ Godless Shrine	sld	128	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
 Overgrown Tomb	grn	253	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
 Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Reyhan, Last of the Abzan	c16	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reyhan, Last of the Abzan	c16	40	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Raven's Crime	mma	95	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 The Modern Age	neo	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Warden of the First Tree	frf	143	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
@@ -678,7 +674,6 @@ Moon-Circuit Hacker	neo	67	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malefic Scythe	m21	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsettled Mariner	mh1	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	afc	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memory Plunder	clb	849	Not Owned	danger: arcane savant	~~	"""~~"""	~~	Hybrid	~~	~~
 Ertai Resurrected	dmu	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Disallow	aer	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -796,7 +791,6 @@ Lazotep Reaver	war	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormchaser Mage	ogw	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Galerider Sliver	cmm	849	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Safehold Elite	uma	220	Not Owned	counters	~~	"""~~"""	~~	Hybrid	~~	~~
-Arcus Acolyte	mh2	185	Not Owned	lifegain,counters	~~	"""~~"""	~~	~~	~~	~~
 Atraxa's Skitterfang	one	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alchemist's Gift	m21	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Beloved Princess	eld	7	Not Owned	aggro,lifegain,evasion,aggrocontrol,heroic,core,control,pingers	~~	"""~~"""	~~	~~	~~	~~
@@ -931,7 +925,6 @@ Knight of the White Orchid	c20	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Clockspinning	tsp	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Countryside Crusher	mma	108	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expedite	cmr	413	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Glissa, the Traitor	v16	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jor Kadeen, First Goldwarden	one	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Giada, Font of Hope	snc	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Krydle of Baldur's Gate	afr	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1217,7 +1210,6 @@ Afterlife Insurance	clu	23	Not Owned	watch	~~	"""~~"""	~~	Hybrid	~~	~~
 Ecstatic Electromancer	clu	31	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Furious Spinesplitter	clu	33	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scuttling Sentinel	clu	42	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Tribune of Rot	clu	48	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Fang of Shigeki	neo	183	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Canyon Slough	akh	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fetid Pools	akh	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1321,7 +1313,6 @@ Obsidian Battle-Axe	mor	144	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Two-Handed Axe	clb	203	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Blade	m20	3	Not Owned	artifacts,tokens,heroic,soldiers,u4.7.7,core,fliers,aggro,control	Non-foil	2	W	~~	~~	Artifact — Equipment
 Livewire Lash	2x2	307	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gold Pan	otj	242	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Goldvein Pick	khm	239	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Etherium Sculptor	nec	92	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1335,4 +1326,13 @@ Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
 Shimmer Myr	mbs	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Explorer's Cache	lci	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lost Jitte	big	23	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Emerge Unscathed	roe	20	Not Owned	heroic,spells,flash,aggrocontrol,u3.4,core,aggro	Non-foil	1	W	~~	~~	Instant
+Generous Visitor	neo	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Topplegeist	ddq	21	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit
+Strangle	snc	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ifnir Deadlands	hou	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Blackstaff of Waterdeep	afr	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fiery Impulse	ori	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Savage Swipe	mh1	178	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Erebos's Intervention	thb	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Suspend	mh2	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
