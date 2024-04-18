@@ -198,7 +198,6 @@ Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Wa
 Elvish Warmaster	j22	654	Not Owned	~~	Non-foil	2	G	~~	~~	Creature — Elf Warrior
 Rune of Speed	khm	148	Not Owned	~~	Non-foil	2	R	~~	~~	Enchantment — Aura Rune
 Rune of Flight	khm	75	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura Rune
-Maskwood Nexus	clb	865	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
 Rune of Might	khm	191	Not Owned	~~	Non-foil	2	G	~~	~~	Enchantment — Aura Rune
 Rise of the Dread Marn	khm	107	Not Owned	~~	Non-foil	3	B	~~	~~	Instant
 Rune of Mortality	khm	108	Not Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura Rune
@@ -405,7 +404,6 @@ Lone Rider	emn	33	Not Owned	heroic,lifegain,beats,aggro,aggrocontrol	~~	"""~~"""
 Phyrexian Dragon Engine	bro	163a	Not Owned	graveyard,artifacts	~~	"""~~"""	~~	Red	~~	~~
 Lunarch Veteran	mid	27	Not Owned	lifegain,graveyard,fliers,durable	Non-foil	1	W	~~	~~	Creature — Human Cleric
 Ornithopter of Paradise	mh2	232	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Thopter
-Arcbound Crusher	dst	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	afc	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valentin, Dean of the Vein	stx	161	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Spectrum Sentinel	bro	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -603,7 +601,6 @@ Mesa Chicken	ugl	9	Owned	custom,core,aggrocontrol,heroic,aggro,fliers,url	~~	"""
 Plague Myr	onc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	scd	99	Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Sudden Spoiling	tsr	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-All Is Dust	uma	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	gk1	4	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Quicksand	a25	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1329,3 +1326,6 @@ Lembas	ltr	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ugin's Conjurant	war	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dermotaxi	mh2	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Birthing Boughs	mh1	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
