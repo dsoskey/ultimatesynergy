@@ -726,7 +726,6 @@ Bilious Skulldweller	one	83	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necrogenesis	ala	181	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mite Overseer	one	404	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Toxic Scorpion	vow	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elemental
 Sarulf's Packmate	khm	192	Not Owned	~~	Non-foil	4	G	~~	~~	Creature — Wolf
 Penumbra Spider	mm3	131	Not Owned	sacrifice,tokens,enrage,stax,u2.67,core,control	Non-foil	4	G	~~	~~	Creature — Spider
 Acidic Slime	nec	112	Owned	~~	Non-foil	5	G	~~	~~	Creature — Ooze
@@ -988,7 +987,6 @@ Torment of Venom	hou	79	Not Owned	~~	Non-foil	4	B	~~	~~	Instant
 Undead Butler	vow	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ultimate Price	gk2	36	Not Owned	~~	Non-foil	2	B	~~	~~	Instant
 Dwynen, Gilt-Leaf Daen	ori	172	Not Owned	core,tribal_payoff,lifegain,aggro	Non-foil	4	G	~~	~~	Legendary Creature — Elf Warrior
-Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Bookwurm	stx	123	Not Owned	occasional	Non-foil	8	G	~~	~~	Creature — Wurm
 Captivating Crew	xln	137	Not Owned	sacrifice,manasink,core,aggro	Non-foil	4	R	~~	~~	Creature — Human Pirate
 Izzet Chemister	a25	138	Not Owned	spells,burn,graveyard,core,manasink,control	Non-foil	3	R	~~	~~	Creature — Goblin Wizard
@@ -1768,7 +1766,6 @@ Deranged Assistant	2x2	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakashima's Protege	cmr	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archive Dragon	woe	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voracious Wurm	m14	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ageless Entity	c21	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ursine Fylgja	csp	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Past in Flames	c16	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrilling Discovery	stx	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1951,7 +1948,6 @@ Time Sieve	2xm	223	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kazandu Nectarpot	znr	190	Not Owned	lands,lifegain,repeatable,ramp	~~	"""~~"""	~~	~~	~~	~~
 Embodiment of Insight	ogw	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sproutback Trudge	c21	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
 Madcap Skills	gtc	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thought Monitor	mh2	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temur Battle Rage	2xm	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2465,3 +2461,10 @@ Arcbound Crusher	dst	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Captain's Hook	rix	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 All Is Dust	uma	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Maskwood Nexus	clb	865	Not Owned	~~	Non-foil	4	~~	~~	~~	Artifact
+Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~

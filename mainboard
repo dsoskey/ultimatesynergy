@@ -721,10 +721,6 @@ Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	R,W	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	U,G	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault of Whispers	hop	141	Not Owned	~~	~~	"""~~"""	B	Black	~~	~~
@@ -772,7 +768,6 @@ Arid Mesa	mh2	244	Not Owned	~~	~~	"""~~"""	W,R	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Breeding Pool	gtc	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Misty Rainforest	mh2	250	Not Owned	~~	~~	"""~~"""	G,U	~~	~~	~~
-Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Hallowed Spiritkeeper	voc	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Turn to Mist	uma	224	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Hopeful Initiate	vow	20	Not Owned	removal,counters,aggro,aggrocontrol,core	~~	"""~~"""	~~	~~	~~	~~
@@ -985,8 +980,6 @@ Risen Reef	m20	217	Not Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Elemental
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Buried Ruin	2xm	312	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guildless Commons	cmm	1003	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Memorial to Folly	c20	288	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
-Memorial to Genius	c21	301	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Petrified Field	ody	323	Not Owned	url	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
@@ -1329,3 +1322,12 @@ Ugin's Conjurant	war	3	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dermotaxi	mh2	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Boughs	mh1	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
+Ageless Entity	c21	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
+Deeproot Wayfinder	mom	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elemental
+Spined Thopter	nph	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zephyr Sentinel	bro	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fevered Visions	soi	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
