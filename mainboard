@@ -965,11 +965,9 @@ Dragon Mantle	cmr	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dregscape Sliver	mh1	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crypt Rats	mh1	84	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Dreamshackle Geist	vow	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Spire of Industry	nec	178	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Lair of the Hydra	afr	259	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Cryptic Caves	khc	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sapseep Forest	shm	279	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
-Temple of the Dragon Queen	afr	260	Not Owned	watch	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Flamekin Village	cm2	251	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Rustic Clachan	ddf	34	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Vodalian Wave-Knight	moc	43	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -984,7 +982,6 @@ Tomb Fortress	40k	168	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
 Memorial to Unity	dom	245	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
 Petrified Field	ody	323	Not Owned	url	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Edgewall Inn	woe	255	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
-Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Mystic Sanctuary	eld	247	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Staggershock	2x2	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Amoeboid Changeling	j22	269	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1296,7 +1293,6 @@ Riveteers Overlook	snc	255	Not Owned	~~	~~	"""~~"""	B,R,G	~~	~~	~~
 Primal Might	m21	197	Not Owned	occasional	Non-foil	1	G	~~	~~	Sorcery
 Drown in Ichor	one	91	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tail Swipe	dmu	182	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Karn's Bastion	war	248	Not Owned	counters,manasink,counters_payoff,u4.7,core	Non-foil	0	~~	~~	~~	Land
 Shimmer Myr	mbs	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Explorer's Cache	lci	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1327,7 +1323,9 @@ Ageless Entity	c21	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
 Deeproot Wayfinder	mom	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elemental
-Spined Thopter	nph	45	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spined Thopter	nph	45	Not Owned	~~	~~	"""2"""	~~	Colorless	~~	~~
 Zephyr Sentinel	bro	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fevered Visions	soi	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""4"""	R	Colorless	~~	~~
+Piper of the Swarm	eld	100	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Human Warlock
+Talrand's Invocation	gn3	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

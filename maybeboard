@@ -503,7 +503,6 @@ Rhox	10e	291	Not Owned	occasional	Non-foil	6	G	~~	~~	Creature — Rhino Beast
 Rampaging Baloths	c14	212	Not Owned	~~	Non-foil	6	G	~~	~~	Creature — Beast
 Noosegraf Mob	emn	98	Not Owned	counters,zombies,tokens,wide,blink,stax,u4.6.3,reanimator,occasional	Non-foil	6	B	~~	~~	Creature — Zombie
 Visara the Dreadful	ema	114	Not Owned	occasional	Non-foil	6	B	~~	~~	Legendary Creature — Gorgon
-Piper of the Swarm	eld	100	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Human Warlock
 Oona's Prowler	lrw	133	Not Owned	fliers,graveyard,evasion,aggrocontrol,u2.0,core,rogues,aggro	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
 Ripjaw Raptor	xln	203	Not Owned	dinosaurs,enrage,ramp,pingers,u3.4,occasional	Non-foil	4	G	~~	~~	Creature — Dinosaur
 Decree of Justice	c20	85	Not Owned	occasional	Non-foil	4	W	~~	~~	Sorcery
@@ -1108,7 +1107,7 @@ Panic Spellbomb	som	191	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expedition Map	zen	201	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rise from the Grave	m10	109	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Discovery	zen	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gatekeeper of Malakir	zen	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gatekeeper of Malakir	zen	89	Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Ichor Rats	som	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sejiri Steppe	wwk	142	Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Qasali Pridemage	arb	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2468,3 +2467,7 @@ Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Prismatic Vista	mh1	244	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Spire of Industry	nec	178	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
+Temple of the Dragon Queen	afr	260	Not Owned	watch	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
+Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
