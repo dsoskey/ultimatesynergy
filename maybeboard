@@ -91,7 +91,6 @@ Cauldron Familiar	jmp	216	Not Owned	~~	Non-foil	1	B	~~	~~	Creature — Cat
 Howling Mine	brr	83	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Giant's Skewer	eld	91	Not Owned	~~	Non-foil	2	B	~~	~~	Artifact — Equipment
 Liliana's Mastery	gnt	32	Not Owned	~~	Non-foil	5	B	~~	~~	Enchantment
-Ensoul Artifact	m15	54	Not Owned	~~	Non-foil	2	U	~~	~~	Enchantment — Aura
 Daring Escape	snc	104	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Storm Strike	rna	119	Not Owned	~~	Non-foil	1	R	~~	~~	Instant
 Ruin Raider	xln	118	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Orc Pirate
@@ -437,12 +436,10 @@ Angel of the Ruins	c21	11	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bronze Guardian	c21	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethersworn Canonist	ala	10	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	c18	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chief of the Foundry	ori	225	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scion of Draco	mh2	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kappa Cannoneer	nec	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Traxos, Scourge of Kroog	dom	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cataclysmic Gearhulk	kld	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Akroan Horse	ths	210	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Research Thief	nec	16	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golden Guardian	rix	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Virus Beetle	neo	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -698,7 +695,6 @@ Patchwork Crawler	vow	72	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patchwork Gnomes	tmp	299	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dormant Grove	vow	198	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Curse of Stalked Prey	isd	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arcbound Slith	dst	102	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grafted Growth	neo	188	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hornbash Mentor	iko	159	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kibo, Uktabi Prince	j22	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2329,7 +2325,6 @@ Razzle-Dazzler	otj	63	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cunning Coyote	otj	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Discerning Peddler	otj	121	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stingerback Terror	otj	147	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Oasis Gardener	otj	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 This Town Ain't Big Enough	otj	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Patient Naturalist	otj	174	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Desperate Bloodseeker	otj	86	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2380,8 +2375,6 @@ Nezumi Linkbreaker	otj	96	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireslinger	j22	130	Owned	pingers,occasional,burn,control	Non-foil	2	R	~~	~~	Creature — Human Wizard
 Firebrand Archer	hou	92	Not Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Archer
 Chandra's Pyrohelix	kld	111	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Metallic Mimic	aer	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	nec	111	Not Owned	~~	Non-foil	3	R	~~	~~	Creature — Shapeshifter
 Hallowed Fountain	rna	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2417,7 +2410,6 @@ Diffusion Sliver	cmm	845	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Desecrated Tomb	m19	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abandoned Sarcophagus	hou	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Network Terminal	neo	251	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Halo Hopper	mom	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Mycosynth Gardens	one	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cloud Key	tsr	265	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cetavolver	apc	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2429,7 +2421,6 @@ Cosmic Rebirth	mat	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glissa, the Traitor	v16	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gold Pan	otj	242	Not Owned	watch	~~	"""~~"""	~~	~~	~~	~~
 Flayer Husk	2xm	256	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Solemn Simulacrum	onc	141	Owned	control,watch	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
 Arcus Acolyte	mh2	185	Not Owned	lifegain,counters	~~	"""~~"""	~~	~~	~~	~~
 Memory Plunder	clb	849	Not Owned	danger: arcane savant	~~	"""~~"""	~~	Hybrid	~~	~~
 Tribune of Rot	clu	48	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -2471,3 +2462,8 @@ Spire of Industry	nec	178	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Fabled Passage	eld	244	Not Owned	u4.8,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Temple of the Dragon Queen	afr	260	Not Owned	watch	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Ipnu Rivulet	hou	180	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Crow Storm	ust	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Obsessive Search	dmr	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windcaller Aven	mh1	77	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sweep the Skies	mh2	70	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stormbound Geist	dka	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
