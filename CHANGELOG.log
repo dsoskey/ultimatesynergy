@@ -12098,3 +12098,7 @@ Timestamp	Board	ChangeType	Name
 2024-04-28T08:34:17.574+00:00	mainboard	add	Zameck Guildmage
 2024-04-28T08:34:17.574+00:00	mainboard	add	Tainted Observer
 2024-04-28T08:34:17.574+00:00	maybeboard	add	Karn's Sylex
+2024-04-28T08:37:32.388+00:00	mainboard	remove	Smash to Dust
+2024-04-28T08:37:32.388+00:00	mainboard	remove	Abrade
+2024-04-28T08:37:32.388+00:00	maybeboard	add	Smash to Dust
+2024-04-28T08:37:32.388+00:00	maybeboard	add	Abrade
