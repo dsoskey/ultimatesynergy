@@ -12093,3 +12093,8 @@ Timestamp	Board	ChangeType	Name
 2024-04-24T01:48:13.914+00:00	maybeboard	remove	Memory Plunder
 2024-04-25T06:42:26.893+00:00	mainboard	remove	Venomcrawler
 2024-04-25T06:42:26.893+00:00	maybeboard	add	Venomcrawler
+2024-04-28T08:34:17.574+00:00	mainboard	remove	Karn's Sylex
+2024-04-28T08:34:17.574+00:00	mainboard	add	Zegana, Utopian Speaker
+2024-04-28T08:34:17.574+00:00	mainboard	add	Zameck Guildmage
+2024-04-28T08:34:17.574+00:00	mainboard	add	Tainted Observer
+2024-04-28T08:34:17.574+00:00	maybeboard	add	Karn's Sylex
