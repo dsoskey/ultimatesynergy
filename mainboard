@@ -29,7 +29,6 @@ Spikeshot Elder	mm2	127	Owned	heroic,manasink,flash,wide,core,pingers,removal,ag
 Goblin Cratermaker	grn	103	Not Owned	artifact_removal,core,removal,aggro,control	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Fire Imp	me4	113	Not Owned	blink,aggrocontrol,u2.0,removal,aggro,control,occasional,url	Non-foil	3	R	~~	~~	Creature — Imp
 Tuktuk the Explorer	roe	169	Not Owned	artifacts,sacrifice,tokens,enrage,pingers,wide,stax,core,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin
-Zealous Conscripts	mm3	116	Not Owned	blink,sacrifice,burn,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Galvanic Blast	2xm	125	Not Owned	artifacts,burn,spells,flash,artifacts_payoff,aggrocontrol,u2.72,u4.7,removal,core,aggro,control	Non-foil	1	R	~~	~~	Instant
 Firebolt	mh1	122	Not Owned	graveyard,manasink,spells,burn,aggrocontrol,u2.0,removal,core	Non-foil	1	R	~~	~~	Sorcery
 Woodland Champion	m20	205	Not Owned	tokens,core,aggro,wide	Non-foil	2	G	~~	~~	Creature — Elf Scout
@@ -1312,7 +1311,6 @@ Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ugin's Conjurant	war	3	Not Owned	~~	~~	"""1"""	~~	~~	~~	~~
 Dermotaxi	mh2	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Boughs	mh1	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Ageless Entity	c21	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1340,3 +1338,4 @@ Yet Another Aether Vortex	und	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	thb	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Treebeard, Gracious Host	ltc	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sojourner's Companion	mh2	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Myr Retriever	2xm	277	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~

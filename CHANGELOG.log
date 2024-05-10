@@ -12111,3 +12111,8 @@ Timestamp	Board	ChangeType	Name
 2024-05-02T21:43:33.286+00:00	mainboard	add	Sojourner's Companion
 2024-05-03T15:53:20.004+00:00	maybeboard	add	Stunning Reversal
 2024-05-08T21:48:48.731+00:00	maybeboard	add	Makeshift Mannequin
+2024-05-10T05:46:25.891+00:00	mainboard	remove	Myr Sire
+2024-05-10T05:46:25.891+00:00	mainboard	remove	Zealous Conscripts
+2024-05-10T05:46:25.891+00:00	mainboard	add	Myr Retriever
+2024-05-10T05:46:25.891+00:00	maybeboard	add	Myr Sire
+2024-05-10T05:46:25.891+00:00	maybeboard	add	Zealous Conscripts
