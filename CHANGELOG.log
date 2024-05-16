@@ -12142,3 +12142,5 @@ Timestamp	Board	ChangeType	Name
 2024-05-13T17:05:20.440+00:00	mainboard	edit	Lodestone Golem
 2024-05-14T01:56:17.674+00:00	mainboard	add	Winterthorn Blessing
 2024-05-14T15:58:21.776+00:00	maybeboard	edit	Cabal Coffers
+2024-05-16T07:16:29.445+00:00	mainboard	remove	Resplendent Marshal
+2024-05-16T07:16:29.445+00:00	maybeboard	add	Resplendent Marshal
