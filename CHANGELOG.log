@@ -12145,3 +12145,10 @@ Timestamp	Board	ChangeType	Name
 2024-05-16T07:16:29.445+00:00	mainboard	remove	Resplendent Marshal
 2024-05-16T07:16:29.445+00:00	maybeboard	add	Resplendent Marshal
 2024-05-17T15:24:10.426+00:00	mainboard	add	Gift of Fangs
+2024-05-17T19:24:28.126+00:00	mainboard	add	Spirited Companion
+2024-05-17T19:24:28.126+00:00	mainboard	add	Soul Manipulation
+2024-05-17T19:24:28.126+00:00	mainboard	add	Electrolyze
+2024-05-17T19:24:28.126+00:00	mainboard	add	Rushblade Commander
+2024-05-17T19:24:28.126+00:00	mainboard	add	Harald, King of Skemfar
+2024-05-17T19:24:28.126+00:00	maybeboard	remove	Electrolyze
+2024-05-17T19:24:28.126+00:00	maybeboard	remove	Spirited Companion
