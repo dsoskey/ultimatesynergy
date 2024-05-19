@@ -2472,3 +2472,25 @@ Zealous Conscripts	mm3	116	Not Owned	blink,sacrifice,burn,core,aggro	Non-foil	5	
 Protect the Negotiators	dmu	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
+Hallowed Fountain	rna	251	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land — Plains Island
+Flooded Strand	ktk	233	Owned	core,gold_land	Non-foil	0	W,U	~~	~~	Land
+Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Metallic Mimic	aer	164	Not Owned	artifacts,tribal,tokens,counters,blink,tribal_payoff,core,aggro,wide,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Shapeshifter
+Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Watery Grave	grn	259	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
+Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
+Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
+Stomping Ground	sld	126	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land — Mountain Forest
+Wooded Foothills	ktk	249	Not Owned	core,gold_land	Non-foil	0	R,G	~~	~~	Land
+Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	ktk	248	Owned	core,gold_land	Non-foil	0	W,G	~~	~~	Land
+Godless Shrine	sld	128	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
+Marsh Flats	mh2	248	Not Owned	core,gold_land	Non-foil	0	W,B	~~	~~	Land
+Steam Vents	grn	257	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
+Scalding Tarn	mh2	254	Not Owned	core,gold_land	Non-foil	0	U,R	~~	~~	Land
+Overgrown Tomb	grn	253	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
+Verdant Catacombs	mh2	260	Not Owned	core,gold_land	Non-foil	0	B,G	~~	~~	Land
+Sacred Foundry	gtc	245	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land — Mountain Plains
+Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
+Breeding Pool	gtc	240	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
+Misty Rainforest	mh2	250	Owned	core,gold_land	Non-foil	0	U,G	~~	~~	Land

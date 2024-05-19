@@ -46,7 +46,6 @@ Contagion Clasp	onc	129	Owned	counters,artifacts,counters_payoff,u2.60,u3.9,remo
 Oblivion Stone	ncc	373	Not Owned	manasink,control,artifacts,artifact_removal,enchantment_removal,u2.0,removal,core,wrath	Non-foil	3	~~	~~	~~	Artifact
 Pristine Talisman	cm2	211	Not Owned	artifacts,lifegain,u2.0,u2.74,u3.2,core,control	Non-foil	3	~~	~~	~~	Artifact
 Bomat Courier	kld	199	Not Owned	artifacts,burn,aggrocontrol,u4.7.6,core,manasink,graveyard,aggro	Non-foil	1	~~	Red	~~	Artifact Creature — Construct
-Metallic Mimic	aer	164	Not Owned	artifacts,tribal,tokens,counters,blink,tribal_payoff,core,aggro,wide,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Shapeshifter
 Scrapheap Scrounger	kld	231	Not Owned	artifacts,graveyard,aggrocontrol,u2.89,occasional	Non-foil	2	~~	Black	~~	Artifact Creature — Construct
 Adaptive Automaton	2xm	231	Not Owned	artifacts,tribal,tokens,tribal_payoff,u2.0,u4.6.2,occasional	Non-foil	3	~~	~~	~~	Artifact Creature — Construct
 Scuttling Doom Engine	m15	229	Not Owned	artifacts,ramp,reanimator,enrage,u2.72,u2.91,occasional	Non-foil	6	~~	~~	~~	Artifact Creature — Construct
@@ -121,11 +120,7 @@ Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifi
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
 Mazemind Tome	m21	232	Not Owned	core,control,manasink,lifegain	Non-foil	2	~~	~~	~~	Artifact
 Fire // Ice	mh2	290	Not Owned	tappers,burn,removal,spells,flash,aggro,control,occasional	Non-foil	2	U,R	Hybrid	~~	Instant
-Flooded Strand	ktk	233	Owned	core,gold_land	Non-foil	0	W,U	~~	~~	Land
-Polluted Delta	ktk	239	Not Owned	core,gold_land	Non-foil	0	U,B	~~	~~	Land
 Bloodstained Mire	ktk	230	Not Owned	core,gold_land	Non-foil	0	B,R	~~	~~	Land
-Wooded Foothills	ktk	249	Not Owned	core,gold_land	Non-foil	0	R,G	~~	~~	Land
-Windswept Heath	ktk	248	Owned	core,gold_land	Non-foil	0	W,G	~~	~~	Land
 Goblin Guide	2xm	127	Not Owned	core,aggrocontrol,burn,wide,aggro	Non-foil	1	R	~~	~~	Creature — Goblin Scout
 Dreadhorde Arcanist	war	125	Not Owned	core,spells,graveyard,heroic,burn,aggro	Non-foil	2	R	~~	~~	Creature — Zombie Wizard
 Primal Empathy	iko	200	Not Owned	occasional	Non-foil	3	G,U	~~	~~	Enchantment
@@ -182,11 +177,6 @@ Clear Shot	emn	152	Not Owned	core,spells,flash,removal,heroic,aggro,aggrocontrol
 Mind Flayer	afr	63	Not Owned	core,removal,blink,aggro,aggrocontrol	Non-foil	5	U	~~	~~	Creature — Horror
 Monoskelion	mh2	229	Not Owned	core,artifacts,counters,sacrifice,removal,pingers,wide,aggro,control,aggrocontrol	Non-foil	2	~~	~~	~~	Artifact Creature — Construct
 Rabbit Battery	neo	157	Not Owned	core,artifacts,heroic,manasink	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
-Marsh Flats	mh2	248	Not Owned	core,gold_land	Non-foil	0	W,B	~~	~~	Land
-Verdant Catacombs	mh2	260	Not Owned	core,gold_land	Non-foil	0	B,G	~~	~~	Land
-Misty Rainforest	mh2	250	Owned	core,gold_land	Non-foil	0	U,G	~~	~~	Land
-Scalding Tarn	mh2	254	Not Owned	core,gold_land	Non-foil	0	U,R	~~	~~	Land
-Arid Mesa	mh2	244	Owned	core,gold_land	Non-foil	0	W,R	Lands	~~	Land
 Galvanic Iteration	mid	224	Not Owned	occasional	Non-foil	2	U,R	~~	~~	Instant
 Field of the Dead	m20	247	Not Owned	~~	Non-foil	0	G	Green	~~	Land
 Emergent Sequence	stx	129	Not Owned	~~	Non-foil	2	G	~~	~~	Sorcery
@@ -370,7 +360,6 @@ Urborg Lhurgoyf	dmu	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Arcbound Shikari	mh2	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	clb	877	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Soul-Scar Mage	akh	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crib Swap	cm2	22	Not Owned	~~	Non-foil	3	W	~~	~~	Tribal Instant — Shapeshifter
 Fae of Wishes	eld	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrummingbird	ncc	236	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Phyrexian Bird Horror
@@ -546,16 +535,7 @@ Young Wolf	j22	746	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodchief's Thirst	znr	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirran Banesplitter	mom	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Quickling	m15	76	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sacred Foundry	gtc	245	Not Owned	~~	Non-foil	0	R,W	~~	~~	Land — Mountain Plains
-Stomping Ground	sld	126	Not Owned	~~	Non-foil	0	G,R	~~	~~	Land — Mountain Forest
 Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
-Blood Crypt	rna	245	Not Owned	~~	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
-Breeding Pool	gtc	240	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land — Forest Island
-Hallowed Fountain	rna	251	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land — Plains Island
-Watery Grave	grn	259	Not Owned	~~	Non-foil	0	B,U	~~	~~	Land — Island Swamp
-Steam Vents	grn	257	Not Owned	~~	Non-foil	0	R,U	~~	~~	Land — Island Mountain
-Godless Shrine	sld	128	Owned	~~	Non-foil	0	B,W	~~	~~	Land — Plains Swamp
-Overgrown Tomb	grn	253	Not Owned	~~	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
 Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyhan, Last of the Abzan	c16	40	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
@@ -678,7 +658,6 @@ Xantid Swarm	ema	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Swarm Shambler	znr	207	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Stromkirk Noble	isd	164	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	ktk	233	Not Owned	~~	~~	"""~~"""	U,W	~~	~~	~~
-Temple Garden	grn	258	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steam Vents	grn	257	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Overgrown Tomb	grn	253	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -732,7 +711,6 @@ Xander's Lounge	snc	260	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Universal Automaton	mh1	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodline Pretender	khm	235	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Metallic Mimic	aer	164	Not Owned	counters,tribal_payoff,tribal,artifacts,aggro,aggrocontrol	~~	"""~~"""	~~	~~	~~	~~
