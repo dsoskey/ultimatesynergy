@@ -574,7 +574,6 @@ Mesa Chicken	ugl	9	Owned	custom,core,aggrocontrol,heroic,aggro,fliers,url,unset	
 Plague Myr	onc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	scd	99	Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Sudden Spoiling	tsr	144	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Write into Being	frf	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Telling Time	gk1	4	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Quicksand	a25	245	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Razormane Masticore	ddf	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1280,7 +1279,6 @@ Suspend	mh2	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cosmic Rebirth	mat	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shardless Agent	mh2	292	Not Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
 Deathspore Thallid	tsr	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mycologist	tsr	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sparring Construct	dom	232	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lembas	ltr	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1307,7 +1305,6 @@ Zegana, Utopian Speaker	lcc	298	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zameck Guildmage	gk2	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Observer	one	217	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Abrade	scd	122	Not Owned	core,artifact_removal,removal,spells,flash,aggro,control	Non-foil	2	R	~~	~~	Instant
-Dragon Breath	bbd	172	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yet Another Aether Vortex	und	60	Not Owned	unset	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	thb	9	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Treebeard, Gracious Host	ltc	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
