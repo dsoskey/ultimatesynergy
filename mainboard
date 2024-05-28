@@ -91,7 +91,7 @@ Blossoming Defense	kld	146	Not Owned	occasional	Non-foil	1	G	~~	~~	Instant
 Call of the Herd	dmr	153	Not Owned	core,tokens,spells,graveyard,aggro,control	Non-foil	3	G	~~	~~	Sorcery
 Elephant Guide	ema	163	Not Owned	core,heroic,tokens,aggro	Non-foil	3	G	~~	~~	Enchantment — Aura
 Quirion Dryad	m21	198	Not Owned	occasional,heroic,beats,aggrocontrol	Non-foil	2	G	~~	~~	Creature — Dryad
-Bloodbraid Elf	pca	84	Owned	core,aggro	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
+Bloodbraid Elf	pca	84	Owned	core,aggro,spellslinger	Non-foil	4	R,G	~~	~~	Creature — Elf Berserker
 Boggart Ram-Gang	pd2	13	Not Owned	counters,beats,aggro	Non-foil	3	R,G	Hybrid	~~	Creature — Goblin Warrior
 Evil Twin	bbd	222	Not Owned	occasional,watch	Non-foil	4	B,U	~~	~~	Creature — Shapeshifter
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
@@ -775,7 +775,7 @@ Three Visits	cmr	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Academy Rector	uds	1	Not Owned	url,build-around	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of the Roil	m20	216	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Judge's Familiar	gk2	14	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Judge's Familiar	gk2	14	Not Owned	permission,removal,protection,fliers	~~	"""~~"""	~~	Hybrid	~~	~~
 Curse of Chains	shm	139	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Crystallization	arb	144	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Lorehold Pledgemage	stx	201	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -783,7 +783,7 @@ Arrows of Justice	gtc	211	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Make Your Mark	stx	204	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Slitherhead	rtr	222	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Sundering Growth	c19	203	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Pit Fight	gk2	93	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Pit Fight	gk2	93	Not Owned	removal	~~	"""~~"""	~~	Hybrid	~~	~~
 Cryptborn Horror	rtr	212	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Scar	shm	194	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Inkfathom Infiltrator	shm	167	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
