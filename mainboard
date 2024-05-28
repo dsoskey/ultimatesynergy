@@ -791,7 +791,7 @@ Angrath, Captain of Chaos	war	227	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Volt Charge	one	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Guildmage	cma	199	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
-Aethertow	mm3	205	Not Owned	watch	~~	"""~~"""	~~	Hybrid	~~	~~
+Aethertow	mm3	205	Not Owned	watch,removal,wide	~~	"""~~"""	~~	Hybrid	~~	~~
 Alert Heedbonder	iko	218	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Blistercoil Weird	rtr	211	Not Owned	~~	Non-foil	1	R,U	Hybrid	~~	Creature — Weird
 Elspeth, Sun's Nemesis	thb	14	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -982,7 +982,7 @@ Sigrid, God-Favored	khm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grakmaw, Skyclave Ravager	znr	223	Not Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Creature — Hydra Horror
 Footlight Fiend	rna	216	Not Owned	~~	Non-foil	1	B,R	Hybrid	~~	Creature — Devil
 Sakura-Tribe Elder	c20	187	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Jubilant Skybonder	iko	223	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Jubilant Skybonder	iko	223	Not Owned	fliers,protection	~~	"""~~"""	~~	Hybrid	~~	~~
 Eliminate	m21	97	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Witness	mh2	179	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Smoke Shroud	mh1	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1330,5 +1330,5 @@ Skystrike Officer	bro	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire's Grasp	thb	106	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfir Silverheart	avr	206	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mask of Immolation	m20	151	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Niambi, Esteemed Speaker	m21	222	Not Owned	flash,legendary,lifegain	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
+Niambi, Esteemed Speaker	m21	222	Not Owned	flash,legendary,lifegain,blink	Non-foil	2	U,W	~~	~~	Legendary Creature — Human Cleric
 Tidal Terror	mom	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
