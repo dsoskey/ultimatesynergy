@@ -12252,3 +12252,7 @@ Timestamp	Board	ChangeType	Name
 2024-05-30T01:53:48.573+00:00	mainboard	add	Moment of Craving
 2024-05-30T01:53:48.573+00:00	mainboard	add	Elenda's Hierophant
 2024-05-30T01:53:48.573+00:00	maybeboard	add	Moment of Triumph
+2024-06-01T18:58:54.134+00:00	mainboard	add	Profane Memento
+2024-06-01T18:58:54.134+00:00	mainboard	add	Enchanted Prairie
+2024-06-01T18:58:54.134+00:00	maybeboard	remove	Profane Memento
+2024-06-01T18:58:54.134+00:00	maybeboard	add	Boneyard Mycodrax
