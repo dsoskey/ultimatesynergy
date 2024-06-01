@@ -1894,7 +1894,7 @@ Cumber Stone	con	24	Not Owned	~~	Non-foil	4	U	~~	~~	Artifact
 Unbounded Potential	mh2	36	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guided Strike	ima	23	Not Owned	~~	Non-foil	2	W	~~	~~	Instant
 Dawn Charm	uma	13	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Deep Analysis	plst	EMA-45	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
+Deep Analysis	2x2	44	Not Owned	core,graveyard,spells,lifegain,aggro,control	Non-foil	4	U	~~	~~	Sorcery
 Gifted Aetherborn	aer	61	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 T.A.P.P.E.R.	unf	31	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sidisi, Brood Tyrant	2x2	276	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -2509,3 +2509,58 @@ Eldrazi Ravager	mh3	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wastescape Battlemage	mh3	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dog Umbra	mh3	22	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian of the Forgotten	mh3	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Charitable Levy	mh3	21	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nyxborn Unicorn	mh3	37	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ocelot Pride	mh3	38	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pearl-Ear, Imperial Advisor	mh3	39	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phelia, Exuberant Shepherd	mh3	40	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Proud Pack-Rhino	mh3	41	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rosecot Knight	mh3	42	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+White Orchid Phantom	mh3	47	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wing It	mh3	48	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Amphibian Downpour	mh3	51	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brainsurge	mh3	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Consign to Memory	mh3	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Copycrook	mh3	55	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Corrupted Shapeshifter	mh3	56	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deem Inferior	mh3	57	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sage of the Unknowable	mh3	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serum Visionary	mh3	69	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Utter Insignificance	mh3	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Accursed Marauder	mh3	80	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Breathe Your Last	mh3	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Consuming Corruption	mh3	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreadmobile	mh3	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreamdrinker Vampire	mh3	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drossclaw	mh3	89	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eviscerator's Insight	mh3	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nethergoyf	mh3	103	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wurmcoil Larva	mh3	112	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashling, Flame Dancer	mh3	115	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fanged Flames	mh3	118	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Frogmyr Enforcer	mh3	120	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghostfire Slice	mh3	123	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Molten Gatekeeper	mh3	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Skittering Precursor	mh3	137	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spawn-Gang Commander	mh3	140	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Basking Broodscale	mh3	145	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fowl Strike	mh3	155	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fangs of Kalonia	mh3	153	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nightshade Dryad	mh3	163	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Signature Slam	mh3	168	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Faithful Watchdog	mh3	185	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Invert Polarity	mh3	190	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nadu, Winged Wisdom	mh3	193	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Necrobloom	mh3	194	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sneaky Snacker	mh3	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Monumental Henge	mh3	222	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arena of Glory	mh3	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Snow-Covered Wastes	mh3	229	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hydroelectric Specimen	mh3	240	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fell the Profane	mh3	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pinnacle Monk	mh3	246	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glasswing Grace	mh3	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Waterlogged Teachings	mh3	261	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Orim's Chant	mh3	265	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Urza's Incubator	mh3	297	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cephalid Coliseum	mh3	300	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
