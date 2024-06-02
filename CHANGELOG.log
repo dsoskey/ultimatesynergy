@@ -12388,3 +12388,9 @@ Timestamp	Board	ChangeType	Name
 2024-06-01T22:50:50.233+00:00	maybeboard	add	Rune of Speed
 2024-06-01T22:50:50.233+00:00	maybeboard	add	Rune of Might
 2024-06-01T22:50:50.233+00:00	maybeboard	add	Runed Crown
+2024-06-02T02:24:42.424+00:00	mainboard	remove	Ghostform
+2024-06-02T02:24:42.424+00:00	mainboard	remove	Novice Inspector
+2024-06-02T02:24:42.424+00:00	mainboard	remove	Rowan, Scion of War
+2024-06-02T02:24:42.424+00:00	maybeboard	add	Ghostform
+2024-06-02T02:24:42.424+00:00	maybeboard	add	Rowan, Scion of War
+2024-06-02T02:24:42.424+00:00	maybeboard	add	Novice Inspector
