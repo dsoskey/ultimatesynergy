@@ -1306,7 +1306,6 @@ Witherbloom Pledgemage	stx	249	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Seedcradle Witch	shm	241	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cemetery Puca	shm	158	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Cryptic Command	ima	48	Not Owned	occasional	Non-foil	4	U	~~	~~	Instant
-Deathless Knight	eld	208	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Moonhold	eve	143	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Flame Javelin	jvc	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worldpurge	shm	156	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
@@ -2056,7 +2055,6 @@ Heap Doll	uma	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brightling	bbd	25	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Savageborn Hydra	2xm	215	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mawloc	40k	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cleric of Life's Bond	znr	222	Not Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vampire Cleric
 Dimir Keyrune	clb	856	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Littjara Mirrorlake	khm	264	Not Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Bretagard Stronghold	khm	253	Not Owned	~~	Non-foil	0	G,W	~~	~~	Land
@@ -2593,3 +2591,7 @@ Nadier's Nightblade	cmr	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Coffin Queen	tpr	87	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Wizard
 Flametongue Kavu	dmr	120	Not Owned	~~	Non-foil	4	R	~~	~~	Creature — Kavu
 Grim Affliction	mm2	84	Not Owned	occasional,counters,poison,removal,control	Non-foil	3	B	~~	~~	Instant
+Sword of the Animist	afc	218	Not Owned	~~	Non-foil	2	~~	~~	~~	Legendary Artifact — Equipment
+Slimefoot, the Stowaway	dom	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
+Attended Healer	znr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
