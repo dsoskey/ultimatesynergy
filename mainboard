@@ -83,7 +83,6 @@ Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Hum
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
 Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	"""5"""	R	~~	~~	Creature — Devil Horror
-Eidolon of the Great Revel	a25	128	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Spirit
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Satyr Firedancer	bng	108	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
 Young Pyromancer	uma	155	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Shaman
@@ -805,7 +804,6 @@ Embodiment of Agonies	m20	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Foundation Breaker	mh2	160	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fungal Infection	dom	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	Creature
 Graveshifter	mh1	94	Not Owned	~~	Non-foil	4	B	~~	~~	Creature — Shapeshifter
-Legion Vanguard	mh2	90	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nested Shambler	mh2	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cleric Class	afr	6	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Rath	woc	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1069,7 +1067,6 @@ Silverfur Partisan	soi	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lesser Masticore	mh1	225	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Masticore
 Emergency Weld	bro	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Anarchomancer	mh2	200	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Stormblood Berserker	e01	58	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Satyr Wayfinder	bng	136	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fortifying Draught	stx	132	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cartouche of Strength	akh	158	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1260,7 +1257,6 @@ Erebos's Intervention	thb	94	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Suspend	mh2	68	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cosmic Rebirth	mat	28	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shardless Agent	mh2	292	Not Owned	~~	Non-foil	3	G,U	~~	~~	Artifact Creature — Human Rogue
-Deathspore Thallid	tsr	109	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sparring Construct	dom	232	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lembas	ltr	243	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ceremonial Knife	vow	254	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1356,3 +1352,4 @@ Witch Enchanter	mh3	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Leadership	mh3	255	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Revitalizing Repast	mh3	256	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Stump Stomp	mh3	259	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Novice Inspector	mkm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
