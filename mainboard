@@ -544,7 +544,7 @@ Voice of Resurgence	2xm	227	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Network Disruptor	neo	71	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yeva, Nature's Herald	ddu	27	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sprite Dragon	iko	211	Not Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Faerie Dragon
-Cazur, Ruthless Stalker	c20	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cazur, Ruthless Stalker	c20	5	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Bloom Hulk	war	154	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Warkite Marauder	rix	60	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Wielder of Mysteries	war	54	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -922,7 +922,6 @@ Flamekin Village	cm2	251	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
 Rustic Clachan	ddf	34	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
 Vodalian Wave-Knight	moc	43	Not Owned	tribal,tribal_payoff,wide	~~	"""~~"""	~~	~~	~~	~~
 Slimefoot and Squee	moc	447	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Slimefoot, the Stowaway	dom	205	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Risen Reef	m20	217	Not Owned	~~	Non-foil	3	G,U	~~	~~	Creature — Elemental
 Flamekin Harbinger	hop	53	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Buried Ruin	2xm	312	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1203,7 +1202,6 @@ Highway Robbery	otj	129	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Neutralize the Guards	otj	95	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	Owned	~~	Non-foil	3	U	~~	~~	Artifact Creature — Vedalken Wizard
 Flameblade Adept	akh	131	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of the Animist	afc	218	Not Owned	~~	Non-foil	2	~~	~~	~~	Legendary Artifact — Equipment
 Trusty Machete	zen	209	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vulshok Morningstar	ddi	66	Not Owned	occasional	Non-foil	2	~~	~~	~~	Artifact — Equipment
 Captain's Claws	ogw	162	Not Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Equipment
@@ -1260,7 +1258,6 @@ Ugin's Conjurant	war	3	Not Owned	~~	~~	"""1"""	~~	~~	~~	~~
 Dermotaxi	mh2	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Boughs	mh1	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
-Indrik Stomphowler	ncc	297	Owned	occasional	Non-foil	5	G	~~	~~	Creature — Beast
 Deeproot Wayfinder	mom	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	"""6"""	G	~~	~~	Creature — Elemental
 Spined Thopter	nph	45	Not Owned	~~	~~	"""2"""	~~	Colorless	~~	~~
@@ -1348,3 +1345,7 @@ Legion Leadership	mh3	255	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Revitalizing Repast	mh3	256	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Stump Stomp	mh3	259	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Novice Inspector	mkm	29	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Amalia Benavides Aguirre	lci	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Searing Meditation	rav	226	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cleric of Life's Bond	znr	222	Not Owned	~~	Non-foil	2	B,W	~~	~~	Creature — Vampire Cleric
+Deathless Knight	eld	208	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
