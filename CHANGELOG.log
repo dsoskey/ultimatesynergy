@@ -12435,3 +12435,7 @@ Timestamp	Board	ChangeType	Name
 2024-06-02T21:40:16.002+00:00	mainboard	edit	Dream Fracture
 2024-06-02T21:40:16.002+00:00	mainboard	remove	Nurturing Pixie
 2024-06-02T21:40:16.002+00:00	maybeboard	add	Nurturing Pixie
+2024-06-03T17:08:55.877+00:00	mainboard	remove	Serene Steward
+2024-06-03T17:08:55.877+00:00	mainboard	remove	Grateful Apparition
+2024-06-03T17:08:55.877+00:00	maybeboard	add	Grateful Apparition
+2024-06-03T17:08:55.877+00:00	maybeboard	add	Serene Steward

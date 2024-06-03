@@ -54,7 +54,6 @@ Giant Killer	eld	14	Not Owned	tappers,spells,removal,core,manasink,aggro,control
 Pashalik Mons	mh1	138	Not Owned	sacrifice,tokens,wide,manasink,core,tribal_payoff,control,aggro	Non-foil	3	R	~~	~~	Legendary Creature — Goblin Warrior
 Faithless Looting	dka	87	Not Owned	graveyard,spells,u2.63,u4.8,smoothing,reanimator,core	Non-foil	1	R	~~	~~	Sorcery
 Tomebound Lich	m20	219	Not Owned	graveyard,lifegain,aggrocontrol,blink,smoothing,core,control	Non-foil	3	U,B	~~	~~	Creature — Zombie Wizard
-Grateful Apparition	war	17	Not Owned	fliers,counters,core,watch	Non-foil	2	W	~~	~~	Creature — Spirit
 Thought Courier	5dn	38	Not Owned	graveyard,control,smoothing,core	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Monastery Swiftspear	ktk	118	Not Owned	spells,burn,aggrocontrol,aggro	Non-foil	1	R	~~	~~	Creature — Human Monk
 Ash Barrens	a25	236	Not Owned	graveyard,u4.9,core,gold_land	Non-foil	0	W,U,B,R,G	~~	~~	Land
@@ -742,7 +741,6 @@ Falkenrath Noble	c17	113	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Inspiring Overseer	snc	18	Not Owned	blink,fliers,lifegain,aggrocontrol	Non-foil	3	W	~~	~~	Creature — Angel Cleric
 Voice of the Blessed	vow	44	Not Owned	lifegain_payoff,heroic,fliers	~~	"""~~"""	~~	~~	~~	~~
 Twinblade Paladin	m20	285	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Serene Steward	bfz	46	Not Owned	lifegain_payoff,aggro,repeatable,counters	~~	"""~~"""	~~	~~	~~	~~
 Sling-Gang Lieutenant	j22	469	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Distinguished Conjurer	mh3	264	Not Owned	lifegain,repeatable,control	~~	"""~~"""	~~	~~	~~	~~
 Diamond Mare	m19	231	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
