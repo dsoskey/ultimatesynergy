@@ -12439,3 +12439,9 @@ Timestamp	Board	ChangeType	Name
 2024-06-03T17:08:55.877+00:00	mainboard	remove	Grateful Apparition
 2024-06-03T17:08:55.877+00:00	maybeboard	add	Grateful Apparition
 2024-06-03T17:08:55.877+00:00	maybeboard	add	Serene Steward
+2024-06-03T17:12:46.182+00:00	mainboard	remove	Filter Out
+2024-06-03T17:12:46.182+00:00	mainboard	remove	Rigo, Streetwise Mentor
+2024-06-03T17:12:46.182+00:00	mainboard	remove	Fowl Play
+2024-06-03T17:12:46.182+00:00	maybeboard	add	Filter Out
+2024-06-03T17:12:46.182+00:00	maybeboard	add	Rigo, Streetwise Mentor
+2024-06-03T17:12:46.182+00:00	maybeboard	add	Fowl Play
