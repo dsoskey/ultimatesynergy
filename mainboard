@@ -307,7 +307,7 @@ Mortuary Mire	clb	900	Not Owned	~~	Non-foil	0	B	Black	~~	Land
 Soldevi Excavations	me2	236	Not Owned	url	Non-foil	0	U	Blue	~~	Land
 Tectonic Edge	c14	313	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Geier Reach Sanitarium	dmc	213	Not Owned	~~	Non-foil	0	~~	~~	~~	Legendary Land
-Field of Ruin	thb	242	Not Owned	~~	Non-foil	0	~~	~~	~~	Land
+Field of Ruin	thb	242	Not Owned	~~	Non-foil	0	W,U,B,R,G	~~	~~	Land
 Demolition Field	bro	260	Not Owned	url	Non-foil	0	~~	~~	~~	Land
 Beast Within	clb	820	Not Owned	danger: arcane savant	Non-foil	3	G	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Not Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
@@ -1320,10 +1320,10 @@ Abstruse Appropriation	mh3	177	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cranial Ram	mh3	180	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Obstinate Gargoyle	mh3	195	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Psychic Frog	mh3	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Archway of Innovation	mh3	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shifting Woodland	mh3	228	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Spymaster's Vault	mh3	230	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Urza's Cave	mh3	234	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Archway of Innovation	mh3	214	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Shifting Woodland	mh3	228	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Spymaster's Vault	mh3	230	Not Owned	~~	~~	"""~~"""	~~	Black	~~	~~
+Urza's Cave	mh3	234	Not Owned	~~	~~	"""~~"""	W,U,B,R,G	~~	~~	~~
 Razorgrass Ambush	mh3	238	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch Enchanter	mh3	239	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Leadership	mh3	255	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
