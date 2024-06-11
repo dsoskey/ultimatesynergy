@@ -12495,3 +12495,10 @@ Timestamp	Board	ChangeType	Name
 2024-06-10T23:43:08.567+00:00	maybeboard	remove	Soldier of the Pantheon
 2024-06-10T23:43:08.567+00:00	maybeboard	add	Time Warp
 2024-06-11T04:05:40.021+00:00	mainboard	add	Undead Alchemist
+2024-06-11T09:05:19.553+00:00	mainboard	add	Gilded Goose
+2024-06-11T09:05:19.553+00:00	mainboard	add	The Royal Scions
+2024-06-11T09:05:19.553+00:00	mainboard	add	Escape to the Wilds
+2024-06-11T09:05:19.553+00:00	maybeboard	remove	The Royal Scions
+2024-06-11T09:05:19.553+00:00	maybeboard	remove	Gilded Goose
+2024-06-11T09:05:19.553+00:00	maybeboard	remove	Escape to the Wilds
+2024-06-11T09:05:19.553+00:00	maybeboard	add	Clackbridge Troll
