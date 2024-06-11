@@ -282,7 +282,6 @@ Stolen Goods	avr	78	Not Owned	~~	Non-foil	4	U	~~	~~	Sorcery
 Narset's Reversal	war	62	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Fable of the Mirror-Breaker	neo	141	Not Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
 Minsc & Boo, Timeless Heroes	clb	285	Not Owned	~~	Non-foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
-Escape to the Wilds	eld	189	Not Owned	~~	Non-foil	5	G,R	~~	~~	Sorcery
 Spider Spawning	2x2	158	Not Owned	~~	Non-foil	5	B,G	~~	~~	Sorcery
 Gale, Waterdeep Prodigy	clb	72	Not Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Human Wizard
 Monster Manual	clb	242	Not Owned	~~	Non-foil	4	G	~~	~~	Artifact
@@ -929,9 +928,7 @@ Battle Cry Goblin	afr	132	Not Owned	core,tokens,aggro,manasink,tribal_payoff	Non
 Fires of Invention	eld	125	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thrill of Possibility	eld	146	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blink of an Eye	dom	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gilded Goose	eld	160	Not Owned	~~	Non-foil	1	G	~~	~~	Creature — Bird
 Castle Vantress	eld	242	Not Owned	core,manasink,control	Non-foil	0	U	Blue	~~	Land
-The Royal Scions	eld	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cinderbones	shm	59	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Simic Sky Swallower	dis	130	Not Owned	u2.0,u4.9.3,ramp,graveyard,reanimator,core,control	Non-foil	7	U,G	~~	~~	Creature — Leviathan
 Simic Guildmage	dis	148	Not Owned	~~	Non-foil	2	G,U	~~	~~	Creature — Elf Wizard
@@ -2625,3 +2622,4 @@ Tidal Terror	mom	82	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 March from the Tomb	bfz	214	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 March from Velis Vel	m3c	100	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Warp	e02	12	Not Owned	danger: arcane savant	~~	"""~~"""	~~	~~	~~	~~
+Clackbridge Troll	eld	84	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
