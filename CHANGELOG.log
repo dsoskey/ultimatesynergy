@@ -12503,3 +12503,7 @@ Timestamp	Board	ChangeType	Name
 2024-06-11T09:05:19.553+00:00	maybeboard	remove	Escape to the Wilds
 2024-06-11T09:05:19.553+00:00	maybeboard	add	Clackbridge Troll
 2024-06-11T13:13:25.171+00:00	mainboard	remove	Abstruse Appropriation
+2024-06-11T20:36:14.563+00:00	mainboard	remove	Snaremaster Sprite
+2024-06-11T20:36:14.563+00:00	mainboard	remove	Triarch Praetorian
+2024-06-11T20:36:14.563+00:00	maybeboard	add	Snaremaster Sprite
+2024-06-11T20:36:14.563+00:00	maybeboard	add	Triarch Praetorian
