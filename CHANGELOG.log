@@ -12512,3 +12512,8 @@ Timestamp	Board	ChangeType	Name
 2024-06-12T04:18:08.576+00:00	mainboard	add	Borne Upon a Wind
 2024-06-12T04:18:08.576+00:00	maybeboard	add	Prosperous Thief
 2024-06-12T13:01:14.147+00:00	mainboard	edit	Postmortem Lunge
+2024-06-12T18:44:12.660+00:00	mainboard	remove	Sunhome Stalwart
+2024-06-12T18:44:12.660+00:00	mainboard	add	Star Pupil
+2024-06-12T18:44:12.660+00:00	maybeboard	remove	Star Pupil
+2024-06-12T18:44:12.660+00:00	maybeboard	remove	Esper Sentinel
+2024-06-12T18:44:12.660+00:00	maybeboard	add	Sunhome Stalwart
