@@ -12517,3 +12517,7 @@ Timestamp	Board	ChangeType	Name
 2024-06-12T18:44:12.660+00:00	maybeboard	remove	Star Pupil
 2024-06-12T18:44:12.660+00:00	maybeboard	remove	Esper Sentinel
 2024-06-12T18:44:12.660+00:00	maybeboard	add	Sunhome Stalwart
+2024-06-15T00:23:25.703+00:00	mainboard	remove	Arcbound Prototype
+2024-06-15T00:23:25.703+00:00	mainboard	add	Alseid of Life's Bounty
+2024-06-15T00:23:25.703+00:00	maybeboard	remove	Alseid of Life's Bounty
+2024-06-15T00:23:25.703+00:00	maybeboard	add	Arcbound Prototype
