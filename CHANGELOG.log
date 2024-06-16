@@ -12529,3 +12529,7 @@ Timestamp	Board	ChangeType	Name
 2024-06-16T03:19:48.165+00:00	maybeboard	remove	Stormfist Crusader
 2024-06-16T03:19:48.165+00:00	maybeboard	add	Nadir Kraken
 2024-06-16T03:19:48.165+00:00	maybeboard	add	Cabaretti Courtyard
+2024-06-16T19:37:56.367+00:00	mainboard	remove	Exuberant Fuseling
+2024-06-16T19:37:56.367+00:00	mainboard	remove	Blisterpod
+2024-06-16T19:37:56.367+00:00	maybeboard	add	Exuberant Fuseling
+2024-06-16T19:37:56.367+00:00	maybeboard	add	Blisterpod
