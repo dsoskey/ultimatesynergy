@@ -195,7 +195,6 @@ Generous Patron	bbd	70	Not Owned	~~	Non-foil	3	G	~~	~~	Creature — Elf Advisor
 Grind // Dust	hou	155	Not Owned	~~	Non-foil	"""2"""	B,W	~~	~~	Sorcery
 Banewhip Punisher	hou	59	Not Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Warrior
 Looter il-Kor	tsr	74	Not Owned	~~	Non-foil	2	U	~~	~~	Creature — Kor Rogue
-Nadir Kraken	thb	55	Not Owned	~~	Non-foil	3	U	~~	~~	Creature — Kraken
 Censor	akh	46	Not Owned	~~	Non-foil	2	U	~~	~~	Instant
 Curator of Mysteries	c20	109	Not Owned	~~	Non-foil	4	U	~~	~~	Creature — Sphinx
 Blood Artist	2x2	70	Not Owned	~~	Non-foil	2	B	~~	~~	Creature — Vampire
@@ -1238,7 +1237,7 @@ Dermotaxi	mh2	224	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Boughs	mh1	221	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Honored Hydra	akh	172	Not Owned	zombies,graveyard,ramp,tokens,reanimator,enrage,u3.0,core,control	Non-foil	6	G	~~	~~	Creature — Snake Hydra
 Deeproot Wayfinder	mom	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wolfbriar Elemental	wwk	118	Owned	~~	Non-foil	"""6"""	G	~~	~~	Creature — Elemental
+Wolfbriar Elemental	mm2	169	Owned	~~	Non-foil	"""6"""	G	~~	~~	Creature — Elemental
 Spined Thopter	nph	45	Not Owned	~~	~~	"""2"""	~~	Colorless	~~	~~
 Zephyr Sentinel	bro	74	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fevered Visions	soi	244	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1336,3 +1335,6 @@ Escape to the Wilds	eld	189	Not Owned	~~	Non-foil	5	G,R	~~	~~	Sorcery
 Borne Upon a Wind	ltr	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Star Pupil	stx	30	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	thb	1	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stormfist Crusader	eld	203	Not Owned	~~	Non-foil	2	B,R	~~	~~	Creature — Human Knight
+Curate	bro	44	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brokers Hideout	snc	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
