@@ -12534,3 +12534,5 @@ Timestamp	Board	ChangeType	Name
 2024-06-16T19:37:56.367+00:00	maybeboard	add	Exuberant Fuseling
 2024-06-16T19:37:56.367+00:00	maybeboard	add	Blisterpod
 2024-06-18T02:33:05.119+00:00	mainboard	add	Cloakwood Swarmkeeper
+2024-06-21T02:27:31.027+00:00	mainboard	remove	Benalish Hero
+2024-06-21T02:27:31.027+00:00	maybeboard	add	Benalish Hero
