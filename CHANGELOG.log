@@ -12551,3 +12551,5 @@ Timestamp	Board	ChangeType	Name
 2024-06-22T08:53:39.034+00:00	maybeboard	add	Psychic Frog
 2024-06-22T15:06:37.166+00:00	mainboard	remove	Temporal Isolation
 2024-06-22T15:06:37.166+00:00	maybeboard	add	Temporal Isolation
+2024-06-22T15:21:51.913+00:00	mainboard	add	Marauding Blight-Priest
+2024-06-22T15:21:51.913+00:00	maybeboard	remove	Marauding Blight-Priest
