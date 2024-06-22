@@ -12536,3 +12536,6 @@ Timestamp	Board	ChangeType	Name
 2024-06-18T02:33:05.119+00:00	mainboard	add	Cloakwood Swarmkeeper
 2024-06-21T02:27:31.027+00:00	mainboard	remove	Benalish Hero
 2024-06-21T02:27:31.027+00:00	maybeboard	add	Benalish Hero
+2024-06-22T06:11:17.370+00:00	mainboard	remove	Triton Tactics
+2024-06-22T06:11:17.370+00:00	mainboard	add	Sacred Fire
+2024-06-22T06:11:17.370+00:00	maybeboard	add	Triton Tactics
