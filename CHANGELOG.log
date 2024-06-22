@@ -12546,3 +12546,6 @@ Timestamp	Board	ChangeType	Name
 2024-06-22T08:12:47.605+00:00	mainboard	add	Ghostly Changeling
 2024-06-22T08:12:47.605+00:00	maybeboard	add	Alchemist's Gift
 2024-06-22T08:51:50.045+00:00	mainboard	edit	Temporal Isolation
+2024-06-22T08:53:39.034+00:00	mainboard	remove	Psychic Frog
+2024-06-22T08:53:39.034+00:00	maybeboard	edit	Moltensteel Dragon
+2024-06-22T08:53:39.034+00:00	maybeboard	add	Psychic Frog

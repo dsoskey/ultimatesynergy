@@ -2457,7 +2457,7 @@ Makeshift Mannequin	lrw	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Myr Sire	cmm	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Not Owned	blink,sacrifice,burn,core,aggro	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Protect the Negotiators	dmu	62	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Moltensteel Dragon	nph	88	Not Owned	~~	~~	"""4"""	R	Colorless	~~	~~
 Resplendent Marshal	khm	22	Not Owned	~~	Non-foil	3	W	~~	~~	Creature — Angel Warrior
 Hallowed Fountain	rna	251	Not Owned	~~	Non-foil	0	U,W	~~	~~	Land — Plains Island
 Flooded Strand	ktk	233	Owned	core,gold_land	Non-foil	0	W,U	~~	~~	Land
@@ -2632,3 +2632,4 @@ Benalish Hero	30a	4	Not Owned	url,watch	~~	"""~~"""	~~	~~	~~	~~
 Triton Tactics	ddt	23	Not Owned	occasional,watch	Non-foil	1	U	~~	~~	Instant
 Raven's Crime	mma	95	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Alchemist's Gift	m21	87	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Psychic Frog	mh3	199	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
