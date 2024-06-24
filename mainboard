@@ -76,10 +76,10 @@ Last Gasp	uma	103	Owned	core,spells,flash,removal,aggro,control	Non-foil	2	B	~~	
 Reassembling Skeleton	m19	116	Owned	occasional	Non-foil	2	B	~~	~~	Creature — Skeleton Warrior
 Relentless Dead	soi	131	Not Owned	occasional	Non-foil	2	B	~~	~~	Creature — Zombie
 Sudden Death	tsr	143	Not Owned	~~	Non-foil	3	B	~~	~~	Instant
-Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	U,B,G	Black	~~	Legendary Creature — Human Shaman
+Tasigur, the Golden Fang	frf	87	Owned	occasional	Non-foil	6	B	Black	~~	Legendary Creature — Human Shaman
 Quicksmith Rebel	aer	93	Not Owned	occasional	Non-foil	4	R	~~	~~	Creature — Human Artificer
 Siege-Gang Commander	gnt	42	Owned	occasional	Non-foil	5	R	~~	~~	Creature — Goblin
-Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	W,B,R	Red	~~	Legendary Creature — Human Warrior
+Alesha, Who Smiles at Death	c20	143	Not Owned	occasional	Non-foil	3	R	Red	~~	Legendary Creature — Human Warrior
 Bedlam Reveler	emn	118	Not Owned	occasional	Non-foil	"""5"""	R	~~	~~	Creature — Devil Horror
 Guttersnipe	c19	145	Not Owned	occasional	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
 Satyr Firedancer	bng	108	Not Owned	occasional	Non-foil	2	R	~~	~~	Enchantment Creature — Satyr
@@ -94,7 +94,7 @@ Evil Twin	bbd	222	Not Owned	occasional,watch	Non-foil	4	B,U	~~	~~	Creature — S
 Geistblast	soi	160	Not Owned	occasional	Non-foil	3	R,U	~~	~~	Instant
 Gruul Spellbreaker	rna	179	Not Owned	occasional	Non-foil	3	G,R	~~	~~	Creature — Ogre Warrior
 Kitchen Finks	uma	216	Not Owned	lifegain,durable,counters,repeatable,blink	Non-foil	3	W,G	Hybrid	~~	Creature — Ouphe
-Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	White	~~	Instant
+Momentary Blink	khc	30	Not Owned	core,blink,spells,aggrocontrol,flash,graveyard	Non-foil	2	W,U	Multicolored	~~	Instant
 Murderous Redcap	uma	217	Not Owned	removal,durable,counters,pingers,sacrifice	Non-foil	4	B,R	Hybrid	~~	Creature — Goblin Assassin
 Snakeform	c15	242	Not Owned	core,spells,flash,aggro,control	Non-foil	3	U,G	Hybrid	~~	Instant
 Wort, the Raidmother	c20	234	Not Owned	occasional	Non-foil	6	R,G	Hybrid	~~	Legendary Creature — Goblin Shaman
@@ -338,7 +338,7 @@ Hellrider	mm3	98	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burning Inquiry	m10	128	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fervent Champion	eld	124	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kykar, Wind's Fury	m20	212	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Urborg Lhurgoyf	dmu	186	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Urborg Lhurgoyf	dmu	186	Not Owned	~~	~~	"""~~"""	~~	Multicolored	~~	~~
 Arcbound Shikari	mh2	184	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	clb	877	Not Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Soul-Scar Mage	akh	148	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -516,7 +516,7 @@ Inscription of Abundance	moc	303	Not Owned	~~	Non-foil	2	G	~~	~~	Instant
 Angelic Intervention	mom	5	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reyhan, Last of the Abzan	c16	40	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 The Modern Age	neo	66	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Warden of the First Tree	frf	143	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
+Warden of the First Tree	frf	143	Not Owned	~~	~~	"""~~"""	G	Green	~~	~~
 Eternal Scourge	emn	7	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spikefield Hazard	znr	166	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Putrid Goblin	mh1	101	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -866,10 +866,10 @@ Specter of Mortality	woe	107	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Picklock Prankster	woe	64	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gumdrop Poisoner	woe	93	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Likeness Looter	woe	208	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
-Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""2"""	~~	Red	~~	~~
-Questing Druid	woe	234	Not Owned	~~	~~	"""~~"""	~~	Green	~~	~~
-Scalding Viper	woe	235	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
+Elusive Otter	woe	225	Not Owned	~~	~~	"""~~"""	U	Blue	~~	~~
+Kellan, the Fae-Blooded	woe	230	Not Owned	~~	~~	"""2"""	R	Red	~~	~~
+Questing Druid	woe	234	Not Owned	~~	~~	"""~~"""	G	Green	~~	~~
+Scalding Viper	woe	235	Not Owned	~~	~~	"""~~"""	R	Red	~~	~~
 Twining Twins	woe	240	Not Owned	spellslinger,fliers,tribal	~~	"""~~"""	~~	Hybrid	~~	~~
 The Irencrag	woe	248	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Syr Ginger, the Meal Ender	woe	252	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -1020,7 +1020,7 @@ Reciprocate	ddg	24	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantom Nantuko	jud	128	Not Owned	url	~~	"""~~"""	~~	~~	~~	~~
 Helping Hand	lci	17	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruin-Lurker Bat	lci	33	Not Owned	custom,watch,url	~~	"""~~"""	~~	~~	~~	~~
-Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	~~	White	~~	~~
+Kellan, Daring Traveler	lci	231	Not Owned	~~	~~	"""~~"""	W	White	~~	~~
 Confounding Riddle	lci	50	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spyglass Siren	lci	78	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ramunap Ruins	hou	181	Not Owned	~~	~~	"""~~"""	~~	Red	~~	~~
