@@ -12577,3 +12577,13 @@ Timestamp	Board	ChangeType	Name
 2024-06-27T05:06:27.084+00:00	mainboard	add	Ajani's Welcome
 2024-06-27T05:06:27.084+00:00	mainboard	add	Leonin Elder
 2024-06-27T21:07:17.767+00:00	maybeboard	add	Parasitic Impetus
+2024-06-27T21:27:44.889+00:00	mainboard	remove	Winding Way
+2024-06-27T21:27:44.889+00:00	mainboard	add	Talon Gates of Madara
+2024-06-27T21:27:44.889+00:00	mainboard	add	Malevolent Rumble
+2024-06-27T21:27:44.889+00:00	mainboard	add	Arbaaz Mir
+2024-06-27T21:27:44.889+00:00	mainboard	add	Reckless Pyrosurfer
+2024-06-27T21:27:44.889+00:00	maybeboard	remove	Talon Gates of Madara
+2024-06-27T21:27:44.889+00:00	maybeboard	add	Senu, Keen-Eyed Protector
+2024-06-27T21:27:44.889+00:00	maybeboard	add	Winding Way
+2024-06-27T21:27:44.889+00:00	maybeboard	add	Assassin Initiate
+2024-06-27T21:27:44.889+00:00	maybeboard	add	Hired Blade
