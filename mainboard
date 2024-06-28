@@ -111,7 +111,6 @@ Treetop Village	ddu	30	Owned	occasional	Non-foil	0	G	Green	~~	Land
 Pteramander	rna	47	Not Owned	fliers,spells,flash,graveyard,counters,occasional	Non-foil	1	U	~~	~~	Creature — Salamander Drake
 Meadowboon	mma	22	Not Owned	occasional	Non-foil	4	W	~~	~~	Creature — Elemental
 Feed the Swarm	znr	102	Not Owned	core,removal,enchantment_removal,lifegain,spells,aggro,control	Non-foil	2	B	~~	~~	Sorcery
-Robber of the Rich	eld	138	Not Owned	occasional	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Hurricane	10e	270	Owned	occasional,aggro,aggrocontrol,control,burn,beats,tempo	Non-foil	"""3"""	G	~~	~~	Sorcery
 Dauntless Bodyguard	dom	14	Not Owned	core,aggrocontrol,wide,aggro,heroic,sacrifice	Non-foil	1	W	~~	~~	Creature — Human Knight
 Hapatra, Vizier of Poisons	akh	199	Not Owned	core,counters,counters_payoff,tokens,aggro	Non-foil	2	B,G	~~	~~	Legendary Creature — Human Cleric
@@ -1336,3 +1335,4 @@ Talon Gates of Madara	m3c	134	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malevolent Rumble	mh3	161	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Arbaaz Mir	acr	46	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Pyrosurfer	mh3	133	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hobblefiend	m21	152	Not Owned	~~	~~	"""~~"""	~~	~~	~~	~~
